@@ -1,16 +1,33 @@
 (function () {
+  'use strict';
   var TZ = 'Europe/Madrid';
-  function fmt(iso, withWeekday) {
-    if (!iso) return '';
+  var SECTIONS = [
+    { key: 'politica', name: 'Política' },
+    { key: 'tecnologia', name: 'Tecnología' },
+    { key: 'economia', name: 'Economía' },
+    { key: 'cultura', name: 'Cultura' }
+  ];
+
+  function parts(iso, opts) {
     var d = new Date(iso);
-    if (isNaN(d)) return '';
-    var opts = { timeZone: TZ, day: 'numeric', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit', hour12: false };
-    if (withWeekday) opts.weekday = 'long';
-    var parts = new Intl.DateTimeFormat('es-ES', opts).formatToParts(d);
+    if (!iso || isNaN(d)) return null;
+    var o = { timeZone: TZ };
+    for (var k in opts) o[k] = opts[k];
     var p = {};
-    parts.forEach(function (x) { p[x.type] = x.value; });
-    var month = (p.month || '').replace('.', '').replace(/^sept$/, 'sep');
-    return (withWeekday ? p.weekday + ' ' : '') + p.day + ' ' + month + ' ' + p.year + ', ' + p.hour + ':' + p.minute;
+    new Intl.DateTimeFormat('es-ES', o).formatToParts(d).forEach(function (x) { p[x.type] = x.value; });
+    return p;
+  }
+  function longDate(iso) {
+    var p = parts(iso, { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+    return p ? p.weekday + ', ' + p.day + ' de ' + p.month + ' de ' + p.year : '';
+  }
+  function hhmm(iso) {
+    var p = parts(iso, { hour: '2-digit', minute: '2-digit', hour12: false });
+    return p ? p.hour + ':' + p.minute : '';
+  }
+  function shortStamp(iso) {
+    var p = parts(iso, { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit', hour12: false });
+    return p ? p.day + ' ' + (p.month || '').replace('.', '').replace(/^sept$/, 'sep') + ' · ' + p.hour + ':' + p.minute : '';
   }
   function el(tag, cls, text) {
     var e = document.createElement(tag);
@@ -18,34 +35,82 @@
     if (text != null) e.textContent = text;
     return e;
   }
+  function safeUrl(u) { return /^https?:\/\//i.test(u || '') ? u : '#'; }
+
+  function story(item, cls) {
+    var art = el('article', 'story ' + cls);
+    var meta = el('div', 'meta');
+    meta.appendChild(el('span', 'source', item.source || ''));
+    var t = shortStamp(item.publishedAt);
+    if (t) {
+      var time = el('time', 'time', t);
+      time.setAttribute('datetime', item.publishedAt);
+      meta.appendChild(time);
+    }
+    art.appendChild(meta);
+    var h = el('h3');
+    var a = el('a', null, item.title || '');
+    a.href = safeUrl(item.url); a.target = '_blank'; a.rel = 'noopener noreferrer';
+    h.appendChild(a);
+    art.appendChild(h);
+    if (item.summary) art.appendChild(el('p', null, item.summary));
+    var r = el('a', 'read', 'Leer');
+    r.href = safeUrl(item.url); r.target = '_blank'; r.rel = 'noopener noreferrer';
+    r.setAttribute('aria-label', 'Leer en ' + (item.source || 'la fuente') + ': ' + (item.title || ''));
+    art.appendChild(r);
+    return art;
+  }
+
   function render(data) {
-    document.getElementById('updated').textContent = 'Actualizado: ' + (fmt(data.updated, true) || 'desconocido');
-    var grid = document.getElementById('grid');
-    grid.innerHTML = '';
-    (data.items || []).forEach(function (it, i) {
-      var li = el('li', 'card');
-      var meta = el('div', 'meta');
-      meta.appendChild(el('span', 'num', '#' + (i + 1)));
-      meta.appendChild(el('span', 'medio', it.medio || ''));
-      li.appendChild(meta);
-      li.appendChild(el('h2', null, it.titular || ''));
-      if (it.resumen) li.appendChild(el('p', null, it.resumen));
-      var f = fmt(it.fecha, false);
-      if (f) li.appendChild(el('span', 'fecha', f));
-      if (it.enlace) {
-        var a = el('a', null, 'Leer en ' + (it.medio || 'la fuente') + ' →');
-        a.href = it.enlace; a.target = '_blank'; a.rel = 'noopener noreferrer';
-        li.appendChild(a);
-      }
-      grid.appendChild(li);
+    document.getElementById('fecha').textContent = longDate(data.updatedAt);
+    var upd = document.getElementById('actualizado');
+    upd.textContent = '';
+    upd.appendChild(document.createTextNode('Actualizado a las '));
+    upd.appendChild(el('strong', null, hhmm(data.updatedAt) || '--:--'));
+    var main = document.getElementById('contenido');
+    var n = 0;
+    SECTIONS.forEach(function (s) {
+      var sec = data.sections && data.sections[s.key];
+      var items = sec && sec.published ? sec.published.slice(0, 5) : [];
+      if (!items.length) return;
+      n++;
+      var box = el('section', 'section');
+      box.id = s.key;
+      var head = el('div', 'section-head');
+      head.appendChild(el('span', 'num', ('0' + n).slice(-2)));
+      head.appendChild(el('h2', null, s.name));
+      box.appendChild(head);
+      box.appendChild(story(items[0], 'featured'));
+      var grid = el('div', 'grid');
+      items.slice(1).forEach(function (it) { grid.appendChild(story(it, 'small')); });
+      box.appendChild(grid);
+      main.appendChild(box);
     });
+    if (!n) fail(new Error('sin noticias'));
+    spy();
   }
+
   function fail(err) {
-    document.getElementById('updated').textContent = 'No se pudo cargar la portada';
-    var s = document.getElementById('status');
-    s.className = 'msg';
-    s.textContent = 'No se han podido cargar las noticias (' + (err && err.message ? err.message : 'error') + '). Inténtalo de nuevo en unos minutos.';
+    document.getElementById('actualizado').textContent = 'No se pudo cargar la portada';
+    document.getElementById('estado').textContent =
+      'No se han podido cargar las noticias (' + (err && err.message ? err.message : 'error') + '). Vuelve a intentarlo en unos minutos.';
   }
+
+  function spy() {
+    if (!('IntersectionObserver' in window)) return;
+    var links = {};
+    document.querySelectorAll('.sections-nav a').forEach(function (a) { links[a.getAttribute('href').slice(1)] = a; });
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (e.isIntersecting && links[e.target.id]) {
+          Object.keys(links).forEach(function (k) { links[k].classList.remove('active'); });
+          links[e.target.id].classList.add('active');
+        }
+      });
+    }, { rootMargin: '-40% 0px -55% 0px' });
+    document.querySelectorAll('.section').forEach(function (s) { io.observe(s); });
+  }
+
   fetch('news.json?t=' + Date.now(), { cache: 'no-store' })
     .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
     .then(render)
