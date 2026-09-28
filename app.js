@@ -9,7 +9,7 @@
     var parts = new Intl.DateTimeFormat('es-ES', opts).formatToParts(d);
     var p = {};
     parts.forEach(function (x) { p[x.type] = x.value; });
-    var month = (p.month || '').replace('.', '');
+    var month = (p.month || '').replace('.', '').replace(/^sept$/, 'sep');
     return (withWeekday ? p.weekday + ' ' : '') + p.day + ' ' + month + ' ' + p.year + ', ' + p.hour + ':' + p.minute;
   }
   function el(tag, cls, text) {
