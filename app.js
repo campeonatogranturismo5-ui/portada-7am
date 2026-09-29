@@ -3,6 +3,7 @@
   var TZ = 'Europe/Madrid';
   var SECTIONS = [
     { key: 'politica', name: 'Política' },
+    { key: 'exterior', name: 'Exterior' },
     { key: 'tecnologia', name: 'Tecnología' },
     { key: 'economia', name: 'Economía' },
     { key: 'cultura', name: 'Cultura' }
@@ -35,12 +36,13 @@
     if (text != null) e.textContent = text;
     return e;
   }
-  function safeUrl(u) { return /^https?:\/\//i.test(u || '') ? u : '#'; }
+  function detailUrl(item) { return 'noticia.html?id=' + encodeURIComponent(item.id || ''); }
 
   function story(item, cls) {
     var art = el('article', 'story ' + cls);
     var meta = el('div', 'meta');
     meta.appendChild(el('span', 'source', item.source || ''));
+    if (item.lang === 'en') meta.appendChild(el('span', 'lang', 'Fuente en inglés'));
     var t = shortStamp(item.publishedAt);
     if (t) {
       var time = el('time', 'time', t);
@@ -48,16 +50,22 @@
       meta.appendChild(time);
     }
     art.appendChild(meta);
+    var href = detailUrl(item);
     var h = el('h3');
     var a = el('a', null, item.title || '');
-    a.href = safeUrl(item.url); a.target = '_blank'; a.rel = 'noopener noreferrer';
+    a.href = href;
     h.appendChild(a);
     art.appendChild(h);
     if (item.summary) art.appendChild(el('p', null, item.summary));
     var r = el('a', 'read', 'Leer');
-    r.href = safeUrl(item.url); r.target = '_blank'; r.rel = 'noopener noreferrer';
-    r.setAttribute('aria-label', 'Leer en ' + (item.source || 'la fuente') + ': ' + (item.title || ''));
+    r.href = href;
+    r.setAttribute('aria-label', 'Leer: ' + (item.title || ''));
     art.appendChild(r);
+    art.addEventListener('click', function (e) {
+      if (e.defaultPrevented || e.target.closest('a')) return;
+      if (window.getSelection && String(window.getSelection())) return;
+      location.href = href;
+    });
     return art;
   }
 

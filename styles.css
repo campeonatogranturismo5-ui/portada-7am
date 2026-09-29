@@ -77,3 +77,41 @@ a{color:inherit}
   .sections-nav .wrap{justify-content:space-between;gap:10px}
   .sections-nav a{font-size:.7rem;letter-spacing:.1em;padding:14px 0}
 }
+
+/* Tarjetas: toda la tarjeta abre la ficha */
+.story{cursor:pointer}
+
+/* Ficha de noticia (noticia.html) */
+.masthead.compact{padding:clamp(22px,4vw,36px) 0 clamp(18px,3vw,26px)}
+.masthead.compact .kicker{margin-bottom:10px}
+.masthead.compact .logo{font-size:clamp(2rem,6vw,3.4rem)}
+.masthead.compact .logo a{text-decoration:none}
+.ficha{max-width:760px;margin:0 auto;padding:clamp(36px,6vw,72px) 0 0}
+.back{display:inline-flex;align-items:center;gap:6px;font-size:.8rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;text-decoration:none;color:var(--muted);transition:color .2s}
+.back:hover{color:var(--ink)}
+.ficha .back.top{margin-bottom:clamp(22px,3vw,32px)}
+.ficha .meta{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 0}
+.ficha .section-tag{font-size:.72rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin-right:12px}
+.ficha h1{font-family:var(--serif);font-weight:800;font-size:clamp(2rem,5.2vw,3.3rem);line-height:1.08;letter-spacing:-.01em;margin:14px 0 18px}
+.ficha .lede{font-size:clamp(1.1rem,2vw,1.3rem);line-height:1.5;color:#e2dfd8;margin:0 0 clamp(24px,3vw,32px);padding-bottom:clamp(24px,3vw,32px);border-bottom:1px solid var(--line)}
+.ficha .long{font-size:1.06rem;line-height:1.75;color:#c9c6bf;margin:0 0 clamp(30px,4vw,44px)}
+.ficha .long::first-letter{font-family:var(--serif);font-weight:800;font-size:3.1em;float:left;line-height:.9;margin:.06em .1em 0 0;color:var(--accent)}
+.ficha h2{font-family:var(--serif);font-weight:800;font-size:clamp(1.4rem,3vw,1.8rem);margin:0 0 16px}
+.ficha h2::after{content:"";display:block;width:44px;height:2px;background:var(--accent);margin-top:10px}
+.puntos{list-style:none;margin:0 0 clamp(32px,4vw,44px);padding:0;counter-reset:p}
+.puntos li{counter-increment:p;position:relative;padding:14px 0 14px 46px;border-bottom:1px solid var(--line);color:#dcd9d2}
+.puntos li:last-child{border-bottom:0}
+.puntos li::before{content:counter(p,decimal-leading-zero);position:absolute;left:0;top:15px;font-size:.78rem;font-weight:700;letter-spacing:.14em;color:var(--accent)}
+.parcial{font-size:.85rem;color:var(--muted);border-left:2px solid var(--line);padding:2px 0 2px 12px;margin:0 0 clamp(26px,3vw,34px)}
+.acciones{display:flex;flex-wrap:wrap;align-items:center;gap:18px 28px;padding-top:clamp(24px,3vw,32px);border-top:1px solid var(--line)}
+.btn-fuente{display:inline-flex;align-items:center;gap:8px;padding:12px 18px;border:1px solid #3a3a40;border-radius:999px;font-size:.8rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;color:var(--ink);transition:border-color .2s,background .2s}
+.btn-fuente::after{content:"↗";color:var(--accent)}
+.btn-fuente:hover{border-color:var(--accent);background:rgba(255,90,54,.08)}
+.ficha .estado{margin-top:0}
+
+/* Etiqueta de idioma de la fuente ("Fuente en inglés") */
+.lang{display:inline-block;margin-left:10px;padding:1px 6px;border:1px solid #3a3a40;border-radius:3px;font-size:.6rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);line-height:1.5;vertical-align:1px;white-space:nowrap}
+.ficha .lang{margin-right:2px}
+/* 5 secciones: que quepan en móvil */
+@media (max-width:620px){.sections-nav .wrap{gap:8px}.sections-nav a{font-size:.64rem;letter-spacing:.06em}}
+@media (max-width:360px){.sections-nav a{font-size:.6rem;letter-spacing:.03em}}

@@ -1,7 +1,7 @@
 (function () {
   'use strict';
   var TZ = 'Europe/Madrid';
-  var NAMES = { politica: 'Política', tecnologia: 'Tecnología', economia: 'Economía', cultura: 'Cultura' };
+  var NAMES = { politica: 'Política', exterior: 'Exterior', tecnologia: 'Tecnología', economia: 'Economía', cultura: 'Cultura' };
   var PARCIAL = 'Resumen parcial: el artículo original es de pago o tenía poco contexto.';
 
   function parts(iso, opts) {
@@ -85,6 +85,7 @@
     var meta = el('div', 'meta');
     if (NAMES[sec]) meta.appendChild(el('span', 'section-tag', NAMES[sec]));
     meta.appendChild(el('span', 'source', it.source || ''));
+    if (it.lang === 'en') meta.appendChild(el('span', 'lang', 'Fuente en inglés'));
     var t = stamp(it.publishedAt);
     if (t) {
       var time = el('time', 'time', t);
@@ -108,8 +109,9 @@
     var acc = el('div', 'acciones');
     var url = safeUrl(it.url);
     if (url) {
-      var a = el('a', 'btn-fuente', 'Abrir en ' + (it.source || 'la fuente original'));
+      var a = el('a', 'btn-fuente', 'Abrir original');
       a.href = url; a.target = '_blank'; a.rel = 'noopener';
+      a.setAttribute('aria-label', 'Abrir original en ' + (it.source || 'la fuente') + ' (pestaña nueva)');
       acc.appendChild(a);
     }
     acc.appendChild(backLink(sec));

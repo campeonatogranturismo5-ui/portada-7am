@@ -102,3 +102,40 @@
 3. Renfe recupera su histórica "galleta", el símbolo circular creado hace 54 años — El País
 4. Stevie Wonder publica cuatro canciones inéditas de las sesiones de Songs in the Key of Life — The Guardian
 5. Taylor Swift bate el récord de MTV VMAs y Madonna también gana — BBC
+
+## 2026-09-29T22:01:00+02:00
+
+**Política**
+1. El Gobierno blinda a los inquilinos vulnerables frente a los desahucios hasta 2030 — El País
+2. Felipe VI pide ante Macron que Europa comparta la responsabilidad por Ceuta — El País
+3. El Senado del PP vuelve a tumbar el tratado de amistad con Francia — El País
+4. Feijóo promete que las mutuas puedan dar altas en algunas bajas médicas — elDiario.es
+5. Casi uno de cada cinco diputados que votará los decretos de vivienda cobra alquileres — Europa Press
+
+**Exterior**
+1. Rusia somete a Kiev a un bombardeo de intensidad inédita en la guerra — El País
+2. Marruecos tendrá por primera vez una mujer al frente del Gobierno — BBC (fuente en inglés)
+3. Merz concluye que Moscú no quiere negociar en serio tras el desplante de Lavrov — Politico Europe (fuente en inglés)
+4. Dimite el director de la Torre Eiffel tras apartar a las trabajadoras durante una visita — El País
+5. Los bloqueos de institutos en Francia derivan en choques con la policía — The Guardian (fuente en inglés)
+
+**Tecnología**
+1. OpenAI frena su nuevo modelo por fallos de seguridad y Anthropic avisa de riesgos existenciales — El País
+2. OpenAI presenta Dots, agentes que trabajan en segundo plano sin supervisión constante — TechCrunch (fuente en inglés)
+3. Anthropic advierte a sus futuros inversores de que la IA podría amenazar a la humanidad — Ars Technica (fuente en inglés)
+4. Los ciberataques al agua de EE UU que apuntan a Irán — El País
+5. Un nuevo fallo de software complica al Boeing 737 MAX — Xataka
+
+**Economía**
+1. La inflación sube al 4,9% en septiembre, su nivel más alto desde 2023 — El País
+2. El Gobierno prorroga el escudo anticrisis y limita la subida del gas ante el otoño — El País
+3. El bono de EE UU a 30 años toca máximos desde 2002 y lastra a las Bolsas — Cinco Días
+4. Burnham propone cambiar el triple blindaje de las pensiones para financiar un servicio nacional de cuidados — BBC (fuente en inglés)
+5. EE UU veta productos canadienses y agrava su guerra comercial con Canadá — The Guardian (fuente en inglés)
+
+**Cultura**
+1. Muere Gonzalo Suárez, el creador libre del cine y las letras españolas, a los 92 años — El País
+2. Pilar Albarracín gana el Premio Nacional de Artes Plásticas 2026 — El País
+3. Los museos nacionales de Inglaterra seguirán siendo gratis también para los turistas — BBC (fuente en inglés)
+4. 'Digger': Tom Cruise, magnate petrolero en la sátira ecológica fallida de Iñárritu — The Guardian (fuente en inglés)
+5. Samuel Alonso, nuevo director de la Feria del Libro de Madrid — El País
