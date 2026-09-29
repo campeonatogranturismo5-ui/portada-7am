@@ -1,6 +1,10 @@
 name: Assemble news.json
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - '.portada-news-parts/u*.b64'
+      - '.github/workflows/assemble-news.yml'
 jobs:
   assemble:
     runs-on: ubuntu-latest
@@ -12,13 +16,14 @@ jobs:
         run: |
           python3 - <<'PY'
           import base64, zlib, json, pathlib
-          parts = sorted(pathlib.Path('.portada-news-parts').glob('z*.b64'))
-          if parts:
+          parts = sorted(pathlib.Path('.portada-news-parts').glob('u*.b64'))
+          if not parts:
+              parts = sorted(pathlib.Path('.portada-news-parts').glob('z*.b64'))
               b64 = ''.join(p.read_text().strip() for p in parts)
               data = zlib.decompress(base64.b64decode(b64))
           else:
-              b64 = pathlib.Path('.portada-news-parts/news.zlib.b64').read_text().strip()
-              data = zlib.decompress(base64.b64decode(b64))
+              b64 = ''.join(p.read_text().strip() for p in parts)
+              data = zlib.decompress(base64.urlsafe_b64decode(b64))
           pathlib.Path('news.json').write_bytes(data)
           obj = json.loads(data)
           print('ok', len(data), obj['updatedAt'])
