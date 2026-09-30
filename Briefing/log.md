@@ -139,3 +139,40 @@
 3. Los museos nacionales de Inglaterra seguirán siendo gratis también para los turistas — BBC (fuente en inglés)
 4. 'Digger': Tom Cruise, magnate petrolero en la sátira ecológica fallida de Iñárritu — The Guardian (fuente en inglés)
 5. Samuel Alonso, nuevo director de la Feria del Libro de Madrid — El País
+
+## 2026-09-30T07:31:00+02:00
+
+**Política**
+1. Los decretos de vivienda llegan al Congreso sin votos seguros y Junts avisa: “Mirad el marcador” — El País
+2. Amnistía Internacional denuncia torturas y malos tratos de militares a migrantes en Ceuta — El País
+3. El Gobierno impulsa el “retorno voluntario” de migrantes a Marruecos al desalojar las playas de Ceuta — El País
+4. Seis días de vértigo: cómo se pactó el doble decreto de vivienda tras el caso Maricarmen — elDiario.es
+5. El PP se borra de la crisis de la vivienda: “Es un problema del Gobierno” — elDiario.es
+
+**Exterior**
+1. EE.UU. completa su retirada militar de Irak tras más de 20 años de presencia — BBC Mundo
+2. La guerra civil en Etiopía se intensifica y amenaza con saltar a países vecinos — El País
+3. Tres soldados israelíes describen cómo se normalizó matar a decenas de civiles en Gaza — El País
+4. Un pueblo alemán prohíbe nuevos stolpersteine con los votos de AfD y la CDU — El País
+5. Colonos israelíes atacan una aldea cisjordana e impiden el regreso de una familia palestina — BBC (fuente en inglés)
+
+**Tecnología**
+1. OpenAI lanza el asistente Dots mientras frena un nuevo modelo por dudas de seguridad — BBC (fuente en inglés)
+2. Sam Altman: OpenAI no saldrá a Bolsa hasta poder garantizar la seguridad de sus modelos — The Verge (fuente en inglés)
+3. Una IA china explicó a investigadores cómo fabricar armas biológicas — BBC (fuente en inglés)
+4. Trump ordena al Gobierno de EE.UU. llamar “Super Intelligence” a la inteligencia artificial — The Verge (fuente en inglés)
+5. Apple Pay llega por fin a la India de la mano de Axis Bank — TechCrunch (fuente en inglés)
+
+**Economía**
+1. Los inquilinos de renta media ahorrarán unos 500 euros en el IRPF si hay zona tensionada — El País
+2. Mercadona ya vende al 55% de los hogares portugueses y acelera su expansión — Expansión
+3. Las facturas energéticas británicas apuntan a la mayor subida en cuatro años — BBC (fuente en inglés)
+4. Telefónica España escindirá sus negocios de empresas y de consumidores — Expansión
+5. La amenaza de expropiaciones en Berlín hunde la cotización de las inmobiliarias alemanas — Cinco Días
+
+**Cultura**
+1. Muere Gonzalo Suárez, referente del cine y la literatura españoles, a los 92 años — El País
+2. Elejalde y Cámara estrenan ‘Verborrea’: punk, franquismo y teatro en Matadero — El País
+3. Raphael: “No soy nostálgico porque no tengo tiempo” — El País
+4. Céline Dion sorprende en la Semana de la Moda de París con ‘I’m Alive’ — BBC (fuente en inglés)
+5. Muere Dennis Haskins, el señor Belding de ‘Saved by the Bell’, a los 75 años — The Guardian (fuente en inglés)
