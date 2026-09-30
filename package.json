@@ -1,0 +1,1 @@
+{"name":"portada-7am","private":true,"scripts":{"build":"python scripts/build.py","test":"python -m unittest discover -s tests -v"}}

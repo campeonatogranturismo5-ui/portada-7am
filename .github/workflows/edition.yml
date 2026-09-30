@@ -1,0 +1,73 @@
+name: Edición diaria
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Máximo de noticias (5 para el piloto, 35 para edición completa)'
+        default: '5'
+        type: choice
+        options: ['5', '35']
+  schedule:
+    - cron: '7 7 * * *'
+      timezone: Europe/Madrid
+    - cron: '37 8 * * *'
+      timezone: Europe/Madrid
+permissions:
+  contents: write
+concurrency:
+  group: portada-edition
+  cancel-in-progress: false
+jobs:
+  edition:
+    if: github.event_name == 'workflow_dispatch' || vars.AUTO_EDITION_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Pruebas de integridad
+        run: python -m unittest discover -s tests -v
+      - name: Recopilar, resumir y validar
+        id: update
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          LIMIT: ${{ inputs.limit || '35' }}
+          EVENT: ${{ github.event_name }}
+        run: |
+          if [ "$EVENT" = schedule ]; then
+            python -u scripts/pipeline.py --limit "$LIMIT" --scheduled
+          else
+            python -u scripts/pipeline.py --limit "$LIMIT"
+          fi
+      - name: Construir y comprobar HTML
+        run: |
+          python scripts/build.py
+          python scripts/check_site.py
+      - name: Publicar edición validada
+        run: |
+          git config user.name 'Portada 7AM'
+          git config user.email '287093218+campeonatogranturismo5-ui@users.noreply.github.com'
+          git add data
+          if ! git diff --cached --quiet; then
+            git commit -m 'Edición automática validada de Portada 7AM'
+            git push
+          fi
+      - name: Conservar caché y cuota tras fallo sin publicar edición
+        if: failure() && steps.update.outcome == 'failure'
+        run: |
+          git config user.name 'Portada 7AM'
+          git config user.email '287093218+campeonatogranturismo5-ui@users.noreply.github.com'
+          for file in data/cache.json data/usage.json; do
+            if [ -f "$file" ]; then git add "$file"; fi
+          done
+          if ! git diff --cached --quiet; then
+            git commit -m 'Conservar caché y consumo; edición anterior intacta'
+            git push
+          fi
+      - name: Resumen de ejecución
+        if: always()
+        run: |
+          echo 'La publicación solo cambia tras validar. Una ejecución manual no acredita el horario programado.' >> "$GITHUB_STEP_SUMMARY"
+          echo 'Consultar errores de pasos si no se publicó. No activar facturación para resolver cuotas.' >> "$GITHUB_STEP_SUMMARY"

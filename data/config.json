@@ -1,0 +1,26 @@
+{
+  "siteUrl": "https://portada-7am.vercel.app",
+  "model": "gemini-3.1-flash-lite",
+  "freeTierVerifiedAt": "2026-09-30",
+  "project": "gen-lang-client-0338741758",
+  "maxRequestsPerDay": 90,
+  "requestIntervalSeconds": 7,
+  "maxPerSection": 5,
+  "maxAgeHours": 48,
+  "sources": [
+    {"name":"Durangon", "url":"https://www.durangon.com/feed/", "section":"euskadi", "lang":"es"},
+    {"name":"Europa Press Euskadi", "url":"https://www.europapress.es/rss/rss.aspx?ch=290", "section":"euskadi", "lang":"es"},
+    {"name":"Europa Press", "url":"https://www.europapress.es/rss/rss.aspx?ch=00066", "section":"espana", "lang":"es"},
+    {"name":"elDiario.es", "url":"https://www.eldiario.es/rss/politica/", "section":"espana", "lang":"es"},
+    {"name":"BBC", "url":"https://feeds.bbci.co.uk/news/world/rss.xml", "section":"internacional", "lang":"en"},
+    {"name":"The Guardian", "url":"https://www.theguardian.com/world/rss", "section":"internacional", "lang":"en"},
+    {"name":"NASA", "url":"https://www.nasa.gov/feed/", "section":"ciencia", "lang":"en"},
+    {"name":"ScienceDaily", "url":"https://www.sciencedaily.com/rss/top/science.xml", "section":"ciencia", "lang":"en"},
+    {"name":"Xataka", "url":"https://www.xataka.com/feedburner.xml", "section":"tecnologia", "lang":"es"},
+    {"name":"Ars Technica", "url":"https://feeds.arstechnica.com/arstechnica/index", "section":"tecnologia", "lang":"en"},
+    {"name":"BBC", "url":"https://feeds.bbci.co.uk/news/business/rss.xml", "section":"economia", "lang":"en"},
+    {"name":"El País", "url":"https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada", "section":"economia", "lang":"es"},
+    {"name":"The Guardian", "url":"https://www.theguardian.com/culture/rss", "section":"cultura", "lang":"en"},
+    {"name":"El País", "url":"https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada", "section":"cultura", "lang":"es"}
+  ]
+}
