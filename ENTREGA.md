@@ -1,6 +1,6 @@
 # Estado verificable de Portada 7AM
 
-Actualizado: 30/09/2026. Trabajo en la rama `codex/automatic-edition`.
+Actualizado: 01/10/2026. Trabajo en la rama `codex/automatic-edition`.
 
 ## Completado
 
@@ -18,11 +18,11 @@ Actualizado: 30/09/2026. Trabajo en la rama `codex/automatic-edition`.
 
 ## Pendiente — no afirmar que ya está funcionando
 
-- Guardar y verificar el secreto GEMINI_API_KEY; no se ha realizado ninguna llamada real a Gemini.
+- GEMINI_API_KEY está guardado desde el 30/09 y funciona. Las llamadas reales ya han validado una noticia de Euskadi; el piloto completo sigue pendiente.
 - Ejecutar el piloto de cinco noticias, revisar fidelidad humana y enlaces de fuentes, y repetirlo para verificar la caché real.
 - Publicar la nueva versión en producción y comprobar el resultado público.
 - Activar AUTO_EDITION_ENABLED tras la prueba real; el workflow preparado aún no constituye una automatización activa.
-- Reautenticar Hostalia si lo exige la zona DNS, añadir únicamente el registro de noticias.lebrijo.es que indique Vercel y verificar HTTPS.
+- Hostalia autenticado y CNAME noticias.lebrijo.es añadido hacia 422a85f40776f04b.vercel-dns-017.com. Dominio añadido a producción en Vercel. Pendiente propagación DNS y verificar HTTPS; todavía no se ha sustituido la web anterior.
 - Comprobar posteriormente la primera ejecución programada. Una prueba manual no la sustituye.
 
 ## Recuperación
