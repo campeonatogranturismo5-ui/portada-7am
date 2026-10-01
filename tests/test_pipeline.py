@@ -11,6 +11,13 @@ sys.path.insert(0,str(Path(__file__).resolve().parents[1]/'scripts'))
 import pipeline as p
 
 class PipelineTests(unittest.TestCase):
+    def test_evidence_requires_original_source_words(self):
+        item = {'sourceTitle': 'NASA plans lunar crops', 'excerpt': 'Partners study  growing crops.'}
+        self.assertTrue(p.valid_evidence(['NASA plans lunar crops', 'Partners study growing crops.'], item))
+        self.assertFalse(p.valid_evidence(['La NASA planea cultivos lunares'], item))
+        self.assertFalse(p.valid_evidence(['NASA confirms lunar crops'], item))
+        self.assertFalse(p.valid_evidence([], item))
+
     def test_canonical_identity(self):
         self.assertEqual(p.canonical('https://example.com/a?utm_source=x&id=7#top'),'https://example.com/a?id=7')
         with self.assertRaises(ValueError): p.canonical('javascript:alert(1)')
