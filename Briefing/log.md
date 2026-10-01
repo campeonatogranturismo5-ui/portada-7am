@@ -176,3 +176,43 @@
 3. Raphael: “No soy nostálgico porque no tengo tiempo” — El País
 4. Céline Dion sorprende en la Semana de la Moda de París con ‘I’m Alive’ — BBC (fuente en inglés)
 5. Muere Dennis Haskins, el señor Belding de ‘Saved by the Bell’, a los 75 años — The Guardian (fuente en inglés)
+
+## 2026-10-01T07:25:00+02:00
+
+**Política**
+1. Junts, entre la presión de la calle y su rechazo a limitar el mercado de la vivienda — El País
+2. Junts y Podemos mantienen en vilo al Gobierno sin desvelar su voto a los decretos — elDiario.es
+3. Feijóo anuncia el no del PP a los decretos de vivienda y acusa a Sánchez de tramposo — Europa Press
+4. Sánchez se muestra optimista con los decretos y dice que le gusta ser traidor a los fondos buitre — elDiario.es
+5. Vivas relata ante la jueza los tres días previos a la entrada masiva en Ceuta — El País
+
+**Exterior**
+1. Pánico en el vuelo a Tel Aviv: un piloto apuñala a otro y los pasajeros evitan la catástrofe — El País
+2. Rusia amenaza con usar armas nucleares si la OTAN intenta aislar Kaliningrado — El País
+3. Rusia lanza su mayor ataque contra la energía ucraniana desde la primavera — BBC (fuente en inglés)
+4. Putin no da señales de detener la guerra mientras Rusia redobla la presión sobre Ucrania — BBC (fuente en inglés)
+5. Ormuz recupera tránsito de petroleros cerca de niveles preguerra, pero sigue inseguro — El País
+
+**Tecnología**
+1. Google lanza Gemini 4 Argon, su modelo más potente, primero solo para socios de ciberseguridad — TechCrunch (fuente en inglés)
+2. Google lanza su primer satélite para probar centros de datos en el espacio — El País
+3. Trump apuesta por la autorregulación de las big tech para contener los riesgos de la IA — Ars Technica (fuente en inglés)
+4. Hackers roban durante meses datos personales de millones de militares estadounidenses — TechCrunch (fuente en inglés)
+5. El Pentágono ficha a Musk, Luckey y Gingrich para un estudio de 120 días sobre la guerra del futuro — TechCrunch (fuente en inglés)
+
+**Economía**
+1. Fondos y promotoras alertan de una fuga de inversión si salen adelante los decretos de vivienda — Expansión
+2. El decreto premia con exenciones fiscales vender casas vacías a empresas públicas — El País
+3. El tope al gas generará un déficit de 200 millones que pagarán los usuarios al 3,22% — El País
+4. Parte del decreto de vivienda solo valdrá en comunidades con zonas tensionadas — El País
+5. La inflación estadounidense más suave reduce las apuestas de una subida de tipos de la Fed — The Guardian (fuente en inglés)
+
+**Cultura**
+1. Woody Allen prepara en Madrid un rodaje que llevará el nombre de la capital en el título — El País
+2. Macron condecora a Almodóvar y a Cercas con la Legión de Honor en Madrid — El País
+3. Pamplona acogerá la 41ª edición de los premios Goya — El País
+4. Jaume Plensa homenajea a Joan Margarit con una escultura-libro de poesía — El País
+5. Muere a los 86 años Esther Rantzen, histórica presentadora y fundadora de Childline — BBC (fuente en inglés)
+
+**Fuentes fallidas:** Reuters (401 anti-bot, RSS 404); FT (paywall → parcial en titular/entradilla); algunos artículos de El País devolvieron 403 al pedirlos en ráfaga (recuperados vía WebFetch o alternativas). AP disponible vía página world-news.
+
