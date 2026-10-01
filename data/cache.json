@@ -1,0 +1,30 @@
+{
+  "n-182e27d7735cf07b04c180f7": {
+    "fingerprint": "b8658ea467912967835dff58",
+    "item": {
+      "id": "n-182e27d7735cf07b04c180f7",
+      "url": "https://www.durangon.com/el-gobierno-municipal-apuesta-por-mantener-el-servicio-durangobus-durante-los-meses-de-verano/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-01T02:10:07+00:00",
+      "sourceTitle": "El Gobierno municipal apuesta por mantener el servicio DurangoBus durante los meses de verano",
+      "fingerprint": "b8658ea467912967835dff58",
+      "title": "El Ayuntamiento de Durango planea consolidar el servicio de autobús estival",
+      "summary": "El Gobierno municipal busca dar continuidad al servicio DurangoBus durante el verano tras los resultados positivos de una prueba piloto realizada en julio.",
+      "paragraphs": [
+        "El Ejecutivo local ha manifestado su intención de mantener el servicio de transporte público durante los meses estivales. Esta decisión se fundamenta en la experiencia piloto llevada a cabo el pasado mes de julio, que ha servido para constatar la existencia de una demanda real por parte de los usuarios.",
+        "El servicio ha demostrado ser especialmente útil para facilitar el acceso de los ciudadanos a las piscinas de Tabira, consolidándose como una conexión clave durante la temporada de calor."
+      ],
+      "bullets": [
+        "El Gobierno municipal apuesta por la continuidad del DurangoBus en verano.",
+        "La prueba piloto de julio confirmó la demanda del servicio.",
+        "El autobús destaca como enlace principal hacia las piscinas de Tabira."
+      ],
+      "eventKey": "Gobierno municipal de Durango mantiene servicio DurangoBus",
+      "partial": true,
+      "summarizedAt": "2026-10-01T07:36:50.364676+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  }
+}
