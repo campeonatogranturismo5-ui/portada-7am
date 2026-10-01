@@ -1,5 +1,8 @@
 name: Edición diaria
 on:
+  push:
+    branches: [codex/automatic-edition]
+    paths: [.github/workflows/edition.yml]
   workflow_dispatch:
     inputs:
       limit:
@@ -19,7 +22,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   edition:
-    if: github.event_name == 'workflow_dispatch' || vars.AUTO_EDITION_ENABLED == 'true'
+    if: github.event_name == 'workflow_dispatch' || github.event_name == 'push' || vars.AUTO_EDITION_ENABLED == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
@@ -33,7 +36,7 @@ jobs:
         id: update
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          LIMIT: ${{ inputs.limit || '35' }}
+          LIMIT: ${{ inputs.limit || (github.event_name == 'push' && '5') || '35' }}
           EVENT: ${{ github.event_name }}
         run: |
           if [ "$EVENT" = schedule ]; then
