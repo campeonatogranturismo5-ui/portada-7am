@@ -26,5 +26,33 @@
       "summarizedAt": "2026-10-01T07:36:50.364676+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-8e1022d21f212ef65a4838e8": {
+    "fingerprint": "9de11fc2975578bfae073e5f",
+    "item": {
+      "id": "n-8e1022d21f212ef65a4838e8",
+      "url": "https://www.durangon.com/larrasoloeta-incorpora-103-plazas-de-aparcamiento-publico-en-durango/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-01T09:53:04+00:00",
+      "sourceTitle": "Larrasoloeta incorpora 103 plazas de aparcamiento público en Durango",
+      "fingerprint": "9de11fc2975578bfae073e5f",
+      "title": "Durango habilita un nuevo aparcamiento en Larrasoloeta",
+      "summary": "El municipio de Durango ha puesto en marcha un nuevo estacionamiento público con 103 plazas para facilitar el tráfico durante las obras en Antso Estegiz.",
+      "paragraphs": [
+        "El Ayuntamiento de Durango ha inaugurado un nuevo espacio de aparcamiento público en la zona de Larrasoloeta. Esta infraestructura, que cuenta con 103 plazas, ya se encuentra operativa para los ciudadanos.",
+        "La apertura de este recinto tiene como objetivo principal servir de apoyo logístico mientras se desarrolla la segunda fase de las obras de remodelación en la calle Antso Estegiz."
+      ],
+      "bullets": [
+        "Capacidad total de 103 plazas de aparcamiento.",
+        "Ubicación en el área de Larrasoloeta.",
+        "Medida de apoyo ante las obras en Antso Estegiz."
+      ],
+      "eventKey": "Ayuntamiento de Durango habilita aparcamiento en Larrasoloeta",
+      "partial": true,
+      "summarizedAt": "2026-10-01T16:13:28.725148+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
