@@ -145,6 +145,7 @@ class Gemini:
             with urllib.request.urlopen(req,timeout=75) as response: result=json.load(response)
         except urllib.error.HTTPError as exc:
             # Never print request headers, response bodies, or keys.
+            print("Gemini rechazó la solicitud: HTTP", exc.code)
             if exc.code in (429,503): raise QuotaError(f"Gemini temporalmente no disponible ({exc.code})") from None
             raise RuntimeError(f"Gemini HTTP {exc.code}; edición conservada") from None
         parts=result.get("candidates", [{}])[0].get("content", {}).get("parts", [])
