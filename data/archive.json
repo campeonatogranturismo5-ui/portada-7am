@@ -1148,5 +1148,627 @@
       "Un nuevo libro de John McKie sitúa Sign o’ the Times (1987) como la cima creativa de Prince, informa The Guardian. El ensayo describe el doble álbum como un monumento que desafía géneros: funk, rock, soul y experimentación en un solo artefacto. McKie reconstruye sesiones, descartes y el contexto de un artista que entonces lo controlaba casi todo en Paisley Park. Críticos y fans debaten desde hace décadas si este disco supera a Purple Rain; el libro aporta archivos y lectura crítica para inclinar la balanza. La publicación coincide con un revival permanente del catálogo de Prince tras su muerte. El reportaje anticipa que el volumen servirá tanto al lector casual como al especialista obsesionado con tomas alternativas. El relato se basa únicamente en lo publicado por la fuente citada, sin añadir datos externos ni valoraciones ajenas al propio artículo. Los hechos recogidos corresponden a la información verificada en el texto original. El relato se basa únicamente en lo publicado por la fuente citada, sin añadir datos externos ni valoraciones ajenas al propio artículo. Los hechos recogidos corresponden a la información verificada en el texto original."
     ],
     "legacy": true
+  },
+  "n-06a54a7d71aa89100757ef33": {
+    "id": "n-06a54a7d71aa89100757ef33",
+    "url": "https://www.europapress.es/euskadi/noticia-pnv-apoyara-decreto-vivienda-ayudas-fiscales-rechazara-renovacion-alquiler-automatica-20261001150355.html",
+    "source": "Europa Press Euskadi",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-10-01T13:03:55+00:00",
+    "title": "El PNV apoyará el decreto de vivienda con ayudas fiscales y rechazará el de renovación automática del alquiler",
+    "summary": "Los jeltzales votarán a favor en el Congreso del decreto que incluye bonificaciones fiscales y protección ante desahucios, y en contra del que prevé la renovación automática de contratos de alquiler.",
+    "eventKey": "pnv-voto-decretos-vivienda-congreso",
+    "paragraphs": [
+      "El PNV ha anunciado que en el Congreso respaldará el decreto de vivienda con bonificaciones fiscales y medidas frente a los desahucios.",
+      "En cambio, votará en contra del texto que contempla la renovación automática de los contratos de alquiler."
+    ],
+    "bullets": [
+      "Apoyo al decreto con ayudas fiscales y protección ante desahucios.",
+      "Rechazo al decreto de renovación automática del alquiler.",
+      "Posición anticipada de cara a la votación en el Congreso."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-c0fe2ddfdaabb7b8233ba260": {
+    "id": "n-c0fe2ddfdaabb7b8233ba260",
+    "url": "https://www.europapress.es/euskadi/noticia-osakidetza-llama-vacunar-contra-gripe-menores-ub-ano-ser-ya-franja-edad-incidencia-mas-elevada-20261001140650.html",
+    "source": "Europa Press Euskadi",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-10-01T12:06:50+00:00",
+    "title": "Osakidetza pide vacunar contra la gripe a menores de un año, ya con la incidencia más alta",
+    "summary": "El Servicio Vasco de Salud destaca que los menores de un año concentran ahora la mayor incidencia de gripe y llama a vacunarlos; la campaña llega hasta el 31 de diciembre con 300 profesionales contratados.",
+    "eventKey": "osakidetza-vacuna-gripe-menores-un-ano",
+    "paragraphs": [
+      "Osakidetza llama a vacunar contra la gripe a los menores de un año, franja que ya registra la incidencia más elevada.",
+      "La campaña se prolonga hasta el 31 de diciembre y se han contratado 300 profesionales, 225 de enfermería y 85 administrativos."
+    ],
+    "bullets": [
+      "Menores de un año: franja con mayor incidencia de gripe.",
+      "Campaña de vacunación hasta el 31 de diciembre.",
+      "300 profesionales contratados (225 enfermería, 85 administrativos)."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-8e1022d21f212ef65a4838e8": {
+    "id": "n-8e1022d21f212ef65a4838e8",
+    "url": "https://www.durangon.com/larrasoloeta-incorpora-103-plazas-de-aparcamiento-publico-en-durango/",
+    "source": "Durangon",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-10-01T09:53:04+00:00",
+    "title": "Larrasoloeta suma 103 plazas de aparcamiento público en Durango",
+    "summary": "El nuevo aparcamiento público de Larrasoloeta ya está operativo y servirá de apoyo durante la segunda fase de las obras de Antso Estegiz.",
+    "eventKey": "durango-aparcamiento-larrasoloeta-103-plazas",
+    "paragraphs": [
+      "Durango ha puesto en marcha 103 plazas de aparcamiento público en Larrasoloeta.",
+      "El espacio, operativo desde hoy, reforzará el aparcamiento mientras avanza la segunda fase de las obras de Antso Estegiz."
+    ],
+    "bullets": [
+      "103 nuevas plazas públicas en Larrasoloeta.",
+      "Operativo desde hoy.",
+      "Apoyo durante la segunda fase de obras en Antso Estegiz."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-473a37be5c8e06839e672f32": {
+    "id": "n-473a37be5c8e06839e672f32",
+    "url": "https://www.durangon.com/ruedan-en-durango-una-pelicula-de-epoca-centrada-en-la-beata-bilbaina-rafaela-ybarra-de-vilallonga/",
+    "source": "Durangon",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-10-01T09:40:02+00:00",
+    "title": "Ruedan en Durango un filme de época sobre la beata bilbaína Rafaela Ybarra",
+    "summary": "En Durango se graba un largometraje de época centrado en Rafaela Ybarra de Vilallonga, con la actriz guipuzcoana Loreto Mauleón como protagonista.",
+    "eventKey": "rodaje-durango-pelicula-rafaela-ybarra",
+    "paragraphs": [
+      "Durango acoge el rodaje de una película de época dedicada a la beata bilbaína Rafaela Ybarra de Vilallonga.",
+      "El largometraje está protagonizado por la actriz guipuzcoana Loreto Mauleón."
+    ],
+    "bullets": [
+      "Rodaje de época en Durango.",
+      "Historia centrada en Rafaela Ybarra de Vilallonga.",
+      "Protagonista: Loreto Mauleón."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-182e27d7735cf07b04c180f7": {
+    "id": "n-182e27d7735cf07b04c180f7",
+    "url": "https://www.durangon.com/el-gobierno-municipal-apuesta-por-mantener-el-servicio-durangobus-durante-los-meses-de-verano/",
+    "source": "Durangon",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-10-01T02:10:07+00:00",
+    "title": "El Ayuntamiento de Durango quiere mantener DurangoBus también en verano",
+    "summary": "Tras la prueba de julio, el gobierno municipal apuesta por conservar DurangoBus en los meses de verano, con demanda destacada hacia las piscinas de Tabira.",
+    "eventKey": "durango-mantener-durangobus-verano",
+    "paragraphs": [
+      "El gobierno municipal de Durango apuesta por mantener el servicio DurangoBus durante el verano.",
+      "La experiencia piloto de julio confirmó demanda, sobre todo como conexión con las piscinas de Tabira."
+    ],
+    "bullets": [
+      "Intención de mantener DurangoBus en verano.",
+      "Piloto de julio con demanda confirmada.",
+      "Uso destacado hacia las piscinas de Tabira."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-f4f5c7f57469a23a4382cd6c": {
+    "id": "n-f4f5c7f57469a23a4382cd6c",
+    "url": "https://www.europapress.es/nacional/noticia-gobierno-rechaza-junts-mantiene-decretos-vivienda-llegado-hora-retraten-20261001234055.html",
+    "source": "Europa Press",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-10-01T21:40:55+00:00",
+    "title": "El Gobierno mantiene los decretos de vivienda pese al rechazo de Junts",
+    "summary": "El Ejecutivo descarta retirar los dos decretos de vivienda y los mantiene a pesar de que Junts, junto a PP y Vox, anuncia el voto en contra en la votación del Congreso.",
+    "eventKey": "gobierno-mantiene-decretos-vivienda-junts",
+    "paragraphs": [
+      "El Gobierno ha rechazado la propuesta de Junts de retirar los dos decretos sobre vivienda para negociar un nuevo texto.",
+      "Mantendrá ambas iniciativas pese a que el partido de Carles Puigdemont ha anunciado que votará en contra, junto al PP y Vox, lo que provocaría su rechazo en la votación del Congreso."
+    ],
+    "bullets": [
+      "El Gobierno no retira los dos decretos de vivienda.",
+      "Junts pedía retirarlos para negociar otro texto.",
+      "Junts, PP y Vox anuncian el voto en contra.",
+      "La votación se celebra en el Congreso."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-5678a3a0c1ef0ee0f2425860": {
+    "id": "n-5678a3a0c1ef0ee0f2425860",
+    "url": "https://www.eldiario.es/politica/ancianos-banco-les-devuelva-35-000-euros-estafados-hackers-sido-traumatico_1_13546648.html",
+    "source": "elDiario.es",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-10-01T20:05:13+00:00",
+    "title": "Un matrimonio octogenario recupera 35.000 euros tras una estafa: el banco debe responder",
+    "summary": "La Audiencia Provincial de Madrid ordena a una entidad devolver 35.000 euros a un matrimonio estafado mediante una web que imitaba al banco, al no haber aplicado todas las medidas de protección.",
+    "eventKey": "audiencia-madrid-banco-devuelve-35000-phishing",
+    "paragraphs": [
+      "Un matrimonio de octogenarios ha logrado que su banco les devuelva 35.000 euros perdidos en una estafa online.",
+      "La Audiencia Provincial de Madrid obliga a la entidad a asumir el dinero tras una web falsa que imitaba al banco, al considerar que no había implementado todas las medidas para proteger al cliente."
+    ],
+    "bullets": [
+      "Devolución de 35.000 euros ordenada por la Audiencia de Madrid.",
+      "Estafa vía página que imitaba al banco.",
+      "La entidad no aplicó todas las medidas de protección."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-0b421b7c71357de9c86f7f72": {
+    "id": "n-0b421b7c71357de9c86f7f72",
+    "url": "https://www.europapress.es/madrid/noticia-ayuso-censura-amenazas-estilo-nazi-acampada-sol-promueve-izquierda-necesita-revolucion-20261001230953.html",
+    "source": "Europa Press",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-10-01T21:09:53+00:00",
+    "title": "Ayuso censura amenazas «al estilo nazi» en la acampada de Sol por la vivienda",
+    "summary": "La presidenta madrileña critica las amenazas de protestantes en la Puerta del Sol a favor de la vivienda y contra los desahucios, y las vincula a quienes, dice, «necesitan la revolución».",
+    "eventKey": "ayuso-critica-acampada-sol-vivienda",
+    "paragraphs": [
+      "Isabel Díaz Ayuso ha censurado amenazas «al más estilo puro nazi» de personas en la acampada de la Puerta del Sol a favor de la vivienda y contra los desahucios.",
+      "Considera que esa protesta la fomentan quienes «necesitan la revolución» y que los españoles se enfrenten entre ellos."
+    ],
+    "bullets": [
+      "Crítica de Ayuso a amenazas en la acampada de Sol.",
+      "Protesta por vivienda y contra desahucios.",
+      "La presidenta habla de quienes «necesitan la revolución»."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-e90781a58b70bd0cd2e9fef2": {
+    "id": "n-e90781a58b70bd0cd2e9fef2",
+    "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-10-02T03:09:13+00:00",
+    "title": "Seúl avisa de «más medidas» si Ucrania no se disculpa por la polémica de prisioneros",
+    "summary": "El presidente surcoreano Lee Jae Myung advierte de «nuevas acciones» si Kiev no pide disculpas por el roce por prisioneros de guerra y acusa a Ucrania de intentar provocar un conflicto en la península coreana.",
+    "eventKey": "seul-ucrania-disculpas-prisioneros-guerra",
+    "paragraphs": [
+      "Seúl advierte de «nuevas acciones» si Ucrania no se disculpa por la disputa relacionada con prisioneros de guerra.",
+      "El presidente Lee Jae Myung también acusó a Kiev de «intentar provocar una guerra en la península coreana»."
+    ],
+    "bullets": [
+      "Aviso de Seúl a Ucrania por la polémica de prisioneros.",
+      "Lee Jae Myung exige disculpas.",
+      "Acusación de provocar un conflicto en la península coreana."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-79a1e11c828341024be5821a": {
+    "id": "n-79a1e11c828341024be5821a",
+    "url": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-10-02T04:21:31+00:00",
+    "title": "Australia señala «lagunas significativas» de seguridad infantil en Steam, Roblox y otros",
+    "summary": "El regulador australiano de seguridad online afirma que plataformas como Steam y Roblox tienen fallos relevantes de protección infantil; también pide a Fortnite y Minecraft que mejoren.",
+    "eventKey": "australia-seguridad-infantil-steam-roblox",
+    "paragraphs": [
+      "Australia sostiene que plataformas como Steam y Roblox presentan «lagunas significativas» en seguridad infantil.",
+      "El regulador de seguridad online también ha pedido a Fortnite y Minecraft que «mejoren su juego»."
+    ],
+    "bullets": [
+      "Steam y Roblox: fallos «significativos» de seguridad infantil, según Australia.",
+      "También señalados Fortnite y Minecraft.",
+      "Aviso del regulador de seguridad online."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-e27916ebac2a614e9c6a55ea": {
+    "id": "n-e27916ebac2a614e9c6a55ea",
+    "url": "https://www.theguardian.com/world/2026/oct/02/brazil-election-lady-of-aparecida-lula-bolsonaro-row",
+    "source": "The Guardian",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-10-02T04:00:10+00:00",
+    "title": "La Virgen de Aparecida entra en la campaña brasileña ante las elecciones del domingo",
+    "summary": "Una polémica sobre el estatus de Nuestra Señora de Aparecida, patrona de Brasil, agita la carrera entre Lula y Flávio Bolsonaro, empatados de cara a la votación del domingo.",
+    "eventKey": "brasil-elecciones-virgen-aparecida-lula-bolsonaro",
+    "paragraphs": [
+      "Antes de las elecciones presidenciales del domingo en Brasil, la Virgen de Aparecida se ha convertido en un factor inesperado de la campaña.",
+      "Lula y Flávio Bolsonaro aparecen empatados, y la especulación de que Bolsonaro podría intentar retirar el estatus de patrona a Nuestra Señora de Aparecida agita el debate."
+    ],
+    "bullets": [
+      "Patrona de Brasil en el centro del debate electoral.",
+      "Lula y Flávio Bolsonaro empatados antes del domingo.",
+      "Polémica por un posible cambio del estatus de la Virgen de Aparecida."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-b6e5f9c80c443d7fba928e5e": {
+    "id": "n-b6e5f9c80c443d7fba928e5e",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
+    "source": "ScienceDaily",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-10-01T13:59:22+00:00",
+    "title": "Identifican dos nuevas especies de insectos palo gigantes en Australia",
+    "summary": "Científicos describen dos nuevas especies de grandes insectos palo australianos, una con huevos «con tapa» inéditos en el grupo, y revelan que otra especie familiar estuvo mal identificada durante décadas.",
+    "eventKey": "australia-nuevas-especies-insecto-palo",
+    "paragraphs": [
+      "Un estudio ha identificado dos nuevas especies de grandes insectos palo australianos.",
+      "Una de ellas pone huevos «con tapa» nunca registrados antes en el grupo, y el trabajo muestra que un insecto palo conocido llevaba décadas mal identificado."
+    ],
+    "bullets": [
+      "Dos nuevas especies de insectos palo gigantes.",
+      "Huevos «con tapa» inéditos en el grupo.",
+      "Una especie familiar mal identificada durante décadas."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-442139059b7262261ce86132": {
+    "id": "n-442139059b7262261ce86132",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260930020257.htm",
+    "source": "ScienceDaily",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-10-01T13:43:15+00:00",
+    "title": "Un «armadura vegetal» multiplica por más de tres el rendimiento de las fresas",
+    "summary": "Un tejido protector inspirado en investigación militar aumentó hasta 3,56 veces la producción de fresas, bloquea insectos y deja pasar luz, lluvia y aire; podría reducir pesticidas y agua.",
+    "eventKey": "plant-armor-rendimiento-fresas",
+    "paragraphs": [
+      "Un nuevo tejido protector elevó el rendimiento de las fresas hasta 3,56 veces al bloquear insectos y permitir luz, lluvia y aire.",
+      "Plant Armor, inspirado en investigación sobre ropa militar, también podría ayudar a reducir el uso de pesticidas y agua."
+    ],
+    "bullets": [
+      "Hasta 3,56 veces más rendimiento en fresas.",
+      "Bloquea insectos y deja pasar luz, lluvia y aire.",
+      "Posible ahorro de pesticidas y agua."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-2f3cd75ecef93e7f489d3245": {
+    "id": "n-2f3cd75ecef93e7f489d3245",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+    "source": "ScienceDaily",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-10-01T13:17:13+00:00",
+    "title": "Proponen un cúbit de helio superfluido hasta 100 veces menos propenso a errores",
+    "summary": "Un cúbit basado en helio superfluido podría reducir unas 100 veces las tasas de error al blindar la información cuántica frente al ruido electromagnético habitual, si confirman los experimentos.",
+    "eventKey": "cubit-helio-superfluido-menos-errores",
+    "paragraphs": [
+      "Investigadores proponen un cúbit de helio superfluido que podría recortar alrededor de 100 veces los errores en computación cuántica.",
+      "El diseño blindaría la información frente al ruido electromagnético habitual; si se confirma, podría complementar cúbits superconductores o servir de memoria cuántica."
+    ],
+    "bullets": [
+      "Cúbit propuesto con helio superfluido.",
+      "Reducción estimada de errores de unas 100 veces.",
+      "Pendiente de confirmación experimental."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-374bcd787681d3d4c0c83ab9": {
+    "id": "n-374bcd787681d3d4c0c83ab9",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
+    "source": "ScienceDaily",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-10-01T12:26:47+00:00",
+    "title": "La dieta MIND se asocia a un envejecimiento cerebral hasta 2,5 años más lento",
+    "summary": "Seguir más de cerca la dieta MIND se vinculó a menor encogimiento cerebral y menos pérdida de materia gris; la diferencia máxima equivale a unos 2,5 años de envejecimiento cerebral retrasado.",
+    "eventKey": "dieta-mind-envejecimiento-cerebral",
+    "paragraphs": [
+      "Quienes siguieron más de cerca la dieta MIND mostraron menor encogimiento cerebral y menos pérdida de materia gris con el tiempo.",
+      "Las diferencias más marcadas equivalían a unos 2,5 años de envejecimiento cerebral retrasado; bayas y aves se asociaron a cambios más saludables, y dulces y comida frita rápida a mayor pérdida de tejido."
+    ],
+    "bullets": [
+      "Mayor adherencia a MIND, menos pérdida de materia gris.",
+      "Diferencia máxima ≈ 2,5 años de envejecimiento cerebral.",
+      "Bayas y aves favorables; dulces y fritos, asociados a más pérdida."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-82363611e9dd0b3aaaa87ee4": {
+    "id": "n-82363611e9dd0b3aaaa87ee4",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260930225448.htm",
+    "source": "ScienceDaily",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-10-01T06:34:01+00:00",
+    "title": "Recortar ultraprocesados mejoró síntomas depresivos en un estudio preliminar",
+    "summary": "En un estudio pequeño y preliminar, personas con depresión que redujeron mucho los ultraprocesados notaron mejoras; los investigadores apuntan a menos daño intestinal e inflamación crónica.",
+    "eventKey": "ultraprocesados-depresion-estudio-preliminar",
+    "paragraphs": [
+      "Un estudio preliminar pequeño halló mejoras notables en síntomas depresivos tras reducir de forma drástica los alimentos ultraprocesados.",
+      "Los investigadores sospechan un beneficio cerebral ligado, en parte, a menos daño intestinal e inflamación crónica."
+    ],
+    "bullets": [
+      "Estudio preliminar y de tamaño reducido.",
+      "Menos ultraprocesados, mejoría de síntomas depresivos.",
+      "Hipótesis: menos daño intestinal e inflamación."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-18bb7c856526c49380be1687": {
+    "id": "n-18bb7c856526c49380be1687",
+    "url": "https://www.xataka.com/movilidad/volkswagen-queria-derrotar-a-china-fabricando-baterias-valencia-acaba-vender-media-empresa-a-fabricante-chino",
+    "source": "Xataka",
+    "section": "tecnologia",
+    "lang": "es",
+    "publishedAt": "2026-10-02T04:01:22+00:00",
+    "title": "Volkswagen vende media empresa de baterías en Valencia a un fabricante chino",
+    "summary": "Tras anunciar en 2022 una planta de baterías en Sagunto, Volkswagen ha abierto la puerta a un socio chino que entra con fuerza en el proyecto, según Xataka.",
+    "eventKey": "volkswagen-baterias-sagunto-socio-chino",
+    "paragraphs": [
+      "En febrero de 2022 Volkswagen confirmó una planta de baterías en Sagunto, noticia clave para el empleo en la fábrica y en el resto de España.",
+      "Cuatro años después, según Xataka, la marca ha dejado entrar a un socio chino hasta el núcleo del proyecto, al vender media empresa a un fabricante chino."
+    ],
+    "bullets": [
+      "Planta de baterías anunciada en Sagunto en 2022.",
+      "Volkswagen vende media empresa a un fabricante chino.",
+      "Cambio de estrategia respecto a competir solo frente a China."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-3e79d557acc7c9987dde3763": {
+    "id": "n-3e79d557acc7c9987dde3763",
+    "url": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
+    "source": "Ars Technica",
+    "section": "tecnologia",
+    "lang": "en",
+    "publishedAt": "2026-10-01T22:27:04+00:00",
+    "title": "La misteriosa bruma de Venus sería polvo cósmico, según un modelo físico",
+    "summary": "Un modelo físico indica que polvo de hierro y ácido sulfúrico generan las propiedades observadas de la bruma de Venus, antes enigmática.",
+    "eventKey": "venus-bruma-polvo-cosmico-hierro",
+    "paragraphs": [
+      "Un modelo físico apunta a que la misteriosa bruma de Venus es en realidad polvo cósmico.",
+      "Hierro en polvo y ácido sulfúrico reproducen las propiedades observadas de esa neblina."
+    ],
+    "bullets": [
+      "Bruma de Venus explicada como polvo cósmico.",
+      "Modelo con polvo de hierro y ácido sulfúrico.",
+      "Coincide con las propiedades observadas."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-0a1eefe68ed4fff9c8c5056a": {
+    "id": "n-0a1eefe68ed4fff9c8c5056a",
+    "url": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
+    "source": "Ars Technica",
+    "section": "tecnologia",
+    "lang": "en",
+    "publishedAt": "2026-10-01T22:07:33+00:00",
+    "title": "SpaceX describe una intervención «quirúrgica» antes del lanzamiento de Crew-13",
+    "summary": "SpaceX detalla una intervención previa al lanzamiento de la última misión tripulada; con Crew-13, Jessica Watkins se convierte en la primera mujer negra en liderar una misión espacial.",
+    "eventKey": "spacex-crew13-watkins-intervencion-previa",
+    "paragraphs": [
+      "SpaceX ha descrito una intervención «quirúrgica» realizada antes del lanzamiento de su última misión de tripulación.",
+      "Con Crew-13, Jessica Watkins se convirtió en la primera mujer negra en dirigir una misión al espacio."
+    ],
+    "bullets": [
+      "Intervención previa al lanzamiento relatada por SpaceX.",
+      "Misión Crew-13.",
+      "Jessica Watkins, primera mujer negra al mando de una misión espacial."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-3431826fe4bd27b0c25b339e": {
+    "id": "n-3431826fe4bd27b0c25b339e",
+    "url": "https://www.xataka.com/espacio/benoit-pouffary-ingeniero-esa-almeria-podria-ser-mejor-lugar-mundo-para-simular-que-rover-estara-enfrentando-cuando-llegue-a-marte",
+    "source": "Xataka",
+    "section": "tecnologia",
+    "lang": "es",
+    "publishedAt": "2026-10-01T19:33:30+00:00",
+    "title": "La ESA prueba en Almería el rover Rosalind Franklin por su similitud con Marte",
+    "summary": "Un ingeniero de la ESA afirma que Almería podría ser de los mejores lugares del mundo para simular lo que afrontará el rover en Marte; 15 personas han ensayado tres semanas en el desierto de Tabernas.",
+    "eventKey": "esa-rover-rosalind-franklin-almeria-tabernas",
+    "paragraphs": [
+      "Benoit Pouffary, ingeniero de la ESA, sostiene que Almería podría ser de los mejores lugares del mundo para simular las condiciones que el rover afrontará en Marte.",
+      "Durante las últimas tres semanas, 15 personas han probado el rover Rosalind Franklin en el desierto de Tabernas, ligado históricamente al mineral jarosita también hallado en Marte."
+    ],
+    "bullets": [
+      "Pruebas del rover Rosalind Franklin en Tabernas (Almería).",
+      "15 personas durante tres semanas.",
+      "Vínculo geológico: jarosita en Almería y en Marte."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-e5cbd7a6508b3373a8a8b2e3": {
+    "id": "n-e5cbd7a6508b3373a8a8b2e3",
+    "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+    "source": "Ars Technica",
+    "section": "tecnologia",
+    "lang": "en",
+    "publishedAt": "2026-10-01T20:11:55+00:00",
+    "title": "Un juez desestima demandas antitrust de Chegg y Penske contra la búsqueda con IA de Google",
+    "summary": "Un tribunal federal estadounidense archiva las demandas de Chegg y Penske contra la búsqueda con IA de Google: reconoce consecuencias, pero no las ve como cuestión antitrust.",
+    "eventKey": "juez-desestima-antitrust-google-ai-search",
+    "paragraphs": [
+      "Un juez federal ha desestimado las demandas antitrust de Chegg y Penske contra la búsqueda con inteligencia artificial de Google.",
+      "El tribunal admite que la búsqueda con IA tiene consecuencias, pero concluye que no se trata de un problema de competencia en el sentido antitrust."
+    ],
+    "bullets": [
+      "Demandas de Chegg y Penske desestimadas.",
+      "Objetivo: búsqueda con IA de Google.",
+      "El juez no lo considera cuestión antitrust."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-ec99cede5e21e6c83acac96c": {
+    "id": "n-ec99cede5e21e6c83acac96c",
+    "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "economia",
+    "lang": "en",
+    "publishedAt": "2026-10-02T01:34:56+00:00",
+    "title": "OpenAI despide a empleados por filtrar «información sensible»",
+    "summary": "OpenAI ha despedido a trabajadores investigados por compartir datos con un grupo externo de evaluación de IA.",
+    "eventKey": "openai-despidos-informacion-sensible",
+    "paragraphs": [
+      "OpenAI ha despedido a empleados por el mal manejo de «información sensible».",
+      "Los extrabajadores fueron investigados por compartir datos con un grupo externo de evaluación de inteligencia artificial."
+    ],
+    "bullets": [
+      "Despidos en OpenAI por datos sensibles.",
+      "Investigación por compartir información con un evaluador externo.",
+      "Grupo externo de evaluación de IA."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-b1f45dc7817d973dc8874fa5": {
+    "id": "n-b1f45dc7817d973dc8874fa5",
+    "url": "https://cincodias.elpais.com/opinion/2026-10-02/las-bajas-laborales-exigen-maximo-rigor.html",
+    "source": "El País",
+    "section": "economia",
+    "lang": "es",
+    "publishedAt": "2026-10-02T03:40:00+00:00",
+    "title": "La patronal pide que las mutuas puedan autorizar altas en ciertas bajas laborales",
+    "summary": "Un artículo de Cinco Días señala que la patronal propone que las mutuas de trabajo autoricen altas en determinados supuestos de bajas laborales, en un debate sobre el rigor del sistema.",
+    "eventKey": "patronal-mutuas-altas-bajas-laborales",
+    "paragraphs": [
+      "En el debate sobre las bajas laborales, la patronal propone que las mutuas de trabajo puedan autorizar altas en determinados supuestos.",
+      "El texto de opinión en Cinco Días insiste en que el sistema exige el máximo rigor."
+    ],
+    "bullets": [
+      "Propuesta patronal sobre altas por mutuas.",
+      "Afectaría a determinados supuestos de baja.",
+      "Debate publicado en Cinco Días."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-6b1af44bf2a77a5c60eda795": {
+    "id": "n-6b1af44bf2a77a5c60eda795",
+    "url": "https://cincodias.elpais.com/opinion/2026-10-02/los-bancos-se-enfrentaran-pronto-al-lado-oscuro-de-la-ia.html",
+    "source": "El País",
+    "section": "economia",
+    "lang": "es",
+    "publishedAt": "2026-10-02T03:40:00+00:00",
+    "title": "Los bancos se enfrentarán al «lado oscuro» de la IA, según Cinco Días",
+    "summary": "Un análisis advierte de que la inteligencia artificial promete grandes ahorros a la banca, pero también que los clientes pueden apropiarse de parte de ese beneficio.",
+    "eventKey": "bancos-inteligencia-artificial-ahorros-clientes",
+    "paragraphs": [
+      "Un artículo de Cinco Días sostiene que los bancos se enfrentarán pronto al «lado oscuro» de la inteligencia artificial.",
+      "La tecnología promete grandes ahorros a las entidades, pero los clientes también pueden quedarse con parte del beneficio."
+    ],
+    "bullets": [
+      "IA con promesa de ahorros para la banca.",
+      "Riesgo de que el beneficio se desplace hacia el cliente.",
+      "Análisis publicado en Cinco Días."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-edde11d9fc67e4b46e647eaf": {
+    "id": "n-edde11d9fc67e4b46e647eaf",
+    "url": "https://www.theguardian.com/film/2026/oct/01/you-can-see-everything-movie-review",
+    "source": "The Guardian",
+    "section": "cultura",
+    "lang": "en",
+    "publishedAt": "2026-10-01T16:51:21+00:00",
+    "title": "La crítica acoge el documental de Nathan Fielder sobre Elizabeth Holmes como obra maestra del engaño",
+    "summary": "En el Festival de Cine de Nueva York, la crítica de The Guardian califica You Can See Everything —el documental de Nathan Fielder con la fundadora de Theranos— como una obra maestra moderna del engaño.",
+    "eventKey": "fielder-holmes-you-can-see-everything-critica",
+    "paragraphs": [
+      "You Can See Everything, el documental de Nathan Fielder sobre Elizabeth Holmes, se presenta en el Festival de Cine de Nueva York.",
+      "The Guardian lo describe como una obra maestra moderna del engaño, al confrontar al ilusionista televisivo con la fundadora de Theranos y su familia."
+    ],
+    "bullets": [
+      "Documental de Nathan Fielder sobre Elizabeth Holmes.",
+      "Estreno / proyección en el New York Film Festival.",
+      "The Guardian: «obra maestra moderna del engaño»."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-82cf931adab578543b93772f": {
+    "id": "n-82cf931adab578543b93772f",
+    "url": "https://elpais.com/cultura/cine/2026-10-02/digger-com-tom-cruise-nada-de-nada.html",
+    "source": "El País",
+    "section": "cultura",
+    "lang": "es",
+    "publishedAt": "2026-10-02T03:30:01+00:00",
+    "title": "Crítica de El País a «Digger», de Iñárritu con Tom Cruise: «Nada de nada»",
+    "summary": "La crítica de El País tacha Digger, tragicomedia de Alejandro G. Iñárritu con Tom Cruise, de espectáculo histérico, pretencioso y narrativamente desastroso.",
+    "eventKey": "critica-elpais-digger-inarritu-tom-cruise",
+    "paragraphs": [
+      "El País publica una crítica muy negativa de Digger, la película de Alejandro G. Iñárritu con Tom Cruise.",
+      "El texto afirma que Iñárritu convierte una historia sobre el fin de la humanidad en un espectáculo histérico, pretencioso y narrativamente desastroso."
+    ],
+    "bullets": [
+      "Digger: Iñárritu y Tom Cruise.",
+      "Crítica de El País: «Nada de nada».",
+      "La califica de histérica, pretenciosa y desastrosa en lo narrativo."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
+  },
+  "n-47c0633fe3a5f56644fcfa73": {
+    "id": "n-47c0633fe3a5f56644fcfa73",
+    "url": "https://www.theguardian.com/film/2026/oct/01/20-best-making-of-documentaries-ranked",
+    "source": "The Guardian",
+    "section": "cultura",
+    "lang": "en",
+    "publishedAt": "2026-10-01T15:31:13+00:00",
+    "title": "The Guardian ordena los 20 mejores documentales «making-of» del cine",
+    "summary": "El diario británico publica un ranking de los 20 mejores making-of, desde desastres de rodaje hasta epics de ciencia ficción fallidos, con Dawn of the Dead entre los destacados.",
+    "eventKey": "guardian-ranking-20-making-of-documentales",
+    "paragraphs": [
+      "The Guardian ha publicado un ranking de los 20 mejores documentales sobre el rodaje de películas.",
+      "La lista abarca desde desastres tropicales y epics de ciencia ficción fallidos hasta anécdotas con Orson Welles; el making-of de Dawn of the Dead figura entre los destacados."
+    ],
+    "bullets": [
+      "Ranking de 20 making-of según The Guardian.",
+      "Incluye desastres de producción y clásicos del género.",
+      "Dawn of the Dead entre los citados."
+    ],
+    "partial": true,
+    "summarizedAt": "2026-10-02T07:10:26+02:00",
+    "model": "manual-rss"
   }
 }

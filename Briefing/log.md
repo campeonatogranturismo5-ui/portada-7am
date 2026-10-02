@@ -1,5 +1,11 @@
 # Portada 7AM — Registro
 
+## 2026-10-02T07:10:40+02:00 — edición 2026-10-02 (manual RSS)
+
+- Ruta: manual (GitHub Actions falló por Gemini HTTP 503 / QuotaError en runs 36967262092 y 36967353122).
+- Fuentes omitidas: NASA RSS (ValueError). Algunos El País 403 (Iberdrola/Cinco Días, cultura vivienda, entrevista Iñárritu).
+- Conteos: {'euskadi': 5, 'espana': 3, 'internacional': 3, 'ciencia': 5, 'tecnologia': 5, 'economia': 3, 'cultura': 3} (total 27; parciales 27/27).
+- Modelo: manual-rss (sin GEMINI_API_KEY local; extractos RSS únicamente).
 ## 2026-09-28T19:53:40+02:00
 
 1. Rusia bombardea el centro de Kiev e incendia la Academia Nacional de Ciencias de Ucrania — Cadena SER
