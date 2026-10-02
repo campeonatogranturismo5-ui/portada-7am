@@ -54,5 +54,33 @@
       "summarizedAt": "2026-10-01T16:13:28.725148+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-f4f5c7f57469a23a4382cd6c": {
+    "fingerprint": "f0f876738310c895560673a1",
+    "item": {
+      "id": "n-f4f5c7f57469a23a4382cd6c",
+      "url": "https://www.europapress.es/nacional/noticia-gobierno-rechaza-junts-mantiene-decretos-vivienda-llegado-hora-retraten-20261001234055.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-01T21:40:55+00:00",
+      "sourceTitle": "El Gobierno rechaza a Junts y mantiene los decretos sobre vivienda: \"Ha llegado la hora de que se retraten\"",
+      "fingerprint": "f0f876738310c895560673a1",
+      "title": "El Ejecutivo mantiene los decretos de vivienda ante el previsible rechazo de Junts",
+      "summary": "El Gobierno ha declinado la petición de Junts de retirar sus decretos sobre vivienda, asumiendo que la formación votará en contra junto a PP y Vox en la próxima sesión parlamentaria.",
+      "paragraphs": [
+        "El Ejecutivo ha decidido seguir adelante con la tramitación de dos decretos en materia de vivienda, desoyendo la solicitud de Junts de retirar los textos para iniciar una nueva negociación.",
+        "Ante la negativa del Gobierno, el partido de Carles Puigdemont ha confirmado que se opondrá a las medidas en la votación prevista para mañana en el Congreso, sumando sus votos a los del Partido Popular y Vox."
+      ],
+      "bullets": [
+        "El Gobierno rechaza negociar un nuevo texto con Junts.",
+        "Junts, PP y Vox votarán en contra de los decretos.",
+        "La votación definitiva tendrá lugar mañana en el Congreso."
+      ],
+      "eventKey": "Gobierno y Junts enfrentamiento decretos vivienda Congreso",
+      "partial": true,
+      "summarizedAt": "2026-10-02T05:03:55.670761+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
