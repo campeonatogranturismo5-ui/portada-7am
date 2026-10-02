@@ -82,5 +82,61 @@
       "summarizedAt": "2026-10-02T05:03:55.670761+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-37cd45d027f63f9a0f4c069c": {
+    "fingerprint": "6eaeb72f3f2dab791726af7f",
+    "item": {
+      "id": "n-37cd45d027f63f9a0f4c069c",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-02T04:57:49+00:00",
+      "sourceTitle": "Australia news live: Shoebridge says members to ‘have a say’ in next Greens leader after Faruqi criticism; more rain for Victoria",
+      "fingerprint": "6eaeb72f3f2dab791726af7f",
+      "title": "Detenido un hombre en Sídney por una agresión sexual en un parque",
+      "summary": "La policía australiana ha imputado a un varón tras una presunta agresión sexual cometida contra una joven en un parque de Sídney el pasado mes de septiembre.",
+      "paragraphs": [
+        "Las autoridades han procedido a la detención de un hombre acusado de retener, estrangular y agredir sexualmente a una mujer de 23 años en el parque Airey de Homebush.",
+        "Según el relato policial, los hechos ocurrieron durante la noche del 18 de septiembre cuando la víctima caminaba desde la estación de Flemington y fue interceptada por un individuo al que no conocía."
+      ],
+      "bullets": [
+        "El sospechoso ha sido formalmente acusado por la policía.",
+        "La víctima fue abordada mientras transitaba por una zona verde en el oeste de Sídney."
+      ],
+      "eventKey": "hombre detenido agresión sexual Sídney",
+      "partial": true,
+      "summarizedAt": "2026-10-02T05:05:11.303921+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-b6e5f9c80c443d7fba928e5e": {
+    "fingerprint": "6cdefbc6af6e719108a3755a",
+    "item": {
+      "id": "n-b6e5f9c80c443d7fba928e5e",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-01T13:59:22+00:00",
+      "sourceTitle": "This giant stick insect fooled scientists for decades",
+      "fingerprint": "6cdefbc6af6e719108a3755a",
+      "title": "Identificadas nuevas especies de insectos palo en Australia",
+      "summary": "Investigadores han clasificado dos nuevas especies de insectos palo australianos, una de las cuales presenta huevos con una estructura inédita. El hallazgo ha permitido corregir la clasificación errónea de un ejemplar conocido durante décadas.",
+      "paragraphs": [
+        "El estudio científico ha sacado a la luz la existencia de dos nuevas especies de insectos palo en Australia. Entre las características halladas, destaca una especie que deposita huevos con una tapa, un rasgo que no se había documentado anteriormente en este grupo.",
+        "La investigación también ha puesto de manifiesto que un insecto palo común había sido identificado incorrectamente durante años. Este hecho subraya la posibilidad de que exista una mayor biodiversidad oculta de la que se tenía constancia hasta la fecha."
+      ],
+      "bullets": [
+        "Descubrimiento de dos nuevas especies de insectos palo en Australia.",
+        "Identificación de huevos con una estructura de tapa única en el grupo.",
+        "Corrección de una clasificación errónea mantenida durante décadas.",
+        "Reflexión sobre la biodiversidad que permanece sin identificar."
+      ],
+      "eventKey": "científicos-identifican-nuevas-especies-insectos-palo-australia",
+      "partial": true,
+      "summarizedAt": "2026-10-02T05:05:11.303921+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
