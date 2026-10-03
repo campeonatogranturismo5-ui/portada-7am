@@ -1410,21 +1410,24 @@
     "section": "ciencia",
     "lang": "en",
     "publishedAt": "2026-10-01T13:59:22+00:00",
-    "title": "Identifican dos nuevas especies de insectos palo gigantes en Australia",
-    "summary": "Científicos describen dos nuevas especies de grandes insectos palo australianos, una con huevos «con tapa» inéditos en el grupo, y revelan que otra especie familiar estuvo mal identificada durante décadas.",
-    "eventKey": "australia-nuevas-especies-insecto-palo",
+    "sourceTitle": "This giant stick insect fooled scientists for decades",
+    "fingerprint": "6cdefbc6af6e719108a3755a",
+    "title": "Identificadas nuevas especies de insectos palo en Australia",
+    "summary": "Investigadores han clasificado dos nuevas especies de insectos palo australianos, una de las cuales presenta huevos con una estructura inédita. El hallazgo ha permitido corregir la clasificación errónea de un ejemplar conocido durante décadas.",
     "paragraphs": [
-      "Un estudio ha identificado dos nuevas especies de grandes insectos palo australianos.",
-      "Una de ellas pone huevos «con tapa» nunca registrados antes en el grupo, y el trabajo muestra que un insecto palo conocido llevaba décadas mal identificado."
+      "El estudio científico ha sacado a la luz la existencia de dos nuevas especies de insectos palo en Australia. Entre las características halladas, destaca una especie que deposita huevos con una tapa, un rasgo que no se había documentado anteriormente en este grupo.",
+      "La investigación también ha puesto de manifiesto que un insecto palo común había sido identificado incorrectamente durante años. Este hecho subraya la posibilidad de que exista una mayor biodiversidad oculta de la que se tenía constancia hasta la fecha."
     ],
     "bullets": [
-      "Dos nuevas especies de insectos palo gigantes.",
-      "Huevos «con tapa» inéditos en el grupo.",
-      "Una especie familiar mal identificada durante décadas."
+      "Descubrimiento de dos nuevas especies de insectos palo en Australia.",
+      "Identificación de huevos con una estructura de tapa única en el grupo.",
+      "Corrección de una clasificación errónea mantenida durante décadas.",
+      "Reflexión sobre la biodiversidad que permanece sin identificar."
     ],
+    "eventKey": "científicos-identifican-nuevas-especies-insectos-palo-australia",
     "partial": true,
-    "summarizedAt": "2026-10-02T07:10:26+02:00",
-    "model": "manual-rss"
+    "summarizedAt": "2026-10-02T05:05:11.303921+00:00",
+    "model": "gemini-3.1-flash-lite"
   },
   "n-442139059b7262261ce86132": {
     "id": "n-442139059b7262261ce86132",
@@ -1433,21 +1436,24 @@
     "section": "ciencia",
     "lang": "en",
     "publishedAt": "2026-10-01T13:43:15+00:00",
-    "title": "Un «armadura vegetal» multiplica por más de tres el rendimiento de las fresas",
-    "summary": "Un tejido protector inspirado en investigación militar aumentó hasta 3,56 veces la producción de fresas, bloquea insectos y deja pasar luz, lluvia y aire; podría reducir pesticidas y agua.",
-    "eventKey": "plant-armor-rendimiento-fresas",
+    "sourceTitle": "New “plant armor” more than triples strawberry yields",
+    "fingerprint": "a721d56a93b01bbe12aa3055",
+    "title": "Un nuevo tejido protector triplica la producción de fresas",
+    "summary": "Una innovadora malla inspirada en la tecnología militar permite aumentar significativamente las cosechas de fresas al tiempo que protege los cultivos de insectos.",
     "paragraphs": [
-      "Un nuevo tejido protector elevó el rendimiento de las fresas hasta 3,56 veces al bloquear insectos y permitir luz, lluvia y aire.",
-      "Plant Armor, inspirado en investigación sobre ropa militar, también podría ayudar a reducir el uso de pesticidas y agua."
+      "Un nuevo material denominado Plant Armor ha demostrado capacidad para multiplicar por más de tres el rendimiento de las plantaciones de fresas. Este tejido actúa como una barrera física frente a las plagas sin impedir el paso de elementos esenciales como la luz solar, el agua de lluvia o el aire.",
+      "El desarrollo, basado en estudios sobre vestimenta militar, podría facilitar que las explotaciones agrícolas reduzcan su dependencia de pesticidas y optimicen el consumo de agua."
     ],
     "bullets": [
-      "Hasta 3,56 veces más rendimiento en fresas.",
-      "Bloquea insectos y deja pasar luz, lluvia y aire.",
-      "Posible ahorro de pesticidas y agua."
+      "Incremento de la producción hasta 3,56 veces.",
+      "Protección eficaz contra insectos.",
+      "Permite la ventilación y la entrada de luz y lluvia.",
+      "Potencial reducción en el uso de agua y pesticidas."
     ],
+    "eventKey": "Plant Armor incrementa producción fresas",
     "partial": true,
-    "summarizedAt": "2026-10-02T07:10:26+02:00",
-    "model": "manual-rss"
+    "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
+    "model": "gemini-3.1-flash-lite"
   },
   "n-2f3cd75ecef93e7f489d3245": {
     "id": "n-2f3cd75ecef93e7f489d3245",
@@ -1770,5 +1776,599 @@
     "partial": true,
     "summarizedAt": "2026-10-02T07:10:26+02:00",
     "model": "manual-rss"
+  },
+  "n-d7d4a3c33fc9c1c00c12c88f": {
+    "id": "n-d7d4a3c33fc9c1c00c12c88f",
+    "url": "https://www.durangon.com/durango-abre-un-ciclo-de-charlas-para-afrontar-los-discursos-de-odio/",
+    "source": "Durangon",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-10-02T08:12:06+00:00",
+    "sourceTitle": "Durango abre un ciclo de charlas para afrontar los discursos de odio",
+    "fingerprint": "c137ad8461b1971a8785479c",
+    "title": "Durango inicia un ciclo de conferencias contra los discursos de odio",
+    "summary": "El municipio vizcaíno pone en marcha una serie de charlas informativas con el objetivo de abordar y combatir los discursos de odio en la sociedad actual.",
+    "paragraphs": [
+      "La programación comienza esta misma tarde en la biblioteca Bizenta Mogel, donde se tratará la problemática desde una perspectiva jurídica y social.",
+      "El catedrático de Derecho Penal, Jon-Mirena Landa, será el encargado de abrir este ciclo de sesiones divulgativas."
+    ],
+    "bullets": [
+      "Ponente inaugural: Jon-Mirena Landa, catedrático de Derecho Penal.",
+      "Lugar: Bizenta Mogel Biblioteka.",
+      "Horario: 18.30 horas."
+    ],
+    "eventKey": "Jon-Mirena Landa inaugura ciclo de charlas en Durango",
+    "partial": true,
+    "summarizedAt": "2026-10-03T10:19:15.588987+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-b2054dea89eb278b1cdb4d2e": {
+    "id": "n-b2054dea89eb278b1cdb4d2e",
+    "url": "https://www.eldiario.es/politica/feijoo-pide-elecciones-promete-construir-millon-viviendas-proxima-legislatura_1_13559343.html",
+    "source": "elDiario.es",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-10-03T11:53:10+00:00",
+    "sourceTitle": "Feijóo pide \"elecciones ya\" y promete construir un millón de viviendas la próxima legislatura",
+    "fingerprint": "eeca174cb747f15d0f49f13c",
+    "title": "Feijóo reclama elecciones y promete un millón de viviendas",
+    "summary": "El líder del Partido Popular ha exigido la convocatoria de elecciones generales y ha presentado un plan para construir un millón de viviendas si llega a la presidencia. Durante su intervención, ha criticado duramente la gestión de Pedro Sánchez, calificándola de fracaso y acusándole de fomentar la crispación social.",
+    "paragraphs": [
+      "Alberto Núñez Feijóo ha aprovechado su participación en el Foro La Toja para solicitar la disolución de las Cortes y la celebración de comicios. El dirigente popular ha prometido que, de ganar, impulsaría la construcción de 250.000 viviendas anuales durante su mandato, una medida que, según sus estimaciones, crearía más de 600.000 empleos.",
+      "El presidente del PP ha cargado contra el actual Ejecutivo, al que acusa de utilizar las instituciones para fines personales y de basar su estrategia en el enfrentamiento entre ciudadanos. Feijóo ha insistido en que su objetivo es revertir la situación actual y recuperar el tiempo perdido por el país en las últimas legislaturas."
+    ],
+    "bullets": [
+      "Propuesta de construir un millón de viviendas en cuatro años.",
+      "Estimación de creación de 600.000 puestos de trabajo mediante el plan de vivienda.",
+      "Críticas a Pedro Sánchez por la supuesta perversión de las reglas institucionales.",
+      "Exigencia de elecciones generales inmediatas."
+    ],
+    "eventKey": "Alberto Núñez Feijóo solicita elecciones y propone plan de vivienda",
+    "partial": true,
+    "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-12bbd5dc0ec7d55d4e6b7579": {
+    "id": "n-12bbd5dc0ec7d55d4e6b7579",
+    "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-10-03T11:48:41+00:00",
+    "sourceTitle": "Russia hits second major bridge in Ukraine's capital Kyiv",
+    "fingerprint": "408e15556d19ea900dd09750",
+    "title": "Rusia ataca un segundo puente clave en Kiev",
+    "summary": "Las fuerzas rusas han alcanzado el puente Pivnichnyi en la capital ucraniana, sumándose a las ofensivas previas contra otra infraestructura estratégica de la ciudad.",
+    "paragraphs": [
+      "El ataque contra el puente del Norte, conocido como Pivnichnyi, se produce tras una serie de bombardeos recurrentes contra otra de las principales vías de comunicación de Kiev.",
+      "Esta acción intensifica la presión sobre las infraestructuras críticas de la capital ucraniana."
+    ],
+    "bullets": [
+      "Impacto sobre el puente Pivnichnyi en Kiev.",
+      "Continuidad de ataques contra infraestructuras de transporte en la capital."
+    ],
+    "eventKey": "Rusia-ataca-puente-Kiev",
+    "partial": true,
+    "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-32d936fd69e9a889106d2eda": {
+    "id": "n-32d936fd69e9a889106d2eda",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+    "source": "NASA",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-10-03T04:05:00+00:00",
+    "sourceTitle": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+    "fingerprint": "dc0f7f796c0b2f0295b488bd",
+    "title": "La NASA publica un autorretrato del rover en Vera Rubin Ridge",
+    "summary": "La sección de Astronomía del Día de la NASA ha compartido una imagen captada por un rover en la formación geológica Vera Rubin Ridge.",
+    "paragraphs": [
+      "La agencia espacial estadounidense ha difundido una nueva fotografía dentro de su serie diaria de astronomía. En esta ocasión, la imagen muestra un autorretrato tomado por un vehículo explorador en la zona conocida como Vera Rubin Ridge."
+    ],
+    "bullets": [
+      "La imagen forma parte de la iniciativa Astronomy Picture of the Day.",
+      "El autorretrato fue capturado en la ubicación de Vera Rubin Ridge."
+    ],
+    "eventKey": "NASA-publica-imagen-VeraRubinRidge",
+    "partial": true,
+    "summarizedAt": "2026-10-03T10:19:15.588987+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-77fd8f3ca3dd47f7df11577e": {
+    "id": "n-77fd8f3ca3dd47f7df11577e",
+    "url": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "economia",
+    "lang": "en",
+    "publishedAt": "2026-10-03T08:58:44+00:00",
+    "sourceTitle": "Suppliers pile pressure on government over energy bills",
+    "fingerprint": "d42794ae03d050057f38a1cc",
+    "title": "Proveedores energéticos exigen medidas urgentes al Gobierno",
+    "summary": "La patronal Energy UK reclama al Ejecutivo británico una intervención inmediata para aliviar la carga de las facturas energéticas de los hogares durante el próximo invierno.",
+    "paragraphs": [
+      "La asociación comercial Energy UK ha instado al Gobierno a tomar medidas ante la creciente preocupación por la capacidad de los consumidores para afrontar los costes energéticos en los meses venideros.",
+      "El sector advierte sobre la necesidad de implementar soluciones rápidas para mitigar el impacto económico en las familias durante la temporada invernal."
+    ],
+    "bullets": [
+      "Energy UK solicita una respuesta gubernamental urgente.",
+      "El foco se sitúa en la dificultad de los hogares para pagar sus facturas este invierno."
+    ],
+    "eventKey": "Energy UK presiona al Gobierno británico por las facturas energéticas",
+    "partial": true,
+    "summarizedAt": "2026-10-03T10:19:15.588987+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-46bdb16b29b7f133d7c4309d": {
+    "id": "n-46bdb16b29b7f133d7c4309d",
+    "url": "https://www.europapress.es/euskadi/noticia-otegi-aboga-impulsar-politicas-publicas-antifascistas-gobiernos-amplio-espectro-20261003134014.html",
+    "source": "Europa Press Euskadi",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-10-03T11:40:14+00:00",
+    "sourceTitle": "Otegi aboga por impulsar \"políticas públicas antifascistas\" desde \"gobiernos de amplio espectro\"",
+    "fingerprint": "f4066719472e9a42391a8932",
+    "title": "Arnaldo Otegi propone gobiernos de amplio espectro para aplicar políticas antifascistas",
+    "summary": "El líder de EH Bildu plantea la creación de ejecutivos basados en programas mínimos para hacer frente a situaciones excepcionales, excluyendo a formaciones autoritarias.",
+    "paragraphs": [
+      "Arnaldo Otegi ha defendido la necesidad de articular gobiernos de amplio espectro ante contextos de excepcionalidad. Según el secretario general de EH Bildu, estos ejecutivos deberían centrarse en implementar políticas públicas de carácter antifascista.",
+      "La propuesta contempla la exclusión de aquellas fuerzas políticas calificadas por el dirigente como autoritarias o defensoras de la barbarie, priorizando acuerdos basados en programas de mínimos."
+    ],
+    "bullets": [
+      "Apuesta por gobiernos de amplio espectro.",
+      "Defensa de políticas públicas antifascistas.",
+      "Exclusión de formaciones autoritarias."
+    ],
+    "eventKey": "Arnaldo Otegi propone gobiernos de amplio espectro",
+    "partial": true,
+    "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-ee557a00a532272798f6ebb9": {
+    "id": "n-ee557a00a532272798f6ebb9",
+    "url": "https://www.europapress.es/nacional/noticia-jueza-investigo-hermano-pedro-sanchez-declara-jueves-perjudicada-caso-leire-diez-20261003132953.html",
+    "source": "Europa Press",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-10-03T11:29:53+00:00",
+    "sourceTitle": "La jueza que investigó al hermano de Pedro Sánchez declara este jueves como perjudicada en el 'caso Leire Díez'",
+    "fingerprint": "1d5e60a2ff932a04e5c024a1",
+    "title": "La magistrada Beatriz Biedma testificará como perjudicada en el caso Leire Díez",
+    "summary": "La jueza que instruye la causa contra el hermano de Pedro Sánchez comparecerá ante la Audiencia Nacional en el marco de una investigación sobre una supuesta red para obstaculizar procesos judiciales vinculados al PSOE.",
+    "paragraphs": [
+      "Beatriz Biedma, responsable de la investigación sobre David Sánchez, ha sido citada para declarar este jueves en calidad de perjudicada. Su testimonio se enmarca en el denominado caso Leire Díez, que dirige el magistrado Santiago Pedraz.",
+      "El procedimiento judicial busca esclarecer la existencia de una presunta trama orientada a desestabilizar causas que afectan a miembros del Partido Socialista."
+    ],
+    "bullets": [
+      "La jueza Biedma investiga actualmente a David Sánchez.",
+      "El caso Leire Díez indaga en una supuesta red de obstrucción judicial.",
+      "Santiago Pedraz lidera la investigación en la Audiencia Nacional."
+    ],
+    "eventKey": "Beatriz Biedma declara en el caso Leire Díez",
+    "partial": true,
+    "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-bccc07ae189ae47d3e70ee79": {
+    "id": "n-bccc07ae189ae47d3e70ee79",
+    "url": "https://www.theguardian.com/world/2026/oct/03/remains-czar-samuel-return-bulgaria-greece-talks",
+    "source": "The Guardian",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-10-03T10:31:54+00:00",
+    "sourceTitle": "Remains of medieval tsar return to Bulgaria after decades-long dispute with Greece",
+    "fingerprint": "28229d08bd39c204d9a4d393",
+    "title": "Los restos del zar Samuel regresan a Bulgaria tras décadas de disputa con Grecia",
+    "summary": "Tras años de negociaciones, los restos mortales del monarca medieval serán trasladados desde Grecia a Bulgaria para recibir honores de Estado.",
+    "paragraphs": [
+      "El Gobierno búlgaro recibirá este sábado los restos del zar Samuel, hallados hace seis décadas en territorio griego. El traslado se realizará en un avión militar escoltado por cazas hasta Sofía.",
+      "El Ejecutivo griego confía en que este gesto facilite futuras reclamaciones internacionales, como la devolución de los mármoles del Partenón por parte del Reino Unido."
+    ],
+    "bullets": [
+      "El traslado incluye una ceremonia con salvas de honor y una procesión hasta la iglesia de Santa Sofía.",
+      "La entrega se produce tras un largo periodo de conversaciones diplomáticas entre ambos países.",
+      "El primer ministro griego vincula este acto con la estrategia para recuperar los mármoles del Partenón."
+    ],
+    "eventKey": "Zar Samuel repatriación Bulgaria Grecia",
+    "partial": true,
+    "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-4be7cfcbd6cc6cf19a77a209": {
+    "id": "n-4be7cfcbd6cc6cf19a77a209",
+    "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+    "source": "Ars Technica",
+    "section": "tecnologia",
+    "lang": "en",
+    "publishedAt": "2026-10-02T23:03:16+00:00",
+    "sourceTitle": "Apple changes full-disk access permissions to curb abuse from AI agents",
+    "fingerprint": "2a0cf76934e38b348f7baf3e",
+    "title": "Apple modifica los permisos de acceso al disco para limitar el uso de agentes de IA",
+    "summary": "Apple ha ajustado los permisos de acceso total al disco en sus sistemas para prevenir posibles abusos por parte de agentes de inteligencia artificial, a pesar de las discrepancias con Meta.",
+    "paragraphs": [
+      "La compañía tecnológica ha implementado cambios en la gestión de permisos de acceso total al disco. Esta medida busca restringir las capacidades de los agentes de IA que podrían comprometer la privacidad del usuario.",
+      "Existe una controversia sobre la eficacia de estas restricciones, ya que Meta sostiene que el sistema actual no es suficiente para proteger la lectura de mensajes, una postura que Apple rechaza."
+    ],
+    "bullets": [
+      "Apple endurece los permisos de acceso al disco.",
+      "El objetivo es mitigar abusos derivados de agentes de IA.",
+      "Meta cuestiona la suficiencia de las medidas actuales."
+    ],
+    "eventKey": "Apple-modifica-permisos-acceso-disco",
+    "partial": true,
+    "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-8468c5b6480228c2f5912ada": {
+    "id": "n-8468c5b6480228c2f5912ada",
+    "url": "https://www.theguardian.com/film/2026/oct/02/cameron-winter-carnegie-hall-review-paul-thomas-anderson",
+    "source": "The Guardian",
+    "section": "cultura",
+    "lang": "en",
+    "publishedAt": "2026-10-02T20:13:24+00:00",
+    "sourceTitle": "Cameron Winter at Carnegie Hall review – Paul Thomas Anderson’s sumptuous recording is an immediate classic",
+    "fingerprint": "e2b55140a04a8abd4750e4ab",
+    "title": "La crítica elogia la película de concierto de Cameron Winter dirigida por Paul Thomas Anderson",
+    "summary": "El debut cinematográfico de Paul Thomas Anderson sobre el músico Cameron Winter ha sido calificado como un clásico instantáneo tras su presentación en el Festival de Cine de Nueva York.",
+    "paragraphs": [
+      "La cinta captura la actuación acústica que el líder de The Geese ofreció en el Carnegie Hall el pasado diciembre. El filme retrata la atmósfera íntima y austera del recital, donde el artista interpretó temas de su álbum debut, Heavy Metal.",
+      "El autor de la reseña destaca la capacidad del músico para cautivar a la audiencia y la naturaleza enigmática de su puesta en escena, que incluyó momentos de humor irónico durante la grabación."
+    ],
+    "bullets": [
+      "El documental registra la serie de conciertos acústicos que cerraron el año de éxito del artista.",
+      "La crítica subraya la intensidad emocional de la interpretación de Winter.",
+      "El filme ha sido presentado en el marco del Festival de Cine de Nueva York."
+    ],
+    "eventKey": "Cameron Winter y Paul Thomas Anderson presentan película de concierto en Nueva York",
+    "partial": true,
+    "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-60bcf908d15afdd4de586dd4": {
+    "id": "n-60bcf908d15afdd4de586dd4",
+    "url": "https://www.durangon.com/nuevas-citas-en-durango-para-renovar-el-dni-y-el-pasaporte/",
+    "source": "Durangon",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-10-02T05:25:30+00:00",
+    "sourceTitle": "Nuevas citas en Durango para renovar el DNI y el pasaporte",
+    "fingerprint": "1842cff370de2d6ac979f6ba",
+    "title": "Nuevas citas disponibles en Durango para la renovación de documentos",
+    "summary": "El Servicio de Atención Ciudadana de Durango ha habilitado nuevos turnos para gestionar la renovación del DNI y el pasaporte.",
+    "paragraphs": [
+      "Los ciudadanos interesados en actualizar su documentación oficial pueden solicitar cita previa desde hoy mismo en las oficinas del SAC.",
+      "El trámite puede realizarse tanto de manera presencial como a través de contacto telefónico."
+    ],
+    "bullets": [
+      "Disponibilidad de citas para DNI y pasaporte",
+      "Gestión a través del SAC",
+      "Atención presencial o telefónica"
+    ],
+    "eventKey": "ciudadanos-renovar-documentacion-durango",
+    "partial": true,
+    "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-afee19a0de7066b3eb5508c0": {
+    "id": "n-afee19a0de7066b3eb5508c0",
+    "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-10-03T11:35:48+00:00",
+    "sourceTitle": "Protesters across Spain demand action over housing crisis",
+    "fingerprint": "048d8a2ab1fdd66d22dcab04",
+    "title": "Protestas en España por la crisis de la vivienda",
+    "summary": "Diversas ciudades españolas se preparan para una jornada de movilizaciones este sábado ante la falta de avances legislativos en materia de vivienda.",
+    "paragraphs": [
+      "Más de medio centenar de manifestaciones han sido convocadas en todo el territorio nacional. El descontento social surge tras el fracaso del Gobierno para lograr la aprobación de medidas de emergencia en el Parlamento."
+    ],
+    "bullets": [
+      "Más de 50 protestas programadas para el sábado.",
+      "El Gobierno no ha conseguido sacar adelante legislación de emergencia."
+    ],
+    "eventKey": "manifestantes-protestan-vivienda-espana",
+    "partial": true,
+    "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-4de9c63a1c81f9784abf24f2": {
+    "id": "n-4de9c63a1c81f9784abf24f2",
+    "url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/",
+    "source": "NASA",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-10-02T19:54:54+00:00",
+    "sourceTitle": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
+    "fingerprint": "7470eeb956e4ad8674b632dc",
+    "title": "La astronauta Christina Koch participará en un evento de la NFL en Filadelfia",
+    "summary": "La astronauta de la NASA Christina Koch asistirá a un partido de fútbol americano en Filadelfia para promover los avances en exploración espacial y aeronáutica.",
+    "paragraphs": [
+      "En el marco de la iniciativa Inspiration Tour de la NASA, la ingeniera y astronauta Christina Koch acudirá al encuentro entre los Philadelphia Eagles y los Los Angeles Rams este próximo domingo 4 de octubre.",
+      "Koch, quien ha completado una estancia de 338 días en el espacio, aprovechará su presencia en el estadio para destacar los logros y la capacidad de innovación de Estados Unidos en el ámbito aeroespacial."
+    ],
+    "bullets": [
+      "La visita forma parte del programa Inspiration Tour de la agencia espacial.",
+      "El evento tendrá lugar durante el partido de la NFL en Filadelfia.",
+      "Koch compartirá su experiencia como exploradora y su trayectoria técnica."
+    ],
+    "eventKey": "Christina Koch visita partido NFL Filadelfia",
+    "partial": true,
+    "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-0bc64e22a7c7bdcad265d803": {
+    "id": "n-0bc64e22a7c7bdcad265d803",
+    "url": "https://www.xataka.com/empresas-y-economia/justicia-burgo-ebro-villanueva-gallego-se-plantan-centros-datos-amazon-como-tributan",
+    "source": "Xataka",
+    "section": "tecnologia",
+    "lang": "es",
+    "publishedAt": "2026-10-03T11:15:22+00:00",
+    "sourceTitle": "\"Es de justicia\". El Burgo de Ebro y Villanueva de Gállego se plantan por los centros de datos de Amazon y cómo tributan",
+    "fingerprint": "329acd16476834a4bc6ef3f3",
+    "title": "El Burgo de Ebro y Villanueva de Gállego reclaman los impuestos de los centros de datos de Amazon",
+    "summary": "Los ayuntamientos de El Burgo de Ebro y Villanueva de Gállego han iniciado una protesta formal para exigir que Amazon Web Services tribute el Impuesto sobre Actividades Económicas (IAE) en sus municipios y no en Madrid.",
+    "paragraphs": [
+      "Los consistorios denuncian que, al tributar mediante una cuota nacional, las localidades aragonesas que albergan las infraestructuras no perciben los ingresos fiscales correspondientes. Los alcaldes consideran esta situación injusta y reclaman tanto los importes no ingresados desde 2022 como las cantidades futuras derivadas de las nuevas ampliaciones.",
+      "El conflicto se agrava por la pérdida previa del Impuesto sobre Construcciones, Instalaciones y Obras (ICIO) debido a la tramitación de los proyectos como Plan de Interés General de Aragón. Ante este escenario, el alcalde de El Burgo de Ebro ha condicionado la firma de futuros convenios a la consecución de un acuerdo económico que compense estas pérdidas."
+    ],
+    "bullets": [
+      "Amazon Web Services utiliza la modalidad de cuota nacional para el IAE, lo que permite a la empresa elegir dónde tributar.",
+      "Los municipios afectados estiman pérdidas de cientos de miles de euros desde 2022 y temen por los ingresos de los nuevos centros.",
+      "El alcalde de El Burgo de Ebro se niega a firmar el convenio del PIGA hasta que se resuelva la compensación económica."
+    ],
+    "eventKey": "El Burgo de Ebro y Villanueva de Gállego reclaman impuestos a Amazon",
+    "partial": true,
+    "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-ffdd459a140d09988dd0f283": {
+    "id": "n-ffdd459a140d09988dd0f283",
+    "url": "https://www.bbc.co.uk/news/articles/ck624p1y8ejyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "economia",
+    "lang": "en",
+    "publishedAt": "2026-10-03T06:08:05+00:00",
+    "sourceTitle": "New baby bank 'open to everybody'",
+    "fingerprint": "6a7e682fc2aab2cd1a87c10f",
+    "title": "Un nuevo banco de artículos para bebés abierto a todos",
+    "summary": "Se ha inaugurado una nueva instalación que proporciona productos básicos gratuitos destinados a bebés y niños pequeños.",
+    "paragraphs": [
+      "El centro ofrece artículos esenciales sin coste alguno para las familias, centrándose en cubrir necesidades básicas como ropa infantil.",
+      "La iniciativa se distingue por estar abierta a cualquier persona que requiera este tipo de apoyo material."
+    ],
+    "bullets": [
+      "Suministro gratuito de ropa para bebés y niños pequeños.",
+      "Acceso universal para todos los interesados."
+    ],
+    "eventKey": "banco de bebés apertura",
+    "partial": true,
+    "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-a257ffa6d638d7cc8608dae6": {
+    "id": "n-a257ffa6d638d7cc8608dae6",
+    "url": "https://elpais.com/cultura/2026-10-03/el-bellas-artes-de-bilbao-evoluciona-con-el-genio-de-foster-y-el-legado-de-los-grandes-coleccionistas.html",
+    "source": "El País",
+    "section": "cultura",
+    "lang": "es",
+    "publishedAt": "2026-10-03T03:30:01+00:00",
+    "sourceTitle": "El Bellas Artes de Bilbao evoluciona con el genio de Foster y el legado de los grandes coleccionistas",
+    "fingerprint": "397340950084ea7a99f05a5d",
+    "title": "El Museo de Bellas Artes de Bilbao estrena ampliación y reorganiza su colección",
+    "summary": "El museo bilbaíno ha inaugurado una reforma arquitectónica diseñada por Norman Foster y ha reordenado sus fondos artísticos, enriquecidos recientemente por diversas donaciones.",
+    "paragraphs": [
+      "La pinacoteca, que celebra su centenario, ha completado una importante ampliación bajo la dirección del arquitecto Norman Foster. Esta intervención busca modernizar las instalaciones y dar cabida a la creciente colección del centro.",
+      "La institución ha aprovechado esta transformación para reestructurar la exposición de sus obras, integrando las piezas recibidas a través de legados y donaciones de coleccionistas privados."
+    ],
+    "bullets": [
+      "Ampliación arquitectónica a cargo de Norman Foster.",
+      "Reorganización de los fondos artísticos del museo.",
+      "Incorporación de nuevas obras procedentes de legados y donaciones."
+    ],
+    "eventKey": "Museo Bellas Artes Bilbao inaugura ampliación",
+    "partial": true,
+    "summarizedAt": "2026-10-03T10:19:15.588987+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-9f7866135383473e5f1a77ed": {
+    "id": "n-9f7866135383473e5f1a77ed",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/03/several-people-injured-after-vehicle-hits-crowd-at-knights-grand-final-farewell-in-newcastle",
+    "source": "The Guardian",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-10-03T10:12:43+00:00",
+    "sourceTitle": "Five-year-old girl in critical condition after car hits crowd in Newcastle",
+    "fingerprint": "c0c7249680256c6f57fcf470",
+    "title": "Atropello múltiple en Newcastle durante la despedida de los Knights",
+    "summary": "Un vehículo ha arrollado a una multitud que esperaba la salida del autobús del equipo de rugby Knights, dejando diez heridos, entre ellos tres menores.",
+    "paragraphs": [
+      "Diez personas han resultado heridas, una de ellas de gravedad, tras ser embestidas por un coche en Newcastle. El suceso ocurrió mientras los aficionados aguardaban la despedida del equipo antes de la gran final de la NRL.",
+      "La policía de Nueva Gales del Sur ha confirmado la detención del conductor, un automovilista novel, en el lugar de los hechos. Una niña de cinco años se encuentra en estado crítico tras el impacto."
+    ],
+    "bullets": [
+      "Diez personas heridas, incluyendo tres niños.",
+      "Una menor de cinco años en estado crítico.",
+      "Detención de un conductor novel en el lugar del suceso."
+    ],
+    "eventKey": "conductor-atropella-multitud-newcastle",
+    "partial": true,
+    "summarizedAt": "2026-10-03T10:19:15.588987+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-e9d78abfb6a8dc46c9bccd79": {
+    "id": "n-e9d78abfb6a8dc46c9bccd79",
+    "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+    "source": "Ars Technica",
+    "section": "tecnologia",
+    "lang": "en",
+    "publishedAt": "2026-10-02T21:19:05+00:00",
+    "sourceTitle": "Someone got Doom in an SQL database",
+    "fingerprint": "b48b0061e2bf25884916341f",
+    "title": "Logran ejecutar el videojuego Doom dentro de una base de datos SQL",
+    "summary": "Un desarrollador ha conseguido renderizar el clásico juego Doom utilizando exclusivamente consultas SQL, logrando una tasa de refresco de 35 fotogramas por segundo.",
+    "paragraphs": [
+      "El proyecto ha sido posible mediante la implementación de 1.300 líneas de código SQL, que permiten generar vistas de mapa de bits del juego dentro del entorno de la base de datos.",
+      "Esta curiosa hazaña técnica demuestra la capacidad de procesamiento gráfico que puede llegar a alcanzar un sistema de gestión de datos mediante consultas especializadas."
+    ],
+    "bullets": [
+      "Se han empleado 1.300 líneas de código SQL.",
+      "El sistema alcanza una fluidez de 35 fps.",
+      "El juego se renderiza mediante vistas de mapa de bits."
+    ],
+    "eventKey": "desarrollador-ejecuta-doom-sql",
+    "partial": true,
+    "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-fac79c12e603dac509144488": {
+    "id": "n-fac79c12e603dac509144488",
+    "url": "https://www.europapress.es/euskadi/noticia-detenido-hombre-vitoria-autor-dos-robos-violencia-mujeres-avanzada-edad-portales-20261003114320.html",
+    "source": "Europa Press Euskadi",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-10-03T09:43:20+00:00",
+    "sourceTitle": "Detenido un hombre en Vitoria como autor de dos robos con violencia a mujeres de avanzada edad en sus portales",
+    "fingerprint": "c8bed2b64c6aff21117e2d89",
+    "title": "Detenido en Vitoria un hombre por robar con violencia a dos ancianas",
+    "summary": "La Ertzaintza ha arrestado a un varón de 31 años acusado de arrebatar cadenas de oro a dos mujeres de edad avanzada en sus domicilios durante el pasado mes de agosto.",
+    "paragraphs": [
+      "El sospechoso fue detenido este viernes por su presunta implicación en dos delitos de robo con violencia. Según la investigación, el individuo abordaba a las víctimas en el momento en que accedían a sus portales.",
+      "El método empleado consistía en dar un tirón a las mujeres para sustraerles las cadenas de oro que portaban."
+    ],
+    "bullets": [
+      "El detenido tiene 31 años.",
+      "Los hechos ocurrieron en agosto en Vitoria.",
+      "Las víctimas fueron mujeres de avanzada edad."
+    ],
+    "eventKey": "hombre-detenido-robo-violencia-vitoria",
+    "partial": true,
+    "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-4278c81c55830188079eae15": {
+    "id": "n-4278c81c55830188079eae15",
+    "url": "https://www.europapress.es/nacional/noticia-irene-montero-pide-decreto-baje-alquileres-expropie-viviendas-fondos-buitre-antes-convocar-elecciones-20261003130430.html",
+    "source": "Europa Press",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-10-03T11:04:30+00:00",
+    "sourceTitle": "Irene Montero pide un decreto que baje alquileres y expropie viviendas a fondos buitre \"antes que convocar elecciones\"",
+    "fingerprint": "d8c88f03919a567fd6facb3e",
+    "title": "Irene Montero exige medidas urgentes en vivienda antes de cualquier adelanto electoral",
+    "summary": "La eurodiputada de Podemos ha instado al Gobierno a aprobar un decreto para reducir los alquileres y expropiar inmuebles a fondos de inversión, priorizando estas acciones sobre la convocatoria de elecciones.",
+    "paragraphs": [
+      "Irene Montero ha señalado que la intervención en el mercado de la vivienda debe ser la prioridad absoluta del Ejecutivo. La dirigente de Podemos sostiene que es necesario frenar la especulación mediante la expropiación de viviendas en manos de fondos buitre y una bajada obligatoria de las rentas.",
+      "Además de estas medidas, Montero ha manifestado su respaldo a la convocatoria de una huelga general en el país como forma de presión para lograr estos cambios legislativos."
+    ],
+    "bullets": [
+      "Exigencia de un real decreto para bajar los precios del alquiler.",
+      "Propuesta de expropiación de viviendas a fondos buitre.",
+      "Apoyo explícito a la huelga general en España.",
+      "Priorización de la agenda social frente a un posible adelanto electoral."
+    ],
+    "eventKey": "Irene Montero exige medidas de vivienda en España",
+    "partial": true,
+    "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-675a68b0bd645e8fea55d004": {
+    "id": "n-675a68b0bd645e8fea55d004",
+    "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-10-03T11:20:21+00:00",
+    "sourceTitle": "Flydubai co-pilot attacked captain with axe, UAE official says",
+    "fingerprint": "82270b346185f1a97c970733",
+    "title": "Un copiloto de Flydubai habría atacado al capitán con un hacha",
+    "summary": "Un oficial de los Emiratos Árabes Unidos ha señalado a un copiloto por intentar tomar el control de un avión con destino a Israel tras agredir al comandante con un hacha.",
+    "paragraphs": [
+      "Las autoridades emiratíes han confirmado un grave incidente a bordo de un vuelo de la aerolínea Flydubai. Según la información oficial, el copiloto habría utilizado un hacha para atacar al capitán en un aparente intento de hacerse con el mando de la aeronave.",
+      "Diversos medios de comunicación han identificado al presunto agresor como Hamam al-Hammami, quien se encuentra bajo acusación por estos hechos durante el trayecto hacia territorio israelí."
+    ],
+    "bullets": [
+      "El incidente involucró a un vuelo de Flydubai con destino a Israel.",
+      "El copiloto está acusado de intentar tomar el control del avión.",
+      "Se reporta el uso de un hacha durante la agresión al capitán."
+    ],
+    "eventKey": "Hamam al-Hammami ataca a capitán de Flydubai en vuelo a Israel",
+    "partial": true,
+    "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-9303edfce056f1aa358aa8cc": {
+    "id": "n-9303edfce056f1aa358aa8cc",
+    "url": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
+    "source": "NASA",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-10-02T19:30:00+00:00",
+    "sourceTitle": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+    "fingerprint": "c9a7af54bcc875a145a19489",
+    "title": "La misión SpaceX Crew-12 finaliza su estancia en la Estación Espacial Internacional",
+    "summary": "La tripulación de la misión Crew-12 se prepara para regresar a la Tierra a principios de octubre tras completar sus labores de investigación científica en el espacio.",
+    "paragraphs": [
+      "Los astronautas de la NASA Jessica Meir y Jack Hathaway, junto a Sophie Adenot de la ESA y el cosmonauta de Roscosmos Andrey Fedyaev, concluirán próximamente su misión en la Estación Espacial Internacional.",
+      "Durante su estancia, el equipo ha llevado a cabo diversos experimentos científicos destinados a mejorar la vida en nuestro planeta y avanzar en la preparación para futuras misiones espaciales."
+    ],
+    "bullets": [
+      "Regreso previsto para principios de octubre.",
+      "Participación de agencias internacionales (NASA, ESA y Roscosmos).",
+      "Enfoque en investigación científica y preparación para misiones futuras."
+    ],
+    "eventKey": "tripulación Crew-12 regresa de la Estación Espacial Internacional",
+    "partial": true,
+    "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-e289be6fb5f2e761b6bffd00": {
+    "id": "n-e289be6fb5f2e761b6bffd00",
+    "url": "https://www.xataka.com/movilidad/andres-becares-responsable-concesionario-ebro-gente-no-se-hipoteca-bmw-prefiere-compra-racional",
+    "source": "Xataka",
+    "section": "tecnologia",
+    "lang": "es",
+    "publishedAt": "2026-10-03T11:01:22+00:00",
+    "sourceTitle": "Andrés Bécares, responsable de un concesionario Ebro: \"La gente ya no se hipoteca por un BMW, prefiere una compra más racional\"",
+    "fingerprint": "24ba9b21f3a6f291fee4064d",
+    "title": "El auge de Ebro: la marca española que busca competir con las firmas premium",
+    "summary": "Responsables de la marca Ebro en Asturias destacan el éxito comercial de sus vehículos, impulsado por una percepción de calidad superior y una estrategia de marketing que apela a la nostalgia y la visibilidad actual.",
+    "paragraphs": [
+      "La marca Ebro, que ensambla vehículos del Grupo Chery en Barcelona, está logrando una notable acogida en el mercado español. Sus responsables aseguran que los clientes valoran la calidad de rodadura y los acabados, incluso comparándolos favorablemente con marcas tradicionales como Mercedes o BMW.",
+      "El éxito de la compañía se atribuye tanto a la conexión emocional con su legado histórico como a acciones de marketing recientes, incluyendo el patrocinio de la Selección Española. Con cifras de ventas que superan a fabricantes consolidados como Fiat o Ford, la marca aspira a convertirse en un referente automovilístico nacional."
+    ],
+    "bullets": [
+      "Ebro ha comercializado 20.088 unidades en lo que va de año, superando a marcas como Ford y Fiat.",
+      "Los responsables de la marca señalan un cambio en el consumidor, que prioriza una compra racional frente a la financiación de vehículos de lujo.",
+      "La estrategia de marca combina el ensamblaje de componentes chinos con un ajuste dinámico realizado en España.",
+      "El patrocinio de la Selección Española ha sido clave para captar al público joven que desconocía la trayectoria histórica de la firma."
+    ],
+    "eventKey": "Ebro+expansión comercial+España",
+    "partial": true,
+    "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-449ea01b2cef907e40490782": {
+    "id": "n-449ea01b2cef907e40490782",
+    "url": "https://www.bbc.co.uk/news/articles/c5j9x99yep92o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "economia",
+    "lang": "en",
+    "publishedAt": "2026-10-03T05:27:43+00:00",
+    "sourceTitle": "Rising energy costs add to cost of living for Northern Ireland's consumers",
+    "fingerprint": "da87baed0acc7d47916cecd9",
+    "title": "El aumento de los costes energéticos presiona a los hogares de Irlanda del Norte",
+    "summary": "Los consumidores norirlandeses se enfrentan a una mayor carga económica debido a la reciente entrada en vigor de subidas en las tarifas energéticas.",
+    "paragraphs": [
+      "La economía doméstica en Irlanda del Norte se ve afectada por un incremento en los precios de la energía. Esta situación agrava la presión sobre el coste de vida de los ciudadanos en la región."
+    ],
+    "bullets": [
+      "Entrada en vigor de nuevas tarifas energéticas.",
+      "Aumento de la presión financiera sobre los hogares."
+    ],
+    "eventKey": "hogares Irlanda del Norte sufren subida precios energía",
+    "partial": true,
+    "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
+    "model": "gemini-3.1-flash-lite"
   }
 }
