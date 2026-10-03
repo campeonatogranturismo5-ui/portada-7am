@@ -138,5 +138,198 @@
       "summarizedAt": "2026-10-02T05:05:11.303921+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-d7d4a3c33fc9c1c00c12c88f": {
+    "fingerprint": "c137ad8461b1971a8785479c",
+    "item": {
+      "id": "n-d7d4a3c33fc9c1c00c12c88f",
+      "url": "https://www.durangon.com/durango-abre-un-ciclo-de-charlas-para-afrontar-los-discursos-de-odio/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-02T08:12:06+00:00",
+      "sourceTitle": "Durango abre un ciclo de charlas para afrontar los discursos de odio",
+      "fingerprint": "c137ad8461b1971a8785479c",
+      "title": "Durango inicia un ciclo de conferencias contra los discursos de odio",
+      "summary": "El municipio vizcaíno pone en marcha una serie de charlas informativas con el objetivo de abordar y combatir los discursos de odio en la sociedad actual.",
+      "paragraphs": [
+        "La programación comienza esta misma tarde en la biblioteca Bizenta Mogel, donde se tratará la problemática desde una perspectiva jurídica y social.",
+        "El catedrático de Derecho Penal, Jon-Mirena Landa, será el encargado de abrir este ciclo de sesiones divulgativas."
+      ],
+      "bullets": [
+        "Ponente inaugural: Jon-Mirena Landa, catedrático de Derecho Penal.",
+        "Lugar: Bizenta Mogel Biblioteka.",
+        "Horario: 18.30 horas."
+      ],
+      "eventKey": "Jon-Mirena Landa inaugura ciclo de charlas en Durango",
+      "partial": true,
+      "summarizedAt": "2026-10-03T10:19:15.588987+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-9f7866135383473e5f1a77ed": {
+    "fingerprint": "c0c7249680256c6f57fcf470",
+    "item": {
+      "id": "n-9f7866135383473e5f1a77ed",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/03/several-people-injured-after-vehicle-hits-crowd-at-knights-grand-final-farewell-in-newcastle",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-03T10:12:43+00:00",
+      "sourceTitle": "Five-year-old girl in critical condition after car hits crowd in Newcastle",
+      "fingerprint": "c0c7249680256c6f57fcf470",
+      "title": "Atropello múltiple en Newcastle durante la despedida de los Knights",
+      "summary": "Un vehículo ha arrollado a una multitud que esperaba la salida del autobús del equipo de rugby Knights, dejando diez heridos, entre ellos tres menores.",
+      "paragraphs": [
+        "Diez personas han resultado heridas, una de ellas de gravedad, tras ser embestidas por un coche en Newcastle. El suceso ocurrió mientras los aficionados aguardaban la despedida del equipo antes de la gran final de la NRL.",
+        "La policía de Nueva Gales del Sur ha confirmado la detención del conductor, un automovilista novel, en el lugar de los hechos. Una niña de cinco años se encuentra en estado crítico tras el impacto."
+      ],
+      "bullets": [
+        "Diez personas heridas, incluyendo tres niños.",
+        "Una menor de cinco años en estado crítico.",
+        "Detención de un conductor novel en el lugar del suceso."
+      ],
+      "eventKey": "conductor-atropella-multitud-newcastle",
+      "partial": true,
+      "summarizedAt": "2026-10-03T10:19:15.588987+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-32d936fd69e9a889106d2eda": {
+    "fingerprint": "dc0f7f796c0b2f0295b488bd",
+    "item": {
+      "id": "n-32d936fd69e9a889106d2eda",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+      "source": "NASA",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-03T04:05:00+00:00",
+      "sourceTitle": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+      "fingerprint": "dc0f7f796c0b2f0295b488bd",
+      "title": "La NASA publica un autorretrato del rover en Vera Rubin Ridge",
+      "summary": "La sección de Astronomía del Día de la NASA ha compartido una imagen captada por un rover en la formación geológica Vera Rubin Ridge.",
+      "paragraphs": [
+        "La agencia espacial estadounidense ha difundido una nueva fotografía dentro de su serie diaria de astronomía. En esta ocasión, la imagen muestra un autorretrato tomado por un vehículo explorador en la zona conocida como Vera Rubin Ridge."
+      ],
+      "bullets": [
+        "La imagen forma parte de la iniciativa Astronomy Picture of the Day.",
+        "El autorretrato fue capturado en la ubicación de Vera Rubin Ridge."
+      ],
+      "eventKey": "NASA-publica-imagen-VeraRubinRidge",
+      "partial": true,
+      "summarizedAt": "2026-10-03T10:19:15.588987+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-77fd8f3ca3dd47f7df11577e": {
+    "fingerprint": "d42794ae03d050057f38a1cc",
+    "item": {
+      "id": "n-77fd8f3ca3dd47f7df11577e",
+      "url": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-03T08:58:44+00:00",
+      "sourceTitle": "Suppliers pile pressure on government over energy bills",
+      "fingerprint": "d42794ae03d050057f38a1cc",
+      "title": "Proveedores energéticos exigen medidas urgentes al Gobierno",
+      "summary": "La patronal Energy UK reclama al Ejecutivo británico una intervención inmediata para aliviar la carga de las facturas energéticas de los hogares durante el próximo invierno.",
+      "paragraphs": [
+        "La asociación comercial Energy UK ha instado al Gobierno a tomar medidas ante la creciente preocupación por la capacidad de los consumidores para afrontar los costes energéticos en los meses venideros.",
+        "El sector advierte sobre la necesidad de implementar soluciones rápidas para mitigar el impacto económico en las familias durante la temporada invernal."
+      ],
+      "bullets": [
+        "Energy UK solicita una respuesta gubernamental urgente.",
+        "El foco se sitúa en la dificultad de los hogares para pagar sus facturas este invierno."
+      ],
+      "eventKey": "Energy UK presiona al Gobierno británico por las facturas energéticas",
+      "partial": true,
+      "summarizedAt": "2026-10-03T10:19:15.588987+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-a257ffa6d638d7cc8608dae6": {
+    "fingerprint": "397340950084ea7a99f05a5d",
+    "item": {
+      "id": "n-a257ffa6d638d7cc8608dae6",
+      "url": "https://elpais.com/cultura/2026-10-03/el-bellas-artes-de-bilbao-evoluciona-con-el-genio-de-foster-y-el-legado-de-los-grandes-coleccionistas.html",
+      "source": "El País",
+      "section": "cultura",
+      "lang": "es",
+      "publishedAt": "2026-10-03T03:30:01+00:00",
+      "sourceTitle": "El Bellas Artes de Bilbao evoluciona con el genio de Foster y el legado de los grandes coleccionistas",
+      "fingerprint": "397340950084ea7a99f05a5d",
+      "title": "El Museo de Bellas Artes de Bilbao estrena ampliación y reorganiza su colección",
+      "summary": "El museo bilbaíno ha inaugurado una reforma arquitectónica diseñada por Norman Foster y ha reordenado sus fondos artísticos, enriquecidos recientemente por diversas donaciones.",
+      "paragraphs": [
+        "La pinacoteca, que celebra su centenario, ha completado una importante ampliación bajo la dirección del arquitecto Norman Foster. Esta intervención busca modernizar las instalaciones y dar cabida a la creciente colección del centro.",
+        "La institución ha aprovechado esta transformación para reestructurar la exposición de sus obras, integrando las piezas recibidas a través de legados y donaciones de coleccionistas privados."
+      ],
+      "bullets": [
+        "Ampliación arquitectónica a cargo de Norman Foster.",
+        "Reorganización de los fondos artísticos del museo.",
+        "Incorporación de nuevas obras procedentes de legados y donaciones."
+      ],
+      "eventKey": "Museo Bellas Artes Bilbao inaugura ampliación",
+      "partial": true,
+      "summarizedAt": "2026-10-03T10:19:15.588987+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-fac79c12e603dac509144488": {
+    "fingerprint": "e1d8987ccdf64f0150b7c32a",
+    "item": {
+      "id": "n-fac79c12e603dac509144488",
+      "url": "https://www.europapress.es/euskadi/noticia-detenido-hombre-vitoria-autor-dos-robos-violencia-mujeres-avanzada-edad-portales-20261003114320.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-03T09:43:20+00:00",
+      "sourceTitle": "Detenido un hombre en Vitoria como autor de dos robos con violencia a mujeres de avanzada edad en sus portales",
+      "fingerprint": "e1d8987ccdf64f0150b7c32a",
+      "title": "Arrestado en Vitoria un hombre por robar con violencia a dos ancianas",
+      "summary": "La Ertzaintza ha detenido a un varón de 31 años acusado de perpetrar dos robos violentos contra mujeres de edad avanzada en portales de la capital alavesa.",
+      "paragraphs": [
+        "El arresto se ha producido este viernes tras una investigación sobre dos sucesos ocurridos el pasado mes de agosto. El sospechoso habría abordado a las víctimas en sus propios portales para sustraerles sus pertenencias mediante el uso de la fuerza."
+      ],
+      "bullets": [
+        "Detenido un hombre de 31 años en Vitoria.",
+        "Se le atribuyen dos delitos de robo con violencia.",
+        "Las víctimas fueron mujeres de avanzada edad.",
+        "Los hechos tuvieron lugar en el transcurso del mes de agosto."
+      ],
+      "eventKey": "hombre-detenido-robos-violencia-vitoria",
+      "partial": true,
+      "summarizedAt": "2026-10-03T10:19:15.588987+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-1f00bc975d4d87489d74d63f": {
+    "fingerprint": "0e1cb5654e9fa2084f6f4410",
+    "item": {
+      "id": "n-1f00bc975d4d87489d74d63f",
+      "url": "https://www.europapress.es/nacional/noticia-veteranos-policias-piden-interior-acto-conmemoracion-manifestacion-favor-democracia-hace-50-anos-20261003111451.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-03T09:14:51+00:00",
+      "sourceTitle": "Veteranos policías piden a Interior un acto en conmemoración de su manifestación a favor de la democracia hace 50 años",
+      "fingerprint": "0e1cb5654e9fa2084f6f4410",
+      "title": "Veteranos policías solicitan a Interior un homenaje por el 50 aniversario de su marcha prodemocrática",
+      "summary": "Un colectivo de agentes retirados ha instado al Ministerio del Interior a organizar un acto oficial para conmemorar la manifestación que protagonizaron en 1976 en defensa de la democracia.",
+      "paragraphs": [
+        "El grupo de veteranos ha formalizado su petición por escrito, buscando que el Gobierno reconozca la movilización que llevaron a cabo el 17 de diciembre de 1976.",
+        "Esta protesta tuvo lugar durante los primeros compases de la transición democrática en España, marcando un hito para el cuerpo policial de la época."
+      ],
+      "bullets": [
+        "Solicitud formal dirigida al Ministerio del Interior.",
+        "Conmemoración de la manifestación del 17 de diciembre de 1976.",
+        "Reconocimiento del papel de los agentes en la transición democrática."
+      ],
+      "eventKey": "veteranos policías solicitan acto conmemorativo a Interior",
+      "partial": true,
+      "summarizedAt": "2026-10-03T10:19:15.588987+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
