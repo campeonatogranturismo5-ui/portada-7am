@@ -865,5 +865,571 @@
       "summarizedAt": "2026-10-03T11:59:06.036426+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-3bbbc7eb048ec03e21d3ff12": {
+    "fingerprint": "b04e86fb124a7f356651ad27",
+    "item": {
+      "id": "n-3bbbc7eb048ec03e21d3ff12",
+      "url": "https://www.europapress.es/euskadi/noticia-sordo-ccoo-aboga-movilizacion-amplia-reivindique-vivienda-tambien-salarios-20261004112933.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-04T09:29:33+00:00",
+      "sourceTitle": "Sordo (CCOO) aboga por una movilización \"amplia\" que reivindique la vivienda, pero también los salarios",
+      "fingerprint": "b04e86fb124a7f356651ad27",
+      "title": "Unai Sordo (CCOO) propone movilizaciones por la vivienda y los salarios",
+      "summary": "El líder de CCOO, Unai Sordo, defiende la necesidad de protestas sociales que aborden tanto el acceso a la vivienda como la mejora salarial, sin descartar una huelga general. Asimismo, señala la proximidad de un escenario electoral que podría favorecer la unión de las fuerzas a la izquierda del PSOE.",
+      "paragraphs": [
+        "Unai Sordo ha planteado la conveniencia de organizar movilizaciones de gran alcance para exigir soluciones en materia de vivienda y condiciones laborales. El secretario general del sindicato subraya la importancia de adaptar las respuestas a las distintas realidades territoriales, diferenciando entre grandes urbes, zonas turísticas y el entorno rural.",
+        "En el ámbito político, Sordo observa una oportunidad para la confluencia de los partidos situados a la izquierda del PSOE ante la cercanía de los próximos comicios, advirtiendo que el margen temporal para articular esta alianza es limitado."
+      ],
+      "bullets": [
+        "Apuesta por movilizaciones amplias que integren la vivienda y los salarios.",
+        "No descarta la huelga general, aunque pide medir la respuesta según la zona.",
+        "Ve posible una confluencia de fuerzas a la izquierda del PSOE ante las elecciones."
+      ],
+      "eventKey": "Unai Sordo propone movilizaciones por vivienda y salarios",
+      "partial": true,
+      "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-5f1363b390e70e394e6a009b": {
+    "fingerprint": "443662e20011fe5310677f69",
+    "item": {
+      "id": "n-5f1363b390e70e394e6a009b",
+      "url": "https://www.europapress.es/nacional/noticia-vox-plantea-mando-integrado-ejercito-cni-policia-guardia-civil-atender-fronteras-ceuta-melilla-20261004114449.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-04T09:44:49+00:00",
+      "sourceTitle": "Vox plantea un mando integrado por Ejército, CNI, Policía y Guardia Civil para atender las fronteras de Ceuta y Melilla",
+      "fingerprint": "443662e20011fe5310677f69",
+      "title": "Vox propone un mando único para las fronteras de Ceuta y Melilla",
+      "summary": "El partido ha registrado una iniciativa en el Congreso para unificar bajo un mismo mando a las Fuerzas Armadas, el CNI y los cuerpos de seguridad en las ciudades autónomas.",
+      "paragraphs": [
+        "Vox ha planteado la creación de un mando integrado que aglutine a diversos organismos estatales para la gestión fronteriza en Ceuta y Melilla. La propuesta busca coordinar las actuaciones en estas zonas mediante la suma de capacidades militares, de inteligencia y policiales."
+      ],
+      "bullets": [
+        "La iniciativa incluye a las Fuerzas Armadas y al CNI.",
+        "Se integrarían también las Fuerzas y Cuerpos de Seguridad del Estado.",
+        "El plan contempla la participación del Servicio de Vigilancia Aduanera y unidades de policía judicial."
+      ],
+      "eventKey": "Vox-propuesta-mando-integrado-fronteras-Ceuta-Melilla",
+      "partial": true,
+      "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-47a3c398474df3572da38b9a": {
+    "fingerprint": "688f4ebcdec15b87d4502cac",
+    "item": {
+      "id": "n-47a3c398474df3572da38b9a",
+      "url": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-04T10:45:50+00:00",
+      "sourceTitle": "Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live",
+      "fingerprint": "688f4ebcdec15b87d4502cac",
+      "title": "Friedrich Merz visita Kiev en plena ofensiva rusa",
+      "summary": "El canciller alemán ha iniciado un viaje sorpresa a la capital ucraniana coincidiendo con nuevos ataques rusos contra infraestructuras estratégicas.",
+      "paragraphs": [
+        "Friedrich Merz ha llegado a Kiev para reunirse con Volodímir Zelenski en una visita no anunciada previamente. El encuentro se produce mientras Rusia mantiene su presión militar sobre Ucrania, habiendo ejecutado esta misma mañana un ataque con drones contra el Puente Norte de la capital.",
+        "Zelenski ha agradecido el apoyo alemán, destacando el papel de Berlín como principal donante de Ucrania. Ambos mandatarios trabajan en nuevos acuerdos destinados a reforzar las capacidades defensivas ucranianas frente a la ofensiva rusa, que también ha golpeado instalaciones en Sumy y Dnipro."
+      ],
+      "bullets": [
+        "Ataque con drones contra el Puente Norte de Kiev.",
+        "Reunión entre Merz y Zelenski para cerrar nuevos acuerdos de defensa.",
+        "Víctimas mortales confirmadas tras un bombardeo en un almacén de Sumy.",
+        "Alemania reafirma su posición como el mayor donante de ayuda a Ucrania."
+      ],
+      "eventKey": "Friedrich Merz y Volodímir Zelenski se reúnen en Kiev",
+      "partial": true,
+      "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-518ef5b89828b8623ce59fa6": {
+    "fingerprint": "d45409431aeebc13dd54b324",
+    "item": {
+      "id": "n-518ef5b89828b8623ce59fa6",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/",
+      "source": "NASA",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-04T04:05:00+00:00",
+      "sourceTitle": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
+      "fingerprint": "d45409431aeebc13dd54b324",
+      "title": "Arcoíris supernumerarios sobre Nueva Jersey",
+      "summary": "La NASA ha destacado una imagen astronómica que muestra el fenómeno óptico de los arcoíris supernumerarios observado en Nueva Jersey.",
+      "paragraphs": [
+        "La sección de Astronomía del día de la NASA ha publicado una fotografía que ilustra la aparición de arcos supernumerarios en el cielo de Nueva Jersey.",
+        "Este fenómeno, caracterizado por bandas de color adicionales, es analizado habitualmente por astrónomos en la plataforma de divulgación científica de la agencia."
+      ],
+      "bullets": [
+        "Publicación destacada en la sección APOD de la NASA.",
+        "Observación de un fenómeno óptico atmosférico en Nueva Jersey."
+      ],
+      "eventKey": "NASA-publica-imagen-arcoiris-Nueva-Jersey",
+      "partial": true,
+      "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-0515ccd4e753a826ce6d321c": {
+    "fingerprint": "85bed1bb81a3a58a5ec8eb51",
+    "item": {
+      "id": "n-0515ccd4e753a826ce6d321c",
+      "url": "https://www.xataka.com/magnet/estoy-agobiada-he-metido-muchas-cosas-dia-hemos-convertido-nuestras-vacaciones-fenomenos-estresantes",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-04T10:31:22+00:00",
+      "sourceTitle": "\"Estoy agobiada, he metido muchas cosas en el mismo día\": hemos convertido nuestras vacaciones en fenómenos estresantes",
+      "fingerprint": "85bed1bb81a3a58a5ec8eb51",
+      "title": "El estrés se apodera de las vacaciones modernas",
+      "summary": "La tendencia a sobrecargar los periodos de descanso con agendas repletas de actividades y obligaciones está transformando las vacaciones en fuentes de agotamiento. Esta presión por cumplir con listas de lugares imprescindibles y la cultura de la productividad impiden la desconexión real que estos días deberían proporcionar.",
+      "paragraphs": [
+        "Cada vez es más frecuente que los viajeros planifiquen sus días de descanso con una intensidad similar a la de una jornada laboral. Esta sobreplanificación, impulsada por la necesidad de cumplir con expectativas externas y la influencia de las redes sociales, convierte el tiempo de ocio en una gincana de tareas pendientes.",
+        "Expertos en psicología advierten que este fenómeno contradice el propósito original de las vacaciones, que es romper con la rutina y permitir el descanso. La búsqueda de lugares icónicos para fotografiar y la presión por aprovechar cada minuto están generando niveles de estrés que dejan a los viajeros más cansados que antes de partir."
+      ],
+      "bullets": [
+        "Un 69% de la población siente la presión de hacer que cada día de vacaciones sea productivo.",
+        "La cultura de la productividad ha desplazado al descanso, convirtiendo el tiempo libre en una agenda de obligaciones.",
+        "El fenómeno del turismo frenético se ve agravado por la masificación de destinos y la influencia de las redes sociales.",
+        "Psicólogos señalan que la falta de desconexión real es un error fundamental del siglo XXI."
+      ],
+      "eventKey": "turistas-sufren-estres-vacaciones",
+      "partial": true,
+      "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-391254e4658d473d7336112f": {
+    "fingerprint": "5b35994359a6587bbfde2cff",
+    "item": {
+      "id": "n-391254e4658d473d7336112f",
+      "url": "https://www.durangon.com/urkiola-habilita-un-refugio-para-abejas-frente-a-la-avispa-asiatica/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-04T05:45:00+00:00",
+      "sourceTitle": "Urkiola habilita un refugio para abejas frente a la avispa asiática",
+      "fingerprint": "5b35994359a6587bbfde2cff",
+      "title": "Urkiola crea un refugio para proteger a las abejas de la avispa asiática",
+      "summary": "Las entidades Urkiola Landa Garapena y Erlete Elkartea han establecido un acuerdo para permitir que los apicultores de Durangaldea trasladen sus colmenas a esta zona como medida de protección.",
+      "paragraphs": [
+        "El parque natural de Urkiola servirá como zona de resguardo para las colmenas de la comarca. Esta iniciativa busca mitigar el impacto de la avispa asiática sobre las poblaciones de abejas locales.",
+        "El traslado de las colmenas está previsto que se realice desde finales de julio hasta el comienzo de la temporada invernal."
+      ],
+      "bullets": [
+        "Colaboración entre Urkiola Landa Garapena y Erlete Elkartea.",
+        "El refugio estará disponible para los apicultores de Durangaldea.",
+        "La medida se mantendrá operativa hasta el inicio del invierno."
+      ],
+      "eventKey": "Urkiola Landa Garapena y Erlete Elkartea habilitan refugio para abejas en Urkiola",
+      "partial": true,
+      "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-bd9526dd54522978c8a43613": {
+    "fingerprint": "c973660667ffd0c835aa18ca",
+    "item": null
+  },
+  "n-f580b66ed9de9f8144211638": {
+    "fingerprint": "942bfc9d0e5a896cb783b378",
+    "item": {
+      "id": "n-f580b66ed9de9f8144211638",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-03T13:46:11+00:00",
+      "sourceTitle": "This protective enzyme could help stop fatty liver disease from getting worse",
+      "fingerprint": "942bfc9d0e5a896cb783b378",
+      "title": "Identificada una enzima que podría frenar el avance de la enfermedad del hígado graso",
+      "summary": "Un equipo científico ha descubierto que la enzima UBE2N podría actuar como mecanismo de defensa natural frente al agravamiento de la patología hepática.",
+      "paragraphs": [
+        "Investigadores han señalado a la enzima UBE2N como un elemento clave para mitigar el deterioro del hígado graso. Este compuesto facilitaría la eliminación de mitocondrias dañadas y la descomposición de grasas en las células hepáticas.",
+        "El hallazgo sugiere que esta enzima podría prevenir procesos inflamatorios y cicatrizaciones graves, evitando así la progresión hacia la esteatohepatitis asociada a disfunción metabólica (MASH)."
+      ],
+      "bullets": [
+        "La enzima UBE2N ayuda a limpiar las células hepáticas.",
+        "Podría evitar complicaciones como la inflamación y el daño celular.",
+        "El estudio se centra en frenar la evolución hacia la condición MASH."
+      ],
+      "eventKey": "científicos-identifican-enzima-hígado-graso",
+      "partial": true,
+      "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-21efa3195b110268437380e3": {
+    "fingerprint": "6f940ceb442cbb6c35c2a6e5",
+    "item": {
+      "id": "n-21efa3195b110268437380e3",
+      "url": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
+      "source": "Ars Technica",
+      "section": "tecnologia",
+      "lang": "en",
+      "publishedAt": "2026-10-03T11:15:33+00:00",
+      "sourceTitle": "The dawn of the age of the exoskeleton",
+      "fingerprint": "6f940ceb442cbb6c35c2a6e5",
+      "title": "El auge de los exoesqueletos",
+      "summary": "Los dispositivos robóticos de asistencia están demostrando una eficacia creciente en la ejecución de tareas cotidianas.",
+      "paragraphs": [
+        "La tecnología de exoesqueletos ha comenzado a consolidarse como una herramienta útil en entornos reales. Los usuarios reportan mejoras tangibles al integrar estos dispositivos en sus actividades diarias."
+      ],
+      "bullets": [
+        "Beneficios constatados en tareas prácticas",
+        "Expansión del uso de exoesqueletos"
+      ],
+      "eventKey": "exoesqueletos-uso-tecnologia",
+      "partial": true,
+      "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-f10d065e2f4cfca687b1346e": {
+    "fingerprint": "8b515687f6f0a800ca50057c",
+    "item": null
+  },
+  "n-6e90b95f429cf1dd19a73bd5": {
+    "fingerprint": "c60c6fb124808bc97d45eecb",
+    "item": {
+      "id": "n-6e90b95f429cf1dd19a73bd5",
+      "url": "https://www.europapress.es/nacional/noticia-senado-aprueba-miercoles-comision-investigacion-asalto-frontera-ceuta-impulsada-pp-20261004114048.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-04T09:40:48+00:00",
+      "sourceTitle": "El Senado aprueba el miércoles la comisión de investigación sobre el asalto de la frontera en Ceuta impulsada por el PP",
+      "fingerprint": "c60c6fb124808bc97d45eecb",
+      "title": "El Senado investigará el asalto a la frontera de Ceuta",
+      "summary": "La Cámara Alta dará luz verde este miércoles a la creación de una comisión de investigación sobre la entrada masiva de inmigrantes ocurrida en julio, una iniciativa promovida por el Partido Popular.",
+      "paragraphs": [
+        "El Senado tiene previsto aprobar el próximo 7 de octubre la apertura de una investigación parlamentaria centrada en los sucesos registrados en la frontera de Ceuta los días 30 y 31 de julio.",
+        "La propuesta ha sido impulsada por el Grupo Parlamentario Popular, que cuenta con la mayoría absoluta necesaria en la Cámara para sacar adelante la medida."
+      ],
+      "bullets": [
+        "La comisión analizará la entrada masiva de inmigrantes en Ceuta.",
+        "La iniciativa parte del Partido Popular.",
+        "La votación tendrá lugar este miércoles 7 de octubre."
+      ],
+      "eventKey": "PP-investiga-asalto-Ceuta-Senado",
+      "partial": true,
+      "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-be09c0d8e3a4c64072395fed": {
+    "fingerprint": "a1c7e09432919b7c0a0f70f9",
+    "item": {
+      "id": "n-be09c0d8e3a4c64072395fed",
+      "url": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-04T08:53:01+00:00",
+      "sourceTitle": "Brazil goes to polls in decisive election for future of Latin America",
+      "fingerprint": "a1c7e09432919b7c0a0f70f9",
+      "title": "Brasil celebra unas elecciones presidenciales decisivas para el futuro regional",
+      "summary": "Los brasileños acuden a las urnas este domingo en una primera vuelta electoral marcada por una profunda polarización política. El actual presidente, Lula da Silva, compite por un cuarto mandato frente al senador ultraderechista Flávio Bolsonaro.",
+      "paragraphs": [
+        "La contienda electoral enfrenta al mandatario izquierdista Luiz Inácio Lula da Silva contra Flávio Bolsonaro, hijo del expresidente Jair Bolsonaro, quien actualmente cumple una condena de 27 años de prisión por su implicación en un intento de golpe de Estado tras las elecciones de 2022.",
+        "El resultado de estos comicios podría alterar significativamente el rumbo político de Brasil y, por extensión, el de toda Latinoamérica, dada la relevancia del país en la región."
+      ],
+      "bullets": [
+        "Lula da Silva busca su cuarto mandato no consecutivo.",
+        "Flávio Bolsonaro, aliado de Donald Trump, representa a la extrema derecha.",
+        "El expresidente Jair Bolsonaro permanece encarcelado por un intento de golpe de Estado."
+      ],
+      "eventKey": "Lula y Flávio Bolsonaro compiten en elecciones presidenciales de Brasil",
+      "partial": true,
+      "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-87df0c33033fbe3ed1cea636": {
+    "fingerprint": "375656931a28dc47c473aed1",
+    "item": {
+      "id": "n-87df0c33033fbe3ed1cea636",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-03T13:34:11+00:00",
+      "sourceTitle": "ESA’s Juice just used Earth as a slingshot to Jupiter",
+      "fingerprint": "375656931a28dc47c473aed1",
+      "title": "La sonda Juice de la ESA utiliza la gravedad terrestre para impulsarse hacia Júpiter",
+      "summary": "La misión Juice ha completado con éxito una maniobra de asistencia gravitatoria con la Tierra para ajustar su trayectoria hacia Júpiter, optimizando así su consumo de combustible.",
+      "paragraphs": [
+        "La nave espacial Juice sobrevoló la Tierra el pasado 28 de septiembre, aprovechando la gravedad del planeta para modificar su rumbo. Esta maniobra ha permitido alterar su dirección en 20 grados y acelerar su velocidad en 3,5 km/s.",
+        "El evento ha servido además como una oportunidad para que los investigadores calibren los instrumentos de la sonda mediante observaciones de la Tierra y la Luna."
+      ],
+      "bullets": [
+        "Maniobra de asistencia gravitatoria completada con éxito.",
+        "Ajuste de trayectoria de 20 grados y aumento de velocidad de 3,5 km/s.",
+        "Prueba de instrumentos científicos utilizando la Tierra y la Luna."
+      ],
+      "eventKey": "ESA Juice sobrevuelo Tierra Júpiter",
+      "partial": true,
+      "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-3da4dd9123ba3553812a3308": {
+    "fingerprint": "a698f226da7c0d07eb384d9b",
+    "item": {
+      "id": "n-3da4dd9123ba3553812a3308",
+      "url": "https://www.durangon.com/iurreta-abre-la-votacion-para-decidir-el-destino-de-50-000-euros-de-sus-presupuestos-participativos/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-04T05:33:31+00:00",
+      "sourceTitle": "Iurreta abre la votación para decidir el destino de 50.000 euros de sus Presupuestos Participativos",
+      "fingerprint": "a698f226da7c0d07eb384d9b",
+      "title": "Iurreta inicia la votación de sus presupuestos participativos",
+      "summary": "El Ayuntamiento de Iurreta ha abierto el proceso para que sus vecinos decidan el uso de 50.000 euros mediante la elección de proyectos finalistas.",
+      "paragraphs": [
+        "Los residentes empadronados en el municipio ya pueden participar en la selección de las iniciativas que se financiarán con la partida de presupuestos participativos. El plazo para emitir el voto permanecerá abierto hasta el próximo 18 de octubre.",
+        "De entre las siete propuestas que han alcanzado la fase final, cada ciudadano podrá seleccionar un máximo de dos opciones para determinar el destino de los fondos públicos."
+      ],
+      "bullets": [
+        "Presupuesto total de 50.000 euros.",
+        "Siete proyectos finalistas disponibles.",
+        "Periodo de votación del 5 al 18 de octubre.",
+        "Limitación de dos votos por persona empadronada."
+      ],
+      "eventKey": "vecinos de Iurreta votan proyectos presupuestarios",
+      "partial": true,
+      "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-6e256d4375afdbaea2752271": {
+    "fingerprint": "29853f20a2ce0ce29c342517",
+    "item": {
+      "id": "n-6e256d4375afdbaea2752271",
+      "url": "https://www.eldiario.es/politica/suma-pp-vox-supera-holgura-mayoria-absoluta-aventaja-izquierda-15-puntos_1_13559749.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-03T20:47:40+00:00",
+      "sourceTitle": "La suma de PP y Vox supera con holgura la mayoría absoluta y aventaja a la izquierda en casi 15 puntos",
+      "fingerprint": "29853f20a2ce0ce29c342517",
+      "title": "El bloque de PP y Vox consolidaría una mayoría absoluta holgada según un sondeo",
+      "summary": "Una encuesta de Ateneo del Dato sitúa al Partido Popular y a Vox con una ventaja de casi 15 puntos sobre la izquierda. El estudio refleja un retroceso del PSOE respecto a 2023 y una fragmentación en el espacio de la izquierda confederal.",
+      "paragraphs": [
+        "La formación liderada por Alberto Núñez Feijóo alcanzaría el 33,2% de los votos, superando al PSOE, que se situaría en el 27,5%. Por su parte, Vox experimentaría un crecimiento significativo, pasando del 12,4% obtenido en 2023 al 19,2% actual.",
+        "El sondeo, realizado antes de que el Congreso rechazara los decretos de vivienda, muestra que la suma de PP y Vox alcanzaría el 52,4% de los apoyos. Mientras tanto, Sumar y Podemos obtendrían resultados inferiores a los registrados cuando concurrieron bajo una candidatura conjunta."
+      ],
+      "bullets": [
+        "El PP obtendría un 33,2% de los votos, manteniendo cifras similares a las de las elecciones de 2023.",
+        "Vox se consolidaría como tercera fuerza con un 19,2% de intención de voto.",
+        "El PSOE caería hasta el 27,5%, perdiendo más de cuatro puntos respecto a los últimos comicios generales.",
+        "La izquierda confederal, dividida entre Sumar y Podemos, sumaría un 10,3% frente al 12,3% de 2023."
+      ],
+      "eventKey": "PP y Vox lideran intención de voto en España",
+      "partial": true,
+      "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-664b39e9cf4ba58bb9324611": {
+    "fingerprint": "81dd1bb394437522f601be57",
+    "item": {
+      "id": "n-664b39e9cf4ba58bb9324611",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-04T06:19:17+00:00",
+      "sourceTitle": "Australia investigating Flydubai co-pilot's links to country",
+      "fingerprint": "81dd1bb394437522f601be57",
+      "title": "Australia investiga los vínculos de un copiloto de Flydubai",
+      "summary": "Las autoridades australianas han iniciado una investigación sobre un copiloto de la aerolínea Flydubai tras un incidente en un vuelo con destino a Israel.",
+      "paragraphs": [
+        "La policía estatal y los servicios de seguridad de Australia están examinando los posibles nexos del copiloto con el país. La investigación surge a raíz de un intento del tripulante por tomar el control de una aeronave de Flydubai mientras realizaba un trayecto hacia Israel."
+      ],
+      "bullets": [
+        "La policía y la agencia de seguridad australiana lideran las pesquisas.",
+        "El incidente ocurrió en un vuelo comercial de Flydubai.",
+        "El copiloto intentó asumir el mando del avión durante el trayecto."
+      ],
+      "eventKey": "policía australiana investiga copiloto Flydubai",
+      "partial": true,
+      "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-bc75f141e3c5ed4b8d5c2dc8": {
+    "fingerprint": "d708cf7374b04cbec75f1720",
+    "item": {
+      "id": "n-bc75f141e3c5ed4b8d5c2dc8",
+      "url": "https://www.theguardian.com/stage/2026/oct/03/kramer-fauci-aids-play-brookyn-new-york",
+      "source": "The Guardian",
+      "section": "cultura",
+      "lang": "en",
+      "publishedAt": "2026-10-03T09:00:55+00:00",
+      "sourceTitle": "‘An extraordinary hour’: the explosive play re-staging the biggest TV clash of the Aids era",
+      "fingerprint": "d708cf7374b04cbec75f1720",
+      "title": "Una obra teatral recrea el histórico enfrentamiento televisivo entre Larry Kramer y Anthony Fauci",
+      "summary": "Una producción en Nueva York recupera el intenso debate de 1993 sobre la crisis del sida entre el activista Larry Kramer y el entonces director del NIAID, Anthony Fauci.",
+      "paragraphs": [
+        "La obra traslada al escenario el tenso encuentro que ambos mantuvieron en el canal C-Span, donde confrontaron sus visiones opuestas sobre la gestión gubernamental de la epidemia. Mientras Kramer denunciaba la inacción institucional, Fauci defendía la legitimidad de los organismos oficiales.",
+        "El montaje destaca por capturar la compleja relación entre ambos, marcada tanto por la hostilidad y la crítica feroz como por una alianza estratégica en la lucha contra la enfermedad."
+      ],
+      "bullets": [
+        "El debate original tuvo lugar el 30 de noviembre de 1993.",
+        "La pieza teatral explora la tensión entre el activismo radical y la burocracia sanitaria.",
+        "La representación subraya la dificultad de moderar un diálogo cargado de pasiones y posturas irreconciliables."
+      ],
+      "eventKey": "Larry Kramer y Anthony Fauci recreación teatral Nueva York",
+      "partial": true,
+      "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-53403371774635fff535e4fe": {
+    "fingerprint": "226f834a7d4322ec20bf9ef5",
+    "item": {
+      "id": "n-53403371774635fff535e4fe",
+      "url": "https://www.europapress.es/euskadi/noticia-ertzaintza-policias-locales-vigilaran-distracciones-volante-campana-11-octubre-20261004102906.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-04T08:29:06+00:00",
+      "sourceTitle": "Ertzaintza y policías locales vigilarán las distracciones al volante en una campaña del 5 al 11 de octubre",
+      "fingerprint": "226f834a7d4322ec20bf9ef5",
+      "title": "Campaña de vigilancia contra las distracciones al volante en Euskadi",
+      "summary": "La Ertzaintza y las policías locales vascas intensificarán los controles de tráfico durante esta semana para reducir las distracciones durante la conducción.",
+      "paragraphs": [
+        "Desde este lunes y hasta el próximo domingo, los agentes autonómicos y municipales desplegarán un operativo especial en toda la red viaria del País Vasco. Esta iniciativa se enmarca dentro del plan anual de vigilancia y control de tráfico previsto para 2026."
+      ],
+      "bullets": [
+        "El dispositivo se desarrollará entre el 5 y el 11 de octubre.",
+        "La medida forma parte de un calendario que contempla 33 campañas de control a lo largo del año."
+      ],
+      "eventKey": "Ertzaintza y policías locales vigilan distracciones en Euskadi",
+      "partial": true,
+      "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-c26f124c72a0558167793fab": {
+    "fingerprint": "a0de698694ac81d97d8da4f6",
+    "item": {
+      "id": "n-c26f124c72a0558167793fab",
+      "url": "https://www.europapress.es/nacional/noticia-supremo-pone-foco-investigaciones-alvise-vez-cerrados-grandes-casos-contra-aforados-20261004111447.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-04T09:14:47+00:00",
+      "sourceTitle": "El Supremo pone el foco en las investigaciones sobre 'Alvise' una vez cerrados los grandes casos contra aforados",
+      "fingerprint": "a0de698694ac81d97d8da4f6",
+      "title": "El Tribunal Supremo prioriza las causas contra Alvise Pérez",
+      "summary": "Tras concluir los procesos judiciales contra figuras como Álvaro García Ortiz y José Luis Ábalos, el Tribunal Supremo centra ahora su actividad en los seis procedimientos abiertos contra el eurodiputado Luis 'Alvise' Pérez.",
+      "paragraphs": [
+        "El alto tribunal inicia el nuevo curso judicial enfocando sus esfuerzos en la situación procesal del líder de Se Acabó La Fiesta. Esta reorientación de la agenda ocurre después de un periodo marcado por las sentencias contra el exministro José Luis Ábalos y el exfiscal general del Estado, Álvaro García Ortiz.",
+        "La actividad del Supremo se concentrará en las seis causas que afectan actualmente al eurodiputado, marcando una nueva etapa en la gestión de los casos contra aforados."
+      ],
+      "bullets": [
+        "El Supremo pone el foco en las investigaciones sobre 'Alvise'",
+        "Seis causas abiertas contra el eurodiputado",
+        "Cierre de los casos contra García Ortiz y Ábalos"
+      ],
+      "eventKey": "Alvise Pérez investigado por el Tribunal Supremo",
+      "partial": true,
+      "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-bd2230492c0eb40c2cf0ff73": {
+    "fingerprint": "681fc879e345a58383b529f6",
+    "item": {
+      "id": "n-bd2230492c0eb40c2cf0ff73",
+      "url": "https://www.theguardian.com/world/2026/oct/04/polish-activists-launch-abortion-pill-locker-to-bypass-near-total-ban",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-04T05:00:20+00:00",
+      "sourceTitle": "Polish activists launch abortion pill locker to bypass near-total ban",
+      "fingerprint": "681fc879e345a58383b529f6",
+      "title": "Activistas polacas instalan una taquilla para distribuir píldoras abortivas",
+      "summary": "Un grupo de activistas ha puesto en marcha en Varsovia un sistema de taquillas para facilitar el acceso anónimo a fármacos abortivos, desafiando así la estricta legislación vigente en Polonia.",
+      "paragraphs": [
+        "La iniciativa, denominada 'AbortOmat', consiste en una taquilla de 22 compartimentos situada en la capital polaca. El sistema permite a las usuarias obtener la medicación de forma rápida mediante un código numérico, evitando los tiempos de espera del correo postal o la recepción del paquete en sus domicilios.",
+        "Este proyecto surge como una nueva estrategia de los colectivos locales para sortear la prohibición casi total del aborto en el país, ofreciendo una alternativa discreta para situaciones de urgencia médica o complicaciones de salud."
+      ],
+      "bullets": [
+        "El 'AbortOmat' es presentado por sus promotoras como la primera taquilla del mundo dedicada a este fin.",
+        "El servicio garantiza el anonimato de las mujeres mediante el uso de un código de seis dígitos.",
+        "La medida busca responder a las dificultades de acceso que enfrentan quienes temen recibir los fármacos en sus hogares."
+      ],
+      "eventKey": "activistas polacas instalan taquilla aborto Varsovia",
+      "partial": true,
+      "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-5b05883c8a1be94171dfdd8f": {
+    "fingerprint": "5e8b65968e4b0a8f8ac0c63e",
+    "item": {
+      "id": "n-5b05883c8a1be94171dfdd8f",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-03T13:12:14+00:00",
+      "sourceTitle": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
+      "fingerprint": "5e8b65968e4b0a8f8ac0c63e",
+      "title": "Hallado un mineral magnético inédito en muestras de la misión Chang’e-6",
+      "summary": "Investigadores han identificado una forma de hierro metálico en el suelo lunar que podría revelar datos sobre el antiguo campo magnético del satélite.",
+      "paragraphs": [
+        "El análisis de las muestras recogidas por la misión Chang’e-6 ha permitido descubrir un mineral magnético desconocido hasta la fecha, denominado γ-Fe. Este componente se encuentra alojado en partículas de vidrio de impacto.",
+        "Los científicos sugieren que este hierro a escala nanométrica podría funcionar como un fósil microscópico, conservando señales magnéticas que arrojarían luz sobre el campo magnético que la Luna tuvo en el pasado."
+      ],
+      "bullets": [
+        "Descubrimiento de hierro metálico tipo γ-Fe en muestras lunares.",
+        "El mineral se localiza en el interior de partículas de vidrio de impacto.",
+        "Podría actuar como un registro fósil del campo magnético lunar perdido."
+      ],
+      "eventKey": "Científicos descubren mineral magnético en muestras de Chang’e-6",
+      "partial": true,
+      "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-7ee6a8897fa1f6fb5456e791": {
+    "fingerprint": "bd110715363bc3a965fba6dc",
+    "item": {
+      "id": "n-7ee6a8897fa1f6fb5456e791",
+      "url": "https://www.xataka.com/magnet/asturias-no-destaca-ganar-poblacion-turismo-extranjero-pregunta-que-donde-se-encarece-vivienda",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-04T09:31:22+00:00",
+      "sourceTitle": "Asturias no destaca ni por ganar población ni por turismo extranjero. La pregunta es por qué es donde más se encarece la vivienda",
+      "fingerprint": "bd110715363bc3a965fba6dc",
+      "title": "Asturias lidera el encarecimiento de la vivienda en España pese a sus indicadores",
+      "summary": "El Principado de Asturias registra el mayor incremento en el precio de la vivienda del país, superando ampliamente la media nacional, a pesar de no destacar en crecimiento demográfico ni en afluencia de turismo extranjero.",
+      "paragraphs": [
+        "Según el último informe del Consejo General del Notariado, el coste del metro cuadrado en Asturias se disparó un 29,3% interanual en julio. Este fenómeno resulta llamativo al contrastar con la caída en el número de compraventas y la concesión de hipotecas en la región.",
+        "El sector inmobiliario español enfrenta un déficit residencial creciente, donde la creación de nuevos hogares supera la capacidad de edificación. Expertos de la Universidad de Oviedo apuntan a que Asturias se ha consolidado como un destino relevante para la compra de vivienda a nivel nacional."
+      ],
+      "bullets": [
+        "El precio del metro cuadrado en Asturias subió un 29,3% en julio, cuatriplicando la media estatal.",
+        "Las compraventas en la región cayeron un 16,9% y las hipotecas un 19,6% respecto a 2025.",
+        "El déficit residencial en España podría alcanzar el millón de viviendas para 2028 según el Banco de España.",
+        "El crecimiento poblacional asturiano, del 0,29%, no parece justificar por sí solo la tensión en los precios."
+      ],
+      "eventKey": "Asturias+encarecimiento+vivienda",
+      "partial": true,
+      "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
