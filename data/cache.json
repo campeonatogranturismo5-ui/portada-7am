@@ -1431,5 +1431,32 @@
       "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-740b76a50f232c7e9a6c761d": {
+    "fingerprint": "4ab682aa1565dba9aa4bbc8a",
+    "item": {
+      "id": "n-740b76a50f232c7e9a6c761d",
+      "url": "https://www.durangon.com/la-traviata-acercara-la-opera-a-durango-con-autobus-gratuito-de-ida-y-vuelta-al-palacio-euskalduna/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-06T03:44:08+00:00",
+      "sourceTitle": "‘La Traviata’ acercará la ópera a Durango con autobús gratuito de ida y vuelta al Palacio Euskalduna",
+      "fingerprint": "4ab682aa1565dba9aa4bbc8a",
+      "title": "Durango facilita el acceso a 'La Traviata' en el Palacio Euskalduna",
+      "summary": "El municipio vizcaíno organiza un servicio de transporte gratuito para asistir a la representación operística y complementa la cita con una charla divulgativa.",
+      "paragraphs": [
+        "Los vecinos de Durango podrán desplazarse sin coste al Palacio Euskalduna para disfrutar de la ópera 'La Traviata'. La iniciativa busca fomentar la asistencia a este espectáculo cultural mediante un servicio de autobús de ida y vuelta.",
+        "Como actividad previa, el Museo Kurutzesantu acogerá hoy una conferencia impartida por Carlos Imaz. En ella, se analizarán los detalles argumentales y el contexto histórico de la pieza."
+      ],
+      "bullets": [
+        "Servicio de autobús gratuito hasta el Palacio Euskalduna.",
+        "Conferencia sobre la obra a cargo de Carlos Imaz en el Museo Kurutzesantu."
+      ],
+      "eventKey": "Durango-facilita-transporte-opera-La-Traviata",
+      "partial": true,
+      "summarizedAt": "2026-10-06T11:54:30.813189+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
