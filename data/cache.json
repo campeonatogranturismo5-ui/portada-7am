@@ -1458,5 +1458,516 @@
       "summarizedAt": "2026-10-06T11:54:30.813189+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-846b4f518d1e94b8195156a9": {
+    "fingerprint": "0ae5cddd4f6a88f55df6d21a",
+    "item": {
+      "id": "n-846b4f518d1e94b8195156a9",
+      "url": "https://www.durangon.com/las-personas-mayores-de-durango-vuelven-a-ponerse-en-marcha/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-07T03:54:42+00:00",
+      "sourceTitle": "Las personas mayores de Durango vuelven a ponerse en marcha",
+      "fingerprint": "0ae5cddd4f6a88f55df6d21a",
+      "title": "Durango retoma las actividades físicas para mayores",
+      "summary": "El municipio de Durango ha reactivado su programa de ejercicio físico dirigido a la tercera edad, incorporando supervisión técnica especializada.",
+      "paragraphs": [
+        "El Ayuntamiento de Durango ha puesto en marcha una nueva edición de sus actividades de bienestar físico destinadas a las personas mayores de la localidad.",
+        "La iniciativa, que se centra en la práctica de paseos saludables y marcha nórdica, contará con la asistencia de profesionales del sector deportivo para guiar a los participantes durante el curso."
+      ],
+      "bullets": [
+        "Programación de paseos saludables y marcha nórdica.",
+        "Supervisión a cargo de profesionales del ámbito deportivo."
+      ],
+      "eventKey": "personas mayores de Durango realizan actividades físicas",
+      "partial": true,
+      "summarizedAt": "2026-10-07T13:52:11.677930+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-356b3b65e8535a6f92a7d636": {
+    "fingerprint": "c0f66e709ef46db9afc7d875",
+    "item": {
+      "id": "n-356b3b65e8535a6f92a7d636",
+      "url": "https://www.europapress.es/nacional/noticia-feijoo-pedira-jec-medidas-dar-mas-garantias-voto-correo-no-confio-directivos-correos-20261007150427.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-07T13:04:27+00:00",
+      "sourceTitle": "Feijóo pedirá a la JEC medidas para dar más garantías al voto por correo: \"No confío en los directivos de Correos\"",
+      "fingerprint": "c0f66e709ef46db9afc7d875",
+      "title": "Feijóo solicitará a la JEC mayores garantías para el voto por correo",
+      "summary": "El líder del Partido Popular ha anunciado que reclamará ante la Junta Electoral Central medidas adicionales para el proceso de voto por correo de cara a las próximas elecciones generales. Feijóo ha manifestado su desconfianza hacia la cúpula directiva de la empresa postal.",
+      "paragraphs": [
+        "Alberto Núñez Feijóo ha confirmado en Ceuta que su formación solicitará a la Junta Electoral Central (JEC) un refuerzo en las garantías del voto por correo para los comicios del 29 de noviembre.",
+        "El candidato a la Presidencia del Gobierno ha precisado que su recelo se dirige exclusivamente hacia los directivos de Correos, diferenciando su postura respecto a la labor de los carteros."
+      ],
+      "bullets": [
+        "Solicitud de medidas adicionales ante la JEC.",
+        "Desconfianza expresa hacia la dirección de Correos.",
+        "Elecciones generales fijadas para el 29 de noviembre."
+      ],
+      "eventKey": "Feijóo solicita medidas JEC voto correo",
+      "partial": true,
+      "summarizedAt": "2026-10-07T13:52:11.677930+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-5a85257ffcf4cf009a2d8bd1": {
+    "fingerprint": "737a53344ae9f14e1f371a2b",
+    "item": {
+      "id": "n-5a85257ffcf4cf009a2d8bd1",
+      "url": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-07T13:27:32+00:00",
+      "sourceTitle": "Minister denies police brutality as student protests continue across France – Europe live",
+      "fingerprint": "737a53344ae9f14e1f371a2b",
+      "title": "Protestas estudiantiles en Francia y ataque con arma blanca en Polonia",
+      "summary": "Las movilizaciones estudiantiles persisten en cientos de centros educativos franceses mientras las autoridades niegan acusaciones de brutalidad policial. Paralelamente, un ataque con arma blanca en un centro de formación profesional polaco ha dejado varios heridos.",
+      "paragraphs": [
+        "Cerca de 460 escuelas en Francia siguen viéndose afectadas por las protestas estudiantiles, manteniendo una parte significativa de la movilización iniciada la jornada anterior. El Gobierno francés ha rechazado las denuncias sobre un uso excesivo de la fuerza por parte de los agentes.",
+        "Por otro lado, en la ciudad polaca de Ostrołęka, un ataque con cuchillo en una escuela de formación profesional ha provocado al menos siete heridos, dos de ellos de gravedad. El alcalde local ha confirmado que la situación ya se encuentra bajo control."
+      ],
+      "bullets": [
+        "Persisten las protestas en más de 400 centros educativos franceses.",
+        "El Ejecutivo francés niega las acusaciones de brutalidad policial.",
+        "Siete personas resultan heridas en un ataque con arma blanca en Polonia.",
+        "Las autoridades polacas aseguran que el incidente en Ostrołęka está contenido."
+      ],
+      "eventKey": "estudiantes franceses protestan y atacante hiere a siete personas en Polonia",
+      "partial": true,
+      "summarizedAt": "2026-10-07T13:52:11.677930+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-41169bd923cf46b55155ccb5": {
+    "fingerprint": "8a82b88edc19633dcb975c92",
+    "item": {
+      "id": "n-41169bd923cf46b55155ccb5",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-07T13:09:15+00:00",
+      "sourceTitle": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
+      "fingerprint": "8a82b88edc19633dcb975c92",
+      "title": "El telescopio Webb detecta indicios de colisiones planetarias masivas",
+      "summary": "El observatorio espacial ha analizado discos de escombros alrededor de estrellas jóvenes para estudiar impactos violentos similares a los que pudieron formar la Luna.",
+      "paragraphs": [
+        "El telescopio James Webb ha permitido a los astrónomos observar colisiones de cuerpos del tamaño de Marte. El estudio de 21 discos de escombros extremos sugiere que el polvo resultante revela la magnitud de estos choques planetarios.",
+        "Esta investigación busca comprender mejor los eventos violentos que dieron forma a nuestro sistema solar, incluyendo el impacto gigante que se cree originó nuestro satélite."
+      ],
+      "bullets": [
+        "Análisis de 21 discos de escombros alrededor de estrellas jóvenes.",
+        "Estudio de colisiones violentas comparables a la formación de la Luna.",
+        "El polvo espacial sirve como indicador de la intensidad de los impactos."
+      ],
+      "eventKey": "NASA-Webb-detecta-colisiones-planetarias",
+      "partial": true,
+      "summarizedAt": "2026-10-07T13:52:11.677930+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-e5d18a4afb858436ec2d6cb1": {
+    "fingerprint": "0e8af687e05250d71f424291",
+    "item": {
+      "id": "n-e5d18a4afb858436ec2d6cb1",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-07T12:28:52+00:00",
+      "sourceTitle": "Ex-bankers jailed for rigging rates have convictions quashed",
+      "fingerprint": "0e8af687e05250d71f424291",
+      "title": "Anuladas las condenas de cinco exbanqueros por manipular tipos de interés",
+      "summary": "El Tribunal de Apelación ha revocado las sentencias contra cinco antiguos empleados bancarios que fueron previamente condenados por alterar los tipos de referencia.",
+      "paragraphs": [
+        "El Tribunal de Apelación ha dictaminado la anulación de las condenas impuestas a Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon y Colin Bermingham. Estos individuos habían sido declarados culpables anteriormente por su implicación en la manipulación de los tipos de interés.",
+        "La decisión judicial pone fin a las sentencias que pesaban sobre los cinco exbanqueros, quienes ahora ven revocados sus antecedentes penales relacionados con este caso."
+      ],
+      "bullets": [
+        "Cinco exbanqueros logran la anulación de sus condenas.",
+        "El Tribunal de Apelación revoca las sentencias previas.",
+        "Los implicados fueron acusados de manipular tipos de referencia."
+      ],
+      "eventKey": "exbanqueros-anulacion-condenas-tribunal-apelacion",
+      "partial": true,
+      "summarizedAt": "2026-10-07T13:52:11.677930+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-1ace3a4e0b1af6bf21a28299": {
+    "fingerprint": "d098ffeb0a6b6ecf83e21b8b",
+    "item": {
+      "id": "n-1ace3a4e0b1af6bf21a28299",
+      "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-musk-and-artificial-zuckerberg-musk-and-altman-movies-tech",
+      "source": "The Guardian",
+      "section": "cultura",
+      "lang": "en",
+      "publishedAt": "2026-10-07T13:43:43+00:00",
+      "sourceTitle": "Will the Zuckerberg, Musk and Altman movies make a dent on tech giant evangelism?",
+      "fingerprint": "d098ffeb0a6b6ecf83e21b8b",
+      "title": "El cine de Hollywood ante la influencia de los gigantes tecnológicos",
+      "summary": "El estreno de tres películas sobre figuras clave de la tecnología plantea dudas sobre si el cine mantendrá una postura crítica o se plegará a los intereses de la industria. La creciente dependencia financiera de Hollywood respecto a las grandes corporaciones tecnológicas intensifica el conflicto entre la creación artística y el poder comercial.",
+      "paragraphs": [
+        "El lanzamiento de los filmes 'The Social Reckoning', 'Musk' y 'Artificial' coincide con una etapa donde los estudios cinematográficos han estrechado sus vínculos económicos con el sector tecnológico. Esta relación se manifiesta en adquisiciones y alianzas estratégicas que involucran a plataformas y productoras históricas.",
+        "Aunque la tecnología es un tema narrativo atractivo, existe incertidumbre sobre si estas producciones cuestionarán realmente las promesas de los líderes del sector o si simplemente reflejan el oportunismo de unos estudios que buscan cortejar la riqueza de los gigantes digitales."
+      ],
+      "bullets": [
+        "Hollywood muestra una creciente dependencia financiera de las grandes empresas tecnológicas.",
+        "La industria del cine se enfrenta a una tensión histórica entre el arte y el poder comercial.",
+        "Los nuevos estrenos abordan la figura de los gurús responsables de las promesas del sector tecnológico."
+      ],
+      "eventKey": "Hollywood y gigantes tecnológicos relación comercial",
+      "partial": true,
+      "summarizedAt": "2026-10-07T13:52:11.677930+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-1e86a5b5e2c682414ef56825": {
+    "fingerprint": "b3e9230adb9932c824061a71",
+    "item": {
+      "id": "n-1e86a5b5e2c682414ef56825",
+      "url": "https://www.europapress.es/euskadi/noticia-pradales-dice-vascos-no-rendiran-cumpla-estatuto-aboga-lograr-nuevo-pacto-politico-20261007135647.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-07T11:56:47+00:00",
+      "sourceTitle": "Pradales dice que los vascos \"no se rendirán\" hasta que se cumpla el Estatuto y aboga por lograr un nuevo Pacto Político",
+      "fingerprint": "b3e9230adb9932c824061a71",
+      "title": "Pradales reclama el cumplimiento íntegro del Estatuto y propone un nuevo pacto político",
+      "summary": "El lehendakari Imanol Pradales ha reivindicado el autogobierno vasco durante un acto en Gernika, instando a completar el Estatuto y a buscar un consenso para un futuro acuerdo político.",
+      "paragraphs": [
+        "Durante el homenaje al primer Gobierno Vasco en la Casa de Juntas de Gernika, Imanol Pradales ha subrayado la determinación de la sociedad vasca por alcanzar la plena soberanía estatutaria. El lehendakari ha insistido en que no cejarán en su empeño hasta ver materializado el cumplimiento íntegro del Estatuto.",
+        "Asimismo, Pradales ha hecho un llamamiento a los agentes políticos y sociales de Euskadi para que se sumen a la defensa del autogobierno. Su objetivo es articular un nuevo Pacto Político que refuerce la posición de la comunidad autónoma."
+      ],
+      "bullets": [
+        "Exigencia de cumplimiento total del Estatuto de Gernika.",
+        "Llamada a la unidad de los agentes vascos en favor del autogobierno.",
+        "Propuesta de alcanzar un nuevo Pacto Político."
+      ],
+      "eventKey": "Imanol Pradales-reivindica autogobierno-Gernika",
+      "partial": true,
+      "summarizedAt": "2026-10-07T13:52:11.677930+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-38930182ec0dd5ef2311d0ea": {
+    "fingerprint": "df3e8cf7ea1d42e2dce49425",
+    "item": null
+  },
+  "n-b267d4dc968f3546539e3c31": {
+    "fingerprint": "09efc279ba21906a97b8f666",
+    "item": {
+      "id": "n-b267d4dc968f3546539e3c31",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-07T13:02:17+00:00",
+      "sourceTitle": "Zelensky condemns 'vile' large-scale Russian attacks that killed 20",
+      "fingerprint": "09efc279ba21906a97b8f666",
+      "title": "Zelenski condena los ataques rusos que han causado 20 muertos",
+      "summary": "El presidente ucraniano ha calificado de viles los bombardeos a gran escala perpetrados por Rusia, que han dejado al menos una veintena de víctimas mortales.",
+      "paragraphs": [
+        "Los equipos de emergencia mantienen las labores de búsqueda entre los escombros de un edificio residencial en Pryluky, el cual ha quedado destruido tras el impacto.",
+        "Zelenski ha denunciado la naturaleza de estas acciones militares, mientras continúa el despliegue de los servicios de rescate en la zona afectada."
+      ],
+      "bullets": [
+        "Al menos 20 personas han fallecido a causa de los ataques rusos.",
+        "Un bloque de viviendas en Pryluky ha sido destruido.",
+        "Las tareas de rescate siguen en marcha en el lugar del siniestro."
+      ],
+      "eventKey": "Zelenski-condena-ataques-Rusia-Pryluky",
+      "partial": true,
+      "summarizedAt": "2026-10-07T13:52:11.677930+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-526f300c0a8e171b9d95a91f": {
+    "fingerprint": "a0c04b0b7220f8a375d9d136",
+    "item": {
+      "id": "n-526f300c0a8e171b9d95a91f",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261005071535.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-07T12:46:44+00:00",
+      "sourceTitle": "Scientists changed how zoo lions eat. Their wild side came out",
+      "fingerprint": "a0c04b0b7220f8a375d9d136",
+      "title": "Modificar la alimentación de los leones en cautividad fomenta comportamientos naturales",
+      "summary": "Un estudio sugiere que suministrar canales completas a los leones de zoológico bajo un régimen de ayuno y festín estimula conductas similares a las observadas en ejemplares salvajes.",
+      "paragraphs": [
+        "Investigadores han observado que ajustar la dieta de los leones en cautividad mediante la entrega de canales enteras y periodos de ayuno altera significativamente sus hábitos. Este cambio en la alimentación ha provocado que los animales dediquen más tiempo a alimentarse y a manipular su comida.",
+        "Tras las ingestas, los leones muestran un descanso más profundo, seguido de un incremento gradual en su actividad durante el ayuno. Este patrón de comportamiento se asemeja estrechamente al ritmo biológico que presentan los leones en libertad."
+      ],
+      "bullets": [
+        "Aumento del tiempo dedicado a la alimentación.",
+        "Mayor manipulación y desgarro de las presas.",
+        "Patrones de descanso y actividad similares a los de la vida salvaje."
+      ],
+      "eventKey": "leones-zoológico-cambio-dieta",
+      "partial": true,
+      "summarizedAt": "2026-10-07T13:52:11.677930+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-20623d3458ab39650f388fe0": {
+    "fingerprint": "2a6308f22150f6c506d762e6",
+    "item": {
+      "id": "n-20623d3458ab39650f388fe0",
+      "url": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
+      "source": "Ars Technica",
+      "section": "tecnologia",
+      "lang": "en",
+      "publishedAt": "2026-10-06T21:31:10+00:00",
+      "sourceTitle": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
+      "fingerprint": "2a6308f22150f6c506d762e6",
+      "title": "La UE califica de inaceptables los ataques con drones contra buques cerca de países de la OTAN",
+      "summary": "Dos buques de carga se han hundido y otro ha resultado incendiado tras sufrir ataques con drones en zonas económicas de países de la OTAN, provocando víctimas mortales y desaparecidos.",
+      "paragraphs": [
+        "La Unión Europea ha condenado una serie de ataques contra embarcaciones mercantes que han tenido lugar en las proximidades de aguas de la Alianza Atlántica. Según las informaciones disponibles, los incidentes han causado el hundimiento de dos cargueros y el incendio de una tercera nave.",
+        "La situación ha derivado en la pérdida de vidas humanas, con varios marineros fallecidos o en paradero desconocido. Las autoridades europeas han calificado estos sucesos de inaceptables."
+      ],
+      "bullets": [
+        "Dos buques de carga hundidos.",
+        "Un tercer barco afectado por un incendio.",
+        "Confirmación de marineros muertos o desaparecidos.",
+        "La UE tilda los ataques de inaceptables."
+      ],
+      "eventKey": "UE-condena-ataques-drones-buques-OTAN",
+      "partial": true,
+      "summarizedAt": "2026-10-07T13:52:11.677930+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-ac954390a7b6ae7c01dacb07": {
+    "fingerprint": "831bbf068753526827f904ca",
+    "item": {
+      "id": "n-ac954390a7b6ae7c01dacb07",
+      "url": "https://www.europapress.es/nacional/noticia-supremo-da-cinco-dias-partes-alegaciones-orden-tc-aplicar-amnistia-20261007142516.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-07T12:25:16+00:00",
+      "sourceTitle": "El Supremo da cinco días a las partes para alegaciones tras la orden del TC de aplicar la amnistía",
+      "fingerprint": "831bbf068753526827f904ca",
+      "title": "El Supremo abre un plazo de alegaciones tras el fallo del TC sobre la amnistía",
+      "summary": "El Tribunal Supremo ha requerido a las partes personadas que presenten sus alegaciones en un plazo de cinco días. Esta decisión se produce tras la notificación de la sentencia del Tribunal Constitucional que obliga a aplicar la ley de amnistía en los casos de malversación de dirigentes independentistas.",
+      "paragraphs": [
+        "La Sala de lo Penal del Tribunal Supremo ha iniciado el trámite para dar cumplimiento a la resolución del Tribunal Constitucional. El alto tribunal ha concedido un periodo de cinco días para que las partes expongan sus consideraciones sobre la aplicación de la norma.",
+        "El mandato del Tribunal Constitucional exige que se aplique la ley de amnistía a los líderes independentistas catalanes que están siendo procesados por el delito de malversación."
+      ],
+      "bullets": [
+        "Plazo de cinco días para presentar alegaciones.",
+        "Cumplimiento de la sentencia del Tribunal Constitucional.",
+        "Aplicación de la amnistía en delitos de malversación."
+      ],
+      "eventKey": "Tribunal Supremo-tramita alegaciones-España",
+      "partial": true,
+      "summarizedAt": "2026-10-07T13:52:11.677930+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-25a768bd5992df4d85b57fd9": {
+    "fingerprint": "7f100d17cac46435d7b51bc7",
+    "item": {
+      "id": "n-25a768bd5992df4d85b57fd9",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-07T12:58:03+00:00",
+      "sourceTitle": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "fingerprint": "7f100d17cac46435d7b51bc7",
+      "title": "Trump abordará con Putin la muerte de un trabajador de un laboratorio de peste en Rusia",
+      "summary": "Donald Trump tiene previsto conversar con Vladímir Putin sobre el fallecimiento de un empleado en un laboratorio ruso, ante la sospecha de que la causa haya sido la peste neumónica.",
+      "paragraphs": [
+        "El presidente estadounidense planea tratar directamente con el mandatario ruso el incidente ocurrido en un centro de investigación. La preocupación internacional ha crecido ante la posibilidad de que el trabajador muriera a causa de la peste neumónica.",
+        "Diversos sectores han reclamado a las autoridades rusas una mayor transparencia sobre lo sucedido en las instalaciones, ante la incertidumbre sobre el origen y las circunstancias del deceso."
+      ],
+      "bullets": [
+        "Trump y Putin discutirán la muerte de un trabajador de laboratorio.",
+        "Existen temores de que el fallecimiento se debiera a la peste neumónica.",
+        "Se exige mayor transparencia al gobierno ruso sobre el suceso."
+      ],
+      "eventKey": "Trump y Putin discuten muerte en laboratorio ruso",
+      "partial": true,
+      "summarizedAt": "2026-10-07T13:52:11.677930+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-2c4d3ad2997c0a0fce55034f": {
+    "fingerprint": "28e173bc2fd9003e26d4055b",
+    "item": {
+      "id": "n-2c4d3ad2997c0a0fce55034f",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261005071517.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-07T12:34:39+00:00",
+      "sourceTitle": "Physicists just found the ‘ghost’ of superconductivity",
+      "fingerprint": "28e173bc2fd9003e26d4055b",
+      "title": "Hallado un estado inusual de superconductividad en el diteluro de uranio",
+      "summary": "Un equipo de físicos ha detectado patrones de ondas de densidad de pares en el diteluro de uranio, un fenómeno que persiste incluso cuando la superconductividad convencional desaparece.",
+      "paragraphs": [
+        "Investigadores han identificado evidencias de un comportamiento superconductor atípico en el diteluro de uranio. Este fenómeno se manifiesta a través de la organización de pares de electrones en estructuras denominadas ondas de densidad de pares.",
+        "El hallazgo resulta inesperado, ya que estos patrones se mantienen activos tras la desaparición de la superconductividad ordinaria. Esto sugiere que los pares de electrones podrían comenzar a formarse antes de que el material alcance su estado superconductor."
+      ],
+      "bullets": [
+        "Detección de ondas de densidad de pares en el diteluro de uranio.",
+        "Persistencia de patrones electrónicos más allá de la superconductividad convencional.",
+        "Posible formación previa de pares de electrones en el material."
+      ],
+      "eventKey": "físicos-detectan-superconductividad-diteluro-uranio",
+      "partial": true,
+      "summarizedAt": "2026-10-07T13:52:11.677930+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-472214f1d80646e5fb66a9cf": {
+    "fingerprint": "609c50b115adc5474e5f9dcd",
+    "item": {
+      "id": "n-472214f1d80646e5fb66a9cf",
+      "url": "https://www.xataka.com/ordenadores/apple-prepara-nueva-ronda-lanzamientos-macbook-tactil-ipad-mini-oled-protagonistas-gurman",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-07T13:30:43+00:00",
+      "sourceTitle": "Apple prepara nueva ronda de lanzamientos con el MacBook táctil y el iPad Mini Oled de protagonistas, según Gurman",
+      "fingerprint": "609c50b115adc5474e5f9dcd",
+      "title": "Apple prepara nuevos lanzamientos, incluyendo un MacBook táctil y un iPad Mini OLED",
+      "summary": "Según Mark Gurman, Apple podría presentar el próximo 13 de octubre diversos dispositivos que no formaron parte de su evento de septiembre. Entre las novedades destacadas se encuentran un MacBook con pantalla táctil y un iPad Mini con tecnología OLED.",
+      "paragraphs": [
+        "La compañía de Cupertino estaría preparando una nueva ronda de lanzamientos para mediados de octubre, posiblemente a través de notas de prensa. El analista Mark Gurman señala que el catálogo incluiría un MacBook rediseñado con pantalla táctil y panel OLED, además de una actualización del iPad Mini.",
+        "El nuevo MacBook buscaría ser más ligero y funcional, incorporando la Isla Dinámica. Por su parte, el iPad Mini contaría con mejoras en su cámara frontal y un procesador más potente. La existencia de referencias a entradas táctiles en la beta de macOS 27.2 refuerza las especulaciones sobre este nuevo concepto de portátil."
+      ],
+      "bullets": [
+        "Posible presentación de dispositivos el 13 de octubre.",
+        "MacBook táctil con pantalla OLED y diseño más ligero.",
+        "iPad Mini con panel OLED y cámara frontal lateral.",
+        "Otros productos rumoreados incluyen un nuevo HomePod Mini y Apple TV."
+      ],
+      "eventKey": "Apple+presentación+dispositivos+octubre",
+      "partial": true,
+      "summarizedAt": "2026-10-07T13:52:11.677930+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-3a0d27e8d0032f2e7cd40524": {
+    "fingerprint": "7c2e0ad5b462bc581cdcbf26",
+    "item": {
+      "id": "n-3a0d27e8d0032f2e7cd40524",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-07T12:25:46+00:00",
+      "sourceTitle": "Royal Mail plans to cut 2,500 jobs",
+      "fingerprint": "7c2e0ad5b462bc581cdcbf26",
+      "title": "Royal Mail planea recortar 2.500 empleos",
+      "summary": "La empresa de servicios postales ha anunciado su intención de reducir su plantilla en puestos administrativos y de oficina antes de que finalice el año 2027.",
+      "paragraphs": [
+        "Royal Mail ha comunicado un plan de reestructuración que afectará a 2.500 trabajadores. La medida se centrará específicamente en los puestos de la oficina central y otras funciones que no están relacionadas con la primera línea de atención.",
+        "La compañía prevé completar este proceso de reducción de personal a lo largo de los próximos meses, fijando como fecha límite el cierre del ejercicio 2027."
+      ],
+      "bullets": [
+        "Recorte de 2.500 puestos de trabajo.",
+        "Afecta a personal de oficina y funciones no operativas.",
+        "Ejecución prevista para finales de 2027."
+      ],
+      "eventKey": "Royal Mail recorta empleos en Reino Unido",
+      "partial": true,
+      "summarizedAt": "2026-10-07T13:52:11.677930+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-d98dbb120b3432c3c1dcfdc6": {
+    "fingerprint": "81b23b166b7b68d9befcac9c",
+    "item": {
+      "id": "n-d98dbb120b3432c3c1dcfdc6",
+      "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison",
+      "source": "The Guardian",
+      "section": "cultura",
+      "lang": "en",
+      "publishedAt": "2026-10-07T13:00:04+00:00",
+      "sourceTitle": "The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
+      "fingerprint": "81b23b166b7b68d9befcac9c",
+      "title": "Crítica de The Social Reckoning: la secuela de Aaron Sorkin sobre Facebook",
+      "summary": "Aaron Sorkin dirige esta secuela de La red social, que explora la figura de Mark Zuckerberg y el papel de Facebook en la propagación de discursos de odio y extremismo.",
+      "paragraphs": [
+        "La película narra los acontecimientos de 2021, cuando la denunciante Frances Haugen y el periodista Jeff Horwitz cuestionaron las prácticas de la compañía. El filme sostiene que Zuckerberg alteró el algoritmo para priorizar el contenido basado en la ira y el odio ante la caída de ingresos.",
+        "A diferencia de la cinta original, el Zuckerberg interpretado por Jeremy Strong aparece como un personaje secundario y malintencionado. La obra evita mencionar explícitamente a Donald Trump o al movimiento Maga al abordar los disturbios en el Capitolio."
+      ],
+      "bullets": [
+        "Jeremy Strong interpreta a un Zuckerberg con un ritmo pausado y una actitud negativa.",
+        "La trama se centra en la denuncia de Frances Haugen sobre la gestión de los algoritmos.",
+        "El filme vincula la falta de verificación de anuncios políticos con el auge de grupos extremistas.",
+        "Sorkin mantiene su estilo de diálogo característico, aunque con un tono distinto al de la primera entrega."
+      ],
+      "eventKey": "Aaron Sorkin-estrena-secuela-Facebook",
+      "partial": true,
+      "summarizedAt": "2026-10-07T13:52:11.677930+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-c4b09d95a4d398c24d664275": {
+    "fingerprint": "2fd0cbd870e8bda436f58a7d",
+    "item": {
+      "id": "n-c4b09d95a4d398c24d664275",
+      "url": "https://www.eldiario.es/politica/juez-investiga-rescate-publico-air-europa-cita-testigo-vicepresidenta-aagesen-plena-campana-electoral_1_13568822.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-07T10:59:48+00:00",
+      "sourceTitle": "El juez que investiga el rescate público de Air Europa cita como testigo a la vicepresidenta Aagesen en plena campaña electoral",
+      "fingerprint": "2fd0cbd870e8bda436f58a7d",
+      "title": "El juez del caso Air Europa cita a la vicepresidenta Aagesen e Íñigo Errejón en plena campaña electoral",
+      "summary": "El magistrado que investiga el rescate público de Air Europa ha convocado a una decena de testigos, entre ellos la vicepresidenta Sara Aagesen y el exdiputado Íñigo Errejón, para los días previos a las elecciones generales.",
+      "paragraphs": [
+        "El titular del Juzgado de Instrucción número 49 de Madrid ha fijado las declaraciones para el 23 y 24 de noviembre, coincidiendo con la campaña electoral. La investigación se centra en determinar si existió prevaricación en la concesión de 475 millones de euros a la aerolínea.",
+        "La citación de Errejón responde a sus denuncias parlamentarias de 2020 sobre la falta de condiciones ambientales en el rescate, mientras que la causa mantiene como investigado al vicepresidente de la SEPI, Bartolomé Lora."
+      ],
+      "bullets": [
+        "El juez investiga posibles irregularidades en el rescate de 475 millones de euros a Air Europa.",
+        "La ronda de declaraciones incluye a altos cargos y exresponsables de diversos ministerios y organismos públicos.",
+        "El PP y Vox son los partidos que interpusieron las querellas que dieron origen a este procedimiento judicial."
+      ],
+      "eventKey": "Sara Aagesen e Íñigo Errejón declaran como testigos ante el juez por el rescate de Air Europa en Madrid",
+      "partial": true,
+      "summarizedAt": "2026-10-07T13:52:11.677930+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-33c516bb703302abc6df21d5": {
+    "fingerprint": "ec1eda7f0f7761de3ce3d126",
+    "item": {
+      "id": "n-33c516bb703302abc6df21d5",
+      "url": "https://www.theguardian.com/world/2026/oct/07/housing-activists-madrid-encampment-hopes-spain-early-election",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-07T12:43:36+00:00",
+      "sourceTitle": "‘Now is the moment’: housing activists at Madrid encampment pin wary hopes on Spain’s early election",
+      "fingerprint": "ec1eda7f0f7761de3ce3d126",
+      "title": "Activistas por la vivienda en Madrid confían en las elecciones anticipadas",
+      "summary": "Manifestantes instalados en la Puerta del Sol buscan transformar el apoyo ciudadano y la visibilidad mediática de su acampada en cambios legislativos reales ante la convocatoria electoral.",
+      "paragraphs": [
+        "Más de 1.200 tiendas de campaña ocupan la Puerta del Sol en Madrid como parte de una protesta por el acceso a la vivienda. Los activistas han organizado una infraestructura urbana improvisada para mantener la visibilidad de sus demandas.",
+        "Los portavoces del movimiento señalan que el reto actual es convertir el respaldo social y la atención mediática conseguida en medidas concretas, depositando sus expectativas en el próximo proceso electoral."
+      ],
+      "bullets": [
+        "Instalación de un campamento con más de 1.200 tiendas en el centro de Madrid.",
+        "Uso de redes sociales para documentar la vida diaria y difundir el mensaje.",
+        "Objetivo de trasladar la presión social a la agenda política ante las elecciones."
+      ],
+      "eventKey": "activistas-vivienda-acampada-madrid",
+      "partial": true,
+      "summarizedAt": "2026-10-07T13:52:11.677930+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
