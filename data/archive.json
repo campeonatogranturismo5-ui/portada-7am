@@ -2868,5 +2868,676 @@
     "partial": true,
     "summarizedAt": "2026-10-04T11:02:12.082625+00:00",
     "model": "gemini-3.1-flash-lite"
+  },
+  "n-005eecbc0d4b9301dfa4e38d": {
+    "id": "n-005eecbc0d4b9301dfa4e38d",
+    "url": "https://www.durangon.com/intxaurreren-40-urteko-ibilbidea-omenduko-dute-durangoko-txosnen-txupinazoan/",
+    "source": "Durangon",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-10-08T11:07:33+00:00",
+    "sourceTitle": "Intxaurreren 40 urteko ibilbidea omenduko dute Durangoko txosnen txupinazoan",
+    "fingerprint": "c3b2f56af4fcff79603b7b2d",
+    "title": "Homenaje a Intxaurre en el inicio de las txosnas de Durango",
+    "summary": "El recinto de txosnas de Durango abrirá sus puertas mañana con un programa variado, destacando el reconocimiento a la trayectoria de Intxaurre durante el txupinazo inaugural.",
+    "paragraphs": [
+      "El espacio festivo de las txosnas de Durango comenzará su actividad mañana. El acto de apertura incluirá un homenaje a Intxaurre por sus 40 años de recorrido.",
+      "La programación prevista para estas fiestas contará con diversas propuestas de ocio tanto diurnas como nocturnas, diseñadas para cubrir diferentes preferencias y edades."
+    ],
+    "bullets": [
+      "Apertura del recinto de txosnas mañana.",
+      "Reconocimiento a Intxaurre por sus 40 años de trayectoria.",
+      "Oferta festiva variada para todos los públicos."
+    ],
+    "eventKey": "Intxaurre-homenaje-Durango",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-b8c884480448cae89917f156": {
+    "id": "n-b8c884480448cae89917f156",
+    "url": "https://www.europapress.es/nacional/noticia-feijoo-acusa-sanchez-psoe-intentar-manipular-vivienda-muerte-maricarmen-no-va-colar-20261008131900.html",
+    "source": "Europa Press",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-10-08T11:19:00+00:00",
+    "sourceTitle": "Feijóo acusa a Sánchez y el PSOE de intentar \"manipular\" con la vivienda tras la muerte de Maricarmen: \"No va a colar\"",
+    "fingerprint": "18c0de9d20c3c2d880810078",
+    "title": "Feijóo recrimina al PSOE el uso de la vivienda tras el fallecimiento de Maricarmen",
+    "summary": "El líder del Partido Popular ha denunciado que el Gobierno intenta manipular a la opinión pública utilizando el caso de Maricarmen en el debate sobre la vivienda.",
+    "paragraphs": [
+      "Alberto Núñez Feijóo ha cargado contra Pedro Sánchez y el PSOE, acusándoles de instrumentalizar el fallecimiento de una ciudadana llamada Maricarmen para fines políticos relacionados con la política de vivienda.",
+      "El dirigente popular ha advertido al Ejecutivo que esta estrategia no tendrá éxito entre la ciudadanía, rechazando el enfoque que los socialistas están dando a este asunto."
+    ],
+    "bullets": [
+      "Feijóo sostiene que el PSOE busca manipular a los españoles.",
+      "El líder del PP asegura que la maniobra gubernamental no tendrá éxito.",
+      "El conflicto surge tras la muerte de Maricarmen."
+    ],
+    "eventKey": "Feijóo acusa al PSOE de manipular con la vivienda",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-5a6a20e7918686a54ee4fe2a": {
+    "id": "n-5a6a20e7918686a54ee4fe2a",
+    "url": "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
+    "source": "The Guardian",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-10-08T11:35:35+00:00",
+    "sourceTitle": "Burnham committed to deeper EU cooperation, he tells Merz – Europe live",
+    "fingerprint": "be62d432688cf7c4af5f1852",
+    "title": "Cooperación europea y tensiones diplomáticas en Grecia",
+    "summary": "El primer ministro británico se reúne con el canciller alemán para estrechar lazos, mientras el secretario de Estado estadounidense debe responder nuevamente por acusaciones contra su embajadora en Atenas.",
+    "paragraphs": [
+      "El primer ministro del Reino Unido ha sido recibido en Berlín por el canciller alemán en el marco de una visita oficial destinada a profundizar la cooperación entre Londres y la Unión Europea.",
+      "Simultáneamente, en Atenas, el secretario de Estado de Estados Unidos, Marco Rubio, se ha visto obligado a pronunciarse de nuevo sobre las alegaciones de mala conducta que pesan contra Kimberly Guilfoyle, embajadora estadounidense en Grecia."
+    ],
+    "bullets": [
+      "Reunión bilateral entre el Reino Unido y Alemania para fortalecer la colaboración europea.",
+      "Marco Rubio aborda las acusaciones contra la embajadora Kimberly Guilfoyle en Grecia."
+    ],
+    "eventKey": "Burnham, Merz y Rubio: reuniones y crisis diplomáticas en Europa",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-bddab1e7a6b211714fc1fa9c": {
+    "id": "n-bddab1e7a6b211714fc1fa9c",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/",
+    "source": "NASA",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-10-08T04:05:00+00:00",
+    "sourceTitle": "APOD: 2026 October 8 – The Saturn System Smörgåsbord",
+    "fingerprint": "f3c51583ace4eb6a7a58d85b",
+    "title": "La NASA destaca la diversidad del sistema de Saturno",
+    "summary": "La imagen astronómica del día de la NASA se centra en el sistema de Saturno, ofreciendo una visión detallada de sus componentes.",
+    "paragraphs": [
+      "La agencia espacial estadounidense ha publicado una nueva fotografía astronómica que explora la complejidad del sistema de Saturno. Esta iniciativa forma parte de su proyecto diario, que busca acercar el cosmos al público mediante imágenes comentadas por expertos."
+    ],
+    "bullets": [
+      "La imagen forma parte de la serie Astronomy Picture of the Day.",
+      "El contenido incluye una explicación técnica redactada por un astrónomo profesional."
+    ],
+    "eventKey": "NASA-publica-imagen-Saturno",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-2f1e3af8844f137b305a2792": {
+    "id": "n-2f1e3af8844f137b305a2792",
+    "url": "https://www.xataka.com/ecologia-y-naturaleza/2025-espana-acabo-todos-peces-invasores-dos-lagos-pirineos-10-meses-despues-anfibios-e-invertebrados-estaban-vuelta",
+    "source": "Xataka",
+    "section": "tecnologia",
+    "lang": "es",
+    "publishedAt": "2026-10-08T11:46:26+00:00",
+    "sourceTitle": "En 2025, matamos a todos los peces de dos lagos pirenaicos: 10 meses después, los anfibios e invertebrados estaban de vuelta",
+    "fingerprint": "0a0a842e1bf337b54cae6f71",
+    "title": "La eliminación de peces invasores en lagos del Pirineo permite la recuperación de su ecosistema",
+    "summary": "Un proyecto científico ha logrado restaurar dos lagos pirenaicos tras erradicar poblaciones de peces introducidos artificialmente, permitiendo el retorno de la fauna autóctona. La intervención, basada en el uso de un ictiocida, ha devuelto la transparencia a las aguas y la biodiversidad original.",
+    "paragraphs": [
+      "Un equipo supervisado por el CSIC y la Generalitat ha llevado a cabo una intervención en el Parc Natural de l'Alt Pirineu para eliminar peces invasores, como el piscardo, que habían alterado gravemente el equilibrio ecológico de los lagos de alta montaña. Mediante el uso de rotenona, un compuesto de origen vegetal, se logró erradicar estas especies que habían sido introducidas por la actividad humana.",
+      "Diez meses después de la actuación, los informes confirman la desaparición de los peces y la recuperación de anfibios e invertebrados que habían desaparecido. Los investigadores continúan analizando los resultados para determinar por qué la recuperación varía entre lagos y establecer una guía de actuación para futuros proyectos de restauración ambiental."
+    ],
+    "bullets": [
+      "La introducción de truchas y el uso de piscardos como cebo vivo provocaron la degradación de los ecosistemas lacustres.",
+      "La ausencia de depredadores naturales y la alta capacidad reproductiva del piscardo causaron la desaparición de zooplancton y renacuajos.",
+      "La aplicación de rotenona permitió eliminar la población invasora sin dejar trazas tóxicas persistentes en el agua.",
+      "El proyecto LIFE RESQUE ALPYR busca sentar las bases para la recuperación de otros lagos afectados en Europa."
+    ],
+    "eventKey": "CSIC y Generalitat eliminan peces invasores en lagos del Pirineo",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-7ad84d0adb1e3fda1a85d5d2": {
+    "id": "n-7ad84d0adb1e3fda1a85d5d2",
+    "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "economia",
+    "lang": "en",
+    "publishedAt": "2026-10-08T11:01:29+00:00",
+    "sourceTitle": "Asos hackers took more personal details than first revealed, BBC finds",
+    "fingerprint": "2bc019833d6ac28139ac2b2f",
+    "title": "Asos admite que el ciberataque expuso más datos personales de los previstos",
+    "summary": "La compañía minorista ha actualizado su postura tras ser contactada por los responsables del ataque, quienes aseguran que la brecha de seguridad es más grave de lo comunicado inicialmente.",
+    "paragraphs": [
+      "Asos ha emitido una nueva actualización sobre el incidente de ciberseguridad que afecta a sus sistemas. La empresa ha reconocido que la información comprometida supera los datos de contacto básicos que se habían reportado en un primer momento.",
+      "La rectificación se produce después de que los propios ciberdelincuentes se pusieran en contacto con la BBC para desmentir la versión inicial de la minorista sobre el alcance del robo de información."
+    ],
+    "bullets": [
+      "Los atacantes afirman haber obtenido más datos personales de los admitidos por la empresa.",
+      "La compañía ha tenido que actualizar su comunicación oficial tras las advertencias de los responsables del hackeo."
+    ],
+    "eventKey": "Asos-ciberataque-datos-personales",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-e55f6830858da493b0c7eae6": {
+    "id": "n-e55f6830858da493b0c7eae6",
+    "url": "https://www.europapress.es/euskadi/noticia-fallece-viruela-mono-hospital-donostia-san-sebastian-paciente-oncologico-20261008132629.html",
+    "source": "Europa Press Euskadi",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-10-08T11:26:29+00:00",
+    "sourceTitle": "Fallece por viruela del mono en el Hospital Donostia de San Sebastián un paciente oncológico",
+    "fingerprint": "4df2aed1c56246240d00177c",
+    "title": "Fallecimiento por viruela del mono en el Hospital Donostia",
+    "summary": "Un paciente oncológico de 61 años ha muerto en el Hospital Donostia tras contraer viruela del mono por un contagio accidental en el centro hospitalario.",
+    "paragraphs": [
+      "El fallecimiento se ha producido en el Hospital Donostia de San Sebastián. El paciente, que recibía tratamiento oncológico, contrajo el virus al compartir habitación con otra persona cuya infección no había sido detectada previamente."
+    ],
+    "bullets": [
+      "Paciente oncológico de 61 años fallecido.",
+      "El contagio ocurrió por contacto con otro paciente en el hospital.",
+      "La infección del compañero de habitación era desconocida en el momento del ingreso."
+    ],
+    "eventKey": "paciente oncológico fallece viruela mono San Sebastián",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-1ed968f1c0d9c65dd7e346e7": {
+    "id": "n-1ed968f1c0d9c65dd7e346e7",
+    "url": "https://www.eldiario.es/politica/jueza-biedma-declara-pedraz-sintio-temor-no-le-influyo-resoluciones-david-sanchez_1_13571505.html",
+    "source": "elDiario.es",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-10-08T10:45:22+00:00",
+    "sourceTitle": "La jueza Biedma declara ante Pedraz que sintió \"temor\" pero que no le influyó en sus resoluciones sobre David Sánchez",
+    "fingerprint": "4098bb049ce0b74cb270104b",
+    "title": "La jueza Biedma asegura ante Pedraz que las presiones recibidas no afectaron a sus decisiones sobre David Sánchez",
+    "summary": "La magistrada Beatriz Biedma ha testificado ante el juez Pedraz sobre las amenazas y el temor que experimentó durante la instrucción del caso contra el hermano del presidente del Gobierno, negando cualquier influencia en sus resoluciones judiciales.",
+    "paragraphs": [
+      "La jueza Biedma ha relatado ante la Audiencia Nacional diversos episodios de intimidación, incluyendo la supuesta contratación de un clan de narcotraficantes para actuar contra ella y la grabación de vídeos sin su consentimiento. Según su testimonio, estas presiones incluyeron visitas sospechosas al colegio de sus hijas y advertencias sobre la necesidad de apartarla del caso.",
+      "A pesar de admitir que sintió temor por su seguridad y la de su familia, Biedma ha negado rotundamente que estos hechos condicionaran su labor judicial. Asimismo, ha detallado las presiones que, según le trasladó el coronel Balas, sufrió la Guardia Civil durante la investigación, lo que motivó su decisión de encargar las diligencias a la UCO para evitar posibles filtraciones locales."
+    ],
+    "bullets": [
+      "La magistrada afirma que un abogado le advirtió sobre un plan para querellarse contra ella y eliminarla del proceso.",
+      "Biedma sostiene que las presiones recibidas no influyeron en sus decisiones sobre David Sánchez.",
+      "La jueza justifica la intervención de la UCO por el temor a filtraciones en Badajoz y la vinculación con otros casos de fraude.",
+      "El coronel Balas habría trasladado a la jueza que la unidad investigadora nunca había sufrido presiones de tal magnitud."
+    ],
+    "eventKey": "Beatriz Biedma declara ante Pedraz sobre presiones en el caso David Sánchez",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-672400258c37a9549fa7659a": {
+    "id": "n-672400258c37a9549fa7659a",
+    "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-10-08T10:52:50+00:00",
+    "sourceTitle": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+    "fingerprint": "52a007e141f09f85fad3bdce",
+    "title": "Un ataque ruso contra autobuses en Ucrania causa 33 muertos",
+    "summary": "Las autoridades ucranianas han denunciado un bombardeo ruso contra un vehículo de transporte público en una ciudad del frente, resultando en una treintena de fallecidos.",
+    "paragraphs": [
+      "El ataque ha tenido lugar en una zona de primera línea, donde las fuerzas ucranianas acusan a Rusia de haber dirigido el proyectil contra un autobús lleno de pasajeros con el objetivo de maximizar las víctimas civiles.",
+      "Este suceso se enmarca en un incremento de la intensidad de los ataques rusos sobre territorio ucraniano durante las últimas horas."
+    ],
+    "bullets": [
+      "33 personas han perdido la vida tras el impacto.",
+      "Ucrania sostiene que el objetivo era causar el mayor número de bajas civiles posible.",
+      "El incidente ocurre en un contexto de escalada de ataques en el frente."
+    ],
+    "eventKey": "Rusia ataca autobuses en Ucrania",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-766352a2f0847399755cdee3": {
+    "id": "n-766352a2f0847399755cdee3",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261005071533.htm",
+    "source": "ScienceDaily",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-10-08T00:52:42+00:00",
+    "sourceTitle": "Stanford scientists turn a cancer driver into a kill switch",
+    "fingerprint": "c0122692de1ee4ae012c68c9",
+    "title": "Científicos de Stanford logran convertir una proteína cancerígena en un mecanismo de autodestrucción",
+    "summary": "Investigadores han desarrollado una molécula capaz de transformar una proteína que fomenta el linfoma en un interruptor que elimina las células tumorales. Aunque los resultados en ratones han sido exitosos, el tratamiento requiere todavía de pruebas adicionales antes de su posible aplicación en humanos.",
+    "paragraphs": [
+      "Un equipo de la Universidad de Stanford ha diseñado una molécula que altera el funcionamiento de una proteína clave en el desarrollo del linfoma. En lugar de limitarse a frenar el crecimiento del tumor, este compuesto activa los mecanismos de autodestrucción de las propias células cancerosas.",
+      "Las pruebas realizadas en modelos de ratón con linfoma humano agresivo han logrado la eliminación completa de los tumores en un plazo de 11 días. No obstante, los responsables del estudio subrayan que es necesario realizar más investigaciones antes de que esta terapia pueda llegar a los pacientes."
+    ],
+    "bullets": [
+      "La molécula convierte una proteína promotora del linfoma en un interruptor letal.",
+      "El tratamiento eliminó tumores humanos agresivos en ratones en 11 días.",
+      "Se requieren pruebas adicionales antes de considerar su uso clínico en humanos."
+    ],
+    "eventKey": "Científicos de Stanford desarrollan molécula contra el linfoma",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-570cb2cddef8f4363f88e77d": {
+    "id": "n-570cb2cddef8f4363f88e77d",
+    "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+    "source": "Ars Technica",
+    "section": "tecnologia",
+    "lang": "en",
+    "publishedAt": "2026-10-08T11:15:33+00:00",
+    "sourceTitle": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+    "fingerprint": "93e69675f188c2819a24d586",
+    "title": "Nvidia apuesta por la inteligencia artificial física para mejorar la seguridad robótica",
+    "summary": "Nvidia ha lanzado una solución integral de seguridad diseñada para optimizar el funcionamiento de robotaxis y robots humanoides. Esta tecnología ya está siendo implementada por diversas empresas del sector robótico.",
+    "paragraphs": [
+      "La compañía ha presentado una plataforma de seguridad de pila completa orientada a la inteligencia artificial física. El objetivo principal es reducir los riesgos operativos en sistemas autónomos complejos.",
+      "Diversas empresas dedicadas a la robótica han comenzado a integrar esta solución en sus desarrollos actuales, buscando mejorar la fiabilidad de sus máquinas en entornos reales."
+    ],
+    "bullets": [
+      "Desarrollo de una solución de seguridad integral para IA física.",
+      "Enfoque específico en la mejora de robotaxis y robots humanoides.",
+      "Adopción temprana por parte de empresas del sector robótico."
+    ],
+    "eventKey": "Nvidia-implementa-solucion-seguridad-robotica",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-8056bfcf13bf0c91e8e285b9": {
+    "id": "n-8056bfcf13bf0c91e8e285b9",
+    "url": "https://www.durangon.com/durango-activara-dos-recursos-para-atender-situaciones-de-violencia-machista-en-los-sanfaustos/",
+    "source": "Durangon",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-10-08T09:50:28+00:00",
+    "sourceTitle": "Durango activará dos recursos para atender situaciones de violencia machista en los ‘Sanfaustos’",
+    "fingerprint": "b6cbe590ded1dbbff6e99b40",
+    "title": "Durango habilitará medidas contra la violencia machista en sus fiestas",
+    "summary": "El Ayuntamiento de Durango pondrá en marcha dos dispositivos de asistencia para prevenir y atender posibles agresiones durante la celebración de los Sanfaustos.",
+    "paragraphs": [
+      "Con motivo de las próximas fiestas, el consistorio ha anunciado la activación de un Punto Morado ubicado en Ezkurdi. Asimismo, se habilitará un canal telefónico especializado para ofrecer apoyo inmediato.",
+      "Ambos recursos contarán con la supervisión de personal experto para garantizar una atención adecuada ante cualquier situación de violencia machista que pueda producirse durante los festejos."
+    ],
+    "bullets": [
+      "Instalación de un Punto Morado en la zona de Ezkurdi.",
+      "Activación de un servicio telefónico de atención específica.",
+      "Gestión del dispositivo a cargo de profesionales expertas."
+    ],
+    "eventKey": "Ayuntamiento de Durango activa recursos contra violencia machista en fiestas",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-743f4c63b64476e2bc2f0fa1": {
+    "id": "n-743f4c63b64476e2bc2f0fa1",
+    "url": "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/",
+    "source": "NASA",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-10-08T04:01:00+00:00",
+    "sourceTitle": "Fighting Drought in Texas Cotton Country",
+    "fingerprint": "9f5864a35820574b97f39b30",
+    "title": "La NASA analiza la sequía en los cultivos de algodón de Texas",
+    "summary": "Científicos de la NASA se han reunido con agricultores de las llanuras de Texas para abordar la problemática de la escasez de agua y el deterioro de los acuíferos en la región.",
+    "paragraphs": [
+      "Expertos de la agencia espacial han mantenido encuentros con productores locales en Texas High Plains para evaluar el impacto de la sequía en la zona algodonera.",
+      "El estado de los acuíferos locales ha centrado las conversaciones, planteando retos significativos para la sostenibilidad de la actividad agrícola en el área."
+    ],
+    "bullets": [
+      "Reunión entre científicos de la NASA y agricultores locales.",
+      "Preocupación por la sequía persistente en Texas High Plains.",
+      "Debate sobre el estado crítico de los acuíferos regionales."
+    ],
+    "eventKey": "NASA-agricultores-analizan-sequia-Texas",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-2e37e579d4d0bc1b1d6ce6d6": {
+    "id": "n-2e37e579d4d0bc1b1d6ce6d6",
+    "url": "https://www.xataka.com/seleccion/triplete-descuentos-adicionales-tienda-oficial-samsung-galaxy-tab-s11-mucho-rebajada",
+    "source": "Xataka",
+    "section": "tecnologia",
+    "lang": "es",
+    "publishedAt": "2026-10-08T11:46:16+00:00",
+    "sourceTitle": "Triplete de descuentos adicionales en la tienda oficial de Samsung con la Galaxy Tab S11 mucho más rebajada",
+    "fingerprint": "ddd517755f492406c953ff5e",
+    "title": "Samsung rebaja la Galaxy Tab S11 con una promoción de descuentos acumulables",
+    "summary": "La tienda oficial de Samsung ha lanzado una campaña de ofertas que permite adquirir la Galaxy Tab S11 a un precio reducido mediante la combinación de varios descuentos directos y promocionales. El coste final del dispositivo puede variar dependiendo de si el usuario opta por entregar un equipo antiguo o utilizar métodos de pago específicos.",
+    "paragraphs": [
+      "La compañía ha implementado un sistema de rebajas que incluye un descuento directo, bonificaciones por el uso de Bizum o Samsung Pay, y una reducción adicional mediante el programa Entrega y Estrena. Asimismo, es posible aplicar un código promocional para obtener una rebaja extra sobre el precio base.",
+      "La tablet, que cuenta con una pantalla AMOLED de 11 pulgadas y procesador MediaTek Dimensity 9400+, se posiciona como una opción de alto rendimiento para tareas multimedia, estudio y trabajo. El precio final está sujeto a cambios y depende de la aplicación de todas las condiciones promocionales vigentes."
+    ],
+    "bullets": [
+      "Precio promocional de 674,10 euros aplicando todas las rebajas disponibles.",
+      "Incluye S Pen y cuenta con 12 GB de RAM y 128 GB de almacenamiento.",
+      "La oferta requiere el uso de métodos de pago concretos y códigos específicos.",
+      "El precio puede incrementarse si no se entrega un dispositivo antiguo."
+    ],
+    "eventKey": "Samsung-rebaja-Galaxy-Tab-S11",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-c27cf7e621acbc08d2bff7ed": {
+    "id": "n-c27cf7e621acbc08d2bff7ed",
+    "url": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "economia",
+    "lang": "en",
+    "publishedAt": "2026-10-08T07:11:14+00:00",
+    "sourceTitle": "We spent thousands on a Tui river cruise but ended up on coach trips",
+    "fingerprint": "d781ba7947f49037e3e8fccf",
+    "title": "Pasajeros de un crucero fluvial de Tui denuncian cambios en su itinerario",
+    "summary": "Varios clientes han expresado su malestar tras comprobar que su viaje por el río fue sustituido por largos desplazamientos en autobús.",
+    "paragraphs": [
+      "Los afectados han manifestado su indignación al ver cómo el crucero contratado con la compañía Tui se transformó en una serie de trayectos por carretera.",
+      "La empresa aún no ha aclarado las causas de estas modificaciones que han afectado a la experiencia de los viajeros."
+    ],
+    "bullets": [
+      "Los pasajeros pagaron miles de euros por el crucero.",
+      "El itinerario original fue reemplazado por horas de viaje en autocar.",
+      "Existe un descontento generalizado entre los clientes afectados."
+    ],
+    "eventKey": "pasajeros-denuncian-cambios-crucero-tui",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-65bfbc78fec27a62a5ae3299": {
+    "id": "n-65bfbc78fec27a62a5ae3299",
+    "url": "https://www.europapress.es/euskadi/noticia-partidos-vascos-muestran-diferencias-proteccion-inquilinos-debate-marcado-caso-maricarmen-20261008122435.html",
+    "source": "Europa Press Euskadi",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-10-08T10:24:35+00:00",
+    "sourceTitle": "Partidos vascos muestran sus diferencias sobre la protección de inquilinos en un debate marcado por el caso Maricarmen",
+    "fingerprint": "5497bf603928e786fb139ef2",
+    "title": "Desacuerdo político en el País Vasco sobre la protección de los inquilinos",
+    "summary": "Los partidos vascos han evidenciado posturas divergentes respecto a la regulación del alquiler, en una sesión parlamentaria condicionada por el caso de Maricarmen.",
+    "paragraphs": [
+      "El debate parlamentario ha puesto de manifiesto la falta de consenso entre las formaciones políticas sobre cómo garantizar la protección de los arrendatarios. La discusión ha estado fuertemente influenciada por la situación particular de Maricarmen.",
+      "Durante la sesión, se ha votado en contra de una iniciativa presentada por Sumar que buscaba blindar la protección de las viviendas de protección oficial (VPO) de alquiler de forma indefinida."
+    ],
+    "bullets": [
+      "Rechazo a la propuesta de Sumar sobre la protección indefinida de VPO.",
+      "Debate condicionado por el caso Maricarmen.",
+      "Divergencias entre los partidos vascos sobre vivienda."
+    ],
+    "eventKey": "partidos vascos debaten protección inquilinos",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-d47224b17fc26cfacceac5a3": {
+    "id": "n-d47224b17fc26cfacceac5a3",
+    "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-10-08T10:07:58+00:00",
+    "sourceTitle": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+    "fingerprint": "ba1c19a8cfc97736026c7d96",
+    "title": "Un petrolero es alcanzado por proyectiles en el Golfo frente a Qatar",
+    "summary": "Un buque cisterna ha sufrido el impacto de varios proyectiles en aguas cercanas a Qatar, provocando víctimas a bordo.",
+    "paragraphs": [
+      "Una agencia de inteligencia marítima ha confirmado que el petrolero y buque químico Acers ha sido atacado por múltiples proyectiles mientras navegaba en el Golfo.",
+      "Las autoridades han reportado la existencia de víctimas en el navío, aunque por el momento no se han ofrecido detalles adicionales sobre el alcance de los daños o la identidad de los responsables."
+    ],
+    "bullets": [
+      "El buque afectado es el petrolero y químico Acers.",
+      "Se han registrado víctimas tras el impacto de los proyectiles.",
+      "El incidente ha tenido lugar en aguas del Golfo próximas a Qatar."
+    ],
+    "eventKey": "Acers-ataque-Qatar",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-41169bd923cf46b55155ccb5": {
+    "id": "n-41169bd923cf46b55155ccb5",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
+    "source": "ScienceDaily",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-10-07T13:09:15+00:00",
+    "sourceTitle": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
+    "fingerprint": "8a82b88edc19633dcb975c92",
+    "title": "El telescopio Webb detecta indicios de colisiones planetarias masivas",
+    "summary": "El observatorio espacial ha analizado discos de escombros alrededor de estrellas jóvenes para estudiar impactos violentos similares a los que pudieron formar la Luna.",
+    "paragraphs": [
+      "El telescopio James Webb ha permitido a los astrónomos observar colisiones de cuerpos del tamaño de Marte. El estudio de 21 discos de escombros extremos sugiere que el polvo resultante revela la magnitud de estos choques planetarios.",
+      "Esta investigación busca comprender mejor los eventos violentos que dieron forma a nuestro sistema solar, incluyendo el impacto gigante que se cree originó nuestro satélite."
+    ],
+    "bullets": [
+      "Análisis de 21 discos de escombros alrededor de estrellas jóvenes.",
+      "Estudio de colisiones violentas comparables a la formación de la Luna.",
+      "El polvo espacial sirve como indicador de la intensidad de los impactos."
+    ],
+    "eventKey": "NASA-Webb-detecta-colisiones-planetarias",
+    "partial": true,
+    "summarizedAt": "2026-10-07T13:52:11.677930+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-6c58fc404818406f9448c79f": {
+    "id": "n-6c58fc404818406f9448c79f",
+    "url": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
+    "source": "Ars Technica",
+    "section": "tecnologia",
+    "lang": "en",
+    "publishedAt": "2026-10-08T11:00:14+00:00",
+    "sourceTitle": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
+    "fingerprint": "0044675ada201244a77a66df",
+    "title": "Una exsenadora que impulsó restricciones a las apuestas predice ahora para Kalshi",
+    "summary": "La antigua senadora Blanche Lincoln, quien redactó legislación para prohibir contratos de apuestas deportivas, trabaja actualmente como grupo de presión para la plataforma Kalshi.",
+    "paragraphs": [
+      "Blanche Lincoln, que en el pasado promovió leyes para limitar los mercados de predicción y apuestas sobre eventos deportivos en Estados Unidos, ha cambiado de bando profesional.",
+      "La exsenadora ejerce ahora labores de lobby en favor de Kalshi, una plataforma que opera precisamente en el sector que ella intentó restringir mediante su actividad legislativa."
+    ],
+    "bullets": [
+      "Lincoln redactó la normativa que permitía prohibir contratos de eventos deportivos.",
+      "La exsenadora representa actualmente los intereses de Kalshi."
+    ],
+    "eventKey": "Blanche Lincoln ejerce lobby para Kalshi",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-80579d66f8179a4b9e07c63f": {
+    "id": "n-80579d66f8179a4b9e07c63f",
+    "url": "https://www.theguardian.com/tv-and-radio/2026/oct/07/cruel-torment-depraved-violence-evil-turns-where-did-tvs-real-baddies-go",
+    "source": "The Guardian",
+    "section": "cultura",
+    "lang": "en",
+    "publishedAt": "2026-10-07T14:11:15+00:00",
+    "sourceTitle": "Cruel torment, depraved violence, evil turns: where did TV’s real baddies go?",
+    "fingerprint": "d3cddf453d425882cdf521a5",
+    "title": "El declive de los villanos puros en la televisión actual",
+    "summary": "Un análisis sobre cómo las adaptaciones televisivas modernas, como la nueva versión de 'East of Eden', están transformando a los antagonistas clásicos en personajes con trasfondos traumáticos que buscan justificar su maldad.",
+    "paragraphs": [
+      "La crítica señala que la tendencia actual en la ficción televisiva es dotar a los villanos de una complejidad psicológica que, a menudo, suaviza su naturaleza original. En la reciente adaptación de 'East of Eden', el personaje de Cathy Ames, interpretado por Florence Pugh, ha pasado de ser una figura brutal y carente de empatía a una mujer cuya crueldad se atribuye a traumas infantiles.",
+      "Este cambio de enfoque, impulsado por la guionista Zoe Kazan, busca ofrecer explicaciones a las acciones destructivas de los personajes. Sin embargo, esta evolución hacia la empatía plantea el debate sobre si la televisión está perdiendo a los antagonistas verdaderamente malvados y sin remordimientos que definían a los clásicos literarios."
+    ],
+    "bullets": [
+      "La adaptación de 'East of Eden' añade escenas de abusos infantiles para justificar la conducta de Cathy Ames.",
+      "El personaje original de Steinbeck se caracteriza por su frialdad y falta de sentimientos al cometer crímenes.",
+      "La tendencia actual prioriza la creación de villanos con trasfondos traumáticos frente a la maldad pura.",
+      "Se cuestiona si la búsqueda de complejidad narrativa está restando impacto a los antagonistas televisivos."
+    ],
+    "eventKey": "Florence Pugh y Zoe Kazan adaptan a Cathy Ames en East of Eden",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-846b4f518d1e94b8195156a9": {
+    "id": "n-846b4f518d1e94b8195156a9",
+    "url": "https://www.durangon.com/las-personas-mayores-de-durango-vuelven-a-ponerse-en-marcha/",
+    "source": "Durangon",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-10-07T03:54:42+00:00",
+    "sourceTitle": "Las personas mayores de Durango vuelven a ponerse en marcha",
+    "fingerprint": "0ae5cddd4f6a88f55df6d21a",
+    "title": "Durango retoma las actividades físicas para mayores",
+    "summary": "El municipio de Durango ha reactivado su programa de ejercicio físico dirigido a la tercera edad, incorporando supervisión técnica especializada.",
+    "paragraphs": [
+      "El Ayuntamiento de Durango ha puesto en marcha una nueva edición de sus actividades de bienestar físico destinadas a las personas mayores de la localidad.",
+      "La iniciativa, que se centra en la práctica de paseos saludables y marcha nórdica, contará con la asistencia de profesionales del sector deportivo para guiar a los participantes durante el curso."
+    ],
+    "bullets": [
+      "Programación de paseos saludables y marcha nórdica.",
+      "Supervisión a cargo de profesionales del ámbito deportivo."
+    ],
+    "eventKey": "personas mayores de Durango realizan actividades físicas",
+    "partial": true,
+    "summarizedAt": "2026-10-07T13:52:11.677930+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-51d4433add54f4977eedb783": {
+    "id": "n-51d4433add54f4977eedb783",
+    "url": "https://www.europapress.es/nacional/noticia-ferraz-acusa-derecha-difundir-bulo-posibilidad-incorporar-begona-gomez-listas-psoe-20261008123937.html",
+    "source": "Europa Press",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-10-08T10:39:37+00:00",
+    "sourceTitle": "Ferraz acusa a la derecha de \"difundir un bulo\" sobre la posibilidad de incorporar a Begoña Gómez a las listas del PSOE",
+    "fingerprint": "9f1fb2e46d1bfbb784b5589d",
+    "title": "El PSOE desmiente que Begoña Gómez vaya a figurar en sus listas electorales",
+    "summary": "La dirección socialista ha calificado de falsedad las informaciones que apuntan a una posible candidatura de la esposa del presidente del Gobierno en los próximos comicios generales.",
+    "paragraphs": [
+      "Fuentes de Ferraz han negado rotundamente que Begoña Gómez forme parte de las listas del PSOE para las elecciones generales convocadas para el 29 de noviembre. El partido atribuye estas especulaciones a una estrategia de la derecha para difundir bulos.",
+      "Desde la formación socialista se ha desmentido la veracidad de estos rumores, subrayando que no existe ninguna intención de integrar a la esposa de Pedro Sánchez en la candidatura electoral."
+    ],
+    "bullets": [
+      "El PSOE califica de bulo la posible inclusión de Begoña Gómez en sus listas.",
+      "Las elecciones generales están fijadas para el próximo 29 de noviembre.",
+      "La dirección socialista señala a la derecha como responsable de la difusión de esta información."
+    ],
+    "eventKey": "PSOE desmiente candidatura Begoña Gómez España",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-b6f2d4d68bc328a915d464eb": {
+    "id": "n-b6f2d4d68bc328a915d464eb",
+    "url": "https://www.theguardian.com/books/2026/oct/08/queensland-literary-awards-lenora-thaker-the-pearl-of-tagai-town-winner",
+    "source": "The Guardian",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-10-08T10:30:16+00:00",
+    "sourceTitle": "Queensland literary awards: ‘stunning’ debut inspired by segregated shantytown wins top prize",
+    "fingerprint": "0547c1a1e3a882060ab739e6",
+    "title": "Lenora Thaker gana el premio literario de Queensland con su novela debut",
+    "summary": "La autora Lenora Thaker ha sido galardonada con el premio principal de los Queensland Literary Awards por su obra sobre la historia de un asentamiento segregado en Cairns.",
+    "paragraphs": [
+      "La escritora Lenora Thaker ha obtenido el premio del primer ministro de Queensland, dotado con 30.000 dólares, por su novela histórica 'The Pearl of Tagai Town'. El jurado ha calificado la obra como un trabajo de relevancia estatal y un debut literario destacado.",
+      "La trama se inspira en la historia familiar de la autora y en la existencia de Cairns-Malay Town, un asentamiento segregado que albergó a diversas comunidades desde finales del siglo XIX hasta la década de 1950."
+    ],
+    "bullets": [
+      "La novela ha sido reconocida por su carácter distintivo y su importancia para el estado.",
+      "El relato se basa en la vida de los antepasados de Thaker en un asentamiento no cartografiado.",
+      "Cairns-Malay Town fue un espacio de segregación para residentes de diversos orígenes étnicos."
+    ],
+    "eventKey": "Lenora Thaker gana premio literario en Queensland",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-fbb1e012c43d81af4b32ee98": {
+    "id": "n-fbb1e012c43d81af4b32ee98",
+    "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
+    "source": "NASA",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-10-07T21:16:42+00:00",
+    "sourceTitle": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
+    "fingerprint": "e194e73fe8994e568313810c",
+    "title": "La NASA prepara la 35ª misión de reabastecimiento de SpaceX a la Estación Espacial",
+    "summary": "La NASA y SpaceX han programado para el 13 de octubre el lanzamiento de una nueva misión de carga destinada a la Estación Espacial Internacional. El envío incluirá suministros, equipos científicos y los últimos paneles solares desplegables para el complejo orbital.",
+    "paragraphs": [
+      "La agencia espacial estadounidense y la compañía privada SpaceX han fijado el despegue para las 6:33 a.m. (hora del este) del próximo martes 13 de octubre. Esta operación constituye la trigésima quinta misión de servicios de reabastecimiento comercial dirigida a la estación.",
+      "La carga transportada consta de diversos materiales de investigación científica, suministros básicos y equipamiento técnico. Entre los elementos más destacados se encuentra el conjunto final de paneles solares desplegables (iROSA) destinados a mejorar la infraestructura energética de la estación."
+    ],
+    "bullets": [
+      "Lanzamiento previsto para el 13 de octubre a las 6:33 a.m. EDT.",
+      "La misión transportará investigaciones científicas y suministros esenciales.",
+      "Se entregarán los últimos paneles solares desplegables para la estación."
+    ],
+    "eventKey": "NASA y SpaceX lanzan misión de reabastecimiento a la EEI",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-7d81646e06bae86d12121bb4": {
+    "id": "n-7d81646e06bae86d12121bb4",
+    "url": "https://www.xataka.com/magnet/algun-motivo-ninos-finlandeses-han-recibido-a-reina-letizia-cancion-jose-luis-perales",
+    "source": "Xataka",
+    "section": "tecnologia",
+    "lang": "es",
+    "publishedAt": "2026-10-08T11:30:26+00:00",
+    "sourceTitle": "Por algún motivo, los niños finlandeses han recibido a la reina Letizia con una canción de José Luis Perales",
+    "fingerprint": "9bd5b6bf5a9bedbe55d60b7d",
+    "title": "La inesperada bienvenida a la reina Letizia en Finlandia con una canción de José Luis Perales",
+    "summary": "Durante una visita de Estado a Helsinki, un grupo de escolares recibió a la reina Letizia interpretando un tema de José Luis Perales. El gesto responde tanto al programa bilingüe del centro educativo como a la notable influencia de la cultura popular española en el país nórdico.",
+    "paragraphs": [
+      "La reina Letizia, en el marco de la primera visita de Estado de la Corona española a Finlandia en casi cuatro décadas, visitó la escuela de Käpylä junto a la primera dama, Suzanne Innes-Stubb. Allí, un coro de alumnos sorprendió a la monarca cantando en español 'Que canten los niños'.",
+      "Aunque el momento ha causado asombro, el centro cuenta con un programa bilingüe y el español es la tercera lengua extranjera más estudiada en Finlandia. Además, el país mantiene una histórica fascinación por la ficción española, destacando el fenómeno televisivo que supuso 'Los Serrano' para toda una generación de finlandeses."
+    ],
+    "bullets": [
+      "La escuela de Käpylä ofrece formación bilingüe en español a cerca de 170 alumnos.",
+      "El español es el tercer idioma extranjero con mayor número de estudiantes en Finlandia.",
+      "La serie 'Los Serrano' alcanzó una audiencia masiva en el país, convirtiendo a sus protagonistas en figuras muy populares."
+    ],
+    "eventKey": "Reina Letizia visita escuela en Helsinki",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-4e59bdd9bfb5054afe29805c": {
+    "id": "n-4e59bdd9bfb5054afe29805c",
+    "url": "https://www.bbc.co.uk/news/articles/cwvgrx5ner6go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "economia",
+    "lang": "en",
+    "publishedAt": "2026-10-08T05:08:56+00:00",
+    "sourceTitle": "New electric car 'make or break for Jaguar'",
+    "fingerprint": "e3797eb0f5ea2b8916a7e54c",
+    "title": "El futuro de Jaguar depende de su nuevo coche eléctrico",
+    "summary": "El lanzamiento del modelo Type 01 se considera un momento decisivo para la marca británica, con implicaciones directas para el empleo y la inversión futura.",
+    "paragraphs": [
+      "El experto David Bailey ha señalado que el éxito del nuevo vehículo eléctrico Type 01 es fundamental para la estabilidad de Jaguar. La compañía se enfrenta a un escenario donde este lanzamiento determinará su viabilidad a largo plazo.",
+      "La relevancia de este proyecto trasciende lo comercial, afectando directamente a la continuidad de los puestos de trabajo y a los niveles de inversión en la firma."
+    ],
+    "bullets": [
+      "El modelo Type 01 es clave para el futuro de la compañía.",
+      "El éxito del vehículo condiciona la inversión y el empleo."
+    ],
+    "eventKey": "Jaguar-lanzamiento-Type01-ReinoUnido",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-6edecd637a308a6f547417f5": {
+    "id": "n-6edecd637a308a6f547417f5",
+    "url": "https://elpais.com/suscripciones/elpaismas/experiencias/2026-10-08/vive-una-experiencia-unica-en-wicked-el-musical.html",
+    "source": "El País",
+    "section": "cultura",
+    "lang": "es",
+    "publishedAt": "2026-10-08T08:03:48+00:00",
+    "sourceTitle": "Vive una experiencia única en ‘WICKED, El Musical’",
+    "fingerprint": "ca2f352fb136b7d63b94aa65",
+    "title": "Promoción para asistir al musical Wicked",
+    "summary": "El País ofrece a sus suscriptores la posibilidad de disfrutar de una experiencia exclusiva en torno a la representación de Wicked.",
+    "paragraphs": [
+      "La publicación invita a sus lectores a participar en una actividad especial vinculada al musical, una obra que explora temas como la ambición, la amistad y la crítica al poder.",
+      "La propuesta se presenta como una oportunidad para profundizar en la historia que cuestiona las apariencias."
+    ],
+    "bullets": [
+      "Experiencia exclusiva para suscriptores de El País.",
+      "El musical aborda la ambición y la amistad.",
+      "La obra analiza el ejercicio del poder y las apariencias."
+    ],
+    "eventKey": "El País promociona musical Wicked",
+    "partial": true,
+    "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+    "model": "gemini-3.1-flash-lite"
   }
 }
