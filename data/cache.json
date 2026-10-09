@@ -2678,5 +2678,201 @@
       "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-c0eeed381cf09616a74a91c4": {
+    "fingerprint": "5bf2b6a3292f835f475ca629",
+    "item": {
+      "id": "n-c0eeed381cf09616a74a91c4",
+      "url": "https://www.durangon.com/las-zezenak-dira-tambien-se-viven-en-durangon-com/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-09T10:04:54+00:00",
+      "sourceTitle": "Las ‘zezenak dira’ también se viven en durangon.com",
+      "fingerprint": "5bf2b6a3292f835f475ca629",
+      "title": "Durangon.com cubrirá las sesiones de los 'Sanfaustos'",
+      "summary": "El medio digital durangon.com ha anunciado que realizará una cobertura audiovisual de las cinco sesiones de los 'zezenak dira' durante las fiestas de San Fausto.",
+      "paragraphs": [
+        "La plataforma publicará diariamente una selección con los momentos más destacados de los encierros. El contenido estará disponible a media mañana durante el transcurso de las celebraciones."
+      ],
+      "bullets": [
+        "Grabación de las cinco sesiones de los 'Sanfaustos'.",
+        "Publicación diaria de los mejores momentos a media mañana."
+      ],
+      "eventKey": "durangon.com-cobertura-sanfaustos-durango",
+      "partial": true,
+      "summarizedAt": "2026-10-09T11:45:56.934997+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-2e892df7375200dfe0475e32": {
+    "fingerprint": "6fec01dcf2d826ba4745b3b8",
+    "item": {
+      "id": "n-2e892df7375200dfe0475e32",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-09T11:35:00+00:00",
+      "sourceTitle": "France promises 3,000 extra teachers in first step to calm student protests",
+      "fingerprint": "6fec01dcf2d826ba4745b3b8",
+      "title": "Francia anuncia 3.000 nuevos profesores para frenar las protestas estudiantiles",
+      "summary": "El ministro de Educación francés, Edouard Geffray, ha propuesto la contratación de 3.000 docentes adicionales como medida inicial para apaciguar las movilizaciones estudiantiles.",
+      "paragraphs": [
+        "El Gobierno francés ha respondido a las recientes jornadas de protestas en los institutos, que en ocasiones han derivado en episodios violentos, con el compromiso de reforzar la plantilla educativa.",
+        "Esta oferta busca calmar el descontento de los estudiantes, aunque el Ejecutivo no ha detallado por el momento cómo se implementará esta medida ni si será suficiente para detener las manifestaciones."
+      ],
+      "bullets": [
+        "Contratación de 3.000 profesores adicionales.",
+        "Respuesta a las protestas violentas en institutos.",
+        "Medida inicial del Ministerio de Educación."
+      ],
+      "eventKey": "Edouard Geffray anuncia profesores Francia",
+      "partial": true,
+      "summarizedAt": "2026-10-09T11:45:56.934997+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-24c009296727eb781f29e8a8": {
+    "fingerprint": "79e6ad15c9f8391d02eb36ce",
+    "item": {
+      "id": "n-24c009296727eb781f29e8a8",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-09T10:20:23+00:00",
+      "sourceTitle": "Scientists find hidden materials that could improve batteries and solar fuels",
+      "fingerprint": "79e6ad15c9f8391d02eb36ce",
+      "title": "Descubiertos materiales intermedios para optimizar baterías y combustibles solares",
+      "summary": "Un equipo científico ha identificado estructuras materiales efímeras que aparecen durante el calentamiento químico, incluyendo una variante inédita de vanadato de bismuto. Este hallazgo podría mejorar el rendimiento de dispositivos electrónicos, catalizadores y la producción de hidrógeno solar.",
+      "paragraphs": [
+        "Investigadores han detectado una serie de materiales de transición que se forman brevemente al calentar compuestos químicos, permitiendo observar estructuras que los métodos convencionales suelen pasar por alto.",
+        "Entre los hallazgos destaca una nueva forma de vanadato de bismuto, un compuesto clave en la obtención de hidrógeno mediante energía solar. Esta variante presenta una configuración atómica distinta y una interacción única con la luz, lo que abre vías para futuras aplicaciones tecnológicas."
+      ],
+      "bullets": [
+        "Identificación de materiales intermedios mediante procesos de calentamiento.",
+        "Hallazgo de una estructura inédita de vanadato de bismuto.",
+        "Potencial mejora en la eficiencia de combustibles solares y catalizadores."
+      ],
+      "eventKey": "científicos-descubren-materiales-bismuto-laboratorio",
+      "partial": true,
+      "summarizedAt": "2026-10-09T11:45:56.934997+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-e0f6a777deb8f04d3902d78c": {
+    "fingerprint": "c89c1fd5d30785ab5ff3b365",
+    "item": {
+      "id": "n-e0f6a777deb8f04d3902d78c",
+      "url": "https://www.xataka.com/magnet/hace-millon-anos-humanos-venian-a-este-lugar-tarragona-como-quien-va-al-supermercado-arqueologos-siguen-encontrando-cosas",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-09T11:30:26+00:00",
+      "sourceTitle": "Hace un millón de años, los humanos venían a este lugar de Tarragona como quien va al supermercado. Los arqueólogos siguen encontrando cosas",
+      "fingerprint": "c89c1fd5d30785ab5ff3b365",
+      "title": "El yacimiento de Barranc de la Boella revela actividad humana de hace un millón de años",
+      "summary": "Investigadores del IPHES-CERCA han concluido una nueva campaña de excavaciones en Tarragona, donde han hallado herramientas y restos de fauna que sugieren que el lugar funcionaba como un punto de aprovisionamiento para homininos.",
+      "paragraphs": [
+        "El yacimiento del Barranc de la Boella, en La Canonja, ha arrojado nuevos hallazgos tras veinte años de excavaciones sistemáticas. Los expertos han recuperado cerca de 300 piezas, incluyendo restos de rinoceronte e hipopótamo, que datan de hace aproximadamente un millón de años.",
+        "La hipótesis principal de los arqueólogos es que este enclave no era un lugar de residencia, sino un espacio de explotación de recursos similar a un supermercado. Los homininos aprovechaban la presencia de animales atrapados en el fango para obtener carne y materias primas.",
+        "El equipo destaca la presencia de tecnología achelense, considerada inusualmente antigua para el contexto europeo. Aunque no se han hallado restos humanos, los investigadores mantienen la esperanza de identificar a los autores de estas herramientas en futuras campañas."
+      ],
+      "bullets": [
+        "El yacimiento se divide en dos zonas principales: Cala 1 y La Mina.",
+        "Se defiende que el lugar alberga una de las evidencias más antiguas de tecnología achelense en Europa.",
+        "Los resultados definitivos del análisis de las piezas halladas se esperan para el año 2027.",
+        "El lugar se compara con una sabana africana donde los homininos competían con depredadores por el acceso a herbívoros."
+      ],
+      "eventKey": "IPHES-CERCA excava yacimiento Barranc de la Boella en Tarragona",
+      "partial": true,
+      "summarizedAt": "2026-10-09T11:45:56.934997+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-8f17a2801297e8c27f7a5248": {
+    "fingerprint": "21a6f20340d043bc7b9d9aeb",
+    "item": {
+      "id": "n-8f17a2801297e8c27f7a5248",
+      "url": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-09T09:37:38+00:00",
+      "sourceTitle": "I've been with my boyfriend for two years and don't know his salary",
+      "fingerprint": "21a6f20340d043bc7b9d9aeb",
+      "title": "La dificultad de hablar sobre dinero en pareja",
+      "summary": "Abordar temas financieros como el salario, las deudas o los hábitos de gasto supone un reto habitual en las relaciones sentimentales.",
+      "paragraphs": [
+        "La gestión del dinero y la transparencia económica se presentan como conversaciones complejas dentro del ámbito de las citas y el noviazgo.",
+        "A menudo, las parejas encuentran dificultades para tratar abiertamente sus ingresos y su situación financiera personal."
+      ],
+      "bullets": [
+        "El salario es un tema delicado en las relaciones.",
+        "Los hábitos de gasto y las deudas generan conversaciones complicadas."
+      ],
+      "eventKey": "parejas-hablar-dinero",
+      "partial": true,
+      "summarizedAt": "2026-10-09T11:45:56.934997+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-58573d9ef693813b228fc3a8": {
+    "fingerprint": "bfdb4a2213b3f9287fd0ebdc",
+    "item": {
+      "id": "n-58573d9ef693813b228fc3a8",
+      "url": "https://www.europapress.es/euskadi/noticia-acampados-bilbao-llaman-huelga-ir-votar-29n-no-sea-solucion-problema-vivienda-20261009115750.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-09T09:57:50+00:00",
+      "sourceTitle": "Acampados en Bilbao llaman a la huelga y a ir a votar el 29N, \"aunque no sea la solución\" al problema de vivienda",
+      "fingerprint": "bfdb4a2213b3f9287fd0ebdc",
+      "title": "Los acampados de Bilbao convocan una huelga y llaman a votar el 29N",
+      "summary": "El colectivo que mantiene una acampada en Bilbao ha convocado una jornada de huelga y ha instado a la participación electoral el próximo 29 de noviembre, reconociendo que los comicios no resolverán por sí solos la crisis habitacional.",
+      "paragraphs": [
+        "Los manifestantes han hecho un llamamiento a la movilización ciudadana para el 29N. A pesar de sus dudas sobre la eficacia de las urnas para solventar la situación de la vivienda, consideran necesario acudir a votar mientras mantienen sus protestas.",
+        "Entre sus reivindicaciones principales, el grupo exige medidas urgentes para frenar los desahucios y un incremento en el parque de vivienda pública, además de soluciones habitacionales para las personas sin hogar."
+      ],
+      "bullets": [
+        "Convocatoria de huelga y llamamiento al voto para el 29N.",
+        "Exigencia de paralizar los desahucios.",
+        "Petición de más vivienda pública.",
+        "Demanda de una respuesta digna para personas sin hogar."
+      ],
+      "eventKey": "acampados-bilbao-convocan-huelga-voto-29N",
+      "partial": true,
+      "summarizedAt": "2026-10-09T11:45:56.934997+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-6ecbc06734f7045e956f49eb": {
+    "fingerprint": "6415e90bcec104abf4a831b9",
+    "item": {
+      "id": "n-6ecbc06734f7045e956f49eb",
+      "url": "https://www.europapress.es/nacional/noticia-psoe-asegura-participara-todos-debates-electorales-advierte-feijoo-no-decide-donde-20261009113020.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-09T09:30:20+00:00",
+      "sourceTitle": "El PSOE asegura que participará en todos los debates electorales pero advierte a Feijóo de que él no decide dónde",
+      "fingerprint": "6415e90bcec104abf4a831b9",
+      "title": "El PSOE confirma su asistencia a los debates electorales pero rechaza las condiciones de Feijóo",
+      "summary": "El Partido Socialista ha garantizado su presencia en los debates previos a las elecciones generales del 29 de noviembre, subrayando que la organización de estos encuentros corresponde exclusivamente a los medios de comunicación.",
+      "paragraphs": [
+        "La formación socialista ha respondido a las pretensiones del líder del PP, Alberto Núñez Feijóo, sobre la organización de los debates electorales. El PSOE ha dejado claro que participará en todos los encuentros que se celebren, pero ha rechazado que sea el candidato popular quien deba decidir los formatos o las sedes.",
+        "Desde el partido insisten en que la potestad para organizar y definir los debates recae en los medios de comunicación, desautorizando así cualquier intento de los partidos políticos de imponer condiciones sobre dónde o con quién deben producirse los intercambios."
+      ],
+      "bullets": [
+        "El PSOE confirma su participación en todos los debates electorales hasta el 29 de noviembre.",
+        "Los socialistas niegan que Feijóo tenga capacidad para decidir los lugares de los debates.",
+        "El partido sostiene que la organización es competencia exclusiva de los medios de comunicación."
+      ],
+      "eventKey": "PSOE-rechaza-condiciones-debates-Feijoo",
+      "partial": true,
+      "summarizedAt": "2026-10-09T11:45:56.934997+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
