@@ -2874,5 +2874,705 @@
       "summarizedAt": "2026-10-09T11:45:56.934997+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-22145fc4cfff2a37af0dca8d": {
+    "fingerprint": "d58425e6aa9b03b4692d7dc4",
+    "item": {
+      "id": "n-22145fc4cfff2a37af0dca8d",
+      "url": "https://www.eldiario.es/politica/audiencia-nacional-confirma-prision-provisional-activista-propalestino-fergie-chambers-reclamado-eeuu_1_13575659.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-09T13:22:06+00:00",
+      "sourceTitle": "La Audiencia Nacional confirma la prisión provisional para el activista propalestino 'Fergie' Chambers reclamado por EEUU",
+      "fingerprint": "d58425e6aa9b03b4692d7dc4",
+      "title": "La Audiencia Nacional mantiene en prisión al activista 'Fergie' Chambers",
+      "summary": "El tribunal ha ratificado la prisión provisional para el activista estadounidense James 'Fergie' Cox Chambers, reclamado por su país por presunta financiación a Palestina, al considerar que existe un elevado riesgo de fuga.",
+      "paragraphs": [
+        "La Sala de lo Penal de la Audiencia Nacional ha desestimado los argumentos de la defensa, que ofrecía garantías de arraigo y la entrega del pasaporte para evitar la cárcel. Los magistrados sostienen que su elevada capacidad económica y la permeabilidad de las fronteras terrestres hacen insuficiente cualquier medida cautelar distinta a la privación de libertad.",
+        "Chambers, detenido en Madrid el pasado mes de julio, se ha negado a ser extraditado a Estados Unidos. El activista se enfrenta a acusaciones por desórdenes públicos, conspiración para disturbios y blanqueo de capitales, delitos por los que podría ser juzgado si finalmente se autoriza su entrega."
+      ],
+      "bullets": [
+        "La Audiencia Nacional considera que el arraigo familiar y económico alegado por la defensa no mitiga el riesgo de huida.",
+        "El detenido sostiene que reside en España por motivos ideológicos y se opone a su extradición.",
+        "La justicia estadounidense reclama a Chambers por su presunto apoyo financiero a Palestina."
+      ],
+      "eventKey": "Fergie Chambers-prisión provisional-Audiencia Nacional",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-942e9918d5aa6713cb59e23f": {
+    "fingerprint": "ecb3af92383a8d5848f2068f",
+    "item": {
+      "id": "n-942e9918d5aa6713cb59e23f",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-09T13:31:07+00:00",
+      "sourceTitle": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+      "fingerprint": "ecb3af92383a8d5848f2068f",
+      "title": "Etiopía advierte a Eritrea tras la incursión de sus tropas",
+      "summary": "El gobierno etíope ha manifestado su intención de defenderse ante la entrada de soldados eritreos en su territorio, lo que habría provocado una respuesta militar mediante drones.",
+      "paragraphs": [
+        "Las autoridades de Etiopía han denunciado el cruce de la frontera por parte de convoyes de militares eritreos. Ante esta situación, el país ha advertido que tomará medidas para proteger su soberanía.",
+        "Se ha informado de que Etiopía habría respondido a este movimiento de tropas mediante el despliegue de ataques con drones en la zona afectada."
+      ],
+      "bullets": [
+        "Entrada de camiones con soldados eritreos en territorio etíope.",
+        "Etiopía anuncia que se defenderá ante la incursión.",
+        "Reportes de ataques con drones como respuesta etíope."
+      ],
+      "eventKey": "Etiopía y Eritrea conflicto fronterizo",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-ae0dd8f82007e7450f99ab7e": {
+    "fingerprint": "a2755f47d69b401901240863",
+    "item": {
+      "id": "n-ae0dd8f82007e7450f99ab7e",
+      "url": "https://www.xataka.com/magnet/se-sigue-buscando-al-vecino-salamanca-que-coloco-piscina-2-metros-cubicos-patio-luces-su-comunidad-vecinos",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-09T13:30:30+00:00",
+      "sourceTitle": "Se sigue buscando al vecino de Salamanca que colocó una piscina de 2 metros cúbicos en el patio de luces de su comunidad de vecinos",
+      "fingerprint": "a2755f47d69b401901240863",
+      "title": "El Ayuntamiento de Salamanca busca al responsable de instalar una piscina en un patio de luces",
+      "summary": "Las autoridades municipales mantienen abierta la búsqueda del autor que instaló una piscina de 2.000 litros en un patio de luces comunitario, superando la capacidad de carga estructural del edificio.",
+      "paragraphs": [
+        "El Ayuntamiento de Salamanca ha recurrido al Boletín Oficial del Estado para localizar al responsable de colocar una piscina portátil en un patio de luces del barrio de Garrido. La estructura, instalada el pasado mes de mayo, supone un riesgo para la edificación al ejercer una sobrecarga superior a los 500 kilos por metro cuadrado sobre un espacio bajo el cual se ubican garajes.",
+        "La investigación se ha visto dificultada debido a que el patio es un espacio compartido sin atribución de propiedad individual, lo que complica la identificación del autor. A pesar de los intentos de notificación administrativa realizados durante septiembre, el paradero del responsable sigue siendo desconocido."
+      ],
+      "bullets": [
+        "La piscina acumulaba unos 2.100 kilos de peso total, incluyendo agua y equipamiento.",
+        "El informe técnico municipal advierte que la carga supera ampliamente los 200 kilos por metro cuadrado recomendados por el Código Técnico de la Edificación.",
+        "La Ley de Propiedad Horizontal prohíbe actividades peligrosas para la finca, aunque no veta explícitamente las piscinas.",
+        "El Ayuntamiento publicó el requerimiento en el BOE tras fallar los intentos previos de notificación."
+      ],
+      "eventKey": "Ayuntamiento de Salamanca busca responsable instalación piscina patio",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-27e565231ea632c0ce1e1eed": {
+    "fingerprint": "6990e52ffb4ed001753f9c1f",
+    "item": {
+      "id": "n-27e565231ea632c0ce1e1eed",
+      "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-09T13:02:47+00:00",
+      "sourceTitle": "Burnham promises to curb non-compete rules in job contracts",
+      "fingerprint": "6990e52ffb4ed001753f9c1f",
+      "title": "Burnham anuncia restricciones a las cláusulas de no competencia",
+      "summary": "El primer ministro británico ha manifestado su intención de limitar las cláusulas de no competencia en los contratos laborales, al considerar que han excedido los límites razonables.",
+      "paragraphs": [
+        "El primer ministro ha señalado que las restricciones impuestas a los trabajadores sobre sus actividades profesionales tras abandonar un puesto de trabajo han llegado demasiado lejos.",
+        "El Gobierno planea intervenir en estas condiciones contractuales para evitar que limiten excesivamente la movilidad laboral de los empleados."
+      ],
+      "bullets": [
+        "El primer ministro cuestiona el alcance actual de las cláusulas de no competencia.",
+        "Se prevé una reforma para limitar estas restricciones en los contratos de trabajo."
+      ],
+      "eventKey": "Burnham-limitar-clausulas-no-competencia-Reino-Unido",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-7a5a71d3fe8433ea9edacee9": {
+    "fingerprint": "a2e37225327c108128548cee",
+    "item": {
+      "id": "n-7a5a71d3fe8433ea9edacee9",
+      "url": "https://elpais.com/cultura/2026-10-09/el-renovado-museo-goya-de-zaragoza-sale-al-pilar-sumando-a-sus-fondos-40-obras-del-artista-llegadas-de-grandes-pinacotecas.html",
+      "source": "El País",
+      "section": "cultura",
+      "lang": "es",
+      "publishedAt": "2026-10-09T12:53:42+00:00",
+      "sourceTitle": "El renovado Museo Goya de Zaragoza sale al Pilar sumando a sus fondos 40 obras del artista llegadas de grandes pinacotecas",
+      "fingerprint": "a2e37225327c108128548cee",
+      "title": "El Museo Goya de Zaragoza se renueva y amplía su colección",
+      "summary": "La Fundación Ibercaja ha reformado el palacete que alberga el Museo Goya, incorporando 40 nuevas obras del artista cedidas por importantes pinacotecas.",
+      "paragraphs": [
+        "El Museo Goya de Zaragoza ha culminado un proceso de reforma y ampliación de sus instalaciones en el palacete renacentista que sirve de sede. Esta intervención permite al centro expositivo integrar en su colección permanente 40 piezas del pintor aragonés procedentes de diversos museos.",
+        "La institución, que ya custodiaba la totalidad de los grabados del artista, busca con esta actualización reforzar su relevancia cultural en la capital aragonesa."
+      ],
+      "bullets": [
+        "Reforma integral del palacete renacentista sede del museo.",
+        "Incorporación de 40 obras de Goya cedidas por grandes pinacotecas.",
+        "Consolidación de la colección de grabados del pintor."
+      ],
+      "eventKey": "Fundación Ibercaja amplía Museo Goya Zaragoza",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-0137cb1bb554854339465993": {
+    "fingerprint": "9af0c8990d5b2f4c07353a7d",
+    "item": {
+      "id": "n-0137cb1bb554854339465993",
+      "url": "https://www.europapress.es/nacional/noticia-fiscalia-pide-supremo-levante-suspension-ley-nietos-menos-elecciones-20261009145453.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-09T12:54:53+00:00",
+      "sourceTitle": "La Fiscalía pide al Supremo que levante la suspensión de la 'ley de nietos' al menos en estas elecciones",
+      "fingerprint": "9af0c8990d5b2f4c07353a7d",
+      "title": "La Fiscalía solicita al Supremo reactivar la 'ley de nietos' para los comicios de noviembre",
+      "summary": "El Ministerio Fiscal ha instado al Tribunal Supremo a revocar la suspensión cautelar de la normativa conocida como 'ley de nietos' antes de la cita electoral del 29 de noviembre.",
+      "paragraphs": [
+        "La Fiscalía ha formalizado una petición ante el Tribunal Supremo para que se levante la suspensión que pesa sobre la denominada 'ley de nietos'.",
+        "El objetivo de esta solicitud es que la norma pueda estar operativa de cara a las elecciones previstas para el próximo 29 de noviembre."
+      ],
+      "bullets": [
+        "Petición formal ante el Tribunal Supremo.",
+        "Solicitud de levantamiento de la suspensión cautelar.",
+        "Aplicación vinculada a las elecciones del 29 de noviembre."
+      ],
+      "eventKey": "Fiscalía solicita al Supremo reactivar ley de nietos",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-a25f287fea187a92c602c553": {
+    "fingerprint": "835da759b6634241d0a2b9b7",
+    "item": {
+      "id": "n-a25f287fea187a92c602c553",
+      "url": "https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-09T12:00:28+00:00",
+      "sourceTitle": "Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence",
+      "fingerprint": "835da759b6634241d0a2b9b7",
+      "title": "El anfitrión de la COP31 insta a las naciones ricas a priorizar el gasto climático sobre el militar",
+      "summary": "El presidente designado de la próxima cumbre climática de la ONU ha reclamado un mayor compromiso financiero para combatir la crisis climática, equiparándola a una cuestión de seguridad nacional. No obstante, ha evitado confirmar si la cumbre mantendrá el compromiso de abandonar los combustibles fósiles.",
+      "paragraphs": [
+        "Murat Kurum, responsable de la COP31, ha instado a los países desarrollados a destinar más recursos a la emergencia climática que el 5% del PIB que los miembros de la OTAN dedican a defensa. Según el ministro turco, la crisis climática debe entenderse como un problema de seguridad prioritario.",
+        "A pesar de este llamamiento, las declaraciones de Kurum han generado incertidumbre sobre la agenda de la cumbre que se celebrará en Turquía el próximo mes, al mostrarse reticente sobre si se ratificará el objetivo de transitar hacia el abandono de los combustibles fósiles."
+      ],
+      "bullets": [
+        "El ministro turco sostiene que la crisis climática es una cuestión de seguridad.",
+        "Se cuestiona la inversión en defensa frente a la financiación climática.",
+        "Existe ambigüedad sobre el compromiso de abandonar los combustibles fósiles en la COP31."
+      ],
+      "eventKey": "Murat Kurum reclama mayor inversión climática en la cumbre de Fiji",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-777fa28f1b79251cae19d01c": {
+    "fingerprint": "27e2d0e0b8dc632ac12466e2",
+    "item": {
+      "id": "n-777fa28f1b79251cae19d01c",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007042100.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-09T09:51:19+00:00",
+      "sourceTitle": "Bacteria turn a virus’ own weapon against it",
+      "fingerprint": "27e2d0e0b8dc632ac12466e2",
+      "title": "Descubierto un mecanismo de defensa bacteriano frente a virus",
+      "summary": "Un equipo de investigadores ha identificado un proceso mediante el cual las bacterias detectan ataques víricos, activando una respuesta inmunitaria de autodestrucción. Este hallazgo podría mejorar las terapias contra bacterias resistentes a los antibióticos.",
+      "paragraphs": [
+        "El estudio revela que las bacterias utilizan una enzima producida por el propio virus para activar su sistema de defensa. Al cortar una proteína sensora bacteriana, se desencadena una respuesta que provoca la autodestrucción de la célula infectada.",
+        "Los científicos sugieren que este descubrimiento podría ser clave para desarrollar nuevas terapias con fagos. Además, el mecanismo podría ofrecer información sobre sistemas inmunitarios antiguos que comparten similitudes con los humanos."
+      ],
+      "bullets": [
+        "Identificación de una enzima vírica que activa la defensa bacteriana.",
+        "La respuesta inmunitaria provoca la autodestrucción celular.",
+        "Potencial aplicación en terapias contra bacterias resistentes.",
+        "Posible relación con mecanismos inmunitarios ancestrales."
+      ],
+      "eventKey": "bacterias-detectan-ataque-viral",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-b1b344a802c62c199d789999": {
+    "fingerprint": "47804b34195b76e253c1f394",
+    "item": {
+      "id": "n-b1b344a802c62c199d789999",
+      "url": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
+      "source": "Ars Technica",
+      "section": "tecnologia",
+      "lang": "en",
+      "publishedAt": "2026-10-09T10:00:59+00:00",
+      "sourceTitle": "Volkswagen's replacement for the ID.4 crossover is here",
+      "fingerprint": "47804b34195b76e253c1f394",
+      "title": "Volkswagen presenta el sucesor del ID.4",
+      "summary": "Volkswagen ha desvelado el vehículo eléctrico que sustituirá a su modelo ID.4. El nuevo coche destaca por incluir una cabina digital capaz de replicar el diseño de los cuadros de instrumentos de modelos clásicos de la marca.",
+      "paragraphs": [
+        "La compañía automovilística ha dado a conocer su nueva apuesta eléctrica, diseñada para tomar el relevo del actual crossover ID.4 en el mercado.",
+        "Entre las novedades tecnológicas anunciadas, el vehículo incorpora un sistema de visualización digital personalizable que permite emular la estética de los antiguos paneles de control de Volkswagen."
+      ],
+      "bullets": [
+        "Sustitución del modelo ID.4 por un nuevo vehículo eléctrico.",
+        "Integración de una cabina digital con opciones de personalización retro."
+      ],
+      "eventKey": "Volkswagen-presenta-nuevo-coche-electrico",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-db2cb63ef8359ca6275b706d": {
+    "fingerprint": "a014966e28b3b8b5b9d4cfaa",
+    "item": {
+      "id": "n-db2cb63ef8359ca6275b706d",
+      "url": "https://www.theguardian.com/books/2026/oct/09/winning-the-nobel-prize-in-literature-anne-carson-yiyun-li",
+      "source": "The Guardian",
+      "section": "cultura",
+      "lang": "en",
+      "publishedAt": "2026-10-09T11:12:18+00:00",
+      "sourceTitle": "Winning the Nobel prize in literature only underlines Anne Carson’s infinite genius | Yiyun Li",
+      "fingerprint": "a014966e28b3b8b5b9d4cfaa",
+      "title": "La genialidad literaria de Anne Carson",
+      "summary": "La escritora Yiyun Li reflexiona sobre la dificultad de analizar la obra de Anne Carson, destacando su capacidad única para dejar que las palabras fluyan sin someterlas.",
+      "paragraphs": [
+        "Yiyun Li describe como una tarea imposible intentar resumir la trayectoria de Anne Carson, comparando el desafío con un problema matemático irresoluble. La autora subraya que, ante situaciones extremas como la pérdida personal, las palabras de Carson ofrecen un refugio vital.",
+        "El texto resalta que Carson evita el control autoritario sobre el lenguaje, permitiendo que sus escritos y traducciones de los clásicos mantengan su propia autonomía y fuerza expresiva."
+      ],
+      "bullets": [
+        "La obra de Carson es descrita como una fuente de consuelo ante pérdidas profundas.",
+        "Se destaca su maestría al evitar la manipulación de las palabras.",
+        "La autora enfatiza la singularidad de sus traducciones de los clásicos."
+      ],
+      "eventKey": "Yiyun Li analiza la obra literaria de Anne Carson",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-8fd01290ea63ca9d1af0d555": {
+    "fingerprint": "2fd8b886d0558c5eaf95c12f",
+    "item": {
+      "id": "n-8fd01290ea63ca9d1af0d555",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-09T12:24:58+00:00",
+      "sourceTitle": "Firing squad execution to be livestreamed, Pentagon says",
+      "fingerprint": "2fd8b886d0558c5eaf95c12f",
+      "title": "El Pentágono retransmitirá una ejecución por fusilamiento",
+      "summary": "Pete Hegseth ha anunciado que la ejecución se realizará de forma pública, una decisión que los expertos legales califican de inédita y jurídicamente incierta.",
+      "paragraphs": [
+        "El Pentágono ha confirmado que la ejecución mediante un pelotón de fusilamiento será retransmitida en directo. La medida ha generado controversia debido a su naturaleza pública.",
+        "Expertos en derecho han advertido que esta determinación se sitúa en un terreno legal incierto, calificando el procedimiento como un hecho sin precedentes."
+      ],
+      "bullets": [
+        "La ejecución será retransmitida en directo.",
+        "El anuncio ha sido realizado por Pete Hegseth.",
+        "Expertos legales cuestionan la seguridad jurídica de la decisión."
+      ],
+      "eventKey": "Pentágono-retransmisión-ejecución-EEUU",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-46f0aae08149651130c5cd68": {
+    "fingerprint": "a29d319b4c0c8470d31d6da1",
+    "item": {
+      "id": "n-46f0aae08149651130c5cd68",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007042102.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-09T08:53:28+00:00",
+      "sourceTitle": "A 9-billion-year-old signal could help explain dark energy",
+      "fingerprint": "a29d319b4c0c8470d31d6da1",
+      "title": "Detectada una señal de hidrógeno de hace 9.000 millones de años",
+      "summary": "Un radiotelescopio canadiense ha logrado captar una señal de hidrógeno antigua, validando un método para cartografiar el universo lejano y estudiar la energía oscura.",
+      "paragraphs": [
+        "El telescopio CHIME ha detectado un tenue resplandor de hidrógeno procedente de hace miles de millones de años. Este hallazgo confirma la viabilidad de utilizar estas señales para trazar la distribución de la materia en el espacio.",
+        "La capacidad de medir la expansión del universo a través de este método ofrece una nueva vía de investigación para comprender la naturaleza de la energía oscura."
+      ],
+      "bullets": [
+        "El radiotelescopio CHIME ha captado una señal de hidrógeno de hace 9.000 millones de años.",
+        "El método permite cartografiar el universo lejano y analizar la distribución de la materia.",
+        "La técnica servirá para medir la expansión del universo y estudiar la energía oscura."
+      ],
+      "eventKey": "CHIME detecta señal de hidrógeno antigua",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-6a54a857ed8b75aeb8023a6a": {
+    "fingerprint": "aec67a2e801af51558057a8c",
+    "item": {
+      "id": "n-6a54a857ed8b75aeb8023a6a",
+      "url": "https://www.xataka.com/seleccion/nuevo-lg-gallery-tv-panel-qned-miniled-marcos-intercambiables-oficial-espana",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-09T13:16:25+00:00",
+      "sourceTitle": "El nuevo LG Gallery TV con panel QNED MiniLED y marcos intercambiables ya es oficial en España",
+      "fingerprint": "aec67a2e801af51558057a8c",
+      "title": "LG lanza en España su nuevo televisor Gallery TV con marcos intercambiables",
+      "summary": "LG ha introducido en el mercado español su nuevo modelo Gallery TV, un televisor diseñado para mimetizarse con la decoración del hogar mediante un formato ultradelgado y marcos magnéticos. El dispositivo destaca por integrar tecnología QNED MiniLED y herramientas de inteligencia artificial generativa para la creación de arte digital.",
+      "paragraphs": [
+        "El nuevo televisor de LG busca transformar la estética del salón al evitar el aspecto de pantalla convencional, permitiendo su instalación a ras de pared. El equipo incluye marcos intercambiables en distintos acabados y una plataforma denominada Gallery+ que ofrece acceso a miles de obras de arte.",
+        "En el apartado técnico, el modelo incorpora un procesador α7 Gen9 con IA y tecnología de retroiluminación MiniLED. Además, la compañía ha anunciado que el sistema operativo webOS contará con actualizaciones anuales garantizadas hasta el año 2031."
+      ],
+      "bullets": [
+        "Diseño extrafino con marcos magnéticos personalizables.",
+        "Integración de Google Gemini para generar arte mediante comandos de voz.",
+        "Tecnología QNED MiniLED con procesador 4K α7 Gen9.",
+        "Precio de lanzamiento desde 1.549 euros, con promociones actuales en distribuidores."
+      ],
+      "eventKey": "LG-lanzamiento-televisor-Gallery-TV-España",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-142dbf7d38a85d247b246ca6": {
+    "fingerprint": "f1349e1be7410a64ee3427c6",
+    "item": {
+      "id": "n-142dbf7d38a85d247b246ca6",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-09T12:34:27+00:00",
+      "sourceTitle": "Anthropic bans users from being 'cruel' to its AI systems",
+      "fingerprint": "f1349e1be7410a64ee3427c6",
+      "title": "Anthropic prohíbe el comportamiento abusivo hacia sus sistemas de IA",
+      "summary": "La empresa tecnológica ha implementado nuevas restricciones que impiden a los usuarios mantener conductas crueles o abusivas de forma continuada con sus modelos de inteligencia artificial.",
+      "paragraphs": [
+        "Anthropic ha actualizado sus políticas de uso para limitar las interacciones con sus sistemas. La compañía ha señalado que no se permitirá el comportamiento abusivo que sea innecesario y sostenido en el tiempo.",
+        "Esta medida busca establecer límites en la forma en que los usuarios se dirigen a la tecnología, marcando una postura clara sobre el trato hacia sus herramientas de IA."
+      ],
+      "bullets": [
+        "Restricción de comportamientos crueles hacia la IA.",
+        "Prohibición de abusos sostenidos e innecesarios.",
+        "Actualización de las normas de uso de la plataforma."
+      ],
+      "eventKey": "Anthropic prohíbe abusos hacia su IA",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-dc8bad69fc4f84d77f98d345": {
+    "fingerprint": "a06d90cf807cfdeb79b63b45",
+    "item": {
+      "id": "n-dc8bad69fc4f84d77f98d345",
+      "url": "https://elpais.com/cultura/2026-10-09/recuperados-un-mes-despues-los-dos-cuadros-robados-del-museo-renoir-en-francia.html",
+      "source": "El País",
+      "section": "cultura",
+      "lang": "es",
+      "publishedAt": "2026-10-09T12:32:01+00:00",
+      "sourceTitle": "Recuperados un mes después los dos cuadros robados del Museo Renoir en Francia",
+      "fingerprint": "a06d90cf807cfdeb79b63b45",
+      "title": "Localizados los dos cuadros sustraídos del Museo Renoir en Francia",
+      "summary": "Las autoridades han recuperado dos obras de arte que fueron robadas hace un mes de la pinacoteca situada en Cagnes-sur-Mer.",
+      "paragraphs": [
+        "Un mes después del robo, las fuerzas de seguridad han logrado recuperar las piezas artísticas que habían sido extraídas del Museo Renoir, ubicado en la localidad francesa de Cagnes-sur-Mer."
+      ],
+      "bullets": [
+        "Las obras recuperadas son 'Madame Colonna Romano' y 'Jeune femme au puits'.",
+        "El robo se produjo en la pinacoteca de Cagnes-sur-Mer hace un mes."
+      ],
+      "eventKey": "autoridades-recuperan-cuadros-museo-renoir-francia",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-08ee11c0f7db96662f5c550a": {
+    "fingerprint": "c92e20053437dfdf0331fd78",
+    "item": {
+      "id": "n-08ee11c0f7db96662f5c550a",
+      "url": "https://www.europapress.es/euskadi/noticia-etxanobe-dice-sustitucion-bengoetxea-sido-sorpresa-tremenda-porque-pnv-le-confirmo-seguiria-20261009115734.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-09T09:57:34+00:00",
+      "sourceTitle": "Etxanobe dice que su sustitución por Bengoetxea ha sido \"una sorpresa tremenda\" porque el PNV le confirmó que seguiría",
+      "fingerprint": "c92e20053437dfdf0331fd78",
+      "title": "Etxanobe califica de sorpresa su relevo como candidata a la Diputación de Bizkaia",
+      "summary": "La diputada general de Bizkaia ha expresado su desconcierto ante la decisión del PNV de sustituirla por Ibone Bengoetxea, a pesar de haber recibido garantías previas de continuidad.",
+      "paragraphs": [
+        "Elixabete Etxanobe ha manifestado su sorpresa tras conocer que no será la candidata del PNV a la reelección en la Diputación de Bizkaia. La actual diputada general ha señalado que la noticia le fue comunicada con muy poco margen de tiempo antes de su anuncio oficial.",
+        "La dirigente ha recordado que el pasado mes de marzo, el presidente del PNV en el territorio, Iñigo Ansola, le confirmó que ella sería la persona designada para concurrir a la reelección, lo que contradice la decisión final de apostar por Ibone Bengoetxea."
+      ],
+      "bullets": [
+        "Etxanobe asegura que la decisión le fue comunicada pocas horas antes de hacerse pública.",
+        "El PNV había confirmado a la diputada general su intención de que repitiera como candidata el pasado 5 de marzo.",
+        "Ibone Bengoetxea, actual vicelehendakari, ha sido la elegida para relevar a Etxanobe."
+      ],
+      "eventKey": "Elixabete Etxanobe sustituida por Ibone Bengoetxea en Bizkaia",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-60b79cd3cd7e279db0626afe": {
+    "fingerprint": "93c75a1438d20d94d58a45bd",
+    "item": {
+      "id": "n-60b79cd3cd7e279db0626afe",
+      "url": "https://www.europapress.es/nacional/noticia-pp-avisa-cloaca-psoe-presenta-29n-promete-no-olvidaran-casos-corrupcion-20261009144607.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-09T12:46:07+00:00",
+      "sourceTitle": "El PP avisa de que la \"cloaca\" del PSOE se presenta en el 29N y promete que no se olvidarán los casos de corrupción",
+      "fingerprint": "93c75a1438d20d94d58a45bd",
+      "title": "El PP mantendrá su ofensiva contra la corrupción del PSOE ante las elecciones del 29N",
+      "summary": "El Partido Popular ha anunciado que continuará denunciando las supuestas irregularidades socialistas de cara a la próxima cita electoral, tras la decisión judicial de no imputar al PSOE en el 'caso Leire Díez'.",
+      "paragraphs": [
+        "Miguel Tellado, secretario general y director de campaña del PP, ha asegurado que su formación persistirá en señalar la gestión del Gobierno durante sus ocho años de mandato. El objetivo es evitar que la opinión pública olvide los casos de corrupción que han salpicado al Ejecutivo.",
+        "Esta estrategia se mantiene a pesar de que el juez de la Audiencia Nacional, Santiago Pedraz, ha rechazado por ahora la imputación del PSOE en el marco del 'caso Leire Díez'."
+      ],
+      "bullets": [
+        "El PP vincula la gestión del PSOE con una supuesta \"cloaca\" política.",
+        "La formación popular busca mantener el foco en la corrupción ante el 29N.",
+        "El juez Pedraz descarta, de momento, imputar al PSOE en el 'caso Leire Díez'."
+      ],
+      "eventKey": "PP-denuncia-corrupcion-PSOE-España",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-3493e3e0484fb7f47ac954ca": {
+    "fingerprint": "7db1dbed7b34d1b24d97bbfb",
+    "item": {
+      "id": "n-3493e3e0484fb7f47ac954ca",
+      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-09T11:24:10+00:00",
+      "sourceTitle": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+      "fingerprint": "7db1dbed7b34d1b24d97bbfb",
+      "title": "Navi Pillay, galardonada con el Premio Nobel de la Paz",
+      "summary": "La jueza del Tribunal Internacional de Justicia ha sido distinguida por su labor en la promoción del derecho internacional. El comité noruego ha destacado su capacidad para utilizar medidas legales en la prevención de conflictos.",
+      "paragraphs": [
+        "El Comité Nobel ha otorgado el galardón a la jurista sudafricana, quien actualmente ejerce como jueza en el Tribunal Internacional de Justicia. La institución ha reconocido su trayectoria en la defensa de la legalidad global.",
+        "La distinción también pone el foco en su anterior etapa como presidenta de la comisión de la ONU que determinó la existencia de genocidio en Gaza por parte de Israel."
+      ],
+      "bullets": [
+        "Reconocimiento a su contribución al derecho internacional.",
+        "Valoración de su papel en la prevención de la violencia mediante cauces legales.",
+        "Mención a su liderazgo en la comisión de la ONU sobre Gaza."
+      ],
+      "eventKey": "Navi Pillay gana Premio Nobel de la Paz",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-d215f4518b03ff5f6a9737a0": {
+    "fingerprint": "36e17bf31ac88f3a82b1eb90",
+    "item": {
+      "id": "n-d215f4518b03ff5f6a9737a0",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261006234517.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-09T08:25:24+00:00",
+      "sourceTitle": "A quantum prediction from 1931 just came to life",
+      "fingerprint": "36e17bf31ac88f3a82b1eb90",
+      "title": "Observan por primera vez los estados cuánticos predichos por Hans Bethe",
+      "summary": "Científicos han logrado crear y observar experimentalmente las denominadas cadenas de Bethe, unos estados cuánticos teóricos planteados hace casi un siglo.",
+      "paragraphs": [
+        "Investigadores han conseguido generar estos estados inusuales enfriando átomos de cesio hasta temperaturas cercanas al cero absoluto. El experimento, realizado mediante el confinamiento de partículas en tubos unidimensionales, ha permitido observar cómo los átomos se agrupan sin necesidad de enlaces químicos convencionales.",
+        "Estos cúmulos, que pueden integrar seis o más partículas, han demostrado una estabilidad notable al colisionar entre sí sin desintegrarse, confirmando así la predicción realizada por el físico Hans Bethe en 1931."
+      ],
+      "bullets": [
+        "Confirmación experimental de una teoría física de 1931.",
+        "Creación de estados cuánticos mediante átomos de cesio ultrafríos.",
+        "Observación de cúmulos atómicos estables sin enlaces químicos tradicionales."
+      ],
+      "eventKey": "científicos-observan-cadenas-bethe",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-d39f5eac4fae4b4c94955b5f": {
+    "fingerprint": "be3f5bf602452ef17cc47209",
+    "item": {
+      "id": "n-d39f5eac4fae4b4c94955b5f",
+      "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+      "source": "Ars Technica",
+      "section": "tecnologia",
+      "lang": "en",
+      "publishedAt": "2026-10-08T21:37:32+00:00",
+      "sourceTitle": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+      "fingerprint": "be3f5bf602452ef17cc47209",
+      "title": "SpaceX reclama mayor coordinación orbital tras incidentes con Starlink",
+      "summary": "La compañía aeroespacial ha solicitado mejorar la gestión del tráfico espacial ante la proximidad peligrosa de varios satélites de su red Starlink.",
+      "paragraphs": [
+        "SpaceX ha instado a establecer protocolos de coordinación más eficaces en la órbita terrestre. Esta petición surge a raíz de diversos incidentes en los que sus satélites han estado a punto de colisionar con otros objetos.",
+        "La empresa ha calificado la distancia de estos encuentros como alarmantemente reducida, subrayando la necesidad de evitar riesgos futuros en el espacio."
+      ],
+      "bullets": [
+        "Solicitud de mejores mecanismos de coordinación orbital.",
+        "Preocupación por la proximidad de encuentros cercanos.",
+        "Necesidad de mayor seguridad ante el aumento de tráfico espacial."
+      ],
+      "eventKey": "SpaceX-solicita-coordinacion-orbita",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-c1b7eb598380dbe00b205c3c": {
+    "fingerprint": "af29ea42b8cbbaa2d0815f25",
+    "item": {
+      "id": "n-c1b7eb598380dbe00b205c3c",
+      "url": "https://elpais.com/economia/2026-10-09/bruselas-anade-dos-proyectos-mas-en-espana-para-impulsar-las-materias-primas-estrategicas-en-la-ue.html",
+      "source": "El País",
+      "section": "economia",
+      "lang": "es",
+      "publishedAt": "2026-10-09T09:04:19+00:00",
+      "sourceTitle": "Bruselas añade dos proyectos más en España para impulsar las materias primas estratégicas en la UE",
+      "fingerprint": "af29ea42b8cbbaa2d0815f25",
+      "title": "La Comisión Europea amplía sus proyectos estratégicos de materias primas en España",
+      "summary": "Bruselas ha incorporado dos nuevas iniciativas españolas a su plan para disminuir la dependencia comercial respecto a China. Esta medida se produce en un contexto de negociaciones para suavizar las fricciones económicas con el país asiático.",
+      "paragraphs": [
+        "La Comisión Europea ha seleccionado dos nuevos proyectos en España dentro de su estrategia para fortalecer el suministro de materias primas críticas. El objetivo principal de esta iniciativa es reducir la vulnerabilidad de la Unión Europea frente a terceros países.",
+        "La decisión se enmarca en un momento de diálogo diplomático destinado a mitigar las tensiones comerciales existentes con China, principal proveedor de estos recursos estratégicos."
+      ],
+      "bullets": [
+        "Inclusión de dos nuevos proyectos estratégicos en territorio español.",
+        "Búsqueda de autonomía frente a la dependencia de China.",
+        "Contexto de negociaciones para rebajar la tensión comercial."
+      ],
+      "eventKey": "Comisión Europea-impulsa proyectos materias primas-España",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-84e9d77f371c98b13e6797b4": {
+    "fingerprint": "ac7139d0607a04a6a35b47b5",
+    "item": {
+      "id": "n-84e9d77f371c98b13e6797b4",
+      "url": "https://www.theguardian.com/film/2026/oct/09/the-new-darth-vader-how-tech-execs-became-the-film-villains-of-our-age",
+      "source": "The Guardian",
+      "section": "cultura",
+      "lang": "en",
+      "publishedAt": "2026-10-09T11:05:42+00:00",
+      "sourceTitle": "The new Darth Vader: how tech execs became the film villains of our age",
+      "fingerprint": "ac7139d0607a04a6a35b47b5",
+      "title": "La figura del ejecutivo tecnológico como nuevo villano cinematográfico",
+      "summary": "El cine actual ha transformado la percepción pública de los directivos tecnológicos, pasando de figuras innovadoras a antagonistas, tal como refleja la interpretación de Jeremy Strong sobre Mark Zuckerberg.",
+      "paragraphs": [
+        "La representación de los magnates de la tecnología en la gran pantalla ha experimentado un cambio significativo. Si en el pasado estas figuras eran vistas con curiosidad, las producciones recientes los sitúan en el rol de villanos.",
+        "Este fenómeno se ilustra con el estreno de 'The Social Reckoning', donde Jeremy Strong encarna a Mark Zuckerberg, marcando una distancia notable respecto a la recepción que tuvo 'La red social' en su momento."
+      ],
+      "bullets": [
+        "Evolución de la imagen pública de los directivos tecnológicos en el cine.",
+        "Jeremy Strong interpreta a Mark Zuckerberg en la nueva película 'The Social Reckoning'.",
+        "Contraste entre la actitud de Zuckerberg ante 'La red social' y la actual percepción de los ejecutivos."
+      ],
+      "eventKey": "Jeremy Strong interpreta a Mark Zuckerberg en The Social Reckoning",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-aac4815482a8c16b6985d5f7": {
+    "fingerprint": "a299f2bd3bf693616d58bd8f",
+    "item": {
+      "id": "n-aac4815482a8c16b6985d5f7",
+      "url": "https://www.europapress.es/nacional/noticia-psoe-estudia-presentarse-senado-lista-conjunta-otras-formaciones-izquierda-evitar-mayoria-pp-20261009142726.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-09T12:27:26+00:00",
+      "sourceTitle": "El PSOE estudia presentarse al Senado en lista conjunta con otras formaciones de izquierda para evitar mayoría del PP",
+      "fingerprint": "a299f2bd3bf693616d58bd8f",
+      "title": "El PSOE valora una candidatura unitaria de izquierdas al Senado",
+      "summary": "El Partido Socialista analiza la posibilidad de concurrir a las elecciones a la Cámara Alta en coalición con otras fuerzas progresistas. El objetivo de esta estrategia sería arrebatar la mayoría absoluta que actualmente ostenta el Partido Popular.",
+      "paragraphs": [
+        "La dirección socialista estudia la viabilidad de una lista conjunta para los comicios al Senado. Esta maniobra busca alterar la actual correlación de fuerzas en la institución.",
+        "La formación pretende frenar el dominio del PP en la Cámara Alta mediante esta alianza electoral con otros partidos de izquierda."
+      ],
+      "bullets": [
+        "El PSOE explora una lista unitaria para el Senado.",
+        "La iniciativa busca evitar la mayoría absoluta del PP.",
+        "La estrategia se encuentra actualmente en fase de estudio."
+      ],
+      "eventKey": "PSOE-estudia-lista-conjunta-Senado",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-89689033d755cfa968ec0e98": {
+    "fingerprint": "b68a0fb5375b0639c6637fbf",
+    "item": {
+      "id": "n-89689033d755cfa968ec0e98",
+      "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-09T12:18:52+00:00",
+      "sourceTitle": "ICE agent shoots man in New York City",
+      "fingerprint": "b68a0fb5375b0639c6637fbf",
+      "title": "Un agente de inmigración dispara a un hombre en Nueva York",
+      "summary": "El alcalde de Nueva York ha mostrado su indignación tras un tiroteo protagonizado por un agente del Servicio de Inmigración y Control de Aduanas durante una detención.",
+      "paragraphs": [
+        "Un agente del Servicio de Inmigración y Control de Aduanas (ICE) ha disparado a un hombre en la ciudad de Nueva York. El incidente ha provocado una reacción de rechazo por parte del alcalde de la ciudad.",
+        "El Departamento de Seguridad Nacional ha justificado la intervención alegando que el suceso ocurrió mientras se procedía a la detención de un individuo al que califican como un inmigrante ilegal con antecedentes penales."
+      ],
+      "bullets": [
+        "El alcalde de Nueva York ha expresado su indignación por lo ocurrido.",
+        "El Departamento de Seguridad Nacional sostiene que el tiroteo tuvo lugar durante un arresto.",
+        "El afectado ha sido descrito por las autoridades federales como un inmigrante ilegal con historial delictivo."
+      ],
+      "eventKey": "agente ICE dispara hombre Nueva York",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-6c04af9ea35225466532c4ca": {
+    "fingerprint": "45cfc9dba75d9f67c2e08c42",
+    "item": {
+      "id": "n-6c04af9ea35225466532c4ca",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-09T03:56:28+00:00",
+      "sourceTitle": "NASA astronauts splash down after 100 million miles in space",
+      "fingerprint": "45cfc9dba75d9f67c2e08c42",
+      "title": "La misión Crew-12 de la NASA regresa a la Tierra tras 237 días en órbita",
+      "summary": "Los astronautas de la misión Crew-12 han finalizado su estancia en el espacio tras completar un extenso programa de investigación científica. Su regreso marca un hito en la preparación para futuras expediciones a la Luna y Marte.",
+      "paragraphs": [
+        "La tripulación de la NASA y SpaceX ha amerizado tras completar una misión de 237 días. Durante este periodo, los astronautas han recorrido más de 100 millones de millas y han realizado más de 3.792 órbitas alrededor de nuestro planeta.",
+        "El trabajo realizado se ha centrado en experimentos que podrían tener aplicaciones médicas tanto en el espacio como en la Tierra. Además, la misión ha destacado por alcanzar nuevos hitos en actividades extravehiculares."
+      ],
+      "bullets": [
+        "Duración de 237 días en el espacio.",
+        "Más de 100 millones de millas recorridas.",
+        "Investigaciones orientadas a futuras misiones lunares y marcianas.",
+        "Avances en experimentos médicos y actividades extravehiculares."
+      ],
+      "eventKey": "Astronautas NASA SpaceX regresan Tierra",
+      "partial": true,
+      "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
