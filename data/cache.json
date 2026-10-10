@@ -3574,5 +3574,59 @@
       "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-f96c8109254173cd32108ef4": {
+    "fingerprint": "25313ff4de87802d857b7baf",
+    "item": {
+      "id": "n-f96c8109254173cd32108ef4",
+      "url": "https://www.durangon.com/el-bidezabal-compite-en-el-campeonato-de-espana-de-clubes-sub16-femenino-en-durango/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-10T07:55:02+00:00",
+      "sourceTitle": "El Bidezabal compite en el Campeonato de España de Clubes sub16 femenino en Durango",
+      "fingerprint": "25313ff4de87802d857b7baf",
+      "title": "El Bidezabal participa en el Campeonato de España sub16 femenino en Durango",
+      "summary": "El club Bidezabal compite este viernes en el Campeonato de España de Clubes sub16 femenino que se celebra en la localidad de Durango.",
+      "paragraphs": [
+        "La competición nacional de atletismo femenino en categoría sub16 tiene lugar hoy en Durango, contando con la presencia del club Bidezabal entre los participantes.",
+        "El evento deportivo está programado para dar comienzo a partir de las 16:00 horas."
+      ],
+      "bullets": [
+        "El Bidezabal es uno de los clubes participantes.",
+        "La competición se desarrolla en Durango.",
+        "El inicio del campeonato está previsto para las 16:00 horas."
+      ],
+      "eventKey": "Bidezabal compite en Campeonato España sub16 Durango",
+      "partial": true,
+      "summarizedAt": "2026-10-10T11:03:28.186208+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-cd699d80014ee9d5a48214cd": {
+    "fingerprint": "09a82fffe92f65bf5b0111bb",
+    "item": {
+      "id": "n-cd699d80014ee9d5a48214cd",
+      "url": "https://www.europapress.es/nacional/noticia-supremo-acelera-decidir-voto-nacionalizados-ley-nietos-adelanto-electoral-20261010115952.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-10T09:59:52+00:00",
+      "sourceTitle": "El Supremo acelera para decidir sobre el voto de nacionalizados por la 'ley de nietos' ante el adelanto electoral",
+      "fingerprint": "09a82fffe92f65bf5b0111bb",
+      "title": "El Tribunal Supremo agiliza la resolución sobre el voto de los nacionalizados por la 'ley de nietos'",
+      "summary": "El alto tribunal ha intensificado sus gestiones para resolver la suspensión cautelar que impide votar a los ciudadanos nacionalizados mediante la 'ley de nietos', tras el anuncio de un adelanto electoral por parte del presidente del Gobierno.",
+      "paragraphs": [
+        "La convocatoria de elecciones anticipadas por parte de Pedro Sánchez ha forzado al Tribunal Supremo a acelerar los plazos procesales. El objetivo es determinar el futuro de la medida cautelar que actualmente mantiene bloqueado el derecho al voto de quienes obtuvieron la nacionalidad a través de la citada ley."
+      ],
+      "bullets": [
+        "El adelanto electoral motiva la urgencia del Supremo.",
+        "La medida cautelar vigente impide el voto de los nacionalizados por esta vía."
+      ],
+      "eventKey": "Tribunal Supremo acelera resolución voto nacionalizados España",
+      "partial": true,
+      "summarizedAt": "2026-10-10T11:03:28.186208+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
