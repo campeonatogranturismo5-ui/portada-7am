@@ -3628,5 +3628,147 @@
       "summarizedAt": "2026-10-10T11:03:28.186208+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-9e34dab3a16db2961b1acacd": {
+    "fingerprint": "eb414dddf9dcce46c3249061",
+    "item": {
+      "id": "n-9e34dab3a16db2961b1acacd",
+      "url": "https://www.eldiario.es/politica/acusa-sistema-matar-desahucios-politica-ponerse-lado-personas-no-negocios_1_13577494.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-10T12:37:49+00:00",
+      "sourceTitle": "Podemos acusa al sistema de \"matar\" con los desahucios: \"La política tiene que ponerse del lado de las personas, no de los negocios\"",
+      "fingerprint": "eb414dddf9dcce46c3249061",
+      "title": "Podemos denuncia que el sistema «mata» mediante los desahucios y la precariedad",
+      "summary": "Irene Montero ha señalado al sistema económico como responsable de la muerte de una mujer desahuciada en Madrid, reclamando que la política priorice a las personas frente a los intereses empresariales. Por su parte, Ione Belarra ha abogado por un proyecto político anticapitalista que frene la especulación inmobiliaria.",
+      "paragraphs": [
+        "Durante un acto en Getafe, la secretaria política de Podemos, Irene Montero, ha vinculado el fallecimiento de Maricarmen Abascal con un sistema al que califica de criminal. La candidata ha instado a que las próximas elecciones sirvan para combatir el negocio de la vivienda y mejorar las condiciones laborales.",
+        "Ione Belarra ha secundado estas críticas, calificando de miedo la actitud del bipartidismo ante las movilizaciones ciudadanas. La secretaria general ha defendido la necesidad de un proyecto antirracista y anticapitalista que ponga freno a la influencia de los fondos buitre y las grandes empresas."
+      ],
+      "bullets": [
+        "Montero acusa al sistema de matar lentamente a través de los desahucios y el alto coste de la vida.",
+        "El partido propone medidas como la expropiación y la redistribución de la riqueza acumulada por los ricos.",
+        "Belarra niega la existencia de una invasión en Ceuta y señala a los fondos buitre como los verdaderos invasores.",
+        "Podemos critica tanto al PP y Vox por proteger a las élites como al PSOE por su inacción ante las protestas."
+      ],
+      "eventKey": "Irene Montero e Ione Belarra critican el sistema económico y la gestión de la vivienda en Getafe",
+      "partial": true,
+      "summarizedAt": "2026-10-10T13:00:50.271865+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-dc18a464d3e73762f0681296": {
+    "fingerprint": "7775f324b6bd887419cfa2b1",
+    "item": {
+      "id": "n-dc18a464d3e73762f0681296",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-10T12:29:31+00:00",
+      "sourceTitle": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "fingerprint": "7775f324b6bd887419cfa2b1",
+      "title": "Detenciones masivas en Nueva Delhi durante una protesta",
+      "summary": "Las autoridades indias han arrestado a cientos de personas, incluidos líderes del grupo 'Cockroach', en el marco de una manifestación en la capital.",
+      "paragraphs": [
+        "Un amplio despliegue policial ha marcado la jornada de protestas en Nueva Delhi. Las fuerzas de seguridad han procedido a la detención de cientos de manifestantes, entre los que se encuentran figuras destacadas del colectivo conocido como 'Cockroach'.",
+        "Previamente a la movilización, las autoridades habían establecido un dispositivo de seguridad masivo que incluyó el bloqueo de diversas vías de acceso en la ciudad."
+      ],
+      "bullets": [
+        "Cientos de personas han sido detenidas por la policía.",
+        "Líderes del grupo 'Cockroach' figuran entre los arrestados.",
+        "Se desplegaron decenas de miles de agentes de seguridad.",
+        "Las autoridades instalaron barricadas en las carreteras antes de la protesta."
+      ],
+      "eventKey": "líderes de Cockroach y manifestantes detenidos en Nueva Delhi",
+      "partial": true,
+      "summarizedAt": "2026-10-10T13:00:50.271865+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-93af22c6863f6734479fabe9": {
+    "fingerprint": "b71dd710ed52da6d993b29c3",
+    "item": {
+      "id": "n-93af22c6863f6734479fabe9",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
+      "source": "NASA",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-10T04:05:00+00:00",
+      "sourceTitle": "APOD: 2026 October 10 – Lunar Farside",
+      "fingerprint": "b71dd710ed52da6d993b29c3",
+      "title": "La cara oculta de la Luna en la imagen astronómica del día",
+      "summary": "La NASA ha publicado una nueva fotografía astronómica centrada en la cara oculta de la Luna, acompañada de una explicación técnica de un astrónomo profesional.",
+      "paragraphs": [
+        "La iniciativa Astronomy Picture of the Day (APOD) ha compartido una imagen detallada de la cara oculta lunar. Como es habitual en este proyecto, la instantánea se presenta junto a un análisis redactado por un experto en la materia.",
+        "Este contenido forma parte de la divulgación diaria de la agencia espacial, que busca acercar el cosmos al público general mediante fotografías comentadas."
+      ],
+      "bullets": [
+        "Publicación de la imagen astronómica del día por la NASA.",
+        "Enfoque en la cara oculta de la Luna.",
+        "Explicación técnica proporcionada por un astrónomo."
+      ],
+      "eventKey": "NASA-publica-imagen-luna",
+      "partial": true,
+      "summarizedAt": "2026-10-10T13:00:50.271865+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-603d17a3be0fca779b5d223c": {
+    "fingerprint": "30255d6374a6a69700ab0841",
+    "item": {
+      "id": "n-603d17a3be0fca779b5d223c",
+      "url": "https://www.xataka.com/energia/luz-radio-amenaza-drones-petroleros-estan-cruzando-estrecho-ormuz-practicamente-a-ciegas",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-10T12:30:26+00:00",
+      "sourceTitle": "Sin luz, sin radio y bajo la amenaza de los drones, los petroleros están cruzando el estrecho de Ormuz prácticamente a ciegas",
+      "fingerprint": "30255d6374a6a69700ab0841",
+      "title": "Petroleros atraviesan el estrecho de Ormuz en condiciones extremas",
+      "summary": "Los buques petroleros cruzan el estrecho de Ormuz bajo condiciones de alto riesgo, operando sin luces ni radio para evitar ser detectados ante la amenaza de drones y misiles. A pesar de la vigilancia estadounidense, la zona sigue siendo un punto crítico donde Irán mantiene su capacidad de interceptación.",
+      "paragraphs": [
+        "El tránsito por el estrecho de Ormuz se realiza actualmente bajo estrictas medidas de seguridad que obligan a las tripulaciones a navegar a ciegas, utilizando únicamente radares y técnicas de navegación tradicional. Esta operativa responde a la constante amenaza de ataques en un enclave estratégico donde el espacio de maniobra es extremadamente limitado.",
+        "Aunque el ejército estadounidense coordina la protección de los buques, se han registrado incidentes recientes, incluyendo la interceptación de un petrolero por parte de la Guardia Revolucionaria Islámica de Irán. Pese a las recomendaciones de seguridad de suspender los tránsitos, la alta rentabilidad de las tarifas de flete incentiva a algunos operadores a continuar con las rutas."
+      ],
+      "bullets": [
+        "Navegación nocturna sin radio, luces ni teléfonos para evadir amenazas.",
+        "Apoyo de la vigilancia militar estadounidense para facilitar el tránsito.",
+        "Irán mantiene el control estratégico del estrecho, dificultando las maniobras de escape.",
+        "Persistencia de los operadores debido a los elevados beneficios económicos."
+      ],
+      "eventKey": "petroleros y Guardia Revolucionaria de Irán en estrecho de Ormuz",
+      "partial": true,
+      "summarizedAt": "2026-10-10T13:00:50.271865+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-3c463af639e25e2eb9a19b77": {
+    "fingerprint": "5834f5949d5ff7be4afb5e1e",
+    "item": {
+      "id": "n-3c463af639e25e2eb9a19b77",
+      "url": "https://www.europapress.es/euskadi/noticia-29n-andueza-advierte-eleccion-ampliacion-derechos-progreso-economico-retroceso-incertidumbre-20261010120707.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-10T10:07:07+00:00",
+      "sourceTitle": "Andueza advierte que la elección es entre \"ampliación de derechos y progreso económico o retroceso e incertidumbre\"",
+      "fingerprint": "5834f5949d5ff7be4afb5e1e",
+      "title": "Andueza plantea una disyuntiva entre progreso y retroceso ante el futuro político",
+      "summary": "El líder del PSE, Eneko Andueza, ha advertido que la ciudadanía deberá elegir entre avanzar en derechos y economía o enfrentarse a un escenario de incertidumbre.",
+      "paragraphs": [
+        "Andueza ha señalado que el futuro político se define por la elección entre la ampliación de derechos y el progreso económico frente a la alternativa del retroceso y la incertidumbre.",
+        "El dirigente socialista ha recordado el éxito electoral del PSE en las generales de 2023 en Euskadi, atribuyéndolo a su capacidad para conectar con una mayoría social que demandaba estabilidad, convivencia y avances."
+      ],
+      "bullets": [
+        "El PSE defiende su modelo basado en la estabilidad y la convivencia.",
+        "Andueza advierte sobre los riesgos de retroceso político."
+      ],
+      "eventKey": "Eneko Andueza advierte sobre el futuro político en Euskadi",
+      "partial": true,
+      "summarizedAt": "2026-10-10T13:00:50.271865+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
