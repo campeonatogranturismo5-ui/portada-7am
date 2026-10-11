@@ -1,792 +1,743 @@
 {
-  "date": "2026-10-09",
-  "updatedAt": "2026-10-09T15:42:44.698725+02:00",
+  "date": "2026-10-11",
+  "updatedAt": "2026-10-11T15:28:37.928426+02:00",
   "timezone": "Europe/Madrid",
   "sections": {
     "euskadi": [
       {
-        "id": "n-c0eeed381cf09616a74a91c4",
-        "url": "https://www.durangon.com/las-zezenak-dira-tambien-se-viven-en-durangon-com/",
+        "id": "n-f96c8109254173cd32108ef4",
+        "url": "https://www.durangon.com/el-bidezabal-compite-en-el-campeonato-de-espana-de-clubes-sub16-femenino-en-durango/",
         "source": "Durangon",
         "section": "euskadi",
         "lang": "es",
-        "publishedAt": "2026-10-09T10:04:54+00:00",
-        "sourceTitle": "Las ‘zezenak dira’ también se viven en durangon.com",
-        "fingerprint": "5bf2b6a3292f835f475ca629",
-        "title": "Durangon.com cubrirá las sesiones de los 'Sanfaustos'",
-        "summary": "El medio digital durangon.com ha anunciado que realizará una cobertura audiovisual de las cinco sesiones de los 'zezenak dira' durante las fiestas de San Fausto.",
+        "publishedAt": "2026-10-10T07:55:02+00:00",
+        "sourceTitle": "El Bidezabal compite en el Campeonato de España de Clubes sub16 femenino en Durango",
+        "fingerprint": "25313ff4de87802d857b7baf",
+        "title": "El Bidezabal participa en el Campeonato de España sub16 femenino en Durango",
+        "summary": "El club Bidezabal compite este viernes en el Campeonato de España de Clubes sub16 femenino que se celebra en la localidad de Durango.",
         "paragraphs": [
-          "La plataforma publicará diariamente una selección con los momentos más destacados de los encierros. El contenido estará disponible a media mañana durante el transcurso de las celebraciones."
+          "La competición nacional de atletismo femenino en categoría sub16 tiene lugar hoy en Durango, contando con la presencia del club Bidezabal entre los participantes.",
+          "El evento deportivo está programado para dar comienzo a partir de las 16:00 horas."
         ],
         "bullets": [
-          "Grabación de las cinco sesiones de los 'Sanfaustos'.",
-          "Publicación diaria de los mejores momentos a media mañana."
+          "El Bidezabal es uno de los clubes participantes.",
+          "La competición se desarrolla en Durango.",
+          "El inicio del campeonato está previsto para las 16:00 horas."
         ],
-        "eventKey": "durangon.com-cobertura-sanfaustos-durango",
+        "eventKey": "Bidezabal compite en Campeonato España sub16 Durango",
         "partial": true,
-        "summarizedAt": "2026-10-09T11:45:56.934997+00:00",
+        "summarizedAt": "2026-10-10T11:03:28.186208+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-58573d9ef693813b228fc3a8",
-        "url": "https://www.europapress.es/euskadi/noticia-acampados-bilbao-llaman-huelga-ir-votar-29n-no-sea-solucion-problema-vivienda-20261009115750.html",
+        "id": "n-5565f2005e3ecd4c5e8b26dc",
+        "url": "https://www.europapress.es/euskadi/noticia-andueza-pse-ee-advierte-pp-vox-estan-deseando-cargarse-todos-derechos-hemos-conquistado-20261011141511.html",
         "source": "Europa Press Euskadi",
         "section": "euskadi",
         "lang": "es",
-        "publishedAt": "2026-10-09T09:57:50+00:00",
-        "sourceTitle": "Acampados en Bilbao llaman a la huelga y a ir a votar el 29N, \"aunque no sea la solución\" al problema de vivienda",
-        "fingerprint": "bfdb4a2213b3f9287fd0ebdc",
-        "title": "Los acampados de Bilbao convocan una huelga y llaman a votar el 29N",
-        "summary": "El colectivo que mantiene una acampada en Bilbao ha convocado una jornada de huelga y ha instado a la participación electoral el próximo 29 de noviembre, reconociendo que los comicios no resolverán por sí solos la crisis habitacional.",
+        "publishedAt": "2026-10-11T12:15:11+00:00",
+        "sourceTitle": "Andueza (PSE-EE) advierte que PP y Vox \"están deseando cargarse todos esos derechos que hemos conquistado\"",
+        "fingerprint": "8542b0ee56275ac6afb9972f",
+        "title": "Andueza alerta sobre las intenciones de PP y Vox respecto a los derechos sociales",
+        "summary": "El líder del PSE-EE, Eneko Andueza, ha señalado que tanto el Partido Popular como Vox pretenden eliminar los derechos sociales alcanzados hasta la fecha.",
         "paragraphs": [
-          "Los manifestantes han hecho un llamamiento a la movilización ciudadana para el 29N. A pesar de sus dudas sobre la eficacia de las urnas para solventar la situación de la vivienda, consideran necesario acudir a votar mientras mantienen sus protestas.",
-          "Entre sus reivindicaciones principales, el grupo exige medidas urgentes para frenar los desahucios y un incremento en el parque de vivienda pública, además de soluciones habitacionales para las personas sin hogar."
+          "Eneko Andueza, secretario general de los socialistas vascos, ha advertido sobre la postura política de PP y Vox. Según el dirigente, ambas formaciones buscan revertir los avances sociales logrados.",
+          "El representante del PSE-EE ha calificado al PP como una formación escorada a la extrema derecha, mientras que ha definido a Vox directamente como un partido de extrema derecha."
         ],
         "bullets": [
-          "Convocatoria de huelga y llamamiento al voto para el 29N.",
-          "Exigencia de paralizar los desahucios.",
-          "Petición de más vivienda pública.",
-          "Demanda de una respuesta digna para personas sin hogar."
+          "Andueza acusa a PP y Vox de querer suprimir derechos conquistados.",
+          "El líder socialista sitúa al PP en una posición de extrema derecha."
         ],
-        "eventKey": "acampados-bilbao-convocan-huelga-voto-29N",
+        "eventKey": "Eneko Andueza critica a PP y Vox en Euskadi",
         "partial": true,
-        "summarizedAt": "2026-10-09T11:45:56.934997+00:00",
+        "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-005eecbc0d4b9301dfa4e38d",
-        "url": "https://www.durangon.com/intxaurreren-40-urteko-ibilbidea-omenduko-dute-durangoko-txosnen-txupinazoan/",
-        "source": "Durangon",
-        "section": "euskadi",
-        "lang": "es",
-        "publishedAt": "2026-10-08T11:07:33+00:00",
-        "sourceTitle": "Intxaurreren 40 urteko ibilbidea omenduko dute Durangoko txosnen txupinazoan",
-        "fingerprint": "c3b2f56af4fcff79603b7b2d",
-        "title": "Homenaje a Intxaurre en el inicio de las txosnas de Durango",
-        "summary": "El recinto de txosnas de Durango abrirá sus puertas mañana con un programa variado, destacando el reconocimiento a la trayectoria de Intxaurre durante el txupinazo inaugural.",
-        "paragraphs": [
-          "El espacio festivo de las txosnas de Durango comenzará su actividad mañana. El acto de apertura incluirá un homenaje a Intxaurre por sus 40 años de recorrido.",
-          "La programación prevista para estas fiestas contará con diversas propuestas de ocio tanto diurnas como nocturnas, diseñadas para cubrir diferentes preferencias y edades."
-        ],
-        "bullets": [
-          "Apertura del recinto de txosnas mañana.",
-          "Reconocimiento a Intxaurre por sus 40 años de trayectoria.",
-          "Oferta festiva variada para todos los públicos."
-        ],
-        "eventKey": "Intxaurre-homenaje-Durango",
-        "partial": true,
-        "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
-        "model": "gemini-3.1-flash-lite"
-      },
-      {
-        "id": "n-08ee11c0f7db96662f5c550a",
-        "url": "https://www.europapress.es/euskadi/noticia-etxanobe-dice-sustitucion-bengoetxea-sido-sorpresa-tremenda-porque-pnv-le-confirmo-seguiria-20261009115734.html",
+        "id": "n-4417c854ea24c80da5b3e9ae",
+        "url": "https://www.europapress.es/euskadi/noticia-sucesos-detenido-danos-superiores-1000-euros-habitacion-alojamiento-turistico-san-sebastian-20261011141353.html",
         "source": "Europa Press Euskadi",
         "section": "euskadi",
         "lang": "es",
-        "publishedAt": "2026-10-09T09:57:34+00:00",
-        "sourceTitle": "Etxanobe dice que su sustitución por Bengoetxea ha sido \"una sorpresa tremenda\" porque el PNV le confirmó que seguiría",
-        "fingerprint": "c92e20053437dfdf0331fd78",
-        "title": "Etxanobe califica de sorpresa su relevo como candidata a la Diputación de Bizkaia",
-        "summary": "La diputada general de Bizkaia ha expresado su desconcierto ante la decisión del PNV de sustituirla por Ibone Bengoetxea, a pesar de haber recibido garantías previas de continuidad.",
+        "publishedAt": "2026-10-11T12:13:53+00:00",
+        "sourceTitle": "Detenido por daños superiores a los 1.000 euros en la habitación de un alojamiento turístico en San Sebastián",
+        "fingerprint": "581e3316a9a7b87d52e4cdbe",
+        "title": "Detenido en San Sebastián por causar daños en un alojamiento turístico",
+        "summary": "Un hombre de 36 años ha sido arrestado en San Sebastián después de provocar desperfectos valorados en más de 1.000 euros en la habitación de un hotel.",
         "paragraphs": [
-          "Elixabete Etxanobe ha manifestado su sorpresa tras conocer que no será la candidata del PNV a la reelección en la Diputación de Bizkaia. La actual diputada general ha señalado que la noticia le fue comunicada con muy poco margen de tiempo antes de su anuncio oficial.",
-          "La dirigente ha recordado que el pasado mes de marzo, el presidente del PNV en el territorio, Iñigo Ansola, le confirmó que ella sería la persona designada para concurrir a la reelección, lo que contradice la decisión final de apostar por Ibone Bengoetxea."
+          "El Departamento de Seguridad del Gobierno Vasco ha confirmado la detención de un varón de 36 años durante la jornada del pasado sábado. El individuo está acusado de ocasionar daños materiales en el establecimiento donde se alojaba.",
+          "La cuantía de los desperfectos causados en la habitación del hotel ha sido estimada en una cifra superior a los 1.000 euros."
         ],
         "bullets": [
-          "Etxanobe asegura que la decisión le fue comunicada pocas horas antes de hacerse pública.",
-          "El PNV había confirmado a la diputada general su intención de que repitiera como candidata el pasado 5 de marzo.",
-          "Ibone Bengoetxea, actual vicelehendakari, ha sido la elegida para relevar a Etxanobe."
+          "Detenido un hombre de 36 años.",
+          "Los daños superan los 1.000 euros.",
+          "El suceso tuvo lugar en un alojamiento turístico de San Sebastián."
         ],
-        "eventKey": "Elixabete Etxanobe sustituida por Ibone Bengoetxea en Bizkaia",
+        "eventKey": "hombre-detenido-danos-san-sebastian",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-8056bfcf13bf0c91e8e285b9",
-        "url": "https://www.durangon.com/durango-activara-dos-recursos-para-atender-situaciones-de-violencia-machista-en-los-sanfaustos/",
+        "id": "n-388c06a1fbc25f112f322d90",
+        "url": "https://www.durangon.com/seis-heridos-y-una-vaquilla-suelta-en-el-arranque-de-las-zezenak-dira/",
         "source": "Durangon",
         "section": "euskadi",
         "lang": "es",
-        "publishedAt": "2026-10-08T09:50:28+00:00",
-        "sourceTitle": "Durango activará dos recursos para atender situaciones de violencia machista en los ‘Sanfaustos’",
-        "fingerprint": "b6cbe590ded1dbbff6e99b40",
-        "title": "Durango habilitará medidas contra la violencia machista en sus fiestas",
-        "summary": "El Ayuntamiento de Durango pondrá en marcha dos dispositivos de asistencia para prevenir y atender posibles agresiones durante la celebración de los Sanfaustos.",
+        "publishedAt": "2026-10-11T09:04:54+00:00",
+        "sourceTitle": "Seis heridos y una vaquilla suelta en el arranque de las ‘zezenak dira’",
+        "fingerprint": "7ff44c1a7841026c469eac21",
+        "title": "Seis heridos durante el inicio de las 'zezenak dira'",
+        "summary": "El comienzo de los festejos taurinos ha dejado un balance de seis personas lesionadas, una de ellas de gravedad.",
         "paragraphs": [
-          "Con motivo de las próximas fiestas, el consistorio ha anunciado la activación de un Punto Morado ubicado en Ezkurdi. Asimismo, se habilitará un canal telefónico especializado para ofrecer apoyo inmediato.",
-          "Ambos recursos contarán con la supervisión de personal experto para garantizar una atención adecuada ante cualquier situación de violencia machista que pueda producirse durante los festejos."
+          "El arranque de las 'zezenak dira' ha estado marcado por un incidente con una vaquilla que ha quedado suelta, provocando heridas a seis personas.",
+          "El afectado con pronóstico más serio ha tenido que ser evacuado al hospital de Cruces para recibir atención médica especializada."
         ],
         "bullets": [
-          "Instalación de un Punto Morado en la zona de Ezkurdi.",
-          "Activación de un servicio telefónico de atención específica.",
-          "Gestión del dispositivo a cargo de profesionales expertas."
+          "Seis personas han resultado heridas en el evento.",
+          "Una vaquilla ha quedado suelta durante el festejo.",
+          "El herido de mayor gravedad ha sido trasladado al hospital de Cruces."
         ],
-        "eventKey": "Ayuntamiento de Durango activa recursos contra violencia machista en fiestas",
+        "eventKey": "seis heridos y vaquilla suelta en zezenak dira",
         "partial": true,
-        "summarizedAt": "2026-10-08T11:53:58.082582+00:00",
+        "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-223e14e14cf6d2e811df98e2",
+        "url": "https://www.europapress.es/euskadi/noticia-solo-cada-cinco-conflictos-finalizados-preco-septiembre-acabo-acuerdo-laudo-20261011132222.html",
+        "source": "Europa Press Euskadi",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-10-11T11:22:22+00:00",
+        "sourceTitle": "Sólo uno de cada cinco conflictos finalizados en el Preco hasta septiembre acabó en acuerdo o laudo",
+        "fingerprint": "09eb0158adcf76c282a5569a",
+        "title": "Baja tasa de resolución mediante acuerdo en el Preco vasco",
+        "summary": "Durante los primeros nueve meses del año, la mayoría de los conflictos laborales gestionados por el Preco en el País Vasco concluyeron sin alcanzar un pacto o laudo arbitral.",
+        "paragraphs": [
+          "El sistema de resolución de conflictos laborales en Euskadi ha cerrado 305 expedientes entre enero y septiembre. De este total, únicamente una quinta parte de los casos ha logrado una solución formal mediante acuerdo o laudo.",
+          "Esta cifra representa a 5.971 trabajadores, una pequeña fracción del volumen total de empleados afectados por las disputas registradas en el periodo, que asciende a más de 104.000 personas."
+        ],
+        "bullets": [
+          "305 conflictos laborales gestionados hasta septiembre.",
+          "Solo el 21,3% de los casos finalizó con acuerdo o laudo.",
+          "Más de 104.000 trabajadores afectados por los conflictos."
+        ],
+        "eventKey": "Preco-resolución-conflictos-Euskadi",
+        "partial": true,
+        "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ],
     "espana": [
       {
-        "id": "n-22145fc4cfff2a37af0dca8d",
-        "url": "https://www.eldiario.es/politica/audiencia-nacional-confirma-prision-provisional-activista-propalestino-fergie-chambers-reclamado-eeuu_1_13575659.html",
+        "id": "n-7f92cea772e746c034a5f2c2",
+        "url": "https://www.eldiario.es/politica/madrid-propone-lista-consenso-liderada-emilio-delgado-elecciones-29n_1_13578644.html",
         "source": "elDiario.es",
         "section": "espana",
         "lang": "es",
-        "publishedAt": "2026-10-09T13:22:06+00:00",
-        "sourceTitle": "La Audiencia Nacional confirma la prisión provisional para el activista propalestino 'Fergie' Chambers reclamado por EEUU",
-        "fingerprint": "d58425e6aa9b03b4692d7dc4",
-        "title": "La Audiencia Nacional mantiene en prisión al activista 'Fergie' Chambers",
-        "summary": "El tribunal ha ratificado la prisión provisional para el activista estadounidense James 'Fergie' Cox Chambers, reclamado por su país por presunta financiación a Palestina, al considerar que existe un elevado riesgo de fuga.",
+        "publishedAt": "2026-10-11T11:43:03+00:00",
+        "sourceTitle": "Más Madrid propone una lista liderada por Emilio Delgado para las elecciones del 29N",
+        "fingerprint": "30d0144d2af40cc3506e0d98",
+        "title": "Más Madrid propone una candidatura de consenso encabezada por Emilio Delgado para el 29N",
+        "summary": "Más Madrid ha planteado una lista conjunta para las elecciones del 29 de noviembre en la circunscripción de Madrid, situando a Emilio Delgado y Mónica García en los primeros puestos. La formación busca integrar a Izquierda Unida, Sumar y Podemos bajo el paraguas del Frente Amplio.",
         "paragraphs": [
-          "La Sala de lo Penal de la Audiencia Nacional ha desestimado los argumentos de la defensa, que ofrecía garantías de arraigo y la entrega del pasaporte para evitar la cárcel. Los magistrados sostienen que su elevada capacidad económica y la permeabilidad de las fronteras terrestres hacen insuficiente cualquier medida cautelar distinta a la privación de libertad.",
-          "Chambers, detenido en Madrid el pasado mes de julio, se ha negado a ser extraditado a Estados Unidos. El activista se enfrenta a acusaciones por desórdenes públicos, conspiración para disturbios y blanqueo de capitales, delitos por los que podría ser juzgado si finalmente se autoriza su entrega."
+          "La propuesta de Más Madrid pretende desbloquear las tensiones con Podemos, condicionando su inclusión a que la formación morada se integre en el Frente Amplio. La lista incluiría también a figuras como Tesh Sidi o Eduardo Fernández Rubiño.",
+          "Mientras tanto, el partido ha valorado la confirmación de Gabriel Rufián como cabeza de lista de ERC, expresando su deseo de alcanzar acuerdos similares en Cataluña para consolidar una alternativa de izquierdas frente a las derechas."
         ],
         "bullets": [
-          "La Audiencia Nacional considera que el arraigo familiar y económico alegado por la defensa no mitiga el riesgo de huida.",
-          "El detenido sostiene que reside en España por motivos ideológicos y se opone a su extradición.",
-          "La justicia estadounidense reclama a Chambers por su presunto apoyo financiero a Palestina."
+          "Emilio Delgado y Mónica García ocuparían los dos primeros lugares de la candidatura.",
+          "Podemos ha solicitado primarias abiertas, aunque se muestra abierto a negociar una lista conjunta.",
+          "Más Madrid aboga por la unidad de las fuerzas de izquierda para las próximas elecciones.",
+          "Los Comuns mantienen su compromiso con la construcción de un Frente Amplio de ámbito estatal."
         ],
-        "eventKey": "Fergie Chambers-prisión provisional-Audiencia Nacional",
+        "eventKey": "Más Madrid-propone lista electoral-Madrid",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-0137cb1bb554854339465993",
-        "url": "https://www.europapress.es/nacional/noticia-fiscalia-pide-supremo-levante-suspension-ley-nietos-menos-elecciones-20261009145453.html",
+        "id": "n-2d733b82f95e5aeca4a17e0e",
+        "url": "https://www.europapress.es/nacional/noticia-sanchez-pide-supremo-frene-atropello-feijoo-abascal-contra-ley-nietos-20261011131447.html",
         "source": "Europa Press",
         "section": "espana",
         "lang": "es",
-        "publishedAt": "2026-10-09T12:54:53+00:00",
-        "sourceTitle": "La Fiscalía pide al Supremo que levante la suspensión de la 'ley de nietos' al menos en estas elecciones",
-        "fingerprint": "9af0c8990d5b2f4c07353a7d",
-        "title": "La Fiscalía solicita al Supremo reactivar la 'ley de nietos' para los comicios de noviembre",
-        "summary": "El Ministerio Fiscal ha instado al Tribunal Supremo a revocar la suspensión cautelar de la normativa conocida como 'ley de nietos' antes de la cita electoral del 29 de noviembre.",
+        "publishedAt": "2026-10-11T11:14:47+00:00",
+        "sourceTitle": "Sánchez pide al Supremo que frene el \"atropello\" de Feijóo y Abascal contra la ley de nietos",
+        "fingerprint": "f458dc2b397a06a1c5cb6c81",
+        "title": "Sánchez solicita al Tribunal Supremo que bloquee las acciones de Feijóo y Abascal sobre la ley de nietos",
+        "summary": "El presidente del Gobierno ha denunciado una maniobra de la oposición para obstaculizar el derecho a voto de miles de descendientes de exiliados españoles. Sánchez ha instado al alto tribunal a intervenir ante lo que considera un atropello a la normativa vigente.",
         "paragraphs": [
-          "La Fiscalía ha formalizado una petición ante el Tribunal Supremo para que se levante la suspensión que pesa sobre la denominada 'ley de nietos'.",
-          "El objetivo de esta solicitud es que la norma pueda estar operativa de cara a las elecciones previstas para el próximo 29 de noviembre."
+          "Pedro Sánchez ha acusado a los líderes del Partido Popular y Vox de intentar impedir que cerca de 400.000 descendientes de españoles exiliados durante el franquismo puedan ejercer sus derechos bajo la ley de nietos.",
+          "Ante esta situación, el jefe del Ejecutivo ha reclamado la intervención del Tribunal Supremo para frenar lo que ha definido como un intento de atropello por parte de la derecha."
         ],
         "bullets": [
-          "Petición formal ante el Tribunal Supremo.",
-          "Solicitud de levantamiento de la suspensión cautelar.",
-          "Aplicación vinculada a las elecciones del 29 de noviembre."
+          "Acusación directa contra Feijóo y Abascal por intentar bloquear el voto de descendientes de exiliados.",
+          "El Gobierno cifra en 400.000 las personas potencialmente afectadas por esta supuesta maniobra.",
+          "Apelación formal al Tribunal Supremo para detener la acción de la oposición."
         ],
-        "eventKey": "Fiscalía solicita al Supremo reactivar ley de nietos",
+        "eventKey": "Pedro Sánchez solicita al Tribunal Supremo frenar acciones de Feijóo y Abascal sobre ley de nietos",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-60b79cd3cd7e279db0626afe",
-        "url": "https://www.europapress.es/nacional/noticia-pp-avisa-cloaca-psoe-presenta-29n-promete-no-olvidaran-casos-corrupcion-20261009144607.html",
+        "id": "n-6557a70bb11edea86b3727f0",
+        "url": "https://www.europapress.es/nacional/noticia-juez-escuchara-viernes-presunto-cerebro-financiero-caso-plus-ultra-20261011123002.html",
         "source": "Europa Press",
         "section": "espana",
         "lang": "es",
-        "publishedAt": "2026-10-09T12:46:07+00:00",
-        "sourceTitle": "El PP avisa de que la \"cloaca\" del PSOE se presenta en el 29N y promete que no se olvidarán los casos de corrupción",
-        "fingerprint": "93c75a1438d20d94d58a45bd",
-        "title": "El PP mantendrá su ofensiva contra la corrupción del PSOE ante las elecciones del 29N",
-        "summary": "El Partido Popular ha anunciado que continuará denunciando las supuestas irregularidades socialistas de cara a la próxima cita electoral, tras la decisión judicial de no imputar al PSOE en el 'caso Leire Díez'.",
+        "publishedAt": "2026-10-11T10:30:02+00:00",
+        "sourceTitle": "El juez escuchará este viernes al presunto cerebro financiero del 'caso Plus Ultra'",
+        "fingerprint": "d5dc1475328872a5e6e5be2c",
+        "title": "El juez de la Audiencia Nacional interrogará al presunto cerebro financiero del caso Plus Ultra",
+        "summary": "El magistrado José Luis Calama ha citado a declarar este viernes al financiero neerlandés Simon Lendeert Verhoeven en el marco de la investigación sobre Plus Ultra.",
         "paragraphs": [
-          "Miguel Tellado, secretario general y director de campaña del PP, ha asegurado que su formación persistirá en señalar la gestión del Gobierno durante sus ocho años de mandato. El objetivo es evitar que la opinión pública olvide los casos de corrupción que han salpicado al Ejecutivo.",
-          "Esta estrategia se mantiene a pesar de que el juez de la Audiencia Nacional, Santiago Pedraz, ha rechazado por ahora la imputación del PSOE en el marco del 'caso Leire Díez'."
+          "La Audiencia Nacional ha programado para este viernes la comparecencia de Simon Lendeert Verhoeven. El financiero de origen neerlandés está señalado por los investigadores como la figura clave en la estructura financiera vinculada al caso Plus Ultra."
         ],
         "bullets": [
-          "El PP vincula la gestión del PSOE con una supuesta \"cloaca\" política.",
-          "La formación popular busca mantener el foco en la corrupción ante el 29N.",
-          "El juez Pedraz descarta, de momento, imputar al PSOE en el 'caso Leire Díez'."
+          "El juez José Luis Calama dirige la diligencia judicial.",
+          "Simon Lendeert Verhoeven comparecerá en calidad de presunto cerebro financiero."
         ],
-        "eventKey": "PP-denuncia-corrupcion-PSOE-España",
+        "eventKey": "Simon Lendeert Verhoeven declara ante la Audiencia Nacional",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-aac4815482a8c16b6985d5f7",
-        "url": "https://www.europapress.es/nacional/noticia-psoe-estudia-presentarse-senado-lista-conjunta-otras-formaciones-izquierda-evitar-mayoria-pp-20261009142726.html",
-        "source": "Europa Press",
+        "id": "n-2c34ec952b5791bbccd91840",
+        "url": "https://www.eldiario.es/politica/plan-grupo-leire-jueza-biedma-atentado-disparate_1_13573249.html",
+        "source": "elDiario.es",
         "section": "espana",
         "lang": "es",
-        "publishedAt": "2026-10-09T12:27:26+00:00",
-        "sourceTitle": "El PSOE estudia presentarse al Senado en lista conjunta con otras formaciones de izquierda para evitar mayoría del PP",
-        "fingerprint": "a299f2bd3bf693616d58bd8f",
-        "title": "El PSOE valora una candidatura unitaria de izquierdas al Senado",
-        "summary": "El Partido Socialista analiza la posibilidad de concurrir a las elecciones a la Cámara Alta en coalición con otras fuerzas progresistas. El objetivo de esta estrategia sería arrebatar la mayoría absoluta que actualmente ostenta el Partido Popular.",
+        "publishedAt": "2026-10-10T20:10:42+00:00",
+        "sourceTitle": "El plan del 'Grupo Leire' contra la jueza Biedma: ¿atentado o disparate?",
+        "fingerprint": "7912061d890b40cd4b71582a",
+        "title": "El plan del 'Grupo Leire' contra la jueza Biedma: ¿atentado o disparate?",
+        "summary": "La jueza Beatriz Biedma ha denunciado ante la Audiencia Nacional presuntas maniobras de acoso por parte del 'Grupo Leire' y el exjuez Luis Sáenz de Tejada. La investigación analiza si estas acciones, que buscaban apartarla del caso de David Sánchez, llegaron a planificar un atentado contra la magistrada.",
         "paragraphs": [
-          "La dirección socialista estudia la viabilidad de una lista conjunta para los comicios al Senado. Esta maniobra busca alterar la actual correlación de fuerzas en la institución.",
-          "La formación pretende frenar el dominio del PP en la Cámara Alta mediante esta alianza electoral con otros partidos de izquierda."
+          "La magistrada Beatriz Biedma, instructora del caso de David Sánchez, ha declarado ante el juez Pedraz sentirse atemorizada por las actuaciones del denominado 'Grupo Leire'. Este colectivo, liderado por Leire Díez y el empresario Javier Pérez Dolset, habría intentado apartar a la jueza de su labor judicial mediante una campaña de desprestigio y presuntas calumnias.",
+          "El epicentro de la polémica sitúa al exjuez Luis Sáenz de Tejada, quien desde YouTube denuncia una supuesta trama corrupta en los juzgados de Badajoz. Según las investigaciones, este colaborador de Díez habría contactado con grupos criminales locales, planteando la posibilidad de atentar contra la magistrada, un extremo que ahora se dirime en sede judicial."
         ],
         "bullets": [
-          "El PSOE explora una lista unitaria para el Senado.",
-          "La iniciativa busca evitar la mayoría absoluta del PP.",
-          "La estrategia se encuentra actualmente en fase de estudio."
+          "La jueza Biedma se ha personado como víctima en la Audiencia Nacional tras las maniobras del 'Grupo Leire'.",
+          "El exjuez Luis Sáenz de Tejada es señalado como el nexo entre las conspiraciones de Díez y el entorno criminal de Badajoz.",
+          "Existen indicios de que el PSOE pudo financiar los planes de Leire Díez para investigar a jueces y policías.",
+          "La investigación busca esclarecer si las amenazas contra la magistrada fueron un plan real o una invención de los implicados."
         ],
-        "eventKey": "PSOE-estudia-lista-conjunta-Senado",
+        "eventKey": "Leire Díez y Luis Sáenz de Tejada investigados por presuntas amenazas a la jueza Biedma",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ],
     "internacional": [
       {
-        "id": "n-942e9918d5aa6713cb59e23f",
-        "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+        "id": "n-67ccfc762e6f5377a4cf66b8",
+        "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "section": "internacional",
         "lang": "en",
-        "publishedAt": "2026-10-09T13:31:07+00:00",
-        "sourceTitle": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-        "fingerprint": "ecb3af92383a8d5848f2068f",
-        "title": "Etiopía advierte a Eritrea tras la incursión de sus tropas",
-        "summary": "El gobierno etíope ha manifestado su intención de defenderse ante la entrada de soldados eritreos en su territorio, lo que habría provocado una respuesta militar mediante drones.",
+        "publishedAt": "2026-10-11T11:15:50+00:00",
+        "sourceTitle": "Pope Leo to have surgery after lump found on lung",
+        "fingerprint": "64c538465950fb5ecfab9cfe",
+        "title": "El Papa León será operado tras detectársele un nódulo pulmonar",
+        "summary": "El pontífice, de 71 años, se someterá a una intervención quirúrgica después de que los médicos hallaran una masa en su pulmón. Según ha comunicado, la detección se ha producido en una fase muy inicial.",
         "paragraphs": [
-          "Las autoridades de Etiopía han denunciado el cruce de la frontera por parte de convoyes de militares eritreos. Ante esta situación, el país ha advertido que tomará medidas para proteger su soberanía.",
-          "Se ha informado de que Etiopía habría respondido a este movimiento de tropas mediante el despliegue de ataques con drones en la zona afectada."
+          "El Papa León ha anunciado que deberá pasar por quirófano tras la identificación de un nódulo en su pulmón. El pontífice ha señalado que el hallazgo se ha producido en un estadio temprano de la afección."
         ],
         "bullets": [
-          "Entrada de camiones con soldados eritreos en territorio etíope.",
-          "Etiopía anuncia que se defenderá ante la incursión.",
-          "Reportes de ataques con drones como respuesta etíope."
+          "El Papa tiene 71 años.",
+          "La intervención responde al hallazgo de un nódulo pulmonar.",
+          "El diagnóstico se ha realizado en una etapa muy temprana."
         ],
-        "eventKey": "Etiopía y Eritrea conflicto fronterizo",
+        "eventKey": "Papa León operado pulmón",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-a25f287fea187a92c602c553",
-        "url": "https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato",
+        "id": "n-431b8378e134d2fd8c158d85",
+        "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
         "source": "The Guardian",
         "section": "internacional",
         "lang": "en",
-        "publishedAt": "2026-10-09T12:00:28+00:00",
-        "sourceTitle": "Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence",
-        "fingerprint": "835da759b6634241d0a2b9b7",
-        "title": "El anfitrión de la COP31 insta a las naciones ricas a priorizar el gasto climático sobre el militar",
-        "summary": "El presidente designado de la próxima cumbre climática de la ONU ha reclamado un mayor compromiso financiero para combatir la crisis climática, equiparándola a una cuestión de seguridad nacional. No obstante, ha evitado confirmar si la cumbre mantendrá el compromiso de abandonar los combustibles fósiles.",
+        "publishedAt": "2026-10-11T12:37:32+00:00",
+        "sourceTitle": "Police in Poland ‘learn of possible plot to attack prime minister Donald Tusk’",
+        "fingerprint": "2e4460b10a6d9bdd12487df5",
+        "title": "La policía polaca investiga una posible amenaza contra Donald Tusk",
+        "summary": "Las autoridades de Polonia han recibido información sobre un supuesto plan para atentar contra el primer ministro y el titular de Defensa. El país se mantiene en alerta ante el temor de posibles ataques híbridos rusos.",
         "paragraphs": [
-          "Murat Kurum, responsable de la COP31, ha instado a los países desarrollados a destinar más recursos a la emergencia climática que el 5% del PIB que los miembros de la OTAN dedican a defensa. Según el ministro turco, la crisis climática debe entenderse como un problema de seguridad prioritario.",
-          "A pesar de este llamamiento, las declaraciones de Kurum han generado incertidumbre sobre la agenda de la cumbre que se celebrará en Turquía el próximo mes, al mostrarse reticente sobre si se ratificará el objetivo de transitar hacia el abandono de los combustibles fósiles."
+          "La policía polaca ha confirmado la recepción de datos sobre una posible conspiración dirigida contra el primer ministro, Donald Tusk, y el ministro de Defensa, Władysław Kosiniak-Kamysz. El portavoz del Gobierno ha calificado la amenaza como excepcionalmente preocupante.",
+          "Esta situación se produce en un contexto de alta tensión en el país, marcado por recientes incidentes violentos en centros educativos y la inquietud ante posibles acciones desestabilizadoras vinculadas a la invasión rusa de Ucrania."
         ],
         "bullets": [
-          "El ministro turco sostiene que la crisis climática es una cuestión de seguridad.",
-          "Se cuestiona la inversión en defensa frente a la financiación climática.",
-          "Existe ambigüedad sobre el compromiso de abandonar los combustibles fósiles en la COP31."
+          "Investigación abierta por un posible complot contra altos cargos del Gobierno.",
+          "El ministro de Defensa también figura en la amenaza recibida.",
+          "Polonia mantiene un nivel de alerta elevado tras una serie de apuñalamientos en escuelas."
         ],
-        "eventKey": "Murat Kurum reclama mayor inversión climática en la cumbre de Fiji",
+        "eventKey": "Donald Tusk y Władysław Kosiniak-Kamysz amenaza ataque Polonia",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-8fd01290ea63ca9d1af0d555",
-        "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+        "id": "n-247efd53ed44311dd3cd2009",
+        "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "section": "internacional",
         "lang": "en",
-        "publishedAt": "2026-10-09T12:24:58+00:00",
-        "sourceTitle": "Firing squad execution to be livestreamed, Pentagon says",
-        "fingerprint": "2fd8b886d0558c5eaf95c12f",
-        "title": "El Pentágono retransmitirá una ejecución por fusilamiento",
-        "summary": "Pete Hegseth ha anunciado que la ejecución se realizará de forma pública, una decisión que los expertos legales califican de inédita y jurídicamente incierta.",
+        "publishedAt": "2026-10-11T12:08:20+00:00",
+        "sourceTitle": "Children among 109 dead after boat capsizes off Djibouti, UN says",
+        "fingerprint": "73434b9c4deb1c990b8666f4",
+        "title": "Al menos 109 fallecidos tras el naufragio de una embarcación frente a Yibuti",
+        "summary": "Un barco que transportaba a 350 personas con destino a Yemen ha naufragado cerca de la costa de Yibuti, dejando un saldo provisional de más de un centenar de víctimas mortales, entre las que se encuentran varios menores.",
         "paragraphs": [
-          "El Pentágono ha confirmado que la ejecución mediante un pelotón de fusilamiento será retransmitida en directo. La medida ha generado controversia debido a su naturaleza pública.",
-          "Expertos en derecho han advertido que esta determinación se sitúa en un terreno legal incierto, calificando el procedimiento como un hecho sin precedentes."
+          "La embarcación, que realizaba una travesía desde Yibuti hacia Yemen, volcó durante la noche del jueves en las proximidades de la ciudad portuaria de Obock. Según los datos facilitados por la ONU, el navío transportaba a un total de 350 pasajeros en el momento del accidente.",
+          "Las autoridades y organismos internacionales han confirmado el fallecimiento de 109 personas, incluyendo a varios niños, mientras continúan las labores de gestión tras el suceso."
         ],
         "bullets": [
-          "La ejecución será retransmitida en directo.",
-          "El anuncio ha sido realizado por Pete Hegseth.",
-          "Expertos legales cuestionan la seguridad jurídica de la decisión."
+          "El naufragio ocurrió cerca de la ciudad portuaria de Obock.",
+          "La embarcación transportaba a 350 personas hacia Yemen.",
+          "La ONU confirma la muerte de 109 personas, incluidos menores."
         ],
-        "eventKey": "Pentágono-retransmisión-ejecución-EEUU",
+        "eventKey": "migrantes-naufragio-yibuti",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
-        "model": "gemini-3.1-flash-lite"
-      },
-      {
-        "id": "n-3493e3e0484fb7f47ac954ca",
-        "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-        "source": "The Guardian",
-        "section": "internacional",
-        "lang": "en",
-        "publishedAt": "2026-10-09T11:24:10+00:00",
-        "sourceTitle": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-        "fingerprint": "7db1dbed7b34d1b24d97bbfb",
-        "title": "Navi Pillay, galardonada con el Premio Nobel de la Paz",
-        "summary": "La jueza del Tribunal Internacional de Justicia ha sido distinguida por su labor en la promoción del derecho internacional. El comité noruego ha destacado su capacidad para utilizar medidas legales en la prevención de conflictos.",
-        "paragraphs": [
-          "El Comité Nobel ha otorgado el galardón a la jurista sudafricana, quien actualmente ejerce como jueza en el Tribunal Internacional de Justicia. La institución ha reconocido su trayectoria en la defensa de la legalidad global.",
-          "La distinción también pone el foco en su anterior etapa como presidenta de la comisión de la ONU que determinó la existencia de genocidio en Gaza por parte de Israel."
-        ],
-        "bullets": [
-          "Reconocimiento a su contribución al derecho internacional.",
-          "Valoración de su papel en la prevención de la violencia mediante cauces legales.",
-          "Mención a su liderazgo en la comisión de la ONU sobre Gaza."
-        ],
-        "eventKey": "Navi Pillay gana Premio Nobel de la Paz",
-        "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
-        "model": "gemini-3.1-flash-lite"
-      },
-      {
-        "id": "n-89689033d755cfa968ec0e98",
-        "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "section": "internacional",
-        "lang": "en",
-        "publishedAt": "2026-10-09T12:18:52+00:00",
-        "sourceTitle": "ICE agent shoots man in New York City",
-        "fingerprint": "b68a0fb5375b0639c6637fbf",
-        "title": "Un agente de inmigración dispara a un hombre en Nueva York",
-        "summary": "El alcalde de Nueva York ha mostrado su indignación tras un tiroteo protagonizado por un agente del Servicio de Inmigración y Control de Aduanas durante una detención.",
-        "paragraphs": [
-          "Un agente del Servicio de Inmigración y Control de Aduanas (ICE) ha disparado a un hombre en la ciudad de Nueva York. El incidente ha provocado una reacción de rechazo por parte del alcalde de la ciudad.",
-          "El Departamento de Seguridad Nacional ha justificado la intervención alegando que el suceso ocurrió mientras se procedía a la detención de un individuo al que califican como un inmigrante ilegal con antecedentes penales."
-        ],
-        "bullets": [
-          "El alcalde de Nueva York ha expresado su indignación por lo ocurrido.",
-          "El Departamento de Seguridad Nacional sostiene que el tiroteo tuvo lugar durante un arresto.",
-          "El afectado ha sido descrito por las autoridades federales como un inmigrante ilegal con historial delictivo."
-        ],
-        "eventKey": "agente ICE dispara hombre Nueva York",
-        "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ],
     "ciencia": [
       {
-        "id": "n-24c009296727eb781f29e8a8",
-        "url": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm",
+        "id": "n-9670e2e48bfede3c70efdf78",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
         "source": "ScienceDaily",
         "section": "ciencia",
         "lang": "en",
-        "publishedAt": "2026-10-09T10:20:23+00:00",
-        "sourceTitle": "Scientists find hidden materials that could improve batteries and solar fuels",
-        "fingerprint": "79e6ad15c9f8391d02eb36ce",
-        "title": "Descubiertos materiales intermedios para optimizar baterías y combustibles solares",
-        "summary": "Un equipo científico ha identificado estructuras materiales efímeras que aparecen durante el calentamiento químico, incluyendo una variante inédita de vanadato de bismuto. Este hallazgo podría mejorar el rendimiento de dispositivos electrónicos, catalizadores y la producción de hidrógeno solar.",
+        "publishedAt": "2026-10-11T06:01:54+00:00",
+        "sourceTitle": "The eye has a hidden cleanup system scientists never knew existed",
+        "fingerprint": "1a261e7247de0f7f5d3d29e2",
+        "title": "Descubierto un sistema de limpieza oculto en el ojo",
+        "summary": "Investigadores han identificado una vía desconocida en la parte posterior del ojo que permite drenar fluidos y desechos. Este hallazgo en modelos animales podría facilitar el desarrollo de futuros tratamientos para enfermedades oculares degenerativas.",
         "paragraphs": [
-          "Investigadores han detectado una serie de materiales de transición que se forman brevemente al calentar compuestos químicos, permitiendo observar estructuras que los métodos convencionales suelen pasar por alto.",
-          "Entre los hallazgos destaca una nueva forma de vanadato de bismuto, un compuesto clave en la obtención de hidrógeno mediante energía solar. Esta variante presenta una configuración atómica distinta y una interacción única con la luz, lo que abre vías para futuras aplicaciones tecnológicas."
+          "Un equipo científico ha hallado un mecanismo de limpieza hasta ahora ignorado en la zona posterior del ojo. Este sistema se encarga de evacuar fluidos y residuos a través de una ruta que no había sido documentada previamente.",
+          "El descubrimiento, realizado mediante pruebas en ratones, abre la posibilidad de investigar nuevas terapias para patologías como el glaucoma o la degeneración macular, que actualmente provocan ceguera."
         ],
         "bullets": [
-          "Identificación de materiales intermedios mediante procesos de calentamiento.",
-          "Hallazgo de una estructura inédita de vanadato de bismuto.",
-          "Potencial mejora en la eficiencia de combustibles solares y catalizadores."
+          "Identificación de una vía de drenaje ocular desconocida.",
+          "El sistema elimina fluidos y desechos del ojo.",
+          "Potencial aplicación en tratamientos contra la ceguera."
         ],
-        "eventKey": "científicos-descubren-materiales-bismuto-laboratorio",
+        "eventKey": "científicos-descubren-sistema-limpieza-ojo",
         "partial": true,
-        "summarizedAt": "2026-10-09T11:45:56.934997+00:00",
+        "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-777fa28f1b79251cae19d01c",
-        "url": "https://www.sciencedaily.com/releases/2026/10/261007042100.htm",
-        "source": "ScienceDaily",
+        "id": "n-3de8cde1689eb09961ac8130",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
+        "source": "NASA",
         "section": "ciencia",
         "lang": "en",
-        "publishedAt": "2026-10-09T09:51:19+00:00",
-        "sourceTitle": "Bacteria turn a virus’ own weapon against it",
-        "fingerprint": "27e2d0e0b8dc632ac12466e2",
-        "title": "Descubierto un mecanismo de defensa bacteriano frente a virus",
-        "summary": "Un equipo de investigadores ha identificado un proceso mediante el cual las bacterias detectan ataques víricos, activando una respuesta inmunitaria de autodestrucción. Este hallazgo podría mejorar las terapias contra bacterias resistentes a los antibióticos.",
+        "publishedAt": "2026-10-11T04:05:00+00:00",
+        "sourceTitle": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
+        "fingerprint": "21414017f62c9b4611ebe208",
+        "title": "La NASA destaca la búsqueda de neutrinos cósmicos en el hielo",
+        "summary": "La imagen astronómica del día de la NASA se centra en los esfuerzos científicos para detectar neutrinos cósmicos mediante instalaciones situadas en el hielo.",
         "paragraphs": [
-          "El estudio revela que las bacterias utilizan una enzima producida por el propio virus para activar su sistema de defensa. Al cortar una proteína sensora bacteriana, se desencadena una respuesta que provoca la autodestrucción de la célula infectada.",
-          "Los científicos sugieren que este descubrimiento podría ser clave para desarrollar nuevas terapias con fagos. Además, el mecanismo podría ofrecer información sobre sistemas inmunitarios antiguos que comparten similitudes con los humanos."
+          "La NASA ha publicado una nueva imagen astronómica que ilustra las técnicas utilizadas para la captura de neutrinos cósmicos, un proceso comparado metafóricamente con la pesca en el hielo.",
+          "Esta iniciativa forma parte de la divulgación científica diaria de la agencia, que cuenta con explicaciones de astrónomos profesionales sobre fenómenos del universo."
         ],
         "bullets": [
-          "Identificación de una enzima vírica que activa la defensa bacteriana.",
-          "La respuesta inmunitaria provoca la autodestrucción celular.",
-          "Potencial aplicación en terapias contra bacterias resistentes.",
-          "Posible relación con mecanismos inmunitarios ancestrales."
+          "Publicación de la imagen astronómica del día (APOD).",
+          "Enfoque en la detección de neutrinos cósmicos.",
+          "Uso de entornos helados para la investigación científica."
         ],
-        "eventKey": "bacterias-detectan-ataque-viral",
+        "eventKey": "NASA-publica-imagen-neutrinos-hielo",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-46f0aae08149651130c5cd68",
-        "url": "https://www.sciencedaily.com/releases/2026/10/261007042102.htm",
+        "id": "n-5a9b070099b2dd7d10e657c4",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
         "source": "ScienceDaily",
         "section": "ciencia",
         "lang": "en",
-        "publishedAt": "2026-10-09T08:53:28+00:00",
-        "sourceTitle": "A 9-billion-year-old signal could help explain dark energy",
-        "fingerprint": "a29d319b4c0c8470d31d6da1",
-        "title": "Detectada una señal de hidrógeno de hace 9.000 millones de años",
-        "summary": "Un radiotelescopio canadiense ha logrado captar una señal de hidrógeno antigua, validando un método para cartografiar el universo lejano y estudiar la energía oscura.",
+        "publishedAt": "2026-10-11T03:06:35+00:00",
+        "sourceTitle": "Scientists build a nuclear clock that could make atomic clocks obsolete",
+        "fingerprint": "4ff3992f75b3cd4be059d682",
+        "title": "Científicos desarrollan un reloj nuclear que podría superar a los atómicos",
+        "summary": "Investigadores en Viena han logrado crear el primer reloj nuclear autoestabilizado, una tecnología que promete mayor precisión que los sistemas atómicos actuales.",
         "paragraphs": [
-          "El telescopio CHIME ha detectado un tenue resplandor de hidrógeno procedente de hace miles de millones de años. Este hallazgo confirma la viabilidad de utilizar estas señales para trazar la distribución de la materia en el espacio.",
-          "La capacidad de medir la expansión del universo a través de este método ofrece una nueva vía de investigación para comprender la naturaleza de la energía oscura."
+          "Un equipo científico en Viena ha conseguido un avance significativo en la medición del tiempo al desarrollar un reloj nuclear. Este dispositivo utiliza núcleos de torio en lugar de electrones, lo que le otorga una mayor resistencia frente a interferencias externas.",
+          "Se espera que esta nueva tecnología pueda desplazar a los relojes atómicos, considerados hasta ahora como los más precisos del mundo."
         ],
         "bullets": [
-          "El radiotelescopio CHIME ha captado una señal de hidrógeno de hace 9.000 millones de años.",
-          "El método permite cartografiar el universo lejano y analizar la distribución de la materia.",
-          "La técnica servirá para medir la expansión del universo y estudiar la energía oscura."
+          "Desarrollo de un reloj nuclear autoestabilizado en Viena.",
+          "Uso de núcleos de torio para mejorar la estabilidad.",
+          "Potencial para superar la precisión de los relojes atómicos."
         ],
-        "eventKey": "CHIME detecta señal de hidrógeno antigua",
+        "eventKey": "científicos viena crean reloj nuclear",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-d215f4518b03ff5f6a9737a0",
-        "url": "https://www.sciencedaily.com/releases/2026/10/261006234517.htm",
-        "source": "ScienceDaily",
+        "id": "n-a6250952bd65a37daef4c5f8",
+        "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+        "source": "NASA",
         "section": "ciencia",
         "lang": "en",
-        "publishedAt": "2026-10-09T08:25:24+00:00",
-        "sourceTitle": "A quantum prediction from 1931 just came to life",
-        "fingerprint": "36e17bf31ac88f3a82b1eb90",
-        "title": "Observan por primera vez los estados cuánticos predichos por Hans Bethe",
-        "summary": "Científicos han logrado crear y observar experimentalmente las denominadas cadenas de Bethe, unos estados cuánticos teóricos planteados hace casi un siglo.",
+        "publishedAt": "2026-10-10T14:18:59+00:00",
+        "sourceTitle": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+        "fingerprint": "21b5f419ce889cae9274ab8a",
+        "title": "La NASA realizará un vuelo de exhibición en el MetLife Stadium",
+        "summary": "El administrador de la NASA, Jared Isaacman, pilotará un caza durante la apertura de un partido de la NFL en Nueva Jersey. La agencia también instalará un espacio interactivo para los asistentes al evento deportivo.",
         "paragraphs": [
-          "Investigadores han conseguido generar estos estados inusuales enfriando átomos de cesio hasta temperaturas cercanas al cero absoluto. El experimento, realizado mediante el confinamiento de partículas en tubos unidimensionales, ha permitido observar cómo los átomos se agrupan sin necesidad de enlaces químicos convencionales.",
-          "Estos cúmulos, que pueden integrar seis o más partículas, han demostrado una estabilidad notable al colisionar entre sí sin desintegrarse, confirmando así la predicción realizada por el físico Hans Bethe en 1931."
+          "La NASA ha anunciado que participará en el encuentro entre los New York Jets y los Cleveland Browns este domingo 11 de octubre. La intervención forma parte de su gira de inspiración, que incluye un vuelo de tres aviones F-5 sobre el estadio de East Rutherford.",
+          "Además de la exhibición aérea, el personal de la agencia estará presente en el recinto para interactuar con los aficionados a través de una zona de experiencias dedicada a la divulgación."
         ],
         "bullets": [
-          "Confirmación experimental de una teoría física de 1931.",
-          "Creación de estados cuánticos mediante átomos de cesio ultrafríos.",
-          "Observación de cúmulos atómicos estables sin enlaces químicos tradicionales."
+          "Jared Isaacman pilotará uno de los tres cazas F-5 participantes.",
+          "El evento tendrá lugar en el MetLife Stadium de East Rutherford.",
+          "La NASA habilitará una 'Experience Zone' para los seguidores de la NFL."
         ],
-        "eventKey": "científicos-observan-cadenas-bethe",
+        "eventKey": "NASA-vuelo-exhibicion-MetLife-Stadium",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-6c04af9ea35225466532c4ca",
-        "url": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
+        "id": "n-c0c9aa43c599ddb0d37e5b6a",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261008005256.htm",
         "source": "ScienceDaily",
         "section": "ciencia",
         "lang": "en",
-        "publishedAt": "2026-10-09T03:56:28+00:00",
-        "sourceTitle": "NASA astronauts splash down after 100 million miles in space",
-        "fingerprint": "45cfc9dba75d9f67c2e08c42",
-        "title": "La misión Crew-12 de la NASA regresa a la Tierra tras 237 días en órbita",
-        "summary": "Los astronautas de la misión Crew-12 han finalizado su estancia en el espacio tras completar un extenso programa de investigación científica. Su regreso marca un hito en la preparación para futuras expediciones a la Luna y Marte.",
+        "publishedAt": "2026-10-11T00:45:37+00:00",
+        "sourceTitle": "Neanderthals may have used prehistoric glue as an ancient antibiotic",
+        "fingerprint": "b39f8727285f319d493b764b",
+        "title": "El alquitrán de abedul pudo servir como antibiótico para los neandertales",
+        "summary": "Investigadores sugieren que los neandertales empleaban una sustancia adhesiva de corteza de abedul no solo como pegamento, sino también como tratamiento medicinal para heridas.",
         "paragraphs": [
-          "La tripulación de la NASA y SpaceX ha amerizado tras completar una misión de 237 días. Durante este periodo, los astronautas han recorrido más de 100 millones de millas y han realizado más de 3.792 órbitas alrededor de nuestro planeta.",
-          "El trabajo realizado se ha centrado en experimentos que podrían tener aplicaciones médicas tanto en el espacio como en la Tierra. Además, la misión ha destacado por alcanzar nuevos hitos en actividades extravehiculares."
+          "Un estudio reciente apunta a que esta sustancia prehistórica poseía propiedades antibacterianas capaces de frenar infecciones. Los científicos han recreado las técnicas de producción antiguas para comprobar su eficacia frente a bacterias peligrosas.",
+          "El hallazgo plantea que este material, tradicionalmente considerado un adhesivo, pudo funcionar como un remedio natural mucho antes de la invención de los antibióticos modernos."
         ],
         "bullets": [
-          "Duración de 237 días en el espacio.",
-          "Más de 100 millones de millas recorridas.",
-          "Investigaciones orientadas a futuras misiones lunares y marcianas.",
-          "Avances en experimentos médicos y actividades extravehiculares."
+          "El alquitrán de abedul inhibe el crecimiento de bacterias causantes de infecciones.",
+          "La sustancia era utilizada por los neandertales miles de años atrás.",
+          "El material podría haber actuado como una medicina natural efectiva."
         ],
-        "eventKey": "Astronautas NASA SpaceX regresan Tierra",
+        "eventKey": "neandertales-uso-alquitran-abedul-propiedades-antibioticas",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ],
     "tecnologia": [
       {
-        "id": "n-ae0dd8f82007e7450f99ab7e",
-        "url": "https://www.xataka.com/magnet/se-sigue-buscando-al-vecino-salamanca-que-coloco-piscina-2-metros-cubicos-patio-luces-su-comunidad-vecinos",
+        "id": "n-497f022b6977c1e7bdd6d731",
+        "url": "https://www.xataka.com/energia/planta-solar-que-va-a-destronar-a-alemania-como-grande-europa-esta-pais-esperado",
         "source": "Xataka",
         "section": "tecnologia",
         "lang": "es",
-        "publishedAt": "2026-10-09T13:30:30+00:00",
-        "sourceTitle": "Se sigue buscando al vecino de Salamanca que colocó una piscina de 2 metros cúbicos en el patio de luces de su comunidad de vecinos",
-        "fingerprint": "a2755f47d69b401901240863",
-        "title": "El Ayuntamiento de Salamanca busca al responsable de instalar una piscina en un patio de luces",
-        "summary": "Las autoridades municipales mantienen abierta la búsqueda del autor que instaló una piscina de 2.000 litros en un patio de luces comunitario, superando la capacidad de carga estructural del edificio.",
+        "publishedAt": "2026-10-11T13:00:28+00:00",
+        "sourceTitle": "La planta solar que va a destronar a Alemania como la más grande de Europa está en el país menos esperado",
+        "fingerprint": "bd183aee91176bf65f0df570",
+        "title": "Rumanía proyecta la mayor planta solar de Europa",
+        "summary": "Rumanía se prepara para albergar la planta fotovoltaica más grande del continente, superando a las instalaciones actuales en Alemania. El proyecto, denominado Dama Solar, busca impulsar la transición energética del país, que actualmente se sitúa por debajo de la media europea en renovables.",
         "paragraphs": [
-          "El Ayuntamiento de Salamanca ha recurrido al Boletín Oficial del Estado para localizar al responsable de colocar una piscina portátil en un patio de luces del barrio de Garrido. La estructura, instalada el pasado mes de mayo, supone un riesgo para la edificación al ejercer una sobrecarga superior a los 500 kilos por metro cuadrado sobre un espacio bajo el cual se ubican garajes.",
-          "La investigación se ha visto dificultada debido a que el patio es un espacio compartido sin atribución de propiedad individual, lo que complica la identificación del autor. A pesar de los intentos de notificación administrativa realizados durante septiembre, el paradero del responsable sigue siendo desconocido."
+          "La compañía Rezolv Energy ha obtenido la autorización necesaria para iniciar la construcción de Dama Solar en la región de Arad. Con una capacidad de 1,2 GW, la instalación ocupará más de mil hectáreas y se ubicará estratégicamente cerca de puntos de interconexión eléctrica con Hungría.",
+          "Este desarrollo pretende cubrir el consumo de unos 280.000 hogares y duplicar la producción solar rumana. Además de la generación eléctrica, el proyecto contempla la creación de una reserva natural de 82 hectáreas y la integración de pastoreo ovino en terrenos de bajo rendimiento agrícola.",
+          "La inversión total estimada asciende a 728 millones de euros, contando con el respaldo de diversas instituciones financieras internacionales. La iniciativa se enmarca en los esfuerzos del país por reducir su dependencia del carbón y cumplir con los objetivos climáticos fijados para 2030."
         ],
         "bullets": [
-          "La piscina acumulaba unos 2.100 kilos de peso total, incluyendo agua y equipamiento.",
-          "El informe técnico municipal advierte que la carga supera ampliamente los 200 kilos por metro cuadrado recomendados por el Código Técnico de la Edificación.",
-          "La Ley de Propiedad Horizontal prohíbe actividades peligrosas para la finca, aunque no veta explícitamente las piscinas.",
-          "El Ayuntamiento publicó el requerimiento en el BOE tras fallar los intentos previos de notificación."
+          "Capacidad instalada de 1,2 GW, superando a la planta alemana Witznitz.",
+          "Ubicación estratégica en Pilu y Grăniceri, cerca de la red de transmisión de 400 kV.",
+          "Financiación liderada por el Banco Europeo de Inversiones junto a otros 14 prestamistas.",
+          "Apuesta por la sostenibilidad mediante la restauración de 82 hectáreas de reserva natural."
         ],
-        "eventKey": "Ayuntamiento de Salamanca busca responsable instalación piscina patio",
+        "eventKey": "Rezolv Energy construye planta solar en Rumanía",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-b1b344a802c62c199d789999",
-        "url": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
+        "id": "n-36cc2f96c79b2aa54f5624e1",
+        "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
         "source": "Ars Technica",
         "section": "tecnologia",
         "lang": "en",
-        "publishedAt": "2026-10-09T10:00:59+00:00",
-        "sourceTitle": "Volkswagen's replacement for the ID.4 crossover is here",
-        "fingerprint": "47804b34195b76e253c1f394",
-        "title": "Volkswagen presenta el sucesor del ID.4",
-        "summary": "Volkswagen ha desvelado el vehículo eléctrico que sustituirá a su modelo ID.4. El nuevo coche destaca por incluir una cabina digital capaz de replicar el diseño de los cuadros de instrumentos de modelos clásicos de la marca.",
+        "publishedAt": "2026-10-09T22:04:07+00:00",
+        "sourceTitle": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+        "fingerprint": "53dba72d18a8f9fab0b49d02",
+        "title": "Drones ucranianos inutilizan un centro de datos de Yandex",
+        "summary": "Un ataque con drones ha afectado a una infraestructura tecnológica clave para el entrenamiento de los modelos de inteligencia artificial de la compañía rusa Yandex.",
         "paragraphs": [
-          "La compañía automovilística ha dado a conocer su nueva apuesta eléctrica, diseñada para tomar el relevo del actual crossover ID.4 en el mercado.",
-          "Entre las novedades tecnológicas anunciadas, el vehículo incorpora un sistema de visualización digital personalizable que permite emular la estética de los antiguos paneles de control de Volkswagen."
+          "Un centro de datos que albergaba superordenadores destinados al desarrollo de la inteligencia artificial de Yandex ha sufrido daños tras una incursión de drones ucranianos.",
+          "La instalación, vinculada a la empresa conocida como el Google ruso, ha quedado inoperativa a consecuencia de este ataque."
         ],
         "bullets": [
-          "Sustitución del modelo ID.4 por un nuevo vehículo eléctrico.",
-          "Integración de una cabina digital con opciones de personalización retro."
+          "El centro de datos albergaba superordenadores de IA.",
+          "La infraestructura pertenece a la compañía Yandex.",
+          "El ataque fue ejecutado mediante drones ucranianos."
         ],
-        "eventKey": "Volkswagen-presenta-nuevo-coche-electrico",
+        "eventKey": "Ucrania-ataca-centro-datos-Yandex",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-6a54a857ed8b75aeb8023a6a",
-        "url": "https://www.xataka.com/seleccion/nuevo-lg-gallery-tv-panel-qned-miniled-marcos-intercambiables-oficial-espana",
+        "id": "n-38f389b51b11f5edd67fd9f9",
+        "url": "https://www.xataka.com/energia/google-se-asegura-20-anos-energia-nuclear-para-alimentar-sus-centros-datos",
         "source": "Xataka",
         "section": "tecnologia",
         "lang": "es",
-        "publishedAt": "2026-10-09T13:16:25+00:00",
-        "sourceTitle": "El nuevo LG Gallery TV con panel QNED MiniLED y marcos intercambiables ya es oficial en España",
-        "fingerprint": "aec67a2e801af51558057a8c",
-        "title": "LG lanza en España su nuevo televisor Gallery TV con marcos intercambiables",
-        "summary": "LG ha introducido en el mercado español su nuevo modelo Gallery TV, un televisor diseñado para mimetizarse con la decoración del hogar mediante un formato ultradelgado y marcos magnéticos. El dispositivo destaca por integrar tecnología QNED MiniLED y herramientas de inteligencia artificial generativa para la creación de arte digital.",
+        "publishedAt": "2026-10-11T12:30:26+00:00",
+        "sourceTitle": "Google se asegura 20 años de energía nuclear para alimentar sus centros de datos",
+        "fingerprint": "d61050a36ff00ac00ff9c2c0",
+        "title": "Google garantiza su suministro energético mediante energía nuclear durante dos décadas",
+        "summary": "Alphabet ha cerrado un acuerdo estratégico con Constellation Energy para asegurar el abastecimiento eléctrico de sus centros de datos mediante la modernización de reactores existentes. Esta alianza busca cubrir la creciente demanda energética derivada del desarrollo de la inteligencia artificial.",
         "paragraphs": [
-          "El nuevo televisor de LG busca transformar la estética del salón al evitar el aspecto de pantalla convencional, permitiendo su instalación a ras de pared. El equipo incluye marcos intercambiables en distintos acabados y una plataforma denominada Gallery+ que ofrece acceso a miles de obras de arte.",
-          "En el apartado técnico, el modelo incorpora un procesador α7 Gen9 con IA y tecnología de retroiluminación MiniLED. Además, la compañía ha anunciado que el sistema operativo webOS contará con actualizaciones anuales garantizadas hasta el año 2031."
+          "Google ha formalizado un contrato de veinte años con Constellation Energy para incorporar 890 MW de capacidad nuclear a la red de PJM Interconnection. La inversión, valorada en más de 4.300 millones de dólares, se destinará a mejorar la eficiencia de once unidades nucleares en Illinois, Pensilvania y Nueva Jersey sin necesidad de construir nuevas plantas.",
+          "Además del suministro eléctrico, la colaboración incluye un componente tecnológico donde Google aportará sus servicios de nube y Gemini Enterprise para optimizar el mantenimiento y la gestión de la infraestructura energética de Constellation."
         ],
         "bullets": [
-          "Diseño extrafino con marcos magnéticos personalizables.",
-          "Integración de Google Gemini para generar arte mediante comandos de voz.",
-          "Tecnología QNED MiniLED con procesador 4K α7 Gen9.",
-          "Precio de lanzamiento desde 1.549 euros, con promociones actuales en distribuidores."
+          "El acuerdo supone la mayor modernización energética entre una tecnológica y un proveedor nuclear.",
+          "La potencia adicional generada equivale a la construcción de un nuevo reactor de gran tamaño.",
+          "Google utilizará herramientas de IA para mejorar la eficiencia y protección de los activos de Constellation."
         ],
-        "eventKey": "LG-lanzamiento-televisor-Gallery-TV-España",
+        "eventKey": "Google y Constellation Energy firman acuerdo de suministro nuclear en Estados Unidos",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-d39f5eac4fae4b4c94955b5f",
-        "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+        "id": "n-d578180d1dea0925fa2cbb29",
+        "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
         "source": "Ars Technica",
         "section": "tecnologia",
         "lang": "en",
-        "publishedAt": "2026-10-08T21:37:32+00:00",
-        "sourceTitle": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
-        "fingerprint": "be3f5bf602452ef17cc47209",
-        "title": "SpaceX reclama mayor coordinación orbital tras incidentes con Starlink",
-        "summary": "La compañía aeroespacial ha solicitado mejorar la gestión del tráfico espacial ante la proximidad peligrosa de varios satélites de su red Starlink.",
+        "publishedAt": "2026-10-09T21:51:12+00:00",
+        "sourceTitle": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+        "fingerprint": "ad19ecfa5d6e04b61ad6d9a4",
+        "title": "Una réplica del superordenador Cray-1 construida con Mac Minis",
+        "summary": "El Museo de Historia de la Computación en España exhibe una pieza de reciclaje creativo que utiliza treinta ordenadores Mac Mini antiguos para emular el icónico diseño del Cray-1.",
         "paragraphs": [
-          "SpaceX ha instado a establecer protocolos de coordinación más eficaces en la órbita terrestre. Esta petición surge a raíz de diversos incidentes en los que sus satélites han estado a punto de colisionar con otros objetos.",
-          "La empresa ha calificado la distancia de estos encuentros como alarmantemente reducida, subrayando la necesidad de evitar riesgos futuros en el espacio."
+          "Una nueva instalación en el Museo de Historia de la Computación español ha llamado la atención por su enfoque en el reciclaje tecnológico. La pieza consiste en una réplica estética del legendario superordenador Cray-1, ensamblada a partir de treinta unidades de Mac Mini consideradas obsoletas.",
+          "El proyecto combina la nostalgia por el hardware clásico con la reutilización de equipos informáticos modernos que habían quedado en desuso."
         ],
         "bullets": [
-          "Solicitud de mejores mecanismos de coordinación orbital.",
-          "Preocupación por la proximidad de encuentros cercanos.",
-          "Necesidad de mayor seguridad ante el aumento de tráfico espacial."
+          "Uso de treinta Mac Minis antiguos.",
+          "Réplica del superordenador Cray-1.",
+          "Exhibición en el Museo de Historia de la Computación de España."
         ],
-        "eventKey": "SpaceX-solicita-coordinacion-orbita",
+        "eventKey": "Museo de Historia de la Computación exhibe réplica de Cray-1",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-26fa2d7b54ecf21a6f574ec0",
+        "url": "https://www.xataka.com/magnet/granada-siglo-xix-habia-hombre-que-se-llamar-rey-gitanos-turistas-pagaban-hacerse-fotos",
+        "source": "Xataka",
+        "section": "tecnologia",
+        "lang": "es",
+        "publishedAt": "2026-10-11T12:00:27+00:00",
+        "sourceTitle": "En la Granada del siglo XIX había un hombre que se hacía llamar \"rey de los gitanos\". Los turistas pagaban por hacerse fotos con él",
+        "fingerprint": "7cf4361f207989a671053833",
+        "title": "La figura de Chorrojumo, el autoproclamado rey de los gitanos en la Granada del siglo XIX",
+        "summary": "Mariano Fernández Santiago, conocido como Chorrojumo, se convirtió en un icono turístico de la Granada decimonónica al explotar su imagen como supuesto rey de los gitanos. El personaje, que vivía en la Alhambra, logró monetizar su apariencia ante visitantes extranjeros mediante posados fotográficos y visitas guiadas.",
+        "paragraphs": [
+          "Durante la segunda mitad del siglo XIX, Chorrojumo se erigió como una figura central para los turistas que visitaban la Alhambra. Con una estética cuidadosamente construida, que incluía trajes de estilo bandolero, el personaje se presentaba ante los viajeros como el monarca de la comunidad gitana local, llegando a vender postales con su propia imagen.",
+          "Aunque su origen real sigue siendo objeto de debate entre investigadores, su capacidad para el negocio fue notable. Aprovechando su fama, cobraba por posar para pintores y fotógrafos, además de organizar visitas a cuevas del Sacromonte, demostrando una habilidad comercial que le permitió vivir como un dandy de la época."
+        ],
+        "bullets": [
+          "Su apodo, Chorrojumo, derivaría de su trabajo en una fragua o del tono de su piel.",
+          "El pintor Mariano Fortuny contribuyó a su fama al retratarlo con vestimentas tradicionales.",
+          "A pesar de ser analfabeto, dominaba nociones básicas de inglés y francés para tratar con los turistas.",
+          "Mantuvo encuentros con figuras de la aristocracia europea, como el príncipe Federico Guillermo de Alemania."
+        ],
+        "eventKey": "Mariano Fernández Santiago-explotación turística-Granada",
+        "partial": true,
+        "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ],
     "economia": [
       {
-        "id": "n-27e565231ea632c0ce1e1eed",
-        "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
+        "id": "n-8b461ffd78bd31cc20a6bb00",
+        "url": "https://www.bbc.co.uk/news/articles/c5x2vn4dzz08o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "section": "economia",
         "lang": "en",
-        "publishedAt": "2026-10-09T13:02:47+00:00",
-        "sourceTitle": "Burnham promises to curb non-compete rules in job contracts",
-        "fingerprint": "6990e52ffb4ed001753f9c1f",
-        "title": "Burnham anuncia restricciones a las cláusulas de no competencia",
-        "summary": "El primer ministro británico ha manifestado su intención de limitar las cláusulas de no competencia en los contratos laborales, al considerar que han excedido los límites razonables.",
+        "publishedAt": "2026-10-11T06:23:27+00:00",
+        "sourceTitle": "Charities and businesses wrestle with diesel cost",
+        "fingerprint": "296904ce0d9ca9bafc789a4e",
+        "title": "El impacto del precio del diésel en organizaciones y empresas",
+        "summary": "Diversas entidades y negocios locales en el Reino Unido manifiestan dificultades operativas debido al elevado coste del combustible diésel.",
         "paragraphs": [
-          "El primer ministro ha señalado que las restricciones impuestas a los trabajadores sobre sus actividades profesionales tras abandonar un puesto de trabajo han llegado demasiado lejos.",
-          "El Gobierno planea intervenir en estas condiciones contractuales para evitar que limiten excesivamente la movilidad laboral de los empleados."
+          "La organización benéfica contra el cáncer Daft as a Brush y la empresa Teesside Minibus Hire han señalado que los precios actuales en los surtidores están complicando su actividad diaria.",
+          "Ambas entidades se enfrentan a una situación de incertidumbre económica derivada de la presión que ejercen los costes del carburante sobre sus presupuestos."
         ],
         "bullets": [
-          "El primer ministro cuestiona el alcance actual de las cláusulas de no competencia.",
-          "Se prevé una reforma para limitar estas restricciones en los contratos de trabajo."
+          "Daft as a Brush reporta problemas financieros por el precio del diésel.",
+          "Teesside Minibus Hire admite dificultades para gestionar sus costes operativos."
         ],
-        "eventKey": "Burnham-limitar-clausulas-no-competencia-Reino-Unido",
+        "eventKey": "Daft as a Brush y Teesside Minibus Hire sufren costes del diésel en Reino Unido",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-142dbf7d38a85d247b246ca6",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "section": "economia",
-        "lang": "en",
-        "publishedAt": "2026-10-09T12:34:27+00:00",
-        "sourceTitle": "Anthropic bans users from being 'cruel' to its AI systems",
-        "fingerprint": "f1349e1be7410a64ee3427c6",
-        "title": "Anthropic prohíbe el comportamiento abusivo hacia sus sistemas de IA",
-        "summary": "La empresa tecnológica ha implementado nuevas restricciones que impiden a los usuarios mantener conductas crueles o abusivas de forma continuada con sus modelos de inteligencia artificial.",
-        "paragraphs": [
-          "Anthropic ha actualizado sus políticas de uso para limitar las interacciones con sus sistemas. La compañía ha señalado que no se permitirá el comportamiento abusivo que sea innecesario y sostenido en el tiempo.",
-          "Esta medida busca establecer límites en la forma en que los usuarios se dirigen a la tecnología, marcando una postura clara sobre el trato hacia sus herramientas de IA."
-        ],
-        "bullets": [
-          "Restricción de comportamientos crueles hacia la IA.",
-          "Prohibición de abusos sostenidos e innecesarios.",
-          "Actualización de las normas de uso de la plataforma."
-        ],
-        "eventKey": "Anthropic prohíbe abusos hacia su IA",
-        "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
-        "model": "gemini-3.1-flash-lite"
-      },
-      {
-        "id": "n-c1b7eb598380dbe00b205c3c",
-        "url": "https://elpais.com/economia/2026-10-09/bruselas-anade-dos-proyectos-mas-en-espana-para-impulsar-las-materias-primas-estrategicas-en-la-ue.html",
+        "id": "n-68aabbace651eb922a41a848",
+        "url": "https://elpais.com/economia/negocios/2026-10-11/la-financiacion-del-estado-y-la-fiebre-de-la-ia.html",
         "source": "El País",
         "section": "economia",
         "lang": "es",
-        "publishedAt": "2026-10-09T09:04:19+00:00",
-        "sourceTitle": "Bruselas añade dos proyectos más en España para impulsar las materias primas estratégicas en la UE",
-        "fingerprint": "af29ea42b8cbbaa2d0815f25",
-        "title": "La Comisión Europea amplía sus proyectos estratégicos de materias primas en España",
-        "summary": "Bruselas ha incorporado dos nuevas iniciativas españolas a su plan para disminuir la dependencia comercial respecto a China. Esta medida se produce en un contexto de negociaciones para suavizar las fricciones económicas con el país asiático.",
+        "publishedAt": "2026-10-11T03:40:00+00:00",
+        "sourceTitle": "La financiación del Estado y la fiebre de la IA",
+        "fingerprint": "5228f4edf98801295f2392eb",
+        "title": "La pugna por la financiación entre Estados y empresas tecnológicas",
+        "summary": "Las compañías del sector tecnológico y los gobiernos se encuentran en una competencia directa por captar capital mediante la emisión de deuda.",
         "paragraphs": [
-          "La Comisión Europea ha seleccionado dos nuevos proyectos en España dentro de su estrategia para fortalecer el suministro de materias primas críticas. El objetivo principal de esta iniciativa es reducir la vulnerabilidad de la Unión Europea frente a terceros países.",
-          "La decisión se enmarca en un momento de diálogo diplomático destinado a mitigar las tensiones comerciales existentes con China, principal proveedor de estos recursos estratégicos."
+          "El mercado financiero afronta una situación de tensión ante la creciente necesidad de liquidez tanto de los Estados como de las grandes empresas tecnológicas. Esta rivalidad por atraer inversores se enmarca en el contexto de la actual expansión de la inteligencia artificial.",
+          "La emisión de deuda se ha convertido en el terreno donde ambos actores miden sus fuerzas para asegurar los recursos necesarios para sus respectivos proyectos."
         ],
         "bullets": [
-          "Inclusión de dos nuevos proyectos estratégicos en territorio español.",
-          "Búsqueda de autonomía frente a la dependencia de China.",
-          "Contexto de negociaciones para rebajar la tensión comercial."
+          "Competencia directa por la captación de capital.",
+          "La emisión de deuda como herramienta principal de financiación.",
+          "Impacto de la fiebre de la IA en los mercados financieros."
         ],
-        "eventKey": "Comisión Europea-impulsa proyectos materias primas-España",
+        "eventKey": "Estados y empresas tecnológicas compiten por financiación",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-8f17a2801297e8c27f7a5248",
-        "url": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+        "id": "n-26642edca61eefe9f39f1909",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "section": "economia",
         "lang": "en",
-        "publishedAt": "2026-10-09T09:37:38+00:00",
-        "sourceTitle": "I've been with my boyfriend for two years and don't know his salary",
-        "fingerprint": "21a6f20340d043bc7b9d9aeb",
-        "title": "La dificultad de hablar sobre dinero en pareja",
-        "summary": "Abordar temas financieros como el salario, las deudas o los hábitos de gasto supone un reto habitual en las relaciones sentimentales.",
+        "publishedAt": "2026-10-10T14:24:14+00:00",
+        "sourceTitle": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+        "fingerprint": "09a1c2c65d9694d4f0c5520d",
+        "title": "Trump anuncia un acuerdo para importar diésel ruso",
+        "summary": "Donald Trump ha comunicado la consecución de un pacto para el suministro de diésel desde Rusia, una decisión que ha provocado una dura respuesta por parte de Volodímir Zelenski.",
         "paragraphs": [
-          "La gestión del dinero y la transparencia económica se presentan como conversaciones complejas dentro del ámbito de las citas y el noviazgo.",
-          "A menudo, las parejas encuentran dificultades para tratar abiertamente sus ingresos y su situación financiera personal."
+          "El presidente ucraniano ha condenado públicamente la medida, calificándola como un respaldo financiero al esfuerzo bélico ruso. Zelenski ha instado a detener esta operación, argumentando que contribuye a prolongar el conflicto en lugar de buscar su finalización."
         ],
         "bullets": [
-          "El salario es un tema delicado en las relaciones.",
-          "Los hábitos de gasto y las deudas generan conversaciones complicadas."
+          "Trump confirma un acuerdo comercial de diésel con Rusia.",
+          "Zelenski tacha la medida de inversión en la guerra.",
+          "El líder ucraniano exige el cese inmediato de este pacto."
         ],
-        "eventKey": "parejas-hablar-dinero",
+        "eventKey": "Trump-acuerdo-diesel-Rusia",
         "partial": true,
-        "summarizedAt": "2026-10-09T11:45:56.934997+00:00",
+        "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ],
     "cultura": [
       {
-        "id": "n-7a5a71d3fe8433ea9edacee9",
-        "url": "https://elpais.com/cultura/2026-10-09/el-renovado-museo-goya-de-zaragoza-sale-al-pilar-sumando-a-sus-fondos-40-obras-del-artista-llegadas-de-grandes-pinacotecas.html",
+        "id": "n-183093330443a764504882b2",
+        "url": "https://elpais.com/cultura/2026-10-11/un-dia-de-chicas-para-lobas-y-minishakis.html",
         "source": "El País",
         "section": "cultura",
         "lang": "es",
-        "publishedAt": "2026-10-09T12:53:42+00:00",
-        "sourceTitle": "El renovado Museo Goya de Zaragoza sale al Pilar sumando a sus fondos 40 obras del artista llegadas de grandes pinacotecas",
-        "fingerprint": "a2e37225327c108128548cee",
-        "title": "El Museo Goya de Zaragoza se renueva y amplía su colección",
-        "summary": "La Fundación Ibercaja ha reformado el palacete que alberga el Museo Goya, incorporando 40 nuevas obras del artista cedidas por importantes pinacotecas.",
+        "publishedAt": "2026-10-11T03:30:01+00:00",
+        "sourceTitle": "Un día de chicas para lobas y ‘minishakis’",
+        "fingerprint": "6b8ad53225716e74f2ab901b",
+        "title": "Madres e hijas se reúnen en la residencia madrileña de Shakira",
+        "summary": "La residencia de la artista en Madrid ha acogido un encuentro intergeneracional de seguidoras, marcando el cierre de este espacio antes del lunes.",
         "paragraphs": [
-          "El Museo Goya de Zaragoza ha culminado un proceso de reforma y ampliación de sus instalaciones en el palacete renacentista que sirve de sede. Esta intervención permite al centro expositivo integrar en su colección permanente 40 piezas del pintor aragonés procedentes de diversos museos.",
-          "La institución, que ya custodiaba la totalidad de los grabados del artista, busca con esta actualización reforzar su relevancia cultural en la capital aragonesa."
+          "Un grupo de madres y niñas ha compartido una jornada de fanatismo en la residencia de Shakira en Madrid. El evento, que concluye este lunes, refleja una nueva forma de ocio compartido que transforma la relación entre generaciones y el formato de los espectáculos.",
+          "Esta iniciativa destaca cómo la música y la figura de la artista actúan como nexo de unión entre madres e hijas, alterando la dinámica habitual de los eventos culturales."
         ],
         "bullets": [
-          "Reforma integral del palacete renacentista sede del museo.",
-          "Incorporación de 40 obras de Goya cedidas por grandes pinacotecas.",
-          "Consolidación de la colección de grabados del pintor."
+          "Encuentro de seguidoras en la residencia de Shakira en Madrid.",
+          "El evento finaliza este lunes.",
+          "El ocio intergeneracional modifica los vínculos familiares y los espectáculos."
         ],
-        "eventKey": "Fundación Ibercaja amplía Museo Goya Zaragoza",
+        "eventKey": "seguidoras de Shakira visitan residencia Madrid",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-db2cb63ef8359ca6275b706d",
-        "url": "https://www.theguardian.com/books/2026/oct/09/winning-the-nobel-prize-in-literature-anne-carson-yiyun-li",
+        "id": "n-595884caa585fc915a26b246",
+        "url": "https://www.theguardian.com/film/2026/oct/09/stark-warning-does-new-footage-in-avengers-endgame-reveal-the-truth-about-doctor-doom",
         "source": "The Guardian",
         "section": "cultura",
         "lang": "en",
-        "publishedAt": "2026-10-09T11:12:18+00:00",
-        "sourceTitle": "Winning the Nobel prize in literature only underlines Anne Carson’s infinite genius | Yiyun Li",
-        "fingerprint": "a014966e28b3b8b5b9d4cfaa",
-        "title": "La genialidad literaria de Anne Carson",
-        "summary": "La escritora Yiyun Li reflexiona sobre la dificultad de analizar la obra de Anne Carson, destacando su capacidad única para dejar que las palabras fluyan sin someterlas.",
+        "publishedAt": "2026-10-09T16:25:44+00:00",
+        "sourceTitle": "Stark warning – does new footage in Avengers: Endgame reveal the truth about Doctor Doom?",
+        "fingerprint": "d071ed153a19d927fac07371",
+        "title": "El reestreno de Avengers: Endgame y la incógnita sobre Doctor Doom",
+        "summary": "La nueva versión de Avengers: Endgame ha superado a Avatar como la película más taquillera de la historia, mientras surgen dudas sobre si el metraje inédito anticipa detalles sobre Doctor Doom.",
         "paragraphs": [
-          "Yiyun Li describe como una tarea imposible intentar resumir la trayectoria de Anne Carson, comparando el desafío con un problema matemático irresoluble. La autora subraya que, ante situaciones extremas como la pérdida personal, las palabras de Carson ofrecen un refugio vital.",
-          "El texto resalta que Carson evita el control autoritario sobre el lenguaje, permitiendo que sus escritos y traducciones de los clásicos mantengan su propia autonomía y fuerza expresiva."
+          "El reestreno de la cinta, titulado Avengers Endgame: Encore, ha logrado recaudar 126 millones de dólares adicionales, elevando su cifra global a 2.925 millones. Más allá del éxito financiero, el interés se centra en las nuevas escenas añadidas por Marvel.",
+          "El análisis sugiere que estas secuencias podrían arrojar luz sobre el papel de Doctor Doom, aunque el impacto real de este contenido adicional sigue siendo objeto de especulación entre los seguidores."
         ],
         "bullets": [
-          "La obra de Carson es descrita como una fuente de consuelo ante pérdidas profundas.",
-          "Se destaca su maestría al evitar la manipulación de las palabras.",
-          "La autora enfatiza la singularidad de sus traducciones de los clásicos."
+          "Avengers Endgame: Encore ha superado la recaudación histórica de Avatar.",
+          "El metraje inédito genera interrogantes sobre la trama de Doctor Doom.",
+          "Disney ostenta la propiedad de ambas producciones cinematográficas."
         ],
-        "eventKey": "Yiyun Li analiza la obra literaria de Anne Carson",
+        "eventKey": "Marvel-reestreno-Avengers-Endgame",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-dc8bad69fc4f84d77f98d345",
-        "url": "https://elpais.com/cultura/2026-10-09/recuperados-un-mes-despues-los-dos-cuadros-robados-del-museo-renoir-en-francia.html",
+        "id": "n-2af68fd9f18195b097e323f1",
+        "url": "https://elpais.com/cultura/cine/2026-10-11/kevin-bacon-sigo-pensando-al-100-en-mejorar-trascender-y-hacer-algo-impactante.html",
         "source": "El País",
         "section": "cultura",
         "lang": "es",
-        "publishedAt": "2026-10-09T12:32:01+00:00",
-        "sourceTitle": "Recuperados un mes después los dos cuadros robados del Museo Renoir en Francia",
-        "fingerprint": "a06d90cf807cfdeb79b63b45",
-        "title": "Localizados los dos cuadros sustraídos del Museo Renoir en Francia",
-        "summary": "Las autoridades han recuperado dos obras de arte que fueron robadas hace un mes de la pinacoteca situada en Cagnes-sur-Mer.",
+        "publishedAt": "2026-10-11T03:30:01+00:00",
+        "sourceTitle": "Kevin Bacon: “Sigo pensando al 100% en mejorar, trascender y hacer algo impactante”",
+        "fingerprint": "fca98414ba10f2ecaeb33074",
+        "title": "Kevin Bacon dirige a su familia en el proyecto cinematográfico 'Family Movie'",
+        "summary": "El actor Kevin Bacon ha puesto en marcha una nueva película rodada en su entorno familiar durante el periodo de pandemia. En el filme colaboran su esposa, Kyra Sedgwick, y sus dos hijos.",
         "paragraphs": [
-          "Un mes después del robo, las fuerzas de seguridad han logrado recuperar las piezas artísticas que habían sido extraídas del Museo Renoir, ubicado en la localidad francesa de Cagnes-sur-Mer."
+          "Kevin Bacon ha asumido la dirección de 'Family Movie', una producción que cuenta con la participación directa de su núcleo familiar. El proyecto comenzó a gestarse en la granja de la familia durante los meses de confinamiento.",
+          "El intérprete ha manifestado su intención de seguir evolucionando en su carrera profesional, buscando proyectos que tengan un impacto significativo."
         ],
         "bullets": [
-          "Las obras recuperadas son 'Madame Colonna Romano' y 'Jeune femme au puits'.",
-          "El robo se produjo en la pinacoteca de Cagnes-sur-Mer hace un mes."
+          "Kevin Bacon dirige 'Family Movie'.",
+          "El reparto incluye a Kyra Sedgwick y a sus hijos.",
+          "El rodaje se inició en su granja familiar durante la pandemia."
         ],
-        "eventKey": "autoridades-recuperan-cuadros-museo-renoir-francia",
+        "eventKey": "Kevin Bacon dirige proyecto familiar",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-84e9d77f371c98b13e6797b4",
-        "url": "https://www.theguardian.com/film/2026/oct/09/the-new-darth-vader-how-tech-execs-became-the-film-villains-of-our-age",
+        "id": "n-9716ab18ed4b4346a18a4183",
+        "url": "https://www.theguardian.com/film/2026/oct/09/tenzing-review-genden-phuntsok-tom-hiddleston-apple-willem-dafoe-v",
         "source": "The Guardian",
         "section": "cultura",
         "lang": "en",
-        "publishedAt": "2026-10-09T11:05:42+00:00",
-        "sourceTitle": "The new Darth Vader: how tech execs became the film villains of our age",
-        "fingerprint": "ac7139d0607a04a6a35b47b5",
-        "title": "La figura del ejecutivo tecnológico como nuevo villano cinematográfico",
-        "summary": "El cine actual ha transformado la percepción pública de los directivos tecnológicos, pasando de figuras innovadoras a antagonistas, tal como refleja la interpretación de Jeremy Strong sobre Mark Zuckerberg.",
+        "publishedAt": "2026-10-09T16:21:53+00:00",
+        "sourceTitle": "Tenzing review – reconstruction of first summit of Everest puts Sherpa at the centre of the story",
+        "fingerprint": "f9261abb00765a7772e69e78",
+        "title": "Crítica de 'Tenzing': el ascenso al Everest desde la perspectiva del sherpa",
+        "summary": "La película dirigida por Jennifer Peedom busca reivindicar el papel protagonista de Tenzing Norgay en la histórica expedición al Everest de 1953, tradicionalmente atribuida a Edmund Hillary y al Imperio Británico.",
         "paragraphs": [
-          "La representación de los magnates de la tecnología en la gran pantalla ha experimentado un cambio significativo. Si en el pasado estas figuras eran vistas con curiosidad, las producciones recientes los sitúan en el rol de villanos.",
-          "Este fenómeno se ilustra con el estreno de 'The Social Reckoning', donde Jeremy Strong encarna a Mark Zuckerberg, marcando una distancia notable respecto a la recepción que tuvo 'La red social' en su momento."
+          "El filme, protagonizado por Genden Phuntsok como Tenzing Norgay y Tom Hiddleston como Edmund Hillary, narra la ascensión a la cima más alta del mundo. La obra destaca por su intención de devolver el peso histórico al guía sherpa, cuya labor fue eclipsada en su momento por la narrativa imperial británica.",
+          "La producción, descrita como una cinta bienintencionada y visualmente cuidada, explora cómo el éxito de la expedición fue utilizado políticamente para ensalzar la figura de la reina Isabel II y redimir la imagen del explorador Scott."
         ],
         "bullets": [
-          "Evolución de la imagen pública de los directivos tecnológicos en el cine.",
-          "Jeremy Strong interpreta a Mark Zuckerberg en la nueva película 'The Social Reckoning'.",
-          "Contraste entre la actitud de Zuckerberg ante 'La red social' y la actual percepción de los ejecutivos."
+          "Genden Phuntsok interpreta a Tenzing Norgay con un enfoque en su destreza y conocimiento de la montaña.",
+          "Tom Hiddleston encarna a Edmund Hillary en una reconstrucción que cuestiona el relato histórico oficial.",
+          "La película subraya el uso propagandístico que se hizo de la ascensión en el contexto de la coronación de Isabel II."
         ],
-        "eventKey": "Jeremy Strong interpreta a Mark Zuckerberg en The Social Reckoning",
+        "eventKey": "Tenzing Norgay y Edmund Hillary protagonizan el ascenso al Everest",
         "partial": true,
-        "summarizedAt": "2026-10-09T13:42:44.698725+00:00",
+        "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ]

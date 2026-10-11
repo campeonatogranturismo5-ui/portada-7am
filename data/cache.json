@@ -4275,5 +4275,457 @@
       "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-7f92cea772e746c034a5f2c2": {
+    "fingerprint": "30d0144d2af40cc3506e0d98",
+    "item": {
+      "id": "n-7f92cea772e746c034a5f2c2",
+      "url": "https://www.eldiario.es/politica/madrid-propone-lista-consenso-liderada-emilio-delgado-elecciones-29n_1_13578644.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-11T11:43:03+00:00",
+      "sourceTitle": "Más Madrid propone una lista liderada por Emilio Delgado para las elecciones del 29N",
+      "fingerprint": "30d0144d2af40cc3506e0d98",
+      "title": "Más Madrid propone una candidatura de consenso encabezada por Emilio Delgado para el 29N",
+      "summary": "Más Madrid ha planteado una lista conjunta para las elecciones del 29 de noviembre en la circunscripción de Madrid, situando a Emilio Delgado y Mónica García en los primeros puestos. La formación busca integrar a Izquierda Unida, Sumar y Podemos bajo el paraguas del Frente Amplio.",
+      "paragraphs": [
+        "La propuesta de Más Madrid pretende desbloquear las tensiones con Podemos, condicionando su inclusión a que la formación morada se integre en el Frente Amplio. La lista incluiría también a figuras como Tesh Sidi o Eduardo Fernández Rubiño.",
+        "Mientras tanto, el partido ha valorado la confirmación de Gabriel Rufián como cabeza de lista de ERC, expresando su deseo de alcanzar acuerdos similares en Cataluña para consolidar una alternativa de izquierdas frente a las derechas."
+      ],
+      "bullets": [
+        "Emilio Delgado y Mónica García ocuparían los dos primeros lugares de la candidatura.",
+        "Podemos ha solicitado primarias abiertas, aunque se muestra abierto a negociar una lista conjunta.",
+        "Más Madrid aboga por la unidad de las fuerzas de izquierda para las próximas elecciones.",
+        "Los Comuns mantienen su compromiso con la construcción de un Frente Amplio de ámbito estatal."
+      ],
+      "eventKey": "Más Madrid-propone lista electoral-Madrid",
+      "partial": true,
+      "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-497f022b6977c1e7bdd6d731": {
+    "fingerprint": "bd183aee91176bf65f0df570",
+    "item": {
+      "id": "n-497f022b6977c1e7bdd6d731",
+      "url": "https://www.xataka.com/energia/planta-solar-que-va-a-destronar-a-alemania-como-grande-europa-esta-pais-esperado",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-11T13:00:28+00:00",
+      "sourceTitle": "La planta solar que va a destronar a Alemania como la más grande de Europa está en el país menos esperado",
+      "fingerprint": "bd183aee91176bf65f0df570",
+      "title": "Rumanía proyecta la mayor planta solar de Europa",
+      "summary": "Rumanía se prepara para albergar la planta fotovoltaica más grande del continente, superando a las instalaciones actuales en Alemania. El proyecto, denominado Dama Solar, busca impulsar la transición energética del país, que actualmente se sitúa por debajo de la media europea en renovables.",
+      "paragraphs": [
+        "La compañía Rezolv Energy ha obtenido la autorización necesaria para iniciar la construcción de Dama Solar en la región de Arad. Con una capacidad de 1,2 GW, la instalación ocupará más de mil hectáreas y se ubicará estratégicamente cerca de puntos de interconexión eléctrica con Hungría.",
+        "Este desarrollo pretende cubrir el consumo de unos 280.000 hogares y duplicar la producción solar rumana. Además de la generación eléctrica, el proyecto contempla la creación de una reserva natural de 82 hectáreas y la integración de pastoreo ovino en terrenos de bajo rendimiento agrícola.",
+        "La inversión total estimada asciende a 728 millones de euros, contando con el respaldo de diversas instituciones financieras internacionales. La iniciativa se enmarca en los esfuerzos del país por reducir su dependencia del carbón y cumplir con los objetivos climáticos fijados para 2030."
+      ],
+      "bullets": [
+        "Capacidad instalada de 1,2 GW, superando a la planta alemana Witznitz.",
+        "Ubicación estratégica en Pilu y Grăniceri, cerca de la red de transmisión de 400 kV.",
+        "Financiación liderada por el Banco Europeo de Inversiones junto a otros 14 prestamistas.",
+        "Apuesta por la sostenibilidad mediante la restauración de 82 hectáreas de reserva natural."
+      ],
+      "eventKey": "Rezolv Energy construye planta solar en Rumanía",
+      "partial": true,
+      "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-5565f2005e3ecd4c5e8b26dc": {
+    "fingerprint": "8542b0ee56275ac6afb9972f",
+    "item": {
+      "id": "n-5565f2005e3ecd4c5e8b26dc",
+      "url": "https://www.europapress.es/euskadi/noticia-andueza-pse-ee-advierte-pp-vox-estan-deseando-cargarse-todos-derechos-hemos-conquistado-20261011141511.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-11T12:15:11+00:00",
+      "sourceTitle": "Andueza (PSE-EE) advierte que PP y Vox \"están deseando cargarse todos esos derechos que hemos conquistado\"",
+      "fingerprint": "8542b0ee56275ac6afb9972f",
+      "title": "Andueza alerta sobre las intenciones de PP y Vox respecto a los derechos sociales",
+      "summary": "El líder del PSE-EE, Eneko Andueza, ha señalado que tanto el Partido Popular como Vox pretenden eliminar los derechos sociales alcanzados hasta la fecha.",
+      "paragraphs": [
+        "Eneko Andueza, secretario general de los socialistas vascos, ha advertido sobre la postura política de PP y Vox. Según el dirigente, ambas formaciones buscan revertir los avances sociales logrados.",
+        "El representante del PSE-EE ha calificado al PP como una formación escorada a la extrema derecha, mientras que ha definido a Vox directamente como un partido de extrema derecha."
+      ],
+      "bullets": [
+        "Andueza acusa a PP y Vox de querer suprimir derechos conquistados.",
+        "El líder socialista sitúa al PP en una posición de extrema derecha."
+      ],
+      "eventKey": "Eneko Andueza critica a PP y Vox en Euskadi",
+      "partial": true,
+      "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-2d733b82f95e5aeca4a17e0e": {
+    "fingerprint": "f458dc2b397a06a1c5cb6c81",
+    "item": {
+      "id": "n-2d733b82f95e5aeca4a17e0e",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-pide-supremo-frene-atropello-feijoo-abascal-contra-ley-nietos-20261011131447.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-11T11:14:47+00:00",
+      "sourceTitle": "Sánchez pide al Supremo que frene el \"atropello\" de Feijóo y Abascal contra la ley de nietos",
+      "fingerprint": "f458dc2b397a06a1c5cb6c81",
+      "title": "Sánchez solicita al Tribunal Supremo que bloquee las acciones de Feijóo y Abascal sobre la ley de nietos",
+      "summary": "El presidente del Gobierno ha denunciado una maniobra de la oposición para obstaculizar el derecho a voto de miles de descendientes de exiliados españoles. Sánchez ha instado al alto tribunal a intervenir ante lo que considera un atropello a la normativa vigente.",
+      "paragraphs": [
+        "Pedro Sánchez ha acusado a los líderes del Partido Popular y Vox de intentar impedir que cerca de 400.000 descendientes de españoles exiliados durante el franquismo puedan ejercer sus derechos bajo la ley de nietos.",
+        "Ante esta situación, el jefe del Ejecutivo ha reclamado la intervención del Tribunal Supremo para frenar lo que ha definido como un intento de atropello por parte de la derecha."
+      ],
+      "bullets": [
+        "Acusación directa contra Feijóo y Abascal por intentar bloquear el voto de descendientes de exiliados.",
+        "El Gobierno cifra en 400.000 las personas potencialmente afectadas por esta supuesta maniobra.",
+        "Apelación formal al Tribunal Supremo para detener la acción de la oposición."
+      ],
+      "eventKey": "Pedro Sánchez solicita al Tribunal Supremo frenar acciones de Feijóo y Abascal sobre ley de nietos",
+      "partial": true,
+      "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-4417c854ea24c80da5b3e9ae": {
+    "fingerprint": "581e3316a9a7b87d52e4cdbe",
+    "item": {
+      "id": "n-4417c854ea24c80da5b3e9ae",
+      "url": "https://www.europapress.es/euskadi/noticia-sucesos-detenido-danos-superiores-1000-euros-habitacion-alojamiento-turistico-san-sebastian-20261011141353.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-11T12:13:53+00:00",
+      "sourceTitle": "Detenido por daños superiores a los 1.000 euros en la habitación de un alojamiento turístico en San Sebastián",
+      "fingerprint": "581e3316a9a7b87d52e4cdbe",
+      "title": "Detenido en San Sebastián por causar daños en un alojamiento turístico",
+      "summary": "Un hombre de 36 años ha sido arrestado en San Sebastián después de provocar desperfectos valorados en más de 1.000 euros en la habitación de un hotel.",
+      "paragraphs": [
+        "El Departamento de Seguridad del Gobierno Vasco ha confirmado la detención de un varón de 36 años durante la jornada del pasado sábado. El individuo está acusado de ocasionar daños materiales en el establecimiento donde se alojaba.",
+        "La cuantía de los desperfectos causados en la habitación del hotel ha sido estimada en una cifra superior a los 1.000 euros."
+      ],
+      "bullets": [
+        "Detenido un hombre de 36 años.",
+        "Los daños superan los 1.000 euros.",
+        "El suceso tuvo lugar en un alojamiento turístico de San Sebastián."
+      ],
+      "eventKey": "hombre-detenido-danos-san-sebastian",
+      "partial": true,
+      "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-6557a70bb11edea86b3727f0": {
+    "fingerprint": "d5dc1475328872a5e6e5be2c",
+    "item": {
+      "id": "n-6557a70bb11edea86b3727f0",
+      "url": "https://www.europapress.es/nacional/noticia-juez-escuchara-viernes-presunto-cerebro-financiero-caso-plus-ultra-20261011123002.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-11T10:30:02+00:00",
+      "sourceTitle": "El juez escuchará este viernes al presunto cerebro financiero del 'caso Plus Ultra'",
+      "fingerprint": "d5dc1475328872a5e6e5be2c",
+      "title": "El juez de la Audiencia Nacional interrogará al presunto cerebro financiero del caso Plus Ultra",
+      "summary": "El magistrado José Luis Calama ha citado a declarar este viernes al financiero neerlandés Simon Lendeert Verhoeven en el marco de la investigación sobre Plus Ultra.",
+      "paragraphs": [
+        "La Audiencia Nacional ha programado para este viernes la comparecencia de Simon Lendeert Verhoeven. El financiero de origen neerlandés está señalado por los investigadores como la figura clave en la estructura financiera vinculada al caso Plus Ultra."
+      ],
+      "bullets": [
+        "El juez José Luis Calama dirige la diligencia judicial.",
+        "Simon Lendeert Verhoeven comparecerá en calidad de presunto cerebro financiero."
+      ],
+      "eventKey": "Simon Lendeert Verhoeven declara ante la Audiencia Nacional",
+      "partial": true,
+      "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-9c456bbec7c9470c9513ebd5": {
+    "fingerprint": "9f19e57334a0d45fcdd98d75",
+    "item": null
+  },
+  "n-38f389b51b11f5edd67fd9f9": {
+    "fingerprint": "d61050a36ff00ac00ff9c2c0",
+    "item": {
+      "id": "n-38f389b51b11f5edd67fd9f9",
+      "url": "https://www.xataka.com/energia/google-se-asegura-20-anos-energia-nuclear-para-alimentar-sus-centros-datos",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-11T12:30:26+00:00",
+      "sourceTitle": "Google se asegura 20 años de energía nuclear para alimentar sus centros de datos",
+      "fingerprint": "d61050a36ff00ac00ff9c2c0",
+      "title": "Google garantiza su suministro energético mediante energía nuclear durante dos décadas",
+      "summary": "Alphabet ha cerrado un acuerdo estratégico con Constellation Energy para asegurar el abastecimiento eléctrico de sus centros de datos mediante la modernización de reactores existentes. Esta alianza busca cubrir la creciente demanda energética derivada del desarrollo de la inteligencia artificial.",
+      "paragraphs": [
+        "Google ha formalizado un contrato de veinte años con Constellation Energy para incorporar 890 MW de capacidad nuclear a la red de PJM Interconnection. La inversión, valorada en más de 4.300 millones de dólares, se destinará a mejorar la eficiencia de once unidades nucleares en Illinois, Pensilvania y Nueva Jersey sin necesidad de construir nuevas plantas.",
+        "Además del suministro eléctrico, la colaboración incluye un componente tecnológico donde Google aportará sus servicios de nube y Gemini Enterprise para optimizar el mantenimiento y la gestión de la infraestructura energética de Constellation."
+      ],
+      "bullets": [
+        "El acuerdo supone la mayor modernización energética entre una tecnológica y un proveedor nuclear.",
+        "La potencia adicional generada equivale a la construcción de un nuevo reactor de gran tamaño.",
+        "Google utilizará herramientas de IA para mejorar la eficiencia y protección de los activos de Constellation."
+      ],
+      "eventKey": "Google y Constellation Energy firman acuerdo de suministro nuclear en Estados Unidos",
+      "partial": true,
+      "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-431b8378e134d2fd8c158d85": {
+    "fingerprint": "2e4460b10a6d9bdd12487df5",
+    "item": {
+      "id": "n-431b8378e134d2fd8c158d85",
+      "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-11T12:37:32+00:00",
+      "sourceTitle": "Police in Poland ‘learn of possible plot to attack prime minister Donald Tusk’",
+      "fingerprint": "2e4460b10a6d9bdd12487df5",
+      "title": "La policía polaca investiga una posible amenaza contra Donald Tusk",
+      "summary": "Las autoridades de Polonia han recibido información sobre un supuesto plan para atentar contra el primer ministro y el titular de Defensa. El país se mantiene en alerta ante el temor de posibles ataques híbridos rusos.",
+      "paragraphs": [
+        "La policía polaca ha confirmado la recepción de datos sobre una posible conspiración dirigida contra el primer ministro, Donald Tusk, y el ministro de Defensa, Władysław Kosiniak-Kamysz. El portavoz del Gobierno ha calificado la amenaza como excepcionalmente preocupante.",
+        "Esta situación se produce en un contexto de alta tensión en el país, marcado por recientes incidentes violentos en centros educativos y la inquietud ante posibles acciones desestabilizadoras vinculadas a la invasión rusa de Ucrania."
+      ],
+      "bullets": [
+        "Investigación abierta por un posible complot contra altos cargos del Gobierno.",
+        "El ministro de Defensa también figura en la amenaza recibida.",
+        "Polonia mantiene un nivel de alerta elevado tras una serie de apuñalamientos en escuelas."
+      ],
+      "eventKey": "Donald Tusk y Władysław Kosiniak-Kamysz amenaza ataque Polonia",
+      "partial": true,
+      "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-a6250952bd65a37daef4c5f8": {
+    "fingerprint": "21b5f419ce889cae9274ab8a",
+    "item": {
+      "id": "n-a6250952bd65a37daef4c5f8",
+      "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+      "source": "NASA",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-10T14:18:59+00:00",
+      "sourceTitle": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+      "fingerprint": "21b5f419ce889cae9274ab8a",
+      "title": "La NASA realizará un vuelo de exhibición en el MetLife Stadium",
+      "summary": "El administrador de la NASA, Jared Isaacman, pilotará un caza durante la apertura de un partido de la NFL en Nueva Jersey. La agencia también instalará un espacio interactivo para los asistentes al evento deportivo.",
+      "paragraphs": [
+        "La NASA ha anunciado que participará en el encuentro entre los New York Jets y los Cleveland Browns este domingo 11 de octubre. La intervención forma parte de su gira de inspiración, que incluye un vuelo de tres aviones F-5 sobre el estadio de East Rutherford.",
+        "Además de la exhibición aérea, el personal de la agencia estará presente en el recinto para interactuar con los aficionados a través de una zona de experiencias dedicada a la divulgación."
+      ],
+      "bullets": [
+        "Jared Isaacman pilotará uno de los tres cazas F-5 participantes.",
+        "El evento tendrá lugar en el MetLife Stadium de East Rutherford.",
+        "La NASA habilitará una 'Experience Zone' para los seguidores de la NFL."
+      ],
+      "eventKey": "NASA-vuelo-exhibicion-MetLife-Stadium",
+      "partial": true,
+      "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-d578180d1dea0925fa2cbb29": {
+    "fingerprint": "ad19ecfa5d6e04b61ad6d9a4",
+    "item": {
+      "id": "n-d578180d1dea0925fa2cbb29",
+      "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "source": "Ars Technica",
+      "section": "tecnologia",
+      "lang": "en",
+      "publishedAt": "2026-10-09T21:51:12+00:00",
+      "sourceTitle": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+      "fingerprint": "ad19ecfa5d6e04b61ad6d9a4",
+      "title": "Una réplica del superordenador Cray-1 construida con Mac Minis",
+      "summary": "El Museo de Historia de la Computación en España exhibe una pieza de reciclaje creativo que utiliza treinta ordenadores Mac Mini antiguos para emular el icónico diseño del Cray-1.",
+      "paragraphs": [
+        "Una nueva instalación en el Museo de Historia de la Computación español ha llamado la atención por su enfoque en el reciclaje tecnológico. La pieza consiste en una réplica estética del legendario superordenador Cray-1, ensamblada a partir de treinta unidades de Mac Mini consideradas obsoletas.",
+        "El proyecto combina la nostalgia por el hardware clásico con la reutilización de equipos informáticos modernos que habían quedado en desuso."
+      ],
+      "bullets": [
+        "Uso de treinta Mac Minis antiguos.",
+        "Réplica del superordenador Cray-1.",
+        "Exhibición en el Museo de Historia de la Computación de España."
+      ],
+      "eventKey": "Museo de Historia de la Computación exhibe réplica de Cray-1",
+      "partial": true,
+      "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-26642edca61eefe9f39f1909": {
+    "fingerprint": "09a1c2c65d9694d4f0c5520d",
+    "item": {
+      "id": "n-26642edca61eefe9f39f1909",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-10T14:24:14+00:00",
+      "sourceTitle": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "fingerprint": "09a1c2c65d9694d4f0c5520d",
+      "title": "Trump anuncia un acuerdo para importar diésel ruso",
+      "summary": "Donald Trump ha comunicado la consecución de un pacto para el suministro de diésel desde Rusia, una decisión que ha provocado una dura respuesta por parte de Volodímir Zelenski.",
+      "paragraphs": [
+        "El presidente ucraniano ha condenado públicamente la medida, calificándola como un respaldo financiero al esfuerzo bélico ruso. Zelenski ha instado a detener esta operación, argumentando que contribuye a prolongar el conflicto en lugar de buscar su finalización."
+      ],
+      "bullets": [
+        "Trump confirma un acuerdo comercial de diésel con Rusia.",
+        "Zelenski tacha la medida de inversión en la guerra.",
+        "El líder ucraniano exige el cese inmediato de este pacto."
+      ],
+      "eventKey": "Trump-acuerdo-diesel-Rusia",
+      "partial": true,
+      "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-9716ab18ed4b4346a18a4183": {
+    "fingerprint": "f9261abb00765a7772e69e78",
+    "item": {
+      "id": "n-9716ab18ed4b4346a18a4183",
+      "url": "https://www.theguardian.com/film/2026/oct/09/tenzing-review-genden-phuntsok-tom-hiddleston-apple-willem-dafoe-v",
+      "source": "The Guardian",
+      "section": "cultura",
+      "lang": "en",
+      "publishedAt": "2026-10-09T16:21:53+00:00",
+      "sourceTitle": "Tenzing review – reconstruction of first summit of Everest puts Sherpa at the centre of the story",
+      "fingerprint": "f9261abb00765a7772e69e78",
+      "title": "Crítica de 'Tenzing': el ascenso al Everest desde la perspectiva del sherpa",
+      "summary": "La película dirigida por Jennifer Peedom busca reivindicar el papel protagonista de Tenzing Norgay en la histórica expedición al Everest de 1953, tradicionalmente atribuida a Edmund Hillary y al Imperio Británico.",
+      "paragraphs": [
+        "El filme, protagonizado por Genden Phuntsok como Tenzing Norgay y Tom Hiddleston como Edmund Hillary, narra la ascensión a la cima más alta del mundo. La obra destaca por su intención de devolver el peso histórico al guía sherpa, cuya labor fue eclipsada en su momento por la narrativa imperial británica.",
+        "La producción, descrita como una cinta bienintencionada y visualmente cuidada, explora cómo el éxito de la expedición fue utilizado políticamente para ensalzar la figura de la reina Isabel II y redimir la imagen del explorador Scott."
+      ],
+      "bullets": [
+        "Genden Phuntsok interpreta a Tenzing Norgay con un enfoque en su destreza y conocimiento de la montaña.",
+        "Tom Hiddleston encarna a Edmund Hillary en una reconstrucción que cuestiona el relato histórico oficial.",
+        "La película subraya el uso propagandístico que se hizo de la ascensión en el contexto de la coronación de Isabel II."
+      ],
+      "eventKey": "Tenzing Norgay y Edmund Hillary protagonizan el ascenso al Everest",
+      "partial": true,
+      "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-223e14e14cf6d2e811df98e2": {
+    "fingerprint": "09eb0158adcf76c282a5569a",
+    "item": {
+      "id": "n-223e14e14cf6d2e811df98e2",
+      "url": "https://www.europapress.es/euskadi/noticia-solo-cada-cinco-conflictos-finalizados-preco-septiembre-acabo-acuerdo-laudo-20261011132222.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-11T11:22:22+00:00",
+      "sourceTitle": "Sólo uno de cada cinco conflictos finalizados en el Preco hasta septiembre acabó en acuerdo o laudo",
+      "fingerprint": "09eb0158adcf76c282a5569a",
+      "title": "Baja tasa de resolución mediante acuerdo en el Preco vasco",
+      "summary": "Durante los primeros nueve meses del año, la mayoría de los conflictos laborales gestionados por el Preco en el País Vasco concluyeron sin alcanzar un pacto o laudo arbitral.",
+      "paragraphs": [
+        "El sistema de resolución de conflictos laborales en Euskadi ha cerrado 305 expedientes entre enero y septiembre. De este total, únicamente una quinta parte de los casos ha logrado una solución formal mediante acuerdo o laudo.",
+        "Esta cifra representa a 5.971 trabajadores, una pequeña fracción del volumen total de empleados afectados por las disputas registradas en el periodo, que asciende a más de 104.000 personas."
+      ],
+      "bullets": [
+        "305 conflictos laborales gestionados hasta septiembre.",
+        "Solo el 21,3% de los casos finalizó con acuerdo o laudo.",
+        "Más de 104.000 trabajadores afectados por los conflictos."
+      ],
+      "eventKey": "Preco-resolución-conflictos-Euskadi",
+      "partial": true,
+      "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-247efd53ed44311dd3cd2009": {
+    "fingerprint": "73434b9c4deb1c990b8666f4",
+    "item": {
+      "id": "n-247efd53ed44311dd3cd2009",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-11T12:08:20+00:00",
+      "sourceTitle": "Children among 109 dead after boat capsizes off Djibouti, UN says",
+      "fingerprint": "73434b9c4deb1c990b8666f4",
+      "title": "Al menos 109 fallecidos tras el naufragio de una embarcación frente a Yibuti",
+      "summary": "Un barco que transportaba a 350 personas con destino a Yemen ha naufragado cerca de la costa de Yibuti, dejando un saldo provisional de más de un centenar de víctimas mortales, entre las que se encuentran varios menores.",
+      "paragraphs": [
+        "La embarcación, que realizaba una travesía desde Yibuti hacia Yemen, volcó durante la noche del jueves en las proximidades de la ciudad portuaria de Obock. Según los datos facilitados por la ONU, el navío transportaba a un total de 350 pasajeros en el momento del accidente.",
+        "Las autoridades y organismos internacionales han confirmado el fallecimiento de 109 personas, incluyendo a varios niños, mientras continúan las labores de gestión tras el suceso."
+      ],
+      "bullets": [
+        "El naufragio ocurrió cerca de la ciudad portuaria de Obock.",
+        "La embarcación transportaba a 350 personas hacia Yemen.",
+        "La ONU confirma la muerte de 109 personas, incluidos menores."
+      ],
+      "eventKey": "migrantes-naufragio-yibuti",
+      "partial": true,
+      "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-c0c9aa43c599ddb0d37e5b6a": {
+    "fingerprint": "b39f8727285f319d493b764b",
+    "item": {
+      "id": "n-c0c9aa43c599ddb0d37e5b6a",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008005256.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-11T00:45:37+00:00",
+      "sourceTitle": "Neanderthals may have used prehistoric glue as an ancient antibiotic",
+      "fingerprint": "b39f8727285f319d493b764b",
+      "title": "El alquitrán de abedul pudo servir como antibiótico para los neandertales",
+      "summary": "Investigadores sugieren que los neandertales empleaban una sustancia adhesiva de corteza de abedul no solo como pegamento, sino también como tratamiento medicinal para heridas.",
+      "paragraphs": [
+        "Un estudio reciente apunta a que esta sustancia prehistórica poseía propiedades antibacterianas capaces de frenar infecciones. Los científicos han recreado las técnicas de producción antiguas para comprobar su eficacia frente a bacterias peligrosas.",
+        "El hallazgo plantea que este material, tradicionalmente considerado un adhesivo, pudo funcionar como un remedio natural mucho antes de la invención de los antibióticos modernos."
+      ],
+      "bullets": [
+        "El alquitrán de abedul inhibe el crecimiento de bacterias causantes de infecciones.",
+        "La sustancia era utilizada por los neandertales miles de años atrás.",
+        "El material podría haber actuado como una medicina natural efectiva."
+      ],
+      "eventKey": "neandertales-uso-alquitran-abedul-propiedades-antibioticas",
+      "partial": true,
+      "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-26fa2d7b54ecf21a6f574ec0": {
+    "fingerprint": "7cf4361f207989a671053833",
+    "item": {
+      "id": "n-26fa2d7b54ecf21a6f574ec0",
+      "url": "https://www.xataka.com/magnet/granada-siglo-xix-habia-hombre-que-se-llamar-rey-gitanos-turistas-pagaban-hacerse-fotos",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-11T12:00:27+00:00",
+      "sourceTitle": "En la Granada del siglo XIX había un hombre que se hacía llamar \"rey de los gitanos\". Los turistas pagaban por hacerse fotos con él",
+      "fingerprint": "7cf4361f207989a671053833",
+      "title": "La figura de Chorrojumo, el autoproclamado rey de los gitanos en la Granada del siglo XIX",
+      "summary": "Mariano Fernández Santiago, conocido como Chorrojumo, se convirtió en un icono turístico de la Granada decimonónica al explotar su imagen como supuesto rey de los gitanos. El personaje, que vivía en la Alhambra, logró monetizar su apariencia ante visitantes extranjeros mediante posados fotográficos y visitas guiadas.",
+      "paragraphs": [
+        "Durante la segunda mitad del siglo XIX, Chorrojumo se erigió como una figura central para los turistas que visitaban la Alhambra. Con una estética cuidadosamente construida, que incluía trajes de estilo bandolero, el personaje se presentaba ante los viajeros como el monarca de la comunidad gitana local, llegando a vender postales con su propia imagen.",
+        "Aunque su origen real sigue siendo objeto de debate entre investigadores, su capacidad para el negocio fue notable. Aprovechando su fama, cobraba por posar para pintores y fotógrafos, además de organizar visitas a cuevas del Sacromonte, demostrando una habilidad comercial que le permitió vivir como un dandy de la época."
+      ],
+      "bullets": [
+        "Su apodo, Chorrojumo, derivaría de su trabajo en una fragua o del tono de su piel.",
+        "El pintor Mariano Fortuny contribuyó a su fama al retratarlo con vestimentas tradicionales.",
+        "A pesar de ser analfabeto, dominaba nociones básicas de inglés y francés para tratar con los turistas.",
+        "Mantuvo encuentros con figuras de la aristocracia europea, como el príncipe Federico Guillermo de Alemania."
+      ],
+      "eventKey": "Mariano Fernández Santiago-explotación turística-Granada",
+      "partial": true,
+      "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
