@@ -3770,5 +3770,510 @@
       "summarizedAt": "2026-10-10T13:00:50.271865+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-67ccfc762e6f5377a4cf66b8": {
+    "fingerprint": "64c538465950fb5ecfab9cfe",
+    "item": {
+      "id": "n-67ccfc762e6f5377a4cf66b8",
+      "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-11T11:15:50+00:00",
+      "sourceTitle": "Pope Leo to have surgery after lump found on lung",
+      "fingerprint": "64c538465950fb5ecfab9cfe",
+      "title": "El Papa León será operado tras detectársele un nódulo pulmonar",
+      "summary": "El pontífice, de 71 años, se someterá a una intervención quirúrgica después de que los médicos hallaran una masa en su pulmón. Según ha comunicado, la detección se ha producido en una fase muy inicial.",
+      "paragraphs": [
+        "El Papa León ha anunciado que deberá pasar por quirófano tras la identificación de un nódulo en su pulmón. El pontífice ha señalado que el hallazgo se ha producido en un estadio temprano de la afección."
+      ],
+      "bullets": [
+        "El Papa tiene 71 años.",
+        "La intervención responde al hallazgo de un nódulo pulmonar.",
+        "El diagnóstico se ha realizado en una etapa muy temprana."
+      ],
+      "eventKey": "Papa León operado pulmón",
+      "partial": true,
+      "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-9670e2e48bfede3c70efdf78": {
+    "fingerprint": "1a261e7247de0f7f5d3d29e2",
+    "item": {
+      "id": "n-9670e2e48bfede3c70efdf78",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-11T06:01:54+00:00",
+      "sourceTitle": "The eye has a hidden cleanup system scientists never knew existed",
+      "fingerprint": "1a261e7247de0f7f5d3d29e2",
+      "title": "Descubierto un sistema de limpieza oculto en el ojo",
+      "summary": "Investigadores han identificado una vía desconocida en la parte posterior del ojo que permite drenar fluidos y desechos. Este hallazgo en modelos animales podría facilitar el desarrollo de futuros tratamientos para enfermedades oculares degenerativas.",
+      "paragraphs": [
+        "Un equipo científico ha hallado un mecanismo de limpieza hasta ahora ignorado en la zona posterior del ojo. Este sistema se encarga de evacuar fluidos y residuos a través de una ruta que no había sido documentada previamente.",
+        "El descubrimiento, realizado mediante pruebas en ratones, abre la posibilidad de investigar nuevas terapias para patologías como el glaucoma o la degeneración macular, que actualmente provocan ceguera."
+      ],
+      "bullets": [
+        "Identificación de una vía de drenaje ocular desconocida.",
+        "El sistema elimina fluidos y desechos del ojo.",
+        "Potencial aplicación en tratamientos contra la ceguera."
+      ],
+      "eventKey": "científicos-descubren-sistema-limpieza-ojo",
+      "partial": true,
+      "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-5e28e40aefc04bfa6341013a": {
+    "fingerprint": "4b27ef41d51399872517e2a3",
+    "item": {
+      "id": "n-5e28e40aefc04bfa6341013a",
+      "url": "https://www.xataka.com/magnet/debacle-demografica-ha-obligado-a-japon-a-buscar-salida-a-bomba-relojeria-vertederos-llenos-panales-para-ancianos",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-11T11:00:00+00:00",
+      "sourceTitle": "Japón tiene tantos ancianos que el reciclaje de pañales usados se ha convertido en un problema medioambiental",
+      "fingerprint": "4b27ef41d51399872517e2a3",
+      "title": "El auge de los pañales para adultos genera un reto medioambiental en Japón",
+      "summary": "El envejecimiento poblacional ha disparado la demanda de pañales geriátricos, convirtiendo la gestión de sus residuos en un desafío ecológico creciente para Japón.",
+      "paragraphs": [
+        "El mercado global de pañales continúa creciendo impulsado por la demanda de productos para adultos, a pesar del descenso de la natalidad. En Japón, país que lidera el envejecimiento demográfico, esta tendencia ha provocado que la acumulación de desechos en vertederos se convierta en un problema de gestión de residuos de gran magnitud.",
+        "Las cifras reflejan un cambio de paradigma: desde 2011, las ventas de pañales para adultos superan a las de bebés en territorio nipón. Ante el aumento constante de personas mayores que requieren estos productos, diversas empresas y ciudades buscan alternativas para evitar la saturación de los vertederos."
+      ],
+      "bullets": [
+        "El mercado global de pañales podría alcanzar los 108.200 millones de dólares en 2034.",
+        "En Japón, el 29,6% de la población supera los 65 años, impulsando el consumo de productos geriátricos.",
+        "La gestión de residuos de incontinencia es compleja debido al volumen de uso diario y al tamaño de los productos."
+      ],
+      "eventKey": "Japón-gestión-residuos-pañales-ancianos",
+      "partial": true,
+      "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-8b461ffd78bd31cc20a6bb00": {
+    "fingerprint": "296904ce0d9ca9bafc789a4e",
+    "item": {
+      "id": "n-8b461ffd78bd31cc20a6bb00",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vn4dzz08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-11T06:23:27+00:00",
+      "sourceTitle": "Charities and businesses wrestle with diesel cost",
+      "fingerprint": "296904ce0d9ca9bafc789a4e",
+      "title": "El impacto del precio del diésel en organizaciones y empresas",
+      "summary": "Diversas entidades y negocios locales en el Reino Unido manifiestan dificultades operativas debido al elevado coste del combustible diésel.",
+      "paragraphs": [
+        "La organización benéfica contra el cáncer Daft as a Brush y la empresa Teesside Minibus Hire han señalado que los precios actuales en los surtidores están complicando su actividad diaria.",
+        "Ambas entidades se enfrentan a una situación de incertidumbre económica derivada de la presión que ejercen los costes del carburante sobre sus presupuestos."
+      ],
+      "bullets": [
+        "Daft as a Brush reporta problemas financieros por el precio del diésel.",
+        "Teesside Minibus Hire admite dificultades para gestionar sus costes operativos."
+      ],
+      "eventKey": "Daft as a Brush y Teesside Minibus Hire sufren costes del diésel en Reino Unido",
+      "partial": true,
+      "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-183093330443a764504882b2": {
+    "fingerprint": "6b8ad53225716e74f2ab901b",
+    "item": {
+      "id": "n-183093330443a764504882b2",
+      "url": "https://elpais.com/cultura/2026-10-11/un-dia-de-chicas-para-lobas-y-minishakis.html",
+      "source": "El País",
+      "section": "cultura",
+      "lang": "es",
+      "publishedAt": "2026-10-11T03:30:01+00:00",
+      "sourceTitle": "Un día de chicas para lobas y ‘minishakis’",
+      "fingerprint": "6b8ad53225716e74f2ab901b",
+      "title": "Madres e hijas se reúnen en la residencia madrileña de Shakira",
+      "summary": "La residencia de la artista en Madrid ha acogido un encuentro intergeneracional de seguidoras, marcando el cierre de este espacio antes del lunes.",
+      "paragraphs": [
+        "Un grupo de madres y niñas ha compartido una jornada de fanatismo en la residencia de Shakira en Madrid. El evento, que concluye este lunes, refleja una nueva forma de ocio compartido que transforma la relación entre generaciones y el formato de los espectáculos.",
+        "Esta iniciativa destaca cómo la música y la figura de la artista actúan como nexo de unión entre madres e hijas, alterando la dinámica habitual de los eventos culturales."
+      ],
+      "bullets": [
+        "Encuentro de seguidoras en la residencia de Shakira en Madrid.",
+        "El evento finaliza este lunes.",
+        "El ocio intergeneracional modifica los vínculos familiares y los espectáculos."
+      ],
+      "eventKey": "seguidoras de Shakira visitan residencia Madrid",
+      "partial": true,
+      "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-bfaf96bf92b4cad660e57205": {
+    "fingerprint": "dfad08f4add33aa47cf5a7f1",
+    "item": {
+      "id": "n-bfaf96bf92b4cad660e57205",
+      "url": "https://www.europapress.es/euskadi/noticia-mertxe-aizpurua-no-sera-candidata-eh-bildu-congreso-20261011110957.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-11T09:09:57+00:00",
+      "sourceTitle": "Mertxe Aizpurua no será candidata por EH Bildu al Congreso",
+      "fingerprint": "dfad08f4add33aa47cf5a7f1",
+      "title": "Mertxe Aizpurua no repetirá como candidata de EH Bildu al Congreso",
+      "summary": "La actual portavoz de EH Bildu en el Congreso de los Diputados ha decidido no concurrir a las próximas elecciones generales. La formación soberanista ha confirmado que no encabezará su lista en la cita electoral del 29 de noviembre.",
+      "paragraphs": [
+        "Mertxe Aizpurua dejará de ser la candidata de EH Bildu para el Congreso de los Diputados. La decisión ha sido ratificada por fuentes de la propia coalición abertzale ante la proximidad de los comicios generales.",
+        "La formación soberanista afronta así un cambio en su representación parlamentaria de cara a la jornada electoral fijada para el 29 de noviembre."
+      ],
+      "bullets": [
+        "Mertxe Aizpurua no se presentará a las elecciones generales.",
+        "La coalición abertzale ha confirmado el relevo de su portavoz.",
+        "La cita electoral está programada para el 29 de noviembre."
+      ],
+      "eventKey": "Mertxe Aizpurua-dejar candidatura-Congreso",
+      "partial": true,
+      "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-2c34ec952b5791bbccd91840": {
+    "fingerprint": "7912061d890b40cd4b71582a",
+    "item": {
+      "id": "n-2c34ec952b5791bbccd91840",
+      "url": "https://www.eldiario.es/politica/plan-grupo-leire-jueza-biedma-atentado-disparate_1_13573249.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-10T20:10:42+00:00",
+      "sourceTitle": "El plan del 'Grupo Leire' contra la jueza Biedma: ¿atentado o disparate?",
+      "fingerprint": "7912061d890b40cd4b71582a",
+      "title": "El plan del 'Grupo Leire' contra la jueza Biedma: ¿atentado o disparate?",
+      "summary": "La jueza Beatriz Biedma ha denunciado ante la Audiencia Nacional presuntas maniobras de acoso por parte del 'Grupo Leire' y el exjuez Luis Sáenz de Tejada. La investigación analiza si estas acciones, que buscaban apartarla del caso de David Sánchez, llegaron a planificar un atentado contra la magistrada.",
+      "paragraphs": [
+        "La magistrada Beatriz Biedma, instructora del caso de David Sánchez, ha declarado ante el juez Pedraz sentirse atemorizada por las actuaciones del denominado 'Grupo Leire'. Este colectivo, liderado por Leire Díez y el empresario Javier Pérez Dolset, habría intentado apartar a la jueza de su labor judicial mediante una campaña de desprestigio y presuntas calumnias.",
+        "El epicentro de la polémica sitúa al exjuez Luis Sáenz de Tejada, quien desde YouTube denuncia una supuesta trama corrupta en los juzgados de Badajoz. Según las investigaciones, este colaborador de Díez habría contactado con grupos criminales locales, planteando la posibilidad de atentar contra la magistrada, un extremo que ahora se dirime en sede judicial."
+      ],
+      "bullets": [
+        "La jueza Biedma se ha personado como víctima en la Audiencia Nacional tras las maniobras del 'Grupo Leire'.",
+        "El exjuez Luis Sáenz de Tejada es señalado como el nexo entre las conspiraciones de Díez y el entorno criminal de Badajoz.",
+        "Existen indicios de que el PSOE pudo financiar los planes de Leire Díez para investigar a jueces y policías.",
+        "La investigación busca esclarecer si las amenazas contra la magistrada fueron un plan real o una invención de los implicados."
+      ],
+      "eventKey": "Leire Díez y Luis Sáenz de Tejada investigados por presuntas amenazas a la jueza Biedma",
+      "partial": true,
+      "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-34b9d08cc8ae5b287284b8dc": {
+    "fingerprint": "3f0f675c94c2502ce8305a2f",
+    "item": {
+      "id": "n-34b9d08cc8ae5b287284b8dc",
+      "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-11T11:02:59+00:00",
+      "sourceTitle": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
+      "fingerprint": "3f0f675c94c2502ce8305a2f",
+      "title": "Los hutíes amenazan con nuevos ataques tras el bombardeo en Riad",
+      "summary": "El grupo hutí ha advertido a los pasajeros que eviten el aeropuerto de Riad tras un ataque mortal, mientras Donald Trump evalúa una posible intervención estadounidense.",
+      "paragraphs": [
+        "El Ministerio de Asuntos Exteriores hutí ha emitido una advertencia tras el reciente ataque contra el aeropuerto de Riad, vinculando futuras acciones a la continuidad de la intervención militar saudí en Yemen. El grupo sostiene que sus operaciones responden a un principio de reciprocidad ante la agresión recibida.",
+        "Por su parte, el presidente de Estados Unidos, Donald Trump, estudia si el país se sumará a las represalias saudíes contra los hutíes, respaldados por Irán. Mientras tanto, los rebeldes han amenazado con intensificar su respuesta si no cesan las operaciones militares en territorio yemení."
+      ],
+      "bullets": [
+        "Los hutíes advierten de consecuencias más graves si continúa la intervención saudí.",
+        "Donald Trump valora la participación de EE. UU. en los ataques contra los hutíes.",
+        "El grupo rebelde justifica sus acciones como una respuesta recíproca."
+      ],
+      "eventKey": "hutíes-amenazan-aeropuerto-riad",
+      "partial": true,
+      "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-3de8cde1689eb09961ac8130": {
+    "fingerprint": "21414017f62c9b4611ebe208",
+    "item": {
+      "id": "n-3de8cde1689eb09961ac8130",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
+      "source": "NASA",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-11T04:05:00+00:00",
+      "sourceTitle": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
+      "fingerprint": "21414017f62c9b4611ebe208",
+      "title": "La NASA destaca la búsqueda de neutrinos cósmicos en el hielo",
+      "summary": "La imagen astronómica del día de la NASA se centra en los esfuerzos científicos para detectar neutrinos cósmicos mediante instalaciones situadas en el hielo.",
+      "paragraphs": [
+        "La NASA ha publicado una nueva imagen astronómica que ilustra las técnicas utilizadas para la captura de neutrinos cósmicos, un proceso comparado metafóricamente con la pesca en el hielo.",
+        "Esta iniciativa forma parte de la divulgación científica diaria de la agencia, que cuenta con explicaciones de astrónomos profesionales sobre fenómenos del universo."
+      ],
+      "bullets": [
+        "Publicación de la imagen astronómica del día (APOD).",
+        "Enfoque en la detección de neutrinos cósmicos.",
+        "Uso de entornos helados para la investigación científica."
+      ],
+      "eventKey": "NASA-publica-imagen-neutrinos-hielo",
+      "partial": true,
+      "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-36cc2f96c79b2aa54f5624e1": {
+    "fingerprint": "53dba72d18a8f9fab0b49d02",
+    "item": {
+      "id": "n-36cc2f96c79b2aa54f5624e1",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "source": "Ars Technica",
+      "section": "tecnologia",
+      "lang": "en",
+      "publishedAt": "2026-10-09T22:04:07+00:00",
+      "sourceTitle": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "fingerprint": "53dba72d18a8f9fab0b49d02",
+      "title": "Drones ucranianos inutilizan un centro de datos de Yandex",
+      "summary": "Un ataque con drones ha afectado a una infraestructura tecnológica clave para el entrenamiento de los modelos de inteligencia artificial de la compañía rusa Yandex.",
+      "paragraphs": [
+        "Un centro de datos que albergaba superordenadores destinados al desarrollo de la inteligencia artificial de Yandex ha sufrido daños tras una incursión de drones ucranianos.",
+        "La instalación, vinculada a la empresa conocida como el Google ruso, ha quedado inoperativa a consecuencia de este ataque."
+      ],
+      "bullets": [
+        "El centro de datos albergaba superordenadores de IA.",
+        "La infraestructura pertenece a la compañía Yandex.",
+        "El ataque fue ejecutado mediante drones ucranianos."
+      ],
+      "eventKey": "Ucrania-ataca-centro-datos-Yandex",
+      "partial": true,
+      "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-595884caa585fc915a26b246": {
+    "fingerprint": "d071ed153a19d927fac07371",
+    "item": {
+      "id": "n-595884caa585fc915a26b246",
+      "url": "https://www.theguardian.com/film/2026/oct/09/stark-warning-does-new-footage-in-avengers-endgame-reveal-the-truth-about-doctor-doom",
+      "source": "The Guardian",
+      "section": "cultura",
+      "lang": "en",
+      "publishedAt": "2026-10-09T16:25:44+00:00",
+      "sourceTitle": "Stark warning – does new footage in Avengers: Endgame reveal the truth about Doctor Doom?",
+      "fingerprint": "d071ed153a19d927fac07371",
+      "title": "El reestreno de Avengers: Endgame y la incógnita sobre Doctor Doom",
+      "summary": "La nueva versión de Avengers: Endgame ha superado a Avatar como la película más taquillera de la historia, mientras surgen dudas sobre si el metraje inédito anticipa detalles sobre Doctor Doom.",
+      "paragraphs": [
+        "El reestreno de la cinta, titulado Avengers Endgame: Encore, ha logrado recaudar 126 millones de dólares adicionales, elevando su cifra global a 2.925 millones. Más allá del éxito financiero, el interés se centra en las nuevas escenas añadidas por Marvel.",
+        "El análisis sugiere que estas secuencias podrían arrojar luz sobre el papel de Doctor Doom, aunque el impacto real de este contenido adicional sigue siendo objeto de especulación entre los seguidores."
+      ],
+      "bullets": [
+        "Avengers Endgame: Encore ha superado la recaudación histórica de Avatar.",
+        "El metraje inédito genera interrogantes sobre la trama de Doctor Doom.",
+        "Disney ostenta la propiedad de ambas producciones cinematográficas."
+      ],
+      "eventKey": "Marvel-reestreno-Avengers-Endgame",
+      "partial": true,
+      "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-388c06a1fbc25f112f322d90": {
+    "fingerprint": "7ff44c1a7841026c469eac21",
+    "item": {
+      "id": "n-388c06a1fbc25f112f322d90",
+      "url": "https://www.durangon.com/seis-heridos-y-una-vaquilla-suelta-en-el-arranque-de-las-zezenak-dira/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-11T09:04:54+00:00",
+      "sourceTitle": "Seis heridos y una vaquilla suelta en el arranque de las ‘zezenak dira’",
+      "fingerprint": "7ff44c1a7841026c469eac21",
+      "title": "Seis heridos durante el inicio de las 'zezenak dira'",
+      "summary": "El comienzo de los festejos taurinos ha dejado un balance de seis personas lesionadas, una de ellas de gravedad.",
+      "paragraphs": [
+        "El arranque de las 'zezenak dira' ha estado marcado por un incidente con una vaquilla que ha quedado suelta, provocando heridas a seis personas.",
+        "El afectado con pronóstico más serio ha tenido que ser evacuado al hospital de Cruces para recibir atención médica especializada."
+      ],
+      "bullets": [
+        "Seis personas han resultado heridas en el evento.",
+        "Una vaquilla ha quedado suelta durante el festejo.",
+        "El herido de mayor gravedad ha sido trasladado al hospital de Cruces."
+      ],
+      "eventKey": "seis heridos y vaquilla suelta en zezenak dira",
+      "partial": true,
+      "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-6e5a7e96bb1d795a08dfd49a": {
+    "fingerprint": "963f6062c339348e6efd0fff",
+    "item": {
+      "id": "n-6e5a7e96bb1d795a08dfd49a",
+      "url": "https://www.europapress.es/nacional/noticia-genova-cree-ya-no-funciona-miedo-vox-agita-psoe-moviliza-mas-animadversion-sanchez-20261011103946.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-11T08:39:46+00:00",
+      "sourceTitle": "'Génova' cree que ya no funciona el \"miedo\" a Vox que agita el PSOE y que moviliza más la \"animadversión\" hacia Sánchez",
+      "fingerprint": "963f6062c339348e6efd0fff",
+      "title": "El PP sostiene que el miedo a Vox ha perdido eficacia electoral",
+      "summary": "La dirección nacional del Partido Popular considera que la estrategia socialista de alertar sobre Vox ya no resulta efectiva ante los comicios del 29 de noviembre. Según los populares, el sentimiento que actualmente impulsa una mayor movilización es el rechazo hacia la figura de Pedro Sánchez.",
+      "paragraphs": [
+        "Fuentes de la cúpula del PP han trasladado que el PSOE está intentando reactivar el temor hacia Vox de cara a la próxima cita electoral. Sin embargo, desde Génova aseguran que este mensaje ha dejado de funcionar entre el electorado.",
+        "El equipo de Alberto Núñez Feijóo sostiene que el factor que realmente está movilizando a los votantes es la animadversión que genera el presidente del Gobierno."
+      ],
+      "bullets": [
+        "El PP resta importancia a la estrategia del PSOE sobre Vox.",
+        "Las elecciones están fijadas para el 29 de noviembre.",
+        "La dirección popular identifica el rechazo a Sánchez como el principal motor de movilización."
+      ],
+      "eventKey": "PP-analiza-estrategia-electoral-España",
+      "partial": true,
+      "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-c77f7654f8e2252c0005f74a": {
+    "fingerprint": "5b43414fcf5a962625911de6",
+    "item": {
+      "id": "n-c77f7654f8e2252c0005f74a",
+      "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-11T11:11:42+00:00",
+      "sourceTitle": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+      "fingerprint": "5b43414fcf5a962625911de6",
+      "title": "Nuevas protestas en Delhi tras la liberación de los líderes del grupo 'cockroach'",
+      "summary": "Cientos de personas han sido detenidas en Delhi al desafiar las restricciones policiales durante unas manifestaciones convocadas por los líderes del grupo 'cockroach' tras su puesta en libertad.",
+      "paragraphs": [
+        "La capital india ha sido escenario de nuevas movilizaciones después de que los dirigentes de la organización conocida como 'cockroach' prometieran continuar con su lucha. A pesar de las prohibiciones impuestas por las autoridades, los manifestantes salieron a las calles el domingo.",
+        "La intervención policial resultó en la detención de cientos de participantes que ignoraron las limitaciones establecidas en la ciudad."
+      ],
+      "bullets": [
+        "Los líderes del grupo 'cockroach' han anunciado que mantendrán sus actividades de protesta.",
+        "La policía procedió a realizar cientos de detenciones durante la jornada del domingo.",
+        "Las manifestaciones se produjeron a pesar de las restricciones vigentes en Delhi."
+      ],
+      "eventKey": "líderes grupo cockroach protestan en Delhi",
+      "partial": true,
+      "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-5a9b070099b2dd7d10e657c4": {
+    "fingerprint": "4ff3992f75b3cd4be059d682",
+    "item": {
+      "id": "n-5a9b070099b2dd7d10e657c4",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-11T03:06:35+00:00",
+      "sourceTitle": "Scientists build a nuclear clock that could make atomic clocks obsolete",
+      "fingerprint": "4ff3992f75b3cd4be059d682",
+      "title": "Científicos desarrollan un reloj nuclear que podría superar a los atómicos",
+      "summary": "Investigadores en Viena han logrado crear el primer reloj nuclear autoestabilizado, una tecnología que promete mayor precisión que los sistemas atómicos actuales.",
+      "paragraphs": [
+        "Un equipo científico en Viena ha conseguido un avance significativo en la medición del tiempo al desarrollar un reloj nuclear. Este dispositivo utiliza núcleos de torio en lugar de electrones, lo que le otorga una mayor resistencia frente a interferencias externas.",
+        "Se espera que esta nueva tecnología pueda desplazar a los relojes atómicos, considerados hasta ahora como los más precisos del mundo."
+      ],
+      "bullets": [
+        "Desarrollo de un reloj nuclear autoestabilizado en Viena.",
+        "Uso de núcleos de torio para mejorar la estabilidad.",
+        "Potencial para superar la precisión de los relojes atómicos."
+      ],
+      "eventKey": "científicos viena crean reloj nuclear",
+      "partial": true,
+      "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-1d6991a2868c7ebb0d00d869": {
+    "fingerprint": "5656b4b933b8688bb401358f",
+    "item": {
+      "id": "n-1d6991a2868c7ebb0d00d869",
+      "url": "https://www.xataka.com/movilidad/recarga-gran-freno-transporte-electrico-asi-que-honda-propone-carretera-que-sea-cargador-inalambrico",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-11T10:00:28+00:00",
+      "sourceTitle": "La recarga es el gran freno del transporte eléctrico, así que Honda propone una carretera que sea un cargador inalámbrico",
+      "fingerprint": "5656b4b933b8688bb401358f",
+      "title": "Honda desarrolla una tecnología para cargar vehículos eléctricos en movimiento",
+      "summary": "Honda, en colaboración con Taisei Corporation, ha diseñado un sistema de carga inalámbrica dinámica para vehículos eléctricos que permite recargar la batería mientras circulan por la carretera. La compañía planea iniciar pruebas en autopistas japonesas a partir del año fiscal 2027.",
+      "paragraphs": [
+        "La tecnología, denominada DWPT, utiliza bobinas enterradas en el firme para transferir energía mediante acoplamiento magnético a los vehículos. El sistema integra el inversor y la bobina en una sola pieza, lo que facilitaría su instalación en carreteras existentes sin necesidad de una repavimentación integral.",
+        "Tras realizar pruebas exitosas en pistas privadas con vehículos de 20 toneladas, Honda prepara una nueva fase de ensayos para evaluar la durabilidad y el rendimiento del sistema. El objetivo es alcanzar potencias de carga de hasta 150 kW para el transporte logístico pesado.",
+        "Aunque Honda es pionera en la integración de componentes de su sistema, la empresa reconoce que existen desafíos técnicos y económicos pendientes. Otros países como Suecia, Francia, Alemania e Italia también exploran soluciones similares para reducir los tiempos de parada en el transporte eléctrico."
+      ],
+      "bullets": [
+        "El sistema DWPT permite la carga inalámbrica mediante bobinas instaladas bajo el asfalto.",
+        "Honda prevé realizar pruebas en un tramo de 300 metros de una autopista japonesa en 2027.",
+        "La tecnología busca optimizar costes simplificando la integración del inversor y la bobina.",
+        "El proyecto se centra inicialmente en vehículos de logística y transporte pesado."
+      ],
+      "eventKey": "Honda+desarrolla+tecnología+carga+inalámbrica+carreteras+Japón",
+      "partial": true,
+      "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-68aabbace651eb922a41a848": {
+    "fingerprint": "5228f4edf98801295f2392eb",
+    "item": {
+      "id": "n-68aabbace651eb922a41a848",
+      "url": "https://elpais.com/economia/negocios/2026-10-11/la-financiacion-del-estado-y-la-fiebre-de-la-ia.html",
+      "source": "El País",
+      "section": "economia",
+      "lang": "es",
+      "publishedAt": "2026-10-11T03:40:00+00:00",
+      "sourceTitle": "La financiación del Estado y la fiebre de la IA",
+      "fingerprint": "5228f4edf98801295f2392eb",
+      "title": "La pugna por la financiación entre Estados y empresas tecnológicas",
+      "summary": "Las compañías del sector tecnológico y los gobiernos se encuentran en una competencia directa por captar capital mediante la emisión de deuda.",
+      "paragraphs": [
+        "El mercado financiero afronta una situación de tensión ante la creciente necesidad de liquidez tanto de los Estados como de las grandes empresas tecnológicas. Esta rivalidad por atraer inversores se enmarca en el contexto de la actual expansión de la inteligencia artificial.",
+        "La emisión de deuda se ha convertido en el terreno donde ambos actores miden sus fuerzas para asegurar los recursos necesarios para sus respectivos proyectos."
+      ],
+      "bullets": [
+        "Competencia directa por la captación de capital.",
+        "La emisión de deuda como herramienta principal de financiación.",
+        "Impacto de la fiebre de la IA en los mercados financieros."
+      ],
+      "eventKey": "Estados y empresas tecnológicas compiten por financiación",
+      "partial": true,
+      "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-2af68fd9f18195b097e323f1": {
+    "fingerprint": "fca98414ba10f2ecaeb33074",
+    "item": {
+      "id": "n-2af68fd9f18195b097e323f1",
+      "url": "https://elpais.com/cultura/cine/2026-10-11/kevin-bacon-sigo-pensando-al-100-en-mejorar-trascender-y-hacer-algo-impactante.html",
+      "source": "El País",
+      "section": "cultura",
+      "lang": "es",
+      "publishedAt": "2026-10-11T03:30:01+00:00",
+      "sourceTitle": "Kevin Bacon: “Sigo pensando al 100% en mejorar, trascender y hacer algo impactante”",
+      "fingerprint": "fca98414ba10f2ecaeb33074",
+      "title": "Kevin Bacon dirige a su familia en el proyecto cinematográfico 'Family Movie'",
+      "summary": "El actor Kevin Bacon ha puesto en marcha una nueva película rodada en su entorno familiar durante el periodo de pandemia. En el filme colaboran su esposa, Kyra Sedgwick, y sus dos hijos.",
+      "paragraphs": [
+        "Kevin Bacon ha asumido la dirección de 'Family Movie', una producción que cuenta con la participación directa de su núcleo familiar. El proyecto comenzó a gestarse en la granja de la familia durante los meses de confinamiento.",
+        "El intérprete ha manifestado su intención de seguir evolucionando en su carrera profesional, buscando proyectos que tengan un impacto significativo."
+      ],
+      "bullets": [
+        "Kevin Bacon dirige 'Family Movie'.",
+        "El reparto incluye a Kyra Sedgwick y a sus hijos.",
+        "El rodaje se inició en su granja familiar durante la pandemia."
+      ],
+      "eventKey": "Kevin Bacon dirige proyecto familiar",
+      "partial": true,
+      "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
