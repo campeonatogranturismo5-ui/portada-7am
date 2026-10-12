@@ -4727,5 +4727,712 @@
       "summarizedAt": "2026-10-11T13:28:37.928426+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-d5746f7dbf0396a32a9a888b": {
+    "fingerprint": "d85d7d1b9559e3dcc75e2780",
+    "item": {
+      "id": "n-d5746f7dbf0396a32a9a888b",
+      "url": "https://www.durangon.com/el-ayuntamiento-condena-los-incidentes-en-las-txosnas-y-muestra-su-apoyo-a-la-policia-municipal/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-12T11:47:27+00:00",
+      "sourceTitle": "El Ayuntamiento condena los incidentes en las txosnas y muestra su apoyo a la Policía Municipal",
+      "fingerprint": "d85d7d1b9559e3dcc75e2780",
+      "title": "El Ayuntamiento de Durango condena los incidentes ocurridos en las txosnas",
+      "summary": "El consistorio ha manifestado su rechazo a los altercados registrados durante la madrugada y ha trasladado su respaldo a los agentes municipales.",
+      "paragraphs": [
+        "El Ayuntamiento de Durango ha condenado formalmente los incidentes producidos esta madrugada en la zona de las txosnas. La institución ha expresado su apoyo a la Policía Municipal tras la intervención realizada por los agentes.",
+        "La actuación policial se produjo después de recibir avisos sobre un individuo que, presuntamente, estaba acosando y amenazando a varias jóvenes portando objetos cortantes."
+      ],
+      "bullets": [
+        "Condena institucional de los hechos.",
+        "Apoyo explícito a la Policía Municipal.",
+        "Intervención ante amenazas y acoso con armas blancas."
+      ],
+      "eventKey": "Ayuntamiento de Durango condena incidentes en txosnas",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-0048ff8ccea1680f22cdffe8": {
+    "fingerprint": "39c8fef6b5ddae687effc68a",
+    "item": {
+      "id": "n-0048ff8ccea1680f22cdffe8",
+      "url": "https://www.eldiario.es/politica/comuns-cargan-rufian-pactar-venia-unir-izquierda-haciendo-posible-dividirla_1_13579832.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-12T11:53:56+00:00",
+      "sourceTitle": "Los Comuns cargan contra Rufián tras pactar con Podemos: \"Venía a unir a la izquierda y está haciendo lo posible por dividirla\"",
+      "fingerprint": "39c8fef6b5ddae687effc68a",
+      "title": "Los Comuns critican a Rufián por su pacto con Podemos",
+      "summary": "La formación de los Comuns ha arremetido contra Gabriel Rufián tras su alianza con Podemos para las próximas elecciones generales en Catalunya, acusándole de fragmentar el espacio de la izquierda. El acuerdo complica la integración de los morados en el Frente Amplio, mientras los Comuns mantienen su intención de concurrir con sus propias siglas.",
+      "paragraphs": [
+        "Los Comuns han expresado su malestar ante el movimiento de ERC, que ha confirmado que Podemos se integrará en sus listas y que Irene Montero compartirá campaña con Rufián. Desde la formación liderada por Aina Vidal consideran que esta decisión contradice el discurso de unidad que el portavoz republicano ha mantenido durante el último año.",
+        "A pesar de la tensión, desde el Frente Amplio se insiste en que todavía es posible alcanzar un entendimiento electoral. Por su parte, los Comuns reivindican su posición como segunda fuerza más votada en Catalunya en 2023, por delante de ERC, y descartan disolver su marca en las listas republicanas."
+      ],
+      "bullets": [
+        "Los Comuns se presentarán a las generales dentro del Frente Amplio sin intención de diluir sus siglas.",
+        "El pacto entre ERC y Podemos dificulta la integración de los morados en la coalición de Sumar.",
+        "Verónica Martínez Barbero ha lamentado que la decisión de Rufián no favorece el acuerdo entre las izquierdas.",
+        "Antonio Maíllo mantiene la esperanza de que Rufián impulse una propuesta unitaria final."
+      ],
+      "eventKey": "Comuns y ERC enfrentamiento electoral Catalunya",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-75eaf2d76b24f421e76701b5": {
+    "fingerprint": "86bd20a7d6e2ac4671dc0f5e",
+    "item": {
+      "id": "n-75eaf2d76b24f421e76701b5",
+      "url": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-12T12:43:07+00:00",
+      "sourceTitle": "Kremlin rejects 60-day truce offer and refuses to comment on Trump’s ‘energy ceasefire’ – Europe live",
+      "fingerprint": "86bd20a7d6e2ac4671dc0f5e",
+      "title": "El Kremlin rechaza la propuesta de tregua de 60 días y evita valorar el plan energético de Trump",
+      "summary": "Rusia ha desestimado la oferta de un alto el fuego temporal planteada por Ucrania, mientras persiste la incertidumbre sobre la propuesta de tregua energética anunciada por Donald Trump.",
+      "paragraphs": [
+        "El presidente ucraniano, Volodímir Zelenski, había propuesto un cese de hostilidades de dos meses con el objetivo de celebrar elecciones presidenciales en su país. Sin embargo, el Kremlin ha rechazado esta iniciativa.",
+        "Por otro lado, Zelenski ha reaccionado con sorpresa ante el anuncio de Trump sobre una tregua energética, sugiriendo que Vladímir Putin desconoce las declaraciones publicadas por el mandatario estadounidense en redes sociales. El líder ucraniano sostiene que Rusia busca desmantelar la arquitectura de seguridad europea para recuperar su influencia previa a 1989."
+      ],
+      "bullets": [
+        "Rechazo ruso a la tregua de 60 días propuesta por Kiev.",
+        "Desconcierto de Zelenski ante el anuncio de Trump sobre un alto el fuego energético.",
+        "Acusaciones ucranianas sobre la intención rusa de restaurar su dominio en Europa."
+      ],
+      "eventKey": "Rusia y Ucrania rechazo tregua y plan Trump",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-e8bb1f21aa1c96c887c2dfd0": {
+    "fingerprint": "a717e15848ae81603ce0be23",
+    "item": {
+      "id": "n-e8bb1f21aa1c96c887c2dfd0",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008005244.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-12T06:24:46+00:00",
+      "sourceTitle": "Scientists discover a hidden factor that can make or break chemical reactions",
+      "fingerprint": "a717e15848ae81603ce0be23",
+      "title": "Un nuevo factor clave en la eficiencia de las reacciones químicas",
+      "summary": "Un equipo de investigadores ha identificado un elemento determinante para el éxito de las reacciones químicas, logrando optimizar significativamente la obtención de productos deseados. Este hallazgo permitiría fabricar compuestos industriales de forma más sostenible mediante el uso de oxígeno y electricidad.",
+      "paragraphs": [
+        "Científicos han descubierto un factor oculto capaz de condicionar el resultado de las reacciones químicas. Al manipular la acidez en las proximidades de los electrodos, el equipo ha conseguido elevar la tasa de éxito del producto final del 16% al 97%.",
+        "Este avance abre la puerta a métodos de producción más limpios para sectores como el farmacéutico o el de los plásticos. La técnica propone sustituir los oxidantes peligrosos por procesos basados en electricidad y oxígeno."
+      ],
+      "bullets": [
+        "Identificación de un factor crítico en la eficacia química.",
+        "Incremento del rendimiento del producto del 16% al 97%.",
+        "Desarrollo de un método de fabricación más sostenible.",
+        "Sustitución de oxidantes peligrosos por oxígeno y electricidad."
+      ],
+      "eventKey": "investigadores-descubren-factor-reacciones-quimicas",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-1a1dd2abd44c6c33bc9141fc": {
+    "fingerprint": "556a6fc73c077a3ce88a0bd9",
+    "item": null
+  },
+  "n-724536b30d0ed479c528e326": {
+    "fingerprint": "e932a6e46d705f459263320b",
+    "item": {
+      "id": "n-724536b30d0ed479c528e326",
+      "url": "https://www.europapress.es/euskadi/noticia-osakidetza-registra-mas-219000-citas-vacunarse-frente-gripe-mas-18000-ninos-meses-anos-20261012112015.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-12T09:20:15+00:00",
+      "sourceTitle": "Osakidetza registra más de 219.000 citas para vacunarse frente a la gripe, más de 18.000 de niños de 6 meses a 5 años",
+      "fingerprint": "e932a6e46d705f459263320b",
+      "title": "Osakidetza suma más de 219.000 citas para la campaña de vacunación contra la gripe",
+      "summary": "El servicio vasco de salud ha contabilizado más de 219.000 solicitudes de vacunación desde el comienzo de la campaña 2026-2027. Entre los inscritos, destacan más de 18.000 menores de entre seis meses y cinco años.",
+      "paragraphs": [
+        "La campaña de vacunación frente a la gripe para la temporada 2026-2027 avanza en el País Vasco con una cifra superior a las 219.000 citas registradas por Osakidetza.",
+        "Dentro de este volumen de solicitudes, el sistema sanitario ha destacado la participación del grupo infantil de entre seis y 59 meses, considerado prioritario en el actual plan de inmunización."
+      ],
+      "bullets": [
+        "Más de 219.000 citas registradas en la campaña 2026-2027.",
+        "Más de 18.000 niños de 6 a 59 meses han solicitado su vacuna."
+      ],
+      "eventKey": "Osakidetza-gestiona-vacunacion-gripe-Euskadi",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-682388f2ed10c63f219bb6bb": {
+    "fingerprint": "57c62338c769107b341cf2ba",
+    "item": {
+      "id": "n-682388f2ed10c63f219bb6bb",
+      "url": "https://www.europapress.es/nacional/noticia-an-arranca-semana-juicio-ignacio-gonzalez-adjudicaciones-campo-golf-canal-isabel-ii-20261012115946.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-12T09:59:46+00:00",
+      "sourceTitle": "La AN arranca esta semana el juicio a Ignacio González por adjudicaciones del campo de golf del Canal de Isabel II",
+      "fingerprint": "57c62338c769107b341cf2ba",
+      "title": "Juicio a Ignacio González por las adjudicaciones del campo de golf del Canal de Isabel II",
+      "summary": "La Audiencia Nacional inicia esta semana el proceso judicial contra el expresidente de la Comunidad de Madrid por presuntas irregularidades en la gestión de estas instalaciones.",
+      "paragraphs": [
+        "El tribunal abordará las acusaciones relacionadas con las adjudicaciones del campo de golf vinculado al Canal de Isabel II. La Fiscalía ha solicitado una pena de seis años de prisión y una multa de 550.000 euros para el exdirigente madrileño."
+      ],
+      "bullets": [
+        "Inicio del juicio en la Audiencia Nacional.",
+        "Petición fiscal de seis años de cárcel.",
+        "Multa solicitada de 550.000 euros."
+      ],
+      "eventKey": "Ignacio González juicio Audiencia Nacional",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-d8b2e2b81bbb6b138e185e65": {
+    "fingerprint": "b152369f1144b0fe590aaee3",
+    "item": {
+      "id": "n-d8b2e2b81bbb6b138e185e65",
+      "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-12T12:18:45+00:00",
+      "sourceTitle": "Pupil arrested after two teachers shot at French school",
+      "fingerprint": "b152369f1144b0fe590aaee3",
+      "title": "Detenido un alumno tras disparar a dos docentes en un colegio francés",
+      "summary": "Un menor de 14 años ha sido arrestado en Francia después de que el director y un profesor de su centro escolar resultaran heridos por disparos.",
+      "paragraphs": [
+        "Las autoridades han procedido a la detención de un estudiante de 14 años tras un tiroteo ocurrido en un centro de educación secundaria. El incidente ha dejado heridas a dos personas, concretamente al director del colegio y a un docente.",
+        "Por el momento no han trascendido más detalles sobre el estado de salud de los afectados ni sobre las circunstancias exactas que rodearon el suceso."
+      ],
+      "bullets": [
+        "Arresto de un alumno de 14 años.",
+        "Dos docentes heridos, incluyendo al director del centro.",
+        "Incidente ocurrido en un colegio de secundaria francés."
+      ],
+      "eventKey": "alumno-dispara-docentes-francia",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-446843354b9a1b0d7527f2a8": {
+    "fingerprint": "e2f6e33c4d9bca8bbb3376fd",
+    "item": {
+      "id": "n-446843354b9a1b0d7527f2a8",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/",
+      "source": "NASA",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-12T04:05:00+00:00",
+      "sourceTitle": "APOD: 2026 October 12 – Jupiter and the Moons",
+      "fingerprint": "e2f6e33c4d9bca8bbb3376fd",
+      "title": "La NASA destaca una imagen de Júpiter y sus lunas",
+      "summary": "La sección Astronomy Picture of the Day de la NASA ha publicado una nueva fotografía centrada en el planeta Júpiter y sus satélites naturales.",
+      "paragraphs": [
+        "La agencia espacial estadounidense ha compartido una instantánea astronómica acompañada de una explicación técnica redactada por un profesional del sector.",
+        "Esta publicación forma parte de la iniciativa diaria de la NASA para divulgar imágenes del cosmos a través de su portal especializado."
+      ],
+      "bullets": [
+        "Publicación de una imagen astronómica del día.",
+        "Enfoque en Júpiter y sus lunas.",
+        "Explicación técnica incluida por un astrónomo."
+      ],
+      "eventKey": "NASA-publica-imagen-Jupiter",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-7a17dffa24825917f5cc8256": {
+    "fingerprint": "eec225ec4a27df6373d826fa",
+    "item": {
+      "id": "n-7a17dffa24825917f5cc8256",
+      "url": "https://www.bbc.co.uk/news/articles/cjzxl7ee4e9xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-12T10:36:39+00:00",
+      "sourceTitle": "HMV to close Oxford Street store after three years",
+      "fingerprint": "eec225ec4a27df6373d826fa",
+      "title": "HMV cerrará su tienda en Oxford Street",
+      "summary": "La cadena HMV ha anunciado el cierre de su establecimiento en Oxford Street al considerar que su ubicación actual no es rentable. La empresa ha indicado que se encuentra en la búsqueda de un nuevo emplazamiento en el West End londinense.",
+      "paragraphs": [
+        "La emblemática tienda de HMV en Oxford Street bajará la persiana tras tres años de actividad. La compañía ha calificado la situación del local como inviable, lo que ha precipitado la decisión de abandonar el espacio.",
+        "A pesar del cierre, la firma ha confirmado que mantiene su interés por seguir operando en la zona. Actualmente, los responsables de la cadena están explorando alternativas para reubicarse en otros puntos del West End de Londres."
+      ],
+      "bullets": [
+        "Cierre definitivo del local en Oxford Street tras tres años.",
+        "La empresa califica la ubicación actual como inviable.",
+        "HMV busca activamente un nuevo emplazamiento en el West End."
+      ],
+      "eventKey": "HMV cierra tienda en Oxford Street",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-daa6dac90b774cd9c890bbf3": {
+    "fingerprint": "2e71cdc34d6bc06d576c0e16",
+    "item": {
+      "id": "n-daa6dac90b774cd9c890bbf3",
+      "url": "https://www.durangon.com/dos-traslados-a-centros-sanitarios-en-unas-zezenak-dira-con-seis-vaquillas/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-12T09:05:39+00:00",
+      "sourceTitle": "Dos traslados a centros sanitarios en unas ‘zezenak dira’ con seis vaquillas",
+      "fingerprint": "2e71cdc34d6bc06d576c0e16",
+      "title": "Dos personas hospitalizadas durante las vaquillas de Durango",
+      "summary": "La celebración de las 'zezenak dira' en Durango ha concluido con el traslado de dos personas a centros sanitarios tras la suelta de seis vaquillas.",
+      "paragraphs": [
+        "El evento taurino, que contó con la participación de seis reses, ha dejado un balance de dos heridos que han requerido asistencia hospitalaria.",
+        "Por otro lado, la programación festiva continúa con el txupinazo-txiki, que será protagonizado por el centro educativo Jesuitak Ikastetxea a las 13.00 horas."
+      ],
+      "bullets": [
+        "Dos traslados a centros sanitarios.",
+        "Participación de seis vaquillas en el festejo.",
+        "El colegio Jesuitak Ikastetxea dará el txupinazo-txiki."
+      ],
+      "eventKey": "dos personas trasladadas a hospitales tras vaquillas en Durango",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-3fd8e6d5d591134a723678b7": {
+    "fingerprint": "4928ebabef51fe84a515aef1",
+    "item": {
+      "id": "n-3fd8e6d5d591134a723678b7",
+      "url": "https://www.eldiario.es/politica/abascal-planta-reyes-12-octubre-irse-ceuta-ultra-bardella-no-quiero-compartir-tribuna-traidores_1_13579298.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-12T11:08:13+00:00",
+      "sourceTitle": "Abascal planta a los reyes el 12 de octubre para irse a Ceuta con el ultra Bardella: \"No quiero compartir tribuna con traidores\"",
+      "fingerprint": "4928ebabef51fe84a515aef1",
+      "title": "Santiago Abascal evita el desfile del 12 de octubre para viajar a Ceuta con Jordan Bardella",
+      "summary": "El líder de Vox ha declinado asistir a los actos oficiales con los reyes y el Gobierno, optando por desplazarse a Ceuta junto al político francés Jordan Bardella. Abascal ha justificado su ausencia alegando que no desea compartir espacio con quienes considera traidores.",
+      "paragraphs": [
+        "Santiago Abascal ha vuelto a ausentarse del desfile militar del 12 de octubre, repitiendo el gesto que ya realizó el año pasado. En esta ocasión, el dirigente de Vox ha preferido trasladarse a Ceuta para reivindicar la soberanía territorial en compañía del ultra francés Jordan Bardella.",
+        "Durante su estancia en la ciudad autónoma, Abascal ha reiterado sus exigencias sobre la gestión migratoria, abogando por la militarización de la frontera y la expulsión de migrantes. El líder político ha calificado la situación actual como una invasión y ha prometido futuras repatriaciones si logra cambiar la política nacional."
+      ],
+      "bullets": [
+        "Abascal rechaza asistir a la tribuna oficial por considerar que está llena de traidores.",
+        "El líder de Vox ha estado acompañado por Jordan Bardella, de la formación francesa Agrupación Nacional.",
+        "El presidente ceutí, Juan Jesús Vivas, sí ha participado en el desfile junto a otras autoridades.",
+        "El dirigente ultra ha prometido medidas de repatriación y la expulsión de extranjeros que perciban ayudas sociales."
+      ],
+      "eventKey": "Santiago Abascal viaja a Ceuta con Jordan Bardella",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-1f057c927240d7dc5029670e": {
+    "fingerprint": "68363c0e74e0e473569c6988",
+    "item": {
+      "id": "n-1f057c927240d7dc5029670e",
+      "url": "https://www.theguardian.com/world/2026/oct/12/melbourne-mycentre-mosque-flydubai-hijacker-facebook-video-post-ntwnfb",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-12T12:27:58+00:00",
+      "sourceTitle": "Melbourne Islamic leader rejects centre’s alleged Flydubai hijacker links after Facebook video",
+      "fingerprint": "68363c0e74e0e473569c6988",
+      "title": "Un líder islámico de Melbourne niega vínculos con el presunto secuestrador de un avión de Flydubai",
+      "summary": "Samir Mohtadi ha rechazado cualquier relación con el piloto acusado de secuestrar un vuelo de Flydubai tras la difusión de un vídeo en Facebook. El Gobierno de los Emiratos Árabes Unidos sostiene que el sospechoso se radicalizó durante su etapa universitaria en Australia.",
+      "paragraphs": [
+        "El dirigente del centro islámico MyCentre, Samir Mohtadi, ha desmentido las acusaciones que le vinculan con Hammam al-Hammami, el ciudadano omaní de 29 años señalado por el secuestro. Mohtadi asegura no haber conocido nunca al sospechoso y ha condenado explícitamente cualquier tipo de violencia.",
+        "Por su parte, las autoridades emiratíes afirman haber rastreado el historial del acusado, situando el inicio de su proceso de radicalización en el año 2017, cuando cursaba estudios en la Universidad RMIT de Melbourne."
+      ],
+      "bullets": [
+        "El líder de MyCentre niega conocer al sospechoso.",
+        "El Gobierno de los EAU vincula la radicalización del piloto con su estancia en Melbourne.",
+        "El acusado, Hammam al-Hammami, habría iniciado su deriva extremista en 2017."
+      ],
+      "eventKey": "Samir Mohtadi y Hammam al-Hammami vinculación secuestro Melbourne",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-c378b1d18a9ae5dfbbecab96": {
+    "fingerprint": "ee0b759578c2aa21cfc7fed4",
+    "item": {
+      "id": "n-c378b1d18a9ae5dfbbecab96",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-12T04:34:24+00:00",
+      "sourceTitle": "Scientists discover vanilla’s hidden healing potential",
+      "fingerprint": "ee0b759578c2aa21cfc7fed4",
+      "title": "La vainillina podría tener propiedades curativas",
+      "summary": "Investigadores han identificado que el compuesto responsable del sabor de la vainilla posee capacidades para combatir infecciones y favorecer la regeneración de tejidos. Este ingrediente podría integrarse en futuros tratamientos médicos avanzados.",
+      "paragraphs": [
+        "Un equipo científico ha hallado que la vainillina cuenta con propiedades beneficiosas para la salud, destacando su potencial para reducir inflamaciones y tratar heridas. Debido a su bajo coste y disponibilidad, se perfila como un elemento prometedor para la medicina regenerativa.",
+        "Aunque todavía se encuentra en fase de estudio, los expertos sugieren que este compuesto podría convertirse en un componente clave en el desarrollo de nuevas terapias para la curación de lesiones."
+      ],
+      "bullets": [
+        "Propiedades antiinflamatorias y antibacterianas.",
+        "Potencial aplicación en medicina regenerativa.",
+        "Ventaja por su bajo coste y alta disponibilidad."
+      ],
+      "eventKey": "científicos-descubren-propiedades-curativas-vainillina",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-9d2e3538f5941923e54674be": {
+    "fingerprint": "523faf859c7265fa726d6db3",
+    "item": {
+      "id": "n-9d2e3538f5941923e54674be",
+      "url": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-12T09:11:46+00:00",
+      "sourceTitle": "How to avoid getting stung if you miss credit card payments",
+      "fingerprint": "523faf859c7265fa726d6db3",
+      "title": "Consejos para gestionar el impago de tarjetas de crédito",
+      "summary": "Ante el aumento de los usuarios que se retrasan en sus pagos, se ofrecen recomendaciones para buscar asesoramiento financiero adecuado.",
+      "paragraphs": [
+        "El incremento en el número de personas con dificultades para cumplir con sus obligaciones de crédito ha motivado la difusión de pautas para afrontar estas deudas.",
+        "Se sugiere recurrir a servicios especializados de asesoramiento para evitar consecuencias negativas derivadas de los impagos."
+      ],
+      "bullets": [
+        "Aumento de los retrasos en los pagos de tarjetas de crédito.",
+        "Recomendación de buscar ayuda profesional para gestionar la deuda."
+      ],
+      "eventKey": "usuarios-impago-tarjetas-credito",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-b3686d7c16ebd807424414f9": {
+    "fingerprint": "008e71a5a0c284974b66c5a8",
+    "item": {
+      "id": "n-b3686d7c16ebd807424414f9",
+      "url": "https://elpais.com/cultura/cine/2026-10-12/los-demonios-cuando-ken-russell-rodo-unas-monjas-masturbandose-con-un-gigantesco-cristo-crucificado.html",
+      "source": "El País",
+      "section": "cultura",
+      "lang": "es",
+      "publishedAt": "2026-10-12T03:30:01+00:00",
+      "sourceTitle": "‘Los demonios’: cuando Ken Russell rodó unas monjas masturbándose con un gigantesco cristo crucificado",
+      "fingerprint": "008e71a5a0c284974b66c5a8",
+      "title": "El estreno íntegro de 'Los demonios' tras décadas de censura",
+      "summary": "La polémica película de Ken Russell, que sufrió cortes por parte de la censura británica en 1971, llega finalmente a las salas comerciales en su versión completa tras su exhibición en el Festival de Sitges.",
+      "paragraphs": [
+        "El drama histórico, protagonizado por Vanessa Redgrave y Oliver Reed, fue objeto de una tijera censora que eliminó un minuto de metraje hace más de cinco décadas debido a su contenido explícito.",
+        "Tras su reciente paso por el Festival de Sitges, la obra se prepara para su distribución en cines manteniendo su integridad original."
+      ],
+      "bullets": [
+        "La censura británica recortó la cinta original en 1971.",
+        "El filme cuenta con las interpretaciones de Vanessa Redgrave y Oliver Reed.",
+        "La versión sin cortes se estrena en salas comerciales tras su proyección en Sitges."
+      ],
+      "eventKey": "Ken Russell-estreno versión íntegra-Sitges",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-ceb2effb5b81bdb70a60f2f6": {
+    "fingerprint": "804a8e9ea1ab705e67093c7a",
+    "item": {
+      "id": "n-ceb2effb5b81bdb70a60f2f6",
+      "url": "https://www.europapress.es/euskadi/noticia-nueve-personas-desalojadas-madrugada-incendio-vivienda-san-sebastian-20261012110258.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-12T09:02:58+00:00",
+      "sourceTitle": "Nueve personas desalojadas durante esta madrugada por el incendio de una vivienda en San Sebastián",
+      "fingerprint": "804a8e9ea1ab705e67093c7a",
+      "title": "Desalojo de nueve personas en San Sebastián tras un incendio",
+      "summary": "Un fuego ocurrido durante la madrugada ha obligado a evacuar un edificio en San Sebastián, resultando una persona hospitalizada por inhalación de humo.",
+      "paragraphs": [
+        "Un incendio ha afectado a un inmueble en San Sebastián durante la pasada madrugada, provocando el desalojo de nueve residentes. Las autoridades locales han confirmado el suceso y la intervención de los servicios de emergencia.",
+        "Una de las personas afectadas ha requerido traslado hospitalario debido a la inhalación de humo, según han comunicado el Departamento de Seguridad y el Ayuntamiento de la ciudad."
+      ],
+      "bullets": [
+        "Nueve personas desalojadas de un edificio.",
+        "Una persona hospitalizada por inhalación de humo.",
+        "Incendio declarado durante la madrugada."
+      ],
+      "eventKey": "nueve personas desalojadas incendio San Sebastián",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-baf314996ba882ff0081ec82": {
+    "fingerprint": "d5a40cc9319e546fb8357848",
+    "item": {
+      "id": "n-baf314996ba882ff0081ec82",
+      "url": "https://www.europapress.es/nacional/noticia-barbero-sumar-pide-tranquilidad-aspira-anunciar-cuanto-antes-lista-unica-integre-podemos-20261012112852.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-12T09:28:52+00:00",
+      "sourceTitle": "Barbero (Sumar) pide \"tranquilidad\" y aspira a anunciar \"cuanto antes\" una lista única que integre a Podemos",
+      "fingerprint": "d5a40cc9319e546fb8357848",
+      "title": "Sumar busca una candidatura unitaria con Podemos para el 29-N",
+      "summary": "Verónica Martínez Barbero ha solicitado calma ante el proceso de negociación para conformar una lista electoral conjunta a la izquierda del PSOE.",
+      "paragraphs": [
+        "La co-coordinadora de Movimiento Sumar, Verónica Martínez Barbero, ha instado a mantener la tranquilidad mientras se trabaja en la configuración de una candidatura única. El objetivo es integrar a Podemos en una lista común de cara a los comicios previstos para el próximo 29 de noviembre."
+      ],
+      "bullets": [
+        "Sumar apuesta por una lista única a la izquierda del PSOE.",
+        "La formación busca incluir a Podemos en la coalición electoral.",
+        "El proceso de negociación se encuentra en fase de articulación."
+      ],
+      "eventKey": "Verónica Martínez Barbero busca integrar a Podemos en una lista única",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-cc1852ad81be8243caf0f8c4": {
+    "fingerprint": "432d08bf363671b71ea1e82d",
+    "item": {
+      "id": "n-cc1852ad81be8243caf0f8c4",
+      "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-12T12:15:01+00:00",
+      "sourceTitle": "Who are the Houthis, and why are they so hard to fight?",
+      "fingerprint": "432d08bf363671b71ea1e82d",
+      "title": "El desafío militar de los hutíes",
+      "summary": "Un análisis de la BBC examina cómo las tácticas de guerrilla y los ataques de precisión de los hutíes, respaldados por Irán, complican las operaciones de las fuerzas saudíes.",
+      "paragraphs": [
+        "El corresponsal de seguridad Frank Gardner detalla las dificultades que enfrentan las fuerzas saudíes para imponerse en el conflicto. La capacidad operativa de los hutíes ha demostrado ser un obstáculo persistente en la región.",
+        "La estrategia empleada por este grupo, caracterizada por el uso de tácticas irregulares y ataques precisos, mantiene la incertidumbre sobre el desenlace de los enfrentamientos."
+      ],
+      "bullets": [
+        "Los hutíes cuentan con el respaldo de Irán.",
+        "Sus tácticas de guerrilla dificultan la superioridad saudí.",
+        "Los ataques de precisión son un elemento clave de su estrategia."
+      ],
+      "eventKey": "hutíes-enfrentamiento-saudíes",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-d907d34c9b164c55331952f8": {
+    "fingerprint": "a92461919c930b23e2d969b7",
+    "item": {
+      "id": "n-d907d34c9b164c55331952f8",
+      "url": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
+      "source": "Ars Technica",
+      "section": "tecnologia",
+      "lang": "en",
+      "publishedAt": "2026-10-11T18:10:54+00:00",
+      "sourceTitle": "Review: 4-hour Musk documentary feels like two different films",
+      "fingerprint": "a92461919c930b23e2d969b7",
+      "title": "Crítica del documental sobre Elon Musk de Alex Gibney",
+      "summary": "Un nuevo documental de cuatro horas sobre Elon Musk ha sido calificado como una obra interesante pero excesivamente larga, que aporta escasa información novedosa.",
+      "paragraphs": [
+        "El cineasta Alex Gibney ha estrenado un largometraje documental centrado en la figura de Elon Musk. La crítica señala que la pieza resulta cautivadora, aunque su extensa duración afecta al ritmo narrativo.",
+        "El análisis destaca que la cinta parece dividida en dos partes diferenciadas y advierte que los espectadores familiarizados con la trayectoria del empresario no encontrarán revelaciones significativas."
+      ],
+      "bullets": [
+        "El documental tiene una duración de cuatro horas.",
+        "Se percibe una falta de contenido inédito para el público especializado.",
+        "La estructura del filme genera la sensación de estar ante dos películas distintas."
+      ],
+      "eventKey": "Alex Gibney estrena documental sobre Elon Musk",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-fc4dfdd38e5cbd0c5710b51f": {
+    "fingerprint": "ba3c7f87c0d34bfaf57c5f34",
+    "item": {
+      "id": "n-fc4dfdd38e5cbd0c5710b51f",
+      "url": "https://elpais.com/cultura/2026-10-12/nik-cohn-el-hombre-a-la-contra.html",
+      "source": "El País",
+      "section": "cultura",
+      "lang": "es",
+      "publishedAt": "2026-10-12T03:30:01+00:00",
+      "sourceTitle": "Nik Cohn, el hombre a la contra",
+      "fingerprint": "ba3c7f87c0d34bfaf57c5f34",
+      "title": "Nik Cohn, una figura a contracorriente",
+      "summary": "El escritor británico Nik Cohn es descrito como un personaje propenso a los conflictos, una faceta que, según él mismo, resulta provechosa para su obra literaria.",
+      "paragraphs": [
+        "El autor es definido como un caballero británico con una marcada inclinación a involucrarse en situaciones problemáticas.",
+        "Cohn sostiene que esta tendencia a buscar líos actúa como un beneficio directo para el desarrollo de su literatura."
+      ],
+      "bullets": [
+        "Perfil de Nik Cohn como escritor polémico.",
+        "Relación entre su actitud personal y su producción literaria."
+      ],
+      "eventKey": "Nik Cohn reflexiona sobre su trayectoria",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-d0259873f133008115705ff9": {
+    "fingerprint": "f90f95999de38f07cdf5ba08",
+    "item": {
+      "id": "n-d0259873f133008115705ff9",
+      "url": "https://www.durangon.com/tocar-en-casa-es-la-leche-aunque-no-te-voy-a-mentir-sientes-mas-responsabilidad/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-12T04:14:10+00:00",
+      "sourceTitle": "“Tocar en casa es la leche, aunque no te voy a mentir, sientes más responsabilidad”",
+      "fingerprint": "f90f95999de38f07cdf5ba08",
+      "title": "Jon García Zabala presenta su nuevo álbum en Durango",
+      "summary": "El músico durangarra Jon García Zabala actúa hoy en el escenario de Ezkurdi para dar a conocer su primer trabajo discográfico en solitario.",
+      "paragraphs": [
+        "El artista local Jon García Zabala protagoniza esta jornada una actuación en Ezkurdi. El evento sirve como marco para la presentación oficial de 'Oraina eskuetan', el álbum debut de su proyecto personal.",
+        "El músico ha reconocido que actuar ante su público local le genera una mayor sensación de responsabilidad, a pesar de la satisfacción que le supone tocar en casa."
+      ],
+      "bullets": [
+        "Presentación del álbum 'Oraina eskuetan'.",
+        "Concierto en el escenario de Ezkurdi.",
+        "El artista destaca la responsabilidad de actuar ante sus vecinos."
+      ],
+      "eventKey": "Jon García Zabala presenta álbum en Durango",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-be5840d580ef2439bfe87263": {
+    "fingerprint": "e693784688dc1df5c7592d9d",
+    "item": null
+  },
+  "n-89e576d4d126b2554ad07221": {
+    "fingerprint": "741afc121b6d0ad50cef9873",
+    "item": {
+      "id": "n-89e576d4d126b2554ad07221",
+      "url": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-12T11:49:34+00:00",
+      "sourceTitle": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
+      "fingerprint": "741afc121b6d0ad50cef9873",
+      "title": "Arabia Saudí prolonga la suspensión de vuelos tras un nuevo ataque hutí",
+      "summary": "Las autoridades saudíes han extendido el cierre de su principal aeropuerto internacional en Riad tras sufrir una nueva oleada de ataques con misiles por parte de los rebeldes hutíes.",
+      "paragraphs": [
+        "El Gobierno saudí ha decidido mantener la suspensión de todas las operaciones aéreas en su aeropuerto principal después de que un reciente ataque causara daños materiales y al menos una víctima mortal. Esta medida se suma a la respuesta ante la ofensiva del pasado sábado, que dejó un balance de 13 fallecidos y más de 300 heridos.",
+        "A pesar de la gravedad de los incidentes y la vulnerabilidad de sus defensas, el ministro de Energía ha declarado que el miedo no tiene cabida en el país, mientras las autoridades investigan cómo el grupo paramilitar logró vulnerar nuevamente la seguridad de la infraestructura."
+      ],
+      "bullets": [
+        "Suspensión extendida de vuelos en el aeropuerto internacional de Riad.",
+        "Balance de 13 muertos y 300 heridos tras el ataque del sábado.",
+        "Nuevos daños y una víctima mortal confirmada en la última ofensiva.",
+        "El grupo hutí logra superar las defensas aéreas saudíes."
+      ],
+      "eventKey": "Arabia Saudí-suspensión vuelos-Riad",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-ff70ffaea1de9167bad2d3ce": {
+    "fingerprint": "b4371b3acc850c042f81963a",
+    "item": {
+      "id": "n-ff70ffaea1de9167bad2d3ce",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008102721.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-12T00:51:31+00:00",
+      "sourceTitle": "Just 10 minutes of daily exercise could unlock deeper sleep",
+      "fingerprint": "b4371b3acc850c042f81963a",
+      "title": "Diez minutos de ejercicio diario podrían mejorar la calidad del sueño",
+      "summary": "Un estudio de la Universidad de Texas en Austin sugiere que una breve actividad física diaria favorece un descanso más profundo y reparador. Los investigadores señalan que incluso ejercicios ligeros se asocian con beneficios en el estado de ánimo y la recuperación cerebral.",
+      "paragraphs": [
+        "Investigadores de la Universidad de Texas en Austin han hallado una relación directa entre la frecuencia del ejercicio y la obtención de un sueño más profundo. Este tipo de descanso resulta fundamental para procesos cognitivos como la memoria y la estabilidad emocional.",
+        "El análisis destaca que bastan diez minutos de actividad moderada o intensa para observar mejoras significativas. Asimismo, prácticas sencillas como caminar o realizar pausas activas durante la jornada también se vinculan con un mayor bienestar general."
+      ],
+      "bullets": [
+        "El ejercicio frecuente facilita un sueño más reparador.",
+        "Diez minutos diarios de actividad moderada ofrecen beneficios medibles.",
+        "Las actividades ligeras, como caminar, también mejoran el estado de ánimo."
+      ],
+      "eventKey": "investigadores UT Austin vinculan ejercicio y sueño",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-91b8aef85af2d4aa85540580": {
+    "fingerprint": "67706097d85f127c793dfdd8",
+    "item": {
+      "id": "n-91b8aef85af2d4aa85540580",
+      "url": "https://www.xataka.com/empresas-y-economia/gran-paradoja-ia-que-creara-empleo-que-destruye-problema-que-casi-nadie-esta-preparado",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-12T11:30:27+00:00",
+      "sourceTitle": "La gran paradoja de la IA es que creará más empleo del que destruye. El problema es que casi nadie está preparado",
+      "fingerprint": "67706097d85f127c793dfdd8",
+      "title": "La paradoja de la IA: creación de empleo frente a la falta de preparación",
+      "summary": "Aunque la inteligencia artificial automatizará numerosas tareas, los informes sugieren que el mercado laboral experimentará un desplazamiento de roles más que una destrucción neta de puestos. El principal desafío reside en la necesidad de formación y movilidad profesional para adaptarse a esta transformación.",
+      "paragraphs": [
+        "Un informe de McKinsey proyecta que, para 2035, la automatización reducirá la demanda de horas de trabajo equivalente a 36 millones de empleos en Estados Unidos. Sin embargo, la mayoría de estos puestos se compensarán mediante la reconfiguración de tareas dentro de las mismas profesiones, permitiendo que los empleados mantengan su ocupación.",
+        "El verdadero reto se sitúa en los 11 millones de trabajadores estadounidenses que deberán reciclarse profesionalmente. Expertos señalan que el impacto global se traducirá en el desplazamiento de 92 millones de empleos, donde la capacidad de adquirir nuevas habilidades será determinante para la empleabilidad futura."
+      ],
+      "bullets": [
+        "La IA eliminará tareas rutinarias, pero potenciará funciones humanas como la supervisión y el trato con el cliente.",
+        "El efecto Jevons sugiere que el abaratamiento de tareas mediante la IA podría aumentar la demanda de las mismas.",
+        "El mercado laboral actual muestra una brecha donde los perfiles sénior se ven más favorecidos que los júnior.",
+        "McKinsey clasifica la transición laboral en rutas directas, indirectas y sin pavimentar, dependiendo de la formación requerida."
+      ],
+      "eventKey": "McKinsey y Foro Económico Mundial analizan impacto IA en mercado laboral",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-6490f52bc4e27312714a75a7": {
+    "fingerprint": "624d5b38821b45a3c0945ff9",
+    "item": {
+      "id": "n-6490f52bc4e27312714a75a7",
+      "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-12T08:50:22+00:00",
+      "sourceTitle": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
+      "fingerprint": "624d5b38821b45a3c0945ff9",
+      "title": "El Gobierno británico afronta un déficit de 35.000 millones para cumplir sus promesas",
+      "summary": "El Instituto de Estudios Fiscales advierte de que el Ejecutivo necesitará inyectar miles de millones adicionales para cubrir sus compromisos de gasto.",
+      "paragraphs": [
+        "El ministro de Hacienda, John Healey, se enfrenta a un complejo escenario presupuestario. Según el análisis del Instituto de Estudios Fiscales, los planes de gasto actuales requieren una financiación extra significativa para materializarse.",
+        "La institución señala que, sin este incremento en los fondos, el Gobierno tendrá dificultades para cumplir con los objetivos económicos prometidos."
+      ],
+      "bullets": [
+        "El déficit estimado para alcanzar los compromisos de gasto asciende a 35.000 millones de libras.",
+        "El Instituto de Estudios Fiscales sugiere la necesidad de una inyección de capital adicional."
+      ],
+      "eventKey": "John Healey afronta desafío presupuestario en Reino Unido",
+      "partial": true,
+      "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
