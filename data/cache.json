@@ -5434,5 +5434,173 @@
       "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-6bf88a90b26eb46864328253": {
+    "fingerprint": "388b2068c5a4790e52ce65a8",
+    "item": {
+      "id": "n-6bf88a90b26eb46864328253",
+      "url": "https://www.europapress.es/euskadi/noticia-tramo-salve-txorierri-tuneles-artxanda-cerrara-cinco-meses-obras-20261013142150.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-13T12:21:50+00:00",
+      "sourceTitle": "El tramo La Salve-Txorierri de los Túneles de Artxanda cerrará durante cinco meses por obras",
+      "fingerprint": "388b2068c5a4790e52ce65a8",
+      "title": "Cierre de cinco meses en los Túneles de Artxanda por obras",
+      "summary": "El tramo que conecta La Salve con Txorierri permanecerá inhabilitado al tráfico a partir de noviembre para llevar a cabo una rehabilitación integral.",
+      "paragraphs": [
+        "El diputado foral de Infraestructuras y Desarrollo Territorial, Carlos Alzaga, ha confirmado que el tramo de los Túneles de Artxanda entre La Salve y Txorierri cerrará durante cinco meses. La medida, que comenzará el 2 de noviembre, tiene como objetivo realizar una reforma completa de la infraestructura."
+      ],
+      "bullets": [
+        "El cierre se prolongará durante cinco meses.",
+        "Las obras comenzarán el 2 de noviembre.",
+        "La intervención consiste en una rehabilitación integral del tramo."
+      ],
+      "eventKey": "Carlos Alzaga anuncia cierre de Túneles de Artxanda",
+      "partial": true,
+      "summarizedAt": "2026-10-13T12:34:06.352060+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-89d85098e438eac1b89c0fe2": {
+    "fingerprint": "fe43682db03b86eb011a6d81",
+    "item": {
+      "id": "n-89d85098e438eac1b89c0fe2",
+      "url": "https://www.europapress.es/nacional/noticia-gobierno-escuda-fue-hecho-puntual-justificar-no-informo-entrada-buques-marroquies-20261013142245.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-13T12:22:45+00:00",
+      "sourceTitle": "El Gobierno se escuda en que fue un \"hecho puntual\" para justificar que no se informó de la entrada de buques marroquíes",
+      "fingerprint": "fe43682db03b86eb011a6d81",
+      "title": "El Gobierno justifica su silencio sobre la incursión de buques marroquíes en Ceuta",
+      "summary": "El Ejecutivo califica de hecho puntual la entrada de embarcaciones de la Marina de Marruecos en aguas ceutíes durante la crisis migratoria de julio, argumentando que esta naturaleza justifica la falta de comunicación pública.",
+      "paragraphs": [
+        "La portavoz del Gobierno, Elma Saiz, ha defendido que la incursión de buques marroquíes en aguas de Ceuta los días 30 y 31 de julio no requirió información oficial al tratarse de un suceso aislado. Según el Ejecutivo, la situación se solventó mediante canales diplomáticos.",
+        "Este episodio coincidió temporalmente con una entrada masiva de migrantes en la ciudad autónoma, un contexto que ha generado críticas por la ausencia de explicaciones previas por parte del Gobierno."
+      ],
+      "bullets": [
+        "La incursión ocurrió los días 30 y 31 de julio.",
+        "El Gobierno sostiene que el incidente se resolvió mediante el diálogo.",
+        "La falta de información se justifica por el carácter puntual del suceso."
+      ],
+      "eventKey": "Gobierno-justifica-incursión-buques-Marruecos-Ceuta",
+      "partial": true,
+      "summarizedAt": "2026-10-13T12:34:06.352060+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-1133ed9cb913ff9511f943eb": {
+    "fingerprint": "44af56edce4fe39a74e487e8",
+    "item": {
+      "id": "n-1133ed9cb913ff9511f943eb",
+      "url": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-13T12:24:05+00:00",
+      "sourceTitle": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – Europe live",
+      "fingerprint": "44af56edce4fe39a74e487e8",
+      "title": "Zelensky afirma que Rusia ignoró la petición de alto el fuego de Trump",
+      "summary": "El presidente ucraniano denuncia que Rusia ha continuado sus ataques contra Kiev sin previo aviso, desoyendo la propuesta de tregua energética de Donald Trump.",
+      "paragraphs": [
+        "Volodímir Zelenski ha señalado que los bombardeos rusos sobre la capital ucraniana se produjeron sin una advertencia temprana, a pesar de los llamamientos internacionales para un cese de hostilidades en el sector energético.",
+        "Por su parte, el ministro polaco Radosław Sikorski ha rechazado categóricamente cualquier posibilidad de devolver a Rusia los activos financieros que permanecen bloqueados, calificando la idea como inaceptable."
+      ],
+      "bullets": [
+        "Ucrania ha suspendido temporalmente sus ataques contra refinerías rusas tras el anuncio de Trump.",
+        "Polonia se opone frontalmente a la liberación de los activos rusos congelados.",
+        "El gobierno alemán reafirma su respaldo total al liderazgo de Zelenski."
+      ],
+      "eventKey": "Zelensky-denuncia-ataques-Rusia-Kiev",
+      "partial": true,
+      "summarizedAt": "2026-10-13T12:34:06.352060+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-43d93783ae07d33623651942": {
+    "fingerprint": "2e804273b37d8b72ad9833b5",
+    "item": {
+      "id": "n-43d93783ae07d33623651942",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-13T11:27:24+00:00",
+      "sourceTitle": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
+      "fingerprint": "2e804273b37d8b72ad9833b5",
+      "title": "El telescopio James Webb halla un cúmulo galáctico que cuestiona las teorías cosmológicas",
+      "summary": "El observatorio espacial ha detectado una estructura antigua con una densidad de materia oscura imprevista. Este hallazgo sugiere una relación inédita entre la luz estelar dispersa y la materia invisible que podría alterar el estudio del universo temprano.",
+      "paragraphs": [
+        "El telescopio James Webb ha identificado un cúmulo de galaxias ancestral que presenta una concentración de materia oscura inusualmente elevada. Este descubrimiento pone en entredicho los modelos actuales sobre la evolución del cosmos.",
+        "La investigación ha revelado además un vínculo inesperado entre la luz de las estrellas y la materia oscura. Este fenómeno podría modificar las metodologías empleadas por los astrónomos para analizar las etapas iniciales del universo."
+      ],
+      "bullets": [
+        "Detección de un cúmulo galáctico con una densidad de materia oscura inesperada.",
+        "Hallazgo de una conexión entre la luz estelar dispersa y la materia oscura.",
+        "Posible reevaluación de las teorías sobre el desarrollo del universo."
+      ],
+      "eventKey": "James Webb descubre cúmulo galáctico",
+      "partial": true,
+      "summarizedAt": "2026-10-13T12:34:06.352060+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-ad6b4abfde661494b0906f2e": {
+    "fingerprint": "7d21f860e2ad0c59c5f7a3c9",
+    "item": {
+      "id": "n-ad6b4abfde661494b0906f2e",
+      "url": "https://www.xataka.com/seleccion/mejores-chollos-tecnologia-que-hemos-encontrado-amazon-hoy-13-octubre-descuentos-73",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-13T12:16:26+00:00",
+      "sourceTitle": "Los mejores chollos en tecnología que hemos encontrado en Amazon hoy, 13 de octubre: descuentos de hasta el 73%",
+      "fingerprint": "7d21f860e2ad0c59c5f7a3c9",
+      "title": "Selección de ofertas tecnológicas en Amazon para el 13 de octubre",
+      "summary": "Xataka ha recopilado una serie de descuentos en dispositivos electrónicos disponibles hoy en Amazon, destacando rebajas significativas en robots aspiradores, mobiliario de oficina y equipos de conectividad.",
+      "paragraphs": [
+        "La plataforma ha destacado diversas oportunidades de compra que incluyen desde soluciones para el hogar inteligente hasta equipamiento para el teletrabajo. Entre los artículos seleccionados se encuentran dispositivos de streaming, routers de alta velocidad y sistemas de climatización.",
+        "Los precios indicados están sujetos a posibles variaciones y la publicación advierte sobre la obtención de comisiones a través de los enlaces facilitados."
+      ],
+      "bullets": [
+        "Robot aspirador Lefant M3 MAX con un descuento del 73%.",
+        "Escritorio elevable Devaise rebajado un 45%.",
+        "Fire TV Stick 4K Select disponible con una reducción del 60%.",
+        "Router WiFi 6 Cudy 5G NR AX3000 a precio promocional."
+      ],
+      "eventKey": "Xataka-selecciona-ofertas-Amazon",
+      "partial": true,
+      "summarizedAt": "2026-10-13T12:34:06.352060+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-36cd3c034800949469389dad": {
+    "fingerprint": "8c0040f5338c72644044263f",
+    "item": {
+      "id": "n-36cd3c034800949469389dad",
+      "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-13T12:27:36+00:00",
+      "sourceTitle": "Car finance compensation payments delayed until next year",
+      "fingerprint": "8c0040f5338c72644044263f",
+      "title": "Aplazados hasta el próximo año los pagos de compensación por financiación de vehículos",
+      "summary": "El proceso de indemnización para millones de afectados por los acuerdos de comisiones entre prestamistas y concesionarios se retrasa hasta 2026.",
+      "paragraphs": [
+        "Los pagos previstos para compensar a los clientes por las irregularidades en los acuerdos de financiación automovilística no se efectuarán este año. La resolución de estas reclamaciones, que afectan a millones de personas, se pospone hasta el próximo ejercicio.",
+        "La medida responde a las dudas sobre la gestión de las comisiones pactadas entre las entidades financieras y los vendedores de vehículos, un asunto que sigue generando incertidumbre sobre el alcance final de las compensaciones."
+      ],
+      "bullets": [
+        "Millones de usuarios podrían tener derecho a recibir una indemnización.",
+        "El retraso afecta a los acuerdos de comisiones entre prestamistas y concesionarios.",
+        "Los pagos se han pospuesto hasta el año que viene."
+      ],
+      "eventKey": "clientes-reclamacion-financiacion-vehiculos",
+      "partial": true,
+      "summarizedAt": "2026-10-13T12:34:06.352060+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
