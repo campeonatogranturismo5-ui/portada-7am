@@ -5602,5 +5602,118 @@
       "summarizedAt": "2026-10-13T12:34:06.352060+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-c9c935082ff2e2e1e409b332": {
+    "fingerprint": "33e6405762b5253b05b52828",
+    "item": {
+      "id": "n-c9c935082ff2e2e1e409b332",
+      "url": "https://www.durangon.com/el-zornotza-aretoa-escoge-el-estreno-de-tetratxu-de-la-premiada-anita-maravillas-para-abrir-su-temporada/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-14T09:23:29+00:00",
+      "sourceTitle": "El Zornotza aretoa escoge el estreno de ‘Tetratxu’, de la premiada Anita Maravillas, para abrir su temporada",
+      "fingerprint": "33e6405762b5253b05b52828",
+      "title": "El Zornotza Aretoa inaugura su temporada con el estreno de 'Tetratxu'",
+      "summary": "El espacio cultural inicia su programación de otoño e invierno con la nueva obra de la compañía Anita Maravillas. La cartelera prevista hasta enero contempla un total de 20 espectáculos en directo.",
+      "paragraphs": [
+        "El Zornotza Aretoa ha seleccionado el estreno de 'Tetratxu', la última creación de la compañía Anita Maravillas, para dar comienzo a su nueva temporada de artes escénicas.",
+        "La programación anunciada por el centro cultural abarca hasta el próximo mes de enero y suma un total de 20 propuestas diferentes para el público."
+      ],
+      "bullets": [
+        "Estreno de la obra 'Tetratxu' como evento inaugural.",
+        "La compañía Anita Maravillas es la responsable del montaje.",
+        "La agenda incluye 20 espectáculos programados hasta enero."
+      ],
+      "eventKey": "Zornotza Aretoa y Anita Maravillas presentan Tetratxu en Amorebieta-Etxano",
+      "partial": true,
+      "summarizedAt": "2026-10-14T10:01:11.154976+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-5ee276d6ce61872b166f644d": {
+    "fingerprint": "051a88e3f27006b8333aefa5",
+    "item": {
+      "id": "n-5ee276d6ce61872b166f644d",
+      "url": "https://www.eldiario.es/politica/miriam-gonzalez-anuncia-ciudadanos-suma-lista-democracia-21_1_13584121.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-14T09:23:20+00:00",
+      "sourceTitle": "Miriam González anuncia que Ciudadanos se suma a la lista de Democracia 21",
+      "fingerprint": "051a88e3f27006b8333aefa5",
+      "title": "Ciudadanos se integrará en la candidatura de Democracia 21 para el 29N",
+      "summary": "La abogada Miriam González ha confirmado que Ciudadanos y UCIN se unirán a su lista electoral, Democracia 21, para las próximas elecciones generales. La formación concurrirá únicamente en las circunscripciones de Madrid y Barcelona.",
+      "paragraphs": [
+        "Miriam González Durántez ha anunciado la incorporación de Ciudadanos y del partido extraparlamentario UCIN a su proyecto político, Democracia 21. La candidata ha agradecido el apoyo de los afiliados, reconociendo las decepciones previas que sufrieron con la antigua dirección de la formación naranja.",
+        "La candidatura, registrada recientemente, afronta el adelanto electoral con un despliegue territorial limitado. Por ello, la estrategia se centrará exclusivamente en obtener representación parlamentaria en Madrid y Barcelona, contando con el respaldo de diversas formaciones locales."
+      ],
+      "bullets": [
+        "Ciudadanos y UCIN se suman a la lista encabezada por Miriam González.",
+        "La formación Democracia 21 solo se presentará en Madrid y Barcelona.",
+        "La candidata busca atraer a quienes apuestan por una forma de gobernar diferente."
+      ],
+      "eventKey": "Miriam González-integra Ciudadanos en Democracia 21-España",
+      "partial": true,
+      "summarizedAt": "2026-10-14T10:01:11.154976+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-4458c877a3c243f70a2403fb": {
+    "fingerprint": "b838cb0f0822491da1dde6d5",
+    "item": {
+      "id": "n-4458c877a3c243f70a2403fb",
+      "url": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-14T09:50:05+00:00",
+      "sourceTitle": "Russian attacks on Ukraine leave 600,000 without power as Zelenskyy says Moscow ‘disrespecting’ US – Europe live",
+      "fingerprint": "b838cb0f0822491da1dde6d5",
+      "title": "Ataques rusos dejan a 600.000 ucranianos sin electricidad",
+      "summary": "Una nueva ofensiva rusa contra infraestructuras energéticas ha privado de suministro a miles de personas, mientras Zelenski denuncia el incumplimiento de un alto el fuego mediado por Estados Unidos.",
+      "paragraphs": [
+        "El presidente ucraniano ha acusado a Moscú de atacar instalaciones protegidas por el cese de hostilidades anunciado por Washington. Paralelamente, se ha reportado una restricción en el acceso de las tropas ucranianas a la red de satélites Starlink.",
+        "Por su parte, el secretario general de la OTAN, Mark Rutte, ha descartado una amenaza inminente contra territorio aliado, calificando las acciones rusas como signos de debilidad. No obstante, ha advertido que la Alianza responderá ante cualquier acumulación de fuerzas en sus fronteras."
+      ],
+      "bullets": [
+        "600.000 personas sin suministro eléctrico tras los ataques.",
+        "Zelenski acusa a Rusia de ignorar el alto el fuego estadounidense.",
+        "Restricciones en el uso de Starlink por parte del ejército ucraniano.",
+        "La OTAN asegura que no hay una amenaza inminente contra sus miembros."
+      ],
+      "eventKey": "Rusia-ataca-infraestructura-Ucrania",
+      "partial": true,
+      "summarizedAt": "2026-10-14T10:01:11.154976+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-59858caca756a75729519973": {
+    "fingerprint": "7cd37964bd97a843f14a1985",
+    "item": {
+      "id": "n-59858caca756a75729519973",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261014001406.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-14T05:44:39+00:00",
+      "sourceTitle": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
+      "fingerprint": "7cd37964bd97a843f14a1985",
+      "title": "Hallada en la India una serpiente prehistórica de dimensiones gigantescas",
+      "summary": "Científicos han identificado los restos de una serpiente de hace 47 millones de años que podría haber alcanzado los 15 metros de longitud. El hallazgo sugiere que este depredador, bautizado como Vasuki indicus, compartía características con la Titanoboa y las anacondas actuales.",
+      "paragraphs": [
+        "El descubrimiento de la Vasuki indicus en territorio indio ha sorprendido a la comunidad científica por su tamaño, comparable al de las serpientes más grandes registradas en la historia. Se estima que este reptil prehistórico era un depredador de emboscada con movimientos lentos debido a su gran envergadura.",
+        "Los investigadores señalan que este ejemplar podría rivalizar con la legendaria Titanoboa, ofreciendo nuevos datos sobre la fauna de hace millones de años."
+      ],
+      "bullets": [
+        "La serpiente vivió hace aproximadamente 47 millones de años.",
+        "Podría haber alcanzado una longitud de hasta 15 metros (50 pies).",
+        "Su comportamiento depredador era similar al de las anacondas modernas."
+      ],
+      "eventKey": "Vasuki indicus hallazgo India",
+      "partial": true,
+      "summarizedAt": "2026-10-14T10:01:11.154976+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
