@@ -5715,5 +5715,33 @@
       "summarizedAt": "2026-10-14T10:01:11.154976+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-3977c180e27e72ca05580cdb": {
+    "fingerprint": "6ef59386711b9ea5280eb5c8",
+    "item": {
+      "id": "n-3977c180e27e72ca05580cdb",
+      "url": "https://www.durangon.com/una-exposicion-de-fotografias-historicas-recupera-la-memoria-de-las-mujeres-baserritarras/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-14T12:16:12+00:00",
+      "sourceTitle": "Una exposición de fotografías históricas recupera la memoria de las mujeres baserritarras",
+      "fingerprint": "6ef59386711b9ea5280eb5c8",
+      "title": "Una muestra fotográfica pone en valor el papel de las mujeres baserritarras",
+      "summary": "Una exposición de imágenes históricas busca rescatar la memoria de las mujeres del ámbito rural vasco. La diputada general, Elixabete Etxanobe, ha aprovechado la ocasión para exigir una mayor participación femenina en la toma de decisiones del sector primario.",
+      "paragraphs": [
+        "La exposición fotográfica reivindica la trayectoria de las mujeres baserritarras, destacando su contribución histórica al entorno rural. El acto ha servido como plataforma para reclamar un papel más activo de este colectivo en los órganos de decisión del sector.",
+        "Elixabete Etxanobe ha subrayado la importancia de reconocer este legado, instando a que su voz sea tenida en cuenta en el diseño del futuro agrícola y ganadero."
+      ],
+      "bullets": [
+        "Recuperación de la memoria histórica de las mujeres baserritarras.",
+        "Reivindicación de mayor presencia femenina en el sector primario.",
+        "Apoyo institucional al legado de las mujeres rurales."
+      ],
+      "eventKey": "Elixabete Etxanobe reivindica papel mujeres baserritarras",
+      "partial": true,
+      "summarizedAt": "2026-10-14T12:20:09.797777+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
