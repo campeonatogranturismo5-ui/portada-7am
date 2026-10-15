@@ -1,668 +1,764 @@
 {
-  "date": "2026-10-12",
-  "updatedAt": "2026-10-12T14:57:07.074151+02:00",
+  "date": "2026-10-15",
+  "updatedAt": "2026-10-15T11:43:16.554431+02:00",
   "timezone": "Europe/Madrid",
   "sections": {
     "euskadi": [
       {
-        "id": "n-d5746f7dbf0396a32a9a888b",
-        "url": "https://www.durangon.com/el-ayuntamiento-condena-los-incidentes-en-las-txosnas-y-muestra-su-apoyo-a-la-policia-municipal/",
+        "id": "n-c30e8a45e5a316b5edf34e97",
+        "url": "https://www.durangon.com/una-encuesta-analizara-las-viviendas-desocupadas-en-durango/",
         "source": "Durangon",
         "section": "euskadi",
         "lang": "es",
-        "publishedAt": "2026-10-12T11:47:27+00:00",
-        "sourceTitle": "El Ayuntamiento condena los incidentes en las txosnas y muestra su apoyo a la Policía Municipal",
-        "fingerprint": "d85d7d1b9559e3dcc75e2780",
-        "title": "El Ayuntamiento de Durango condena los incidentes ocurridos en las txosnas",
-        "summary": "El consistorio ha manifestado su rechazo a los altercados registrados durante la madrugada y ha trasladado su respaldo a los agentes municipales.",
+        "publishedAt": "2026-10-15T03:13:09+00:00",
+        "sourceTitle": "Una encuesta analizará las viviendas desocupadas en Durango",
+        "fingerprint": "1db5bc5ce0deec87f79e9637",
+        "title": "Durango evaluará el estado de sus viviendas vacías",
+        "summary": "El Gobierno Vasco iniciará este mes un estudio para analizar la ocupación de inmuebles en secciones censales y portales específicos de la localidad.",
         "paragraphs": [
-          "El Ayuntamiento de Durango ha condenado formalmente los incidentes producidos esta madrugada en la zona de las txosnas. La institución ha expresado su apoyo a la Policía Municipal tras la intervención realizada por los agentes.",
-          "La actuación policial se produjo después de recibir avisos sobre un individuo que, presuntamente, estaba acosando y amenazando a varias jóvenes portando objetos cortantes."
+          "El Ejecutivo autonómico ha puesto en marcha una investigación para determinar el número de viviendas desocupadas en Durango. El análisis se llevará a cabo mediante una encuesta dirigida a puntos concretos del municipio.",
+          "Los trabajos de campo comenzarán durante el mes de octubre, centrándose en secciones censales y portales seleccionados para obtener datos sobre el parque inmobiliario."
         ],
         "bullets": [
-          "Condena institucional de los hechos.",
-          "Apoyo explícito a la Policía Municipal.",
-          "Intervención ante amenazas y acoso con armas blancas."
+          "El estudio es una iniciativa del Gobierno Vasco.",
+          "La recogida de información se realizará en zonas determinadas.",
+          "El proceso de análisis comienza este mismo mes."
         ],
-        "eventKey": "Ayuntamiento de Durango condena incidentes en txosnas",
+        "eventKey": "Gobierno Vasco analiza viviendas vacías en Durango",
         "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-724536b30d0ed479c528e326",
-        "url": "https://www.europapress.es/euskadi/noticia-osakidetza-registra-mas-219000-citas-vacunarse-frente-gripe-mas-18000-ninos-meses-anos-20261012112015.html",
+        "id": "n-2388f08ed0c8f9d9fe29a202",
+        "url": "https://www.europapress.es/euskadi/noticia-consejero-seguridad-censura-11n-haya-convertido-euskadi-huelga-contra-gobierno-vasco-20261015103522.html",
         "source": "Europa Press Euskadi",
         "section": "euskadi",
         "lang": "es",
-        "publishedAt": "2026-10-12T09:20:15+00:00",
-        "sourceTitle": "Osakidetza registra más de 219.000 citas para vacunarse frente a la gripe, más de 18.000 de niños de 6 meses a 5 años",
-        "fingerprint": "e932a6e46d705f459263320b",
-        "title": "Osakidetza suma más de 219.000 citas para la campaña de vacunación contra la gripe",
-        "summary": "El servicio vasco de salud ha contabilizado más de 219.000 solicitudes de vacunación desde el comienzo de la campaña 2026-2027. Entre los inscritos, destacan más de 18.000 menores de entre seis meses y cinco años.",
+        "publishedAt": "2026-10-15T08:35:22+00:00",
+        "sourceTitle": "El consejero de Seguridad censura que el 11N se haya convertido en Euskadi en \"una huelga contra el Gobierno Vasco\"",
+        "fingerprint": "425a03f9ce557ab3da286583",
+        "title": "El consejero de Seguridad critica el carácter político de la huelga del 11N en Euskadi",
+        "summary": "El responsable de Seguridad del Gobierno Vasco ha reprochado que la jornada de huelga prevista para el 11 de noviembre se utilice en el País Vasco como una herramienta de confrontación política contra el Ejecutivo autonómico.",
         "paragraphs": [
-          "La campaña de vacunación frente a la gripe para la temporada 2026-2027 avanza en el País Vasco con una cifra superior a las 219.000 citas registradas por Osakidetza.",
-          "Dentro de este volumen de solicitudes, el sistema sanitario ha destacado la participación del grupo infantil de entre seis y 59 meses, considerado prioritario en el actual plan de inmunización."
+          "El consejero de Seguridad ha manifestado su rechazo ante la deriva que ha tomado la convocatoria del 11 de noviembre en el territorio vasco. Según ha señalado, lo que comenzó como una movilización de ámbito estatal ha sido instrumentalizado localmente.",
+          "El dirigente ha calificado la protesta como una huelga política dirigida específicamente contra la gestión del Gobierno Vasco, cuestionando así la naturaleza de la convocatoria."
         ],
         "bullets": [
-          "Más de 219.000 citas registradas en la campaña 2026-2027.",
-          "Más de 18.000 niños de 6 a 59 meses han solicitado su vacuna."
+          "El consejero de Seguridad censura la convocatoria del 11N.",
+          "La protesta ha sido tildada de huelga política contra el Gobierno Vasco.",
+          "La movilización, de origen estatal, ha mutado en su enfoque en Euskadi."
         ],
-        "eventKey": "Osakidetza-gestiona-vacunacion-gripe-Euskadi",
+        "eventKey": "consejero-seguridad-critica-huelga-euskadi",
         "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-daa6dac90b774cd9c890bbf3",
-        "url": "https://www.durangon.com/dos-traslados-a-centros-sanitarios-en-unas-zezenak-dira-con-seis-vaquillas/",
+        "id": "n-db21d8bb76af83b8423d5e6c",
+        "url": "https://www.durangon.com/herriaren-eskubidea-expresa-su-mas-firme-condena-ante-el-ataque-contra-el-monolito-de-kurutziaga/",
         "source": "Durangon",
         "section": "euskadi",
         "lang": "es",
-        "publishedAt": "2026-10-12T09:05:39+00:00",
-        "sourceTitle": "Dos traslados a centros sanitarios en unas ‘zezenak dira’ con seis vaquillas",
-        "fingerprint": "2e71cdc34d6bc06d576c0e16",
-        "title": "Dos personas hospitalizadas durante las vaquillas de Durango",
-        "summary": "La celebración de las 'zezenak dira' en Durango ha concluido con el traslado de dos personas a centros sanitarios tras la suelta de seis vaquillas.",
+        "publishedAt": "2026-10-15T09:39:14+00:00",
+        "sourceTitle": "Herriaren Eskubidea expresa su “más firme condena” ante el ataque contra el monolito de Kurutziaga",
+        "fingerprint": "fe88bb025434d26625eabef8",
+        "title": "Herriaren Eskubidea condena el ataque al monolito de Kurutziaga",
+        "summary": "La formación política Herriaren Eskubidea ha manifestado su rechazo ante los daños sufridos por el monolito de Kurutziaga y ha criticado la pasividad del Ejecutivo local.",
         "paragraphs": [
-          "El evento taurino, que contó con la participación de seis reses, ha dejado un balance de dos heridos que han requerido asistencia hospitalaria.",
-          "Por otro lado, la programación festiva continúa con el txupinazo-txiki, que será protagonizado por el centro educativo Jesuitak Ikastetxea a las 13.00 horas."
+          "El partido ha expresado su condena pública tras el incidente ocurrido en el monumento. Asimismo, han trasladado su inquietud por la ausencia de una reacción oficial por parte del Equipo de Gobierno ante estos hechos."
         ],
         "bullets": [
-          "Dos traslados a centros sanitarios.",
-          "Participación de seis vaquillas en el festejo.",
-          "El colegio Jesuitak Ikastetxea dará el txupinazo-txiki."
+          "Condena firme del ataque al monolito.",
+          "Crítica a la falta de respuesta del Gobierno municipal."
         ],
-        "eventKey": "dos personas trasladadas a hospitales tras vaquillas en Durango",
+        "eventKey": "Herriaren Eskubidea-condena-ataque-Kurutziaga",
         "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-ceb2effb5b81bdb70a60f2f6",
-        "url": "https://www.europapress.es/euskadi/noticia-nueve-personas-desalojadas-madrugada-incendio-vivienda-san-sebastian-20261012110258.html",
-        "source": "Europa Press Euskadi",
-        "section": "euskadi",
-        "lang": "es",
-        "publishedAt": "2026-10-12T09:02:58+00:00",
-        "sourceTitle": "Nueve personas desalojadas durante esta madrugada por el incendio de una vivienda en San Sebastián",
-        "fingerprint": "804a8e9ea1ab705e67093c7a",
-        "title": "Desalojo de nueve personas en San Sebastián tras un incendio",
-        "summary": "Un fuego ocurrido durante la madrugada ha obligado a evacuar un edificio en San Sebastián, resultando una persona hospitalizada por inhalación de humo.",
-        "paragraphs": [
-          "Un incendio ha afectado a un inmueble en San Sebastián durante la pasada madrugada, provocando el desalojo de nueve residentes. Las autoridades locales han confirmado el suceso y la intervención de los servicios de emergencia.",
-          "Una de las personas afectadas ha requerido traslado hospitalario debido a la inhalación de humo, según han comunicado el Departamento de Seguridad y el Ayuntamiento de la ciudad."
-        ],
-        "bullets": [
-          "Nueve personas desalojadas de un edificio.",
-          "Una persona hospitalizada por inhalación de humo.",
-          "Incendio declarado durante la madrugada."
-        ],
-        "eventKey": "nueve personas desalojadas incendio San Sebastián",
-        "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
-        "model": "gemini-3.1-flash-lite"
-      },
-      {
-        "id": "n-d0259873f133008115705ff9",
-        "url": "https://www.durangon.com/tocar-en-casa-es-la-leche-aunque-no-te-voy-a-mentir-sientes-mas-responsabilidad/",
+        "id": "n-e1631ed70cd9bdb91997bebb",
+        "url": "https://www.durangon.com/la-72-edicion-del-cross-internacional-zornotza-se-disputa-este-domingo/",
         "source": "Durangon",
         "section": "euskadi",
         "lang": "es",
-        "publishedAt": "2026-10-12T04:14:10+00:00",
-        "sourceTitle": "“Tocar en casa es la leche, aunque no te voy a mentir, sientes más responsabilidad”",
-        "fingerprint": "f90f95999de38f07cdf5ba08",
-        "title": "Jon García Zabala presenta su nuevo álbum en Durango",
-        "summary": "El músico durangarra Jon García Zabala actúa hoy en el escenario de Ezkurdi para dar a conocer su primer trabajo discográfico en solitario.",
+        "publishedAt": "2026-10-15T09:01:52+00:00",
+        "sourceTitle": "La 72 edición del Cross Internacional Zornotza se disputa este domingo",
+        "fingerprint": "249bfe6836ffa585c8099616",
+        "title": "El Cross Internacional Zornotza celebra su 72.ª edición este domingo",
+        "summary": "La localidad de Jauregibarria acogerá una nueva edición de esta competición de campo a través, que forma parte del circuito mundial de máxima categoría.",
         "paragraphs": [
-          "El artista local Jon García Zabala protagoniza esta jornada una actuación en Ezkurdi. El evento sirve como marco para la presentación oficial de 'Oraina eskuetan', el álbum debut de su proyecto personal.",
-          "El músico ha reconocido que actuar ante su público local le genera una mayor sensación de responsabilidad, a pesar de la satisfacción que le supone tocar en casa."
+          "La prueba deportiva reunirá a una variada representación de atletas, desde figuras internacionales hasta jóvenes promesas y corredores populares, en el entorno de Jauregibarria."
         ],
         "bullets": [
-          "Presentación del álbum 'Oraina eskuetan'.",
-          "Concierto en el escenario de Ezkurdi.",
-          "El artista destaca la responsabilidad de actuar ante sus vecinos."
+          "La competición está integrada en la máxima categoría del circuito mundial de campo a través.",
+          "El evento tendrá lugar este domingo."
         ],
-        "eventKey": "Jon García Zabala presenta álbum en Durango",
+        "eventKey": "atletas-compiten-cross-zornotza",
         "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ],
     "espana": [
       {
-        "id": "n-0048ff8ccea1680f22cdffe8",
-        "url": "https://www.eldiario.es/politica/comuns-cargan-rufian-pactar-venia-unir-izquierda-haciendo-posible-dividirla_1_13579832.html",
-        "source": "elDiario.es",
-        "section": "espana",
-        "lang": "es",
-        "publishedAt": "2026-10-12T11:53:56+00:00",
-        "sourceTitle": "Los Comuns cargan contra Rufián tras pactar con Podemos: \"Venía a unir a la izquierda y está haciendo lo posible por dividirla\"",
-        "fingerprint": "39c8fef6b5ddae687effc68a",
-        "title": "Los Comuns critican a Rufián por su pacto con Podemos",
-        "summary": "La formación de los Comuns ha arremetido contra Gabriel Rufián tras su alianza con Podemos para las próximas elecciones generales en Catalunya, acusándole de fragmentar el espacio de la izquierda. El acuerdo complica la integración de los morados en el Frente Amplio, mientras los Comuns mantienen su intención de concurrir con sus propias siglas.",
-        "paragraphs": [
-          "Los Comuns han expresado su malestar ante el movimiento de ERC, que ha confirmado que Podemos se integrará en sus listas y que Irene Montero compartirá campaña con Rufián. Desde la formación liderada por Aina Vidal consideran que esta decisión contradice el discurso de unidad que el portavoz republicano ha mantenido durante el último año.",
-          "A pesar de la tensión, desde el Frente Amplio se insiste en que todavía es posible alcanzar un entendimiento electoral. Por su parte, los Comuns reivindican su posición como segunda fuerza más votada en Catalunya en 2023, por delante de ERC, y descartan disolver su marca en las listas republicanas."
-        ],
-        "bullets": [
-          "Los Comuns se presentarán a las generales dentro del Frente Amplio sin intención de diluir sus siglas.",
-          "El pacto entre ERC y Podemos dificulta la integración de los morados en la coalición de Sumar.",
-          "Verónica Martínez Barbero ha lamentado que la decisión de Rufián no favorece el acuerdo entre las izquierdas.",
-          "Antonio Maíllo mantiene la esperanza de que Rufián impulse una propuesta unitaria final."
-        ],
-        "eventKey": "Comuns y ERC enfrentamiento electoral Catalunya",
-        "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
-        "model": "gemini-3.1-flash-lite"
-      },
-      {
-        "id": "n-682388f2ed10c63f219bb6bb",
-        "url": "https://www.europapress.es/nacional/noticia-an-arranca-semana-juicio-ignacio-gonzalez-adjudicaciones-campo-golf-canal-isabel-ii-20261012115946.html",
+        "id": "n-906adc7cfe5833df4bc3e933",
+        "url": "https://www.europapress.es/nacional/noticia-sanchez-felicita-lideres-ue-reconozcan-singularidad-ceuta-melilla-20261015113426.html",
         "source": "Europa Press",
         "section": "espana",
         "lang": "es",
-        "publishedAt": "2026-10-12T09:59:46+00:00",
-        "sourceTitle": "La AN arranca esta semana el juicio a Ignacio González por adjudicaciones del campo de golf del Canal de Isabel II",
-        "fingerprint": "57c62338c769107b341cf2ba",
-        "title": "Juicio a Ignacio González por las adjudicaciones del campo de golf del Canal de Isabel II",
-        "summary": "La Audiencia Nacional inicia esta semana el proceso judicial contra el expresidente de la Comunidad de Madrid por presuntas irregularidades en la gestión de estas instalaciones.",
+        "publishedAt": "2026-10-15T09:34:26+00:00",
+        "sourceTitle": "Sánchez se felicita de que los líderes de la UE reconozcan la \"singularidad\" de Ceuta y Melilla",
+        "fingerprint": "0616a33653f0372a81bde70d",
+        "title": "Sánchez celebra el reconocimiento europeo a la singularidad de Ceuta y Melilla",
+        "summary": "El presidente del Gobierno ha valorado positivamente que los líderes de la UE incluyan la especificidad de ambas ciudades autónomas en las conclusiones del Consejo Europeo. Asimismo, ha calificado la visita de los Reyes a Ceuta como un avance hacia la normalidad tras la crisis migratoria de julio.",
         "paragraphs": [
-          "El tribunal abordará las acusaciones relacionadas con las adjudicaciones del campo de golf vinculado al Canal de Isabel II. La Fiscalía ha solicitado una pena de seis años de prisión y una multa de 550.000 euros para el exdirigente madrileño."
+          "Pedro Sánchez ha expresado su satisfacción ante el próximo reconocimiento de la singularidad de Ceuta y Melilla por parte de los líderes comunitarios en Bruselas. Este respaldo institucional se formalizará en las conclusiones del encuentro que se celebra este jueves y viernes.",
+          "En relación con la situación en Ceuta, el jefe del Ejecutivo ha destacado que el reciente viaje de los Reyes representa un paso adelante en la recuperación de la normalidad tras la entrada masiva de migrantes registrada el pasado mes de julio."
         ],
         "bullets": [
-          "Inicio del juicio en la Audiencia Nacional.",
-          "Petición fiscal de seis años de cárcel.",
-          "Multa solicitada de 550.000 euros."
+          "Los líderes de la UE reconocerán la singularidad de Ceuta y Melilla en el Consejo Europeo.",
+          "Sánchez considera la visita real a Ceuta como un avance hacia la normalidad tras la crisis migratoria de julio."
         ],
-        "eventKey": "Ignacio González juicio Audiencia Nacional",
+        "eventKey": "Pedro Sánchez-celebra reconocimiento UE-Bruselas",
         "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-3fd8e6d5d591134a723678b7",
-        "url": "https://www.eldiario.es/politica/abascal-planta-reyes-12-octubre-irse-ceuta-ultra-bardella-no-quiero-compartir-tribuna-traidores_1_13579298.html",
+        "id": "n-846c163e4cf0a6ea104620ed",
+        "url": "https://www.eldiario.es/politica/pedro-sanchez-no-descarta-concurrir-fuerzas-politicas-izquierdas-senado_1_13586873.html",
         "source": "elDiario.es",
         "section": "espana",
         "lang": "es",
-        "publishedAt": "2026-10-12T11:08:13+00:00",
-        "sourceTitle": "Abascal planta a los reyes el 12 de octubre para irse a Ceuta con el ultra Bardella: \"No quiero compartir tribuna con traidores\"",
-        "fingerprint": "4928ebabef51fe84a515aef1",
-        "title": "Santiago Abascal evita el desfile del 12 de octubre para viajar a Ceuta con Jordan Bardella",
-        "summary": "El líder de Vox ha declinado asistir a los actos oficiales con los reyes y el Gobierno, optando por desplazarse a Ceuta junto al político francés Jordan Bardella. Abascal ha justificado su ausencia alegando que no desea compartir espacio con quienes considera traidores.",
+        "publishedAt": "2026-10-15T08:37:56+00:00",
+        "sourceTitle": "Sánchez, sobre los pactos con otras fuerzas de izquierda para el Senado: \"Queremos ganarlo\"",
+        "fingerprint": "b9969a1c58752dbc167db100",
+        "title": "Sánchez contempla una candidatura conjunta de izquierdas al Senado para asegurar la mayoría",
+        "summary": "El presidente del Gobierno, Pedro Sánchez, estudia concurrir junto a otras fuerzas de izquierda al Senado en las próximas elecciones para garantizar una mayoría progresista. Asimismo, ha garantizado la revalorización de las pensiones conforme al IPC antes de que termine el año.",
         "paragraphs": [
-          "Santiago Abascal ha vuelto a ausentarse del desfile militar del 12 de octubre, repitiendo el gesto que ya realizó el año pasado. En esta ocasión, el dirigente de Vox ha preferido trasladarse a Ceuta para reivindicar la soberanía territorial en compañía del ultra francés Jordan Bardella.",
-          "Durante su estancia en la ciudad autónoma, Abascal ha reiterado sus exigencias sobre la gestión migratoria, abogando por la militarización de la frontera y la expulsión de migrantes. El líder político ha calificado la situación actual como una invasión y ha prometido futuras repatriaciones si logra cambiar la política nacional."
+          "Pedro Sánchez ha manifestado su intención de ganar el Senado en los comicios del 29 de noviembre, señalando que todas las opciones están abiertas, incluida la creación de una lista unitaria con formaciones como Podemos y el Frente Amplio. Un informe interno del PSOE sugiere que esta estrategia permitiría alcanzar la mayoría absoluta en la Cámara Alta.",
+          "Por otro lado, el jefe del Ejecutivo ha confirmado que las pensiones se revalorizarán según el IPC antes de finalizar 2026. Sánchez ha advertido sobre un posible recorte en las prestaciones si PP y Vox logran gobernar tras las elecciones, defendiendo la sostenibilidad del sistema público."
         ],
         "bullets": [
-          "Abascal rechaza asistir a la tribuna oficial por considerar que está llena de traidores.",
-          "El líder de Vox ha estado acompañado por Jordan Bardella, de la formación francesa Agrupación Nacional.",
-          "El presidente ceutí, Juan Jesús Vivas, sí ha participado en el desfile junto a otras autoridades.",
-          "El dirigente ultra ha prometido medidas de repatriación y la expulsión de extranjeros que perciban ayudas sociales."
+          "El PSOE negocia una lista unitaria de izquierdas para el Senado, con avances significativos según las partes.",
+          "El informe interno socialista proyecta 150 senadores con una candidatura conjunta, superando la mayoría absoluta.",
+          "Sánchez garantiza la revalorización de las pensiones conforme al IPC antes de que acabe el año.",
+          "El presidente ha defendido la inclusión de Margarita Robles como número dos por Madrid."
         ],
-        "eventKey": "Santiago Abascal viaja a Ceuta con Jordan Bardella",
+        "eventKey": "Pedro Sánchez negocia coalición electoral para el Senado",
         "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-baf314996ba882ff0081ec82",
-        "url": "https://www.europapress.es/nacional/noticia-barbero-sumar-pide-tranquilidad-aspira-anunciar-cuanto-antes-lista-unica-integre-podemos-20261012112852.html",
+        "id": "n-96db3bec31f0811effe3782d",
+        "url": "https://www.europapress.es/nacional/noticia-feijoo-promete-investigacion-invasion-ceuta-buques-marroquies-aguas-espanolas-elevara-ue-20261015113158.html",
         "source": "Europa Press",
         "section": "espana",
         "lang": "es",
-        "publishedAt": "2026-10-12T09:28:52+00:00",
-        "sourceTitle": "Barbero (Sumar) pide \"tranquilidad\" y aspira a anunciar \"cuanto antes\" una lista única que integre a Podemos",
-        "fingerprint": "d5a40cc9319e546fb8357848",
-        "title": "Sumar busca una candidatura unitaria con Podemos para el 29-N",
-        "summary": "Verónica Martínez Barbero ha solicitado calma ante el proceso de negociación para conformar una lista electoral conjunta a la izquierda del PSOE.",
+        "publishedAt": "2026-10-15T09:31:58+00:00",
+        "sourceTitle": "Feijóo promete una investigación sobre la \"invasión\" de Ceuta y buques marroquíes en aguas españolas que elevará a la UE",
+        "fingerprint": "e1bb43a05b50dcbe9d631b4e",
+        "title": "Feijóo anuncia una investigación sobre la incursión de buques marroquíes en Ceuta",
+        "summary": "El líder del Partido Popular, Alberto Núñez Feijóo, ha prometido que, si accede a la Presidencia del Gobierno, impulsará una investigación oficial sobre la entrada de embarcaciones militares de Marruecos en aguas españolas. El dirigente trasladará posteriormente los resultados de este análisis a la Comisión Europea.",
         "paragraphs": [
-          "La co-coordinadora de Movimiento Sumar, Verónica Martínez Barbero, ha instado a mantener la tranquilidad mientras se trabaja en la configuración de una candidatura única. El objetivo es integrar a Podemos en una lista común de cara a los comicios previstos para el próximo 29 de noviembre."
+          "Desde Bruselas, el candidato popular ha calificado los hechos ocurridos a finales de julio como una \"invasión\" de Ceuta. Feijóo sostiene que es necesario esclarecer lo sucedido mediante una investigación formal.",
+          "El compromiso del líder del PP incluye elevar este asunto ante las instituciones comunitarias para abordar la incursión de los buques marroquíes en el territorio nacional."
         ],
         "bullets": [
-          "Sumar apuesta por una lista única a la izquierda del PSOE.",
-          "La formación busca incluir a Podemos en la coalición electoral.",
-          "El proceso de negociación se encuentra en fase de articulación."
+          "Feijóo promete investigar la entrada de buques militares marroquíes en aguas españolas.",
+          "El líder del PP califica el suceso de finales de julio como una \"invasión\" de Ceuta.",
+          "El dirigente trasladará el caso a la Comisión Europea si gana las elecciones."
         ],
-        "eventKey": "Verónica Martínez Barbero busca integrar a Podemos en una lista única",
+        "eventKey": "Alberto Núñez Feijóo investigará incursión buques marroquíes en Ceuta",
         "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-3f4bbff09bb4eeeb0ffa2de7",
+        "url": "https://www.eldiario.es/politica/limita-acuerdos-iu-fuera-madrid-catalunya-negociacion-unidad-izquierda_1_13586819.html",
+        "source": "elDiario.es",
+        "section": "espana",
+        "lang": "es",
+        "publishedAt": "2026-10-15T06:58:06+00:00",
+        "sourceTitle": "Podemos ofrece pactos solo a IU en diez comunidades pero Maíllo rechaza negociar \"saliéndose del Frente Amplio\"",
+        "fingerprint": "1c890a4d316ed8604a26c1bc",
+        "title": "Podemos propone pactos territoriales a IU mientras Maíllo exige unidad bajo el Frente Amplio",
+        "summary": "Podemos ha planteado a Izquierda Unida acuerdos electorales limitados a diez comunidades autónomas, excluyendo Madrid y Cataluña. Antonio Maíllo ha rechazado la oferta al condicionar cualquier negociación a la estructura del Frente Amplio.",
+        "paragraphs": [
+          "La secretaria general de Podemos, Ione Belarra, ha confirmado la propuesta de pactos bilaterales con IU en diez territorios, entre los que figuran Andalucía, Galicia y Castilla y León. La formación morada excluye de este planteamiento Madrid y Barcelona, al considerar que en estas circunscripciones es viable obtener representación concurriendo por separado.",
+          "Por su parte, el líder de IU, Antonio Maíllo, ha desestimado la propuesta, insistiendo en que su organización solo negociará dentro del marco del Frente Amplio. Maíllo ha subrayado que la formación busca una alianza estatal y ha instado a Podemos a aclarar si desea integrarse en este proyecto común.",
+          "Mientras tanto, ambas formaciones mantienen conversaciones en otras comunidades como la Valenciana o Baleares, donde las negociaciones están lideradas por fuerzas territoriales como Compromís o Més."
+        ],
+        "bullets": [
+          "Podemos ofrece pactos a IU en diez comunidades, dejando fuera Madrid y Cataluña.",
+          "Antonio Maíllo rechaza negociar fuera de la estructura del Frente Amplio.",
+          "Belarra critica al Frente Amplio y defiende la autonomía de Podemos en las negociaciones.",
+          "Las negociaciones en regiones como Valencia o Baleares dependen de partidos territoriales."
+        ],
+        "eventKey": "Podemos e IU negocian pactos electorales en España",
+        "partial": true,
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ],
     "internacional": [
       {
-        "id": "n-75eaf2d76b24f421e76701b5",
-        "url": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
+        "id": "n-070fd94dc0b6745e83666102",
+        "url": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
         "source": "The Guardian",
         "section": "internacional",
         "lang": "en",
-        "publishedAt": "2026-10-12T12:43:07+00:00",
-        "sourceTitle": "Kremlin rejects 60-day truce offer and refuses to comment on Trump’s ‘energy ceasefire’ – Europe live",
-        "fingerprint": "86bd20a7d6e2ac4671dc0f5e",
-        "title": "El Kremlin rechaza la propuesta de tregua de 60 días y evita valorar el plan energético de Trump",
-        "summary": "Rusia ha desestimado la oferta de un alto el fuego temporal planteada por Ucrania, mientras persiste la incertidumbre sobre la propuesta de tregua energética anunciada por Donald Trump.",
+        "publishedAt": "2026-10-15T09:16:07+00:00",
+        "sourceTitle": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
+        "fingerprint": "8220e9b4cebe97aee3ccef86",
+        "title": "Zelensky se siente traicionado por EE. UU. ante las restricciones de Starlink y el acuerdo de diésel con Rusia",
+        "summary": "El presidente ucraniano ha expresado su decepción con Washington, mientras la Unión Europea marca distancias respecto a la estrategia estadounidense en el conflicto.",
         "paragraphs": [
-          "El presidente ucraniano, Volodímir Zelenski, había propuesto un cese de hostilidades de dos meses con el objetivo de celebrar elecciones presidenciales en su país. Sin embargo, el Kremlin ha rechazado esta iniciativa.",
-          "Por otro lado, Zelenski ha reaccionado con sorpresa ante el anuncio de Trump sobre una tregua energética, sugiriendo que Vladímir Putin desconoce las declaraciones publicadas por el mandatario estadounidense en redes sociales. El líder ucraniano sostiene que Rusia busca desmantelar la arquitectura de seguridad europea para recuperar su influencia previa a 1989."
+          "Volodímir Zelenski ha manifestado sentirse traicionado por la administración estadounidense tras conocerse las limitaciones impuestas al servicio Starlink y la existencia de un acuerdo sobre diésel entre Donald Trump y Rusia.",
+          "Por su parte, Kaja Kallas, jefa de la diplomacia europea, ha reconocido una divergencia clara entre las posturas de Bruselas y Washington. La UE sostiene que la prioridad debe ser asfixiar financieramente a Rusia mediante el corte de ingresos por petróleo, en lugar de presionar a Ucrania para que ceda."
         ],
         "bullets": [
-          "Rechazo ruso a la tregua de 60 días propuesta por Kiev.",
-          "Desconcierto de Zelenski ante el anuncio de Trump sobre un alto el fuego energético.",
-          "Acusaciones ucranianas sobre la intención rusa de restaurar su dominio en Europa."
+          "Zelenski denuncia la falta de apoyo estadounidense en puntos críticos de la guerra.",
+          "La UE aboga por reducir los ingresos petroleros rusos para frenar la financiación del conflicto.",
+          "Kallas subraya que Europa y Estados Unidos mantienen enfoques distintos sobre cómo finalizar la contienda."
         ],
-        "eventKey": "Rusia y Ucrania rechazo tregua y plan Trump",
+        "eventKey": "Zelenski y Kallas critican la estrategia de EE. UU. en Ucrania",
         "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-d8b2e2b81bbb6b138e185e65",
-        "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+        "id": "n-6dbdbd1096f471b83fd6dc53",
+        "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "section": "internacional",
         "lang": "en",
-        "publishedAt": "2026-10-12T12:18:45+00:00",
-        "sourceTitle": "Pupil arrested after two teachers shot at French school",
-        "fingerprint": "b152369f1144b0fe590aaee3",
-        "title": "Detenido un alumno tras disparar a dos docentes en un colegio francés",
-        "summary": "Un menor de 14 años ha sido arrestado en Francia después de que el director y un profesor de su centro escolar resultaran heridos por disparos.",
+        "publishedAt": "2026-10-15T09:10:10+00:00",
+        "sourceTitle": "Why is Starlink internet so important on the battlefield in Ukraine?",
+        "fingerprint": "6190a14013b1962e6822a165",
+        "title": "La relevancia de Starlink en el conflicto ucraniano",
+        "summary": "El sistema de internet por satélite Starlink se ha consolidado como el pilar fundamental de las comunicaciones militares en Ucrania. Esta tecnología facilita una conexión de alta velocidad esencial para las operaciones de las fuerzas desplegadas en el territorio.",
         "paragraphs": [
-          "Las autoridades han procedido a la detención de un estudiante de 14 años tras un tiroteo ocurrido en un centro de educación secundaria. El incidente ha dejado heridas a dos personas, concretamente al director del colegio y a un docente.",
-          "Por el momento no han trascendido más detalles sobre el estado de salud de los afectados ni sobre las circunstancias exactas que rodearon el suceso."
+          "La infraestructura de Starlink actúa como la columna vertebral de las comunicaciones del ejército ucraniano. Su despliegue permite mantener una conectividad constante y rápida en todo el frente de batalla.",
+          "La dependencia de este servicio subraya su papel estratégico en la capacidad operativa de las tropas frente a la situación actual en el país."
         ],
         "bullets": [
-          "Arresto de un alumno de 14 años.",
-          "Dos docentes heridos, incluyendo al director del centro.",
-          "Incidente ocurrido en un colegio de secundaria francés."
+          "Starlink es el eje de las comunicaciones militares ucranianas.",
+          "Proporciona acceso a internet de alta velocidad en todo el país."
         ],
-        "eventKey": "alumno-dispara-docentes-francia",
+        "eventKey": "Starlink-proporciona-comunicaciones-Ucrania",
         "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-1f057c927240d7dc5029670e",
-        "url": "https://www.theguardian.com/world/2026/oct/12/melbourne-mycentre-mosque-flydubai-hijacker-facebook-video-post-ntwnfb",
-        "source": "The Guardian",
-        "section": "internacional",
-        "lang": "en",
-        "publishedAt": "2026-10-12T12:27:58+00:00",
-        "sourceTitle": "Melbourne Islamic leader rejects centre’s alleged Flydubai hijacker links after Facebook video",
-        "fingerprint": "68363c0e74e0e473569c6988",
-        "title": "Un líder islámico de Melbourne niega vínculos con el presunto secuestrador de un avión de Flydubai",
-        "summary": "Samir Mohtadi ha rechazado cualquier relación con el piloto acusado de secuestrar un vuelo de Flydubai tras la difusión de un vídeo en Facebook. El Gobierno de los Emiratos Árabes Unidos sostiene que el sospechoso se radicalizó durante su etapa universitaria en Australia.",
-        "paragraphs": [
-          "El dirigente del centro islámico MyCentre, Samir Mohtadi, ha desmentido las acusaciones que le vinculan con Hammam al-Hammami, el ciudadano omaní de 29 años señalado por el secuestro. Mohtadi asegura no haber conocido nunca al sospechoso y ha condenado explícitamente cualquier tipo de violencia.",
-          "Por su parte, las autoridades emiratíes afirman haber rastreado el historial del acusado, situando el inicio de su proceso de radicalización en el año 2017, cuando cursaba estudios en la Universidad RMIT de Melbourne."
-        ],
-        "bullets": [
-          "El líder de MyCentre niega conocer al sospechoso.",
-          "El Gobierno de los EAU vincula la radicalización del piloto con su estancia en Melbourne.",
-          "El acusado, Hammam al-Hammami, habría iniciado su deriva extremista en 2017."
-        ],
-        "eventKey": "Samir Mohtadi y Hammam al-Hammami vinculación secuestro Melbourne",
-        "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
-        "model": "gemini-3.1-flash-lite"
-      },
-      {
-        "id": "n-cc1852ad81be8243caf0f8c4",
-        "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
+        "id": "n-4ed1aa2b2d85e0cfc8b8f4cc",
+        "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "section": "internacional",
         "lang": "en",
-        "publishedAt": "2026-10-12T12:15:01+00:00",
-        "sourceTitle": "Who are the Houthis, and why are they so hard to fight?",
-        "fingerprint": "432d08bf363671b71ea1e82d",
-        "title": "El desafío militar de los hutíes",
-        "summary": "Un análisis de la BBC examina cómo las tácticas de guerrilla y los ataques de precisión de los hutíes, respaldados por Irán, complican las operaciones de las fuerzas saudíes.",
+        "publishedAt": "2026-10-15T08:41:04+00:00",
+        "sourceTitle": "White House defends new press secretary amid questions about her legal credentials",
+        "fingerprint": "219bc1b3d43fad38b5ec3d53",
+        "title": "La Casa Blanca respalda a su nueva portavoz ante las dudas sobre su formación legal",
+        "summary": "La Administración estadounidense ha salido en defensa de Katie Zacharia tras cuestionarse su cualificación profesional. Existen dudas sobre su registro en el colegio de abogados de los estados donde ha residido.",
         "paragraphs": [
-          "El corresponsal de seguridad Frank Gardner detalla las dificultades que enfrentan las fuerzas saudíes para imponerse en el conflicto. La capacidad operativa de los hutíes ha demostrado ser un obstáculo persistente en la región.",
-          "La estrategia empleada por este grupo, caracterizada por el uso de tácticas irregulares y ataques precisos, mantiene la incertidumbre sobre el desenlace de los enfrentamientos."
+          "La Casa Blanca ha defendido el nombramiento de Katie Zacharia como nueva secretaria de prensa. El respaldo se produce en un contexto de incertidumbre sobre sus credenciales legales.",
+          "Diversas voces han señalado que no consta que Zacharia esté registrada para ejercer la abogacía en ninguna de las jurisdicciones en las que ha vivido."
         ],
         "bullets": [
-          "Los hutíes cuentan con el respaldo de Irán.",
-          "Sus tácticas de guerrilla dificultan la superioridad saudí.",
-          "Los ataques de precisión son un elemento clave de su estrategia."
+          "Defensa oficial de la Casa Blanca sobre la nueva portavoz.",
+          "Cuestionamiento público de sus credenciales legales.",
+          "Ausencia de registro en el colegio de abogados estatal."
         ],
-        "eventKey": "hutíes-enfrentamiento-saudíes",
+        "eventKey": "Katie Zacharia-defensa nombramiento-Casa Blanca",
         "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-89e576d4d126b2554ad07221",
-        "url": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
+        "id": "n-bb92c371629fda3025cea503",
+        "url": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
         "source": "The Guardian",
         "section": "internacional",
         "lang": "en",
-        "publishedAt": "2026-10-12T11:49:34+00:00",
-        "sourceTitle": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
-        "fingerprint": "741afc121b6d0ad50cef9873",
-        "title": "Arabia Saudí prolonga la suspensión de vuelos tras un nuevo ataque hutí",
-        "summary": "Las autoridades saudíes han extendido el cierre de su principal aeropuerto internacional en Riad tras sufrir una nueva oleada de ataques con misiles por parte de los rebeldes hutíes.",
+        "publishedAt": "2026-10-15T08:39:54+00:00",
+        "sourceTitle": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+        "fingerprint": "5036cc3e3871be8472878dc5",
+        "title": "Caída generalizada en los mercados tecnológicos por la inflación y la deuda en IA",
+        "summary": "Los mercados globales experimentan un desplome en las acciones vinculadas a la inteligencia artificial ante el temor a nuevas subidas de tipos de interés en Estados Unidos. La incertidumbre sobre el endeudamiento del sector ha provocado fuertes caídas en empresas como Samsung y SoftBank.",
         "paragraphs": [
-          "El Gobierno saudí ha decidido mantener la suspensión de todas las operaciones aéreas en su aeropuerto principal después de que un reciente ataque causara daños materiales y al menos una víctima mortal. Esta medida se suma a la respuesta ante la ofensiva del pasado sábado, que dejó un balance de 13 fallecidos y más de 300 heridos.",
-          "A pesar de la gravedad de los incidentes y la vulnerabilidad de sus defensas, el ministro de Energía ha declarado que el miedo no tiene cabida en el país, mientras las autoridades investigan cómo el grupo paramilitar logró vulnerar nuevamente la seguridad de la infraestructura."
+          "La preocupación por la inflación y el posible endurecimiento de la política monetaria estadounidense ha intensificado la venta masiva de valores tecnológicos. Los inversores muestran cautela ante el elevado nivel de deuda que arrastran las compañías del sector de la inteligencia artificial.",
+          "El impacto ha sido especialmente notable en Corea del Sur, donde el índice Kospi 200 ha sufrido un retroceso superior al 8%. Esta situación obligó a activar los mecanismos de suspensión de cotización para frenar la volatilidad en los mercados."
         ],
         "bullets": [
-          "Suspensión extendida de vuelos en el aeropuerto internacional de Riad.",
-          "Balance de 13 muertos y 300 heridos tras el ataque del sábado.",
-          "Nuevos daños y una víctima mortal confirmada en la última ofensiva.",
-          "El grupo hutí logra superar las defensas aéreas saudíes."
+          "Desplome de fabricantes de chips e inversores tecnológicos como Samsung y SoftBank.",
+          "El índice Kospi 200 registra su nivel más bajo en seis meses.",
+          "Activación de interruptores automáticos ante la caída bursátil.",
+          "Temor generalizado a futuras subidas de tipos de interés."
         ],
-        "eventKey": "Arabia Saudí-suspensión vuelos-Riad",
+        "eventKey": "inversores tecnológicos y fabricantes de chips sufren desplome bursátil global",
         "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-e93b074ca9083cba37d5565d",
+        "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
+        "source": "The Guardian",
+        "section": "internacional",
+        "lang": "en",
+        "publishedAt": "2026-10-15T08:00:25+00:00",
+        "sourceTitle": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+        "fingerprint": "656964582f5080a4d1fb26ce",
+        "title": "Ola de detenciones contra el colectivo LGTBI en Senegal",
+        "summary": "Un informe de Human Rights Watch denuncia una creciente persecución en Senegal, donde cientos de personas han sido arrestadas bajo acusaciones de actos contra natura tras el endurecimiento de la legislación.",
+        "paragraphs": [
+          "Las autoridades senegalesas han intensificado la represión contra el colectivo LGTBI, resultando en la detención de al menos 320 personas desde el pasado mes de febrero. Según el informe, los arrestos se fundamentan en leyes que penalizan la homosexualidad.",
+          "La situación se ha visto agravada por la imposición de pruebas de VIH forzosas y la denegación de asistencia legal a los afectados. Además, decenas de individuos enfrentan cargos por supuesta transmisión voluntaria del virus basándose únicamente en su estado serológico."
+        ],
+        "bullets": [
+          "Más de 320 personas detenidas por supuestos actos contra natura.",
+          "Denuncias de pruebas de VIH forzadas y falta de defensa legal.",
+          "Al menos 84 personas acusadas de transmisión voluntaria del VIH."
+        ],
+        "eventKey": "autoridades senegalesas detienen a personas LGTBI en Senegal",
+        "partial": true,
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ],
     "ciencia": [
       {
-        "id": "n-e8bb1f21aa1c96c887c2dfd0",
-        "url": "https://www.sciencedaily.com/releases/2026/10/261008005244.htm",
-        "source": "ScienceDaily",
-        "section": "ciencia",
-        "lang": "en",
-        "publishedAt": "2026-10-12T06:24:46+00:00",
-        "sourceTitle": "Scientists discover a hidden factor that can make or break chemical reactions",
-        "fingerprint": "a717e15848ae81603ce0be23",
-        "title": "Un nuevo factor clave en la eficiencia de las reacciones químicas",
-        "summary": "Un equipo de investigadores ha identificado un elemento determinante para el éxito de las reacciones químicas, logrando optimizar significativamente la obtención de productos deseados. Este hallazgo permitiría fabricar compuestos industriales de forma más sostenible mediante el uso de oxígeno y electricidad.",
-        "paragraphs": [
-          "Científicos han descubierto un factor oculto capaz de condicionar el resultado de las reacciones químicas. Al manipular la acidez en las proximidades de los electrodos, el equipo ha conseguido elevar la tasa de éxito del producto final del 16% al 97%.",
-          "Este avance abre la puerta a métodos de producción más limpios para sectores como el farmacéutico o el de los plásticos. La técnica propone sustituir los oxidantes peligrosos por procesos basados en electricidad y oxígeno."
-        ],
-        "bullets": [
-          "Identificación de un factor crítico en la eficacia química.",
-          "Incremento del rendimiento del producto del 16% al 97%.",
-          "Desarrollo de un método de fabricación más sostenible.",
-          "Sustitución de oxidantes peligrosos por oxígeno y electricidad."
-        ],
-        "eventKey": "investigadores-descubren-factor-reacciones-quimicas",
-        "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
-        "model": "gemini-3.1-flash-lite"
-      },
-      {
-        "id": "n-446843354b9a1b0d7527f2a8",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/",
+        "id": "n-c946c10f53580b5ddb23be21",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/",
         "source": "NASA",
         "section": "ciencia",
         "lang": "en",
-        "publishedAt": "2026-10-12T04:05:00+00:00",
-        "sourceTitle": "APOD: 2026 October 12 – Jupiter and the Moons",
-        "fingerprint": "e2f6e33c4d9bca8bbb3376fd",
-        "title": "La NASA destaca una imagen de Júpiter y sus lunas",
-        "summary": "La sección Astronomy Picture of the Day de la NASA ha publicado una nueva fotografía centrada en el planeta Júpiter y sus satélites naturales.",
+        "publishedAt": "2026-10-15T04:05:00+00:00",
+        "sourceTitle": "APOD: 2026 October 15 – The Milky Way over Manhattan",
+        "fingerprint": "ceeb4be04aff2eb5ae7f0ef8",
+        "title": "La Vía Láctea sobre Manhattan en la imagen astronómica del día",
+        "summary": "La NASA ha seleccionado una fotografía que muestra la Vía Láctea sobre el perfil urbano de Manhattan como su imagen astronómica del día.",
         "paragraphs": [
-          "La agencia espacial estadounidense ha compartido una instantánea astronómica acompañada de una explicación técnica redactada por un profesional del sector.",
-          "Esta publicación forma parte de la iniciativa diaria de la NASA para divulgar imágenes del cosmos a través de su portal especializado."
+          "La iniciativa Astronomy Picture of the Day (APOD) de la NASA ha destacado una instantánea que captura la galaxia sobre la ciudad de Nueva York. Esta publicación forma parte de la divulgación diaria de la agencia espacial, que incluye una explicación técnica redactada por un astrónomo profesional."
         ],
         "bullets": [
-          "Publicación de una imagen astronómica del día.",
-          "Enfoque en Júpiter y sus lunas.",
-          "Explicación técnica incluida por un astrónomo."
+          "La imagen muestra la Vía Láctea sobre Manhattan.",
+          "La NASA publica diariamente una fotografía del cosmos acompañada de análisis expertos."
         ],
-        "eventKey": "NASA-publica-imagen-Jupiter",
+        "eventKey": "NASA-publica-imagen-astronomica-Manhattan",
         "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-c378b1d18a9ae5dfbbecab96",
-        "url": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm",
+        "id": "n-93aec27f5eb2fee3d9f1b362",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261013015807.htm",
         "source": "ScienceDaily",
         "section": "ciencia",
         "lang": "en",
-        "publishedAt": "2026-10-12T04:34:24+00:00",
-        "sourceTitle": "Scientists discover vanilla’s hidden healing potential",
-        "fingerprint": "ee0b759578c2aa21cfc7fed4",
-        "title": "La vainillina podría tener propiedades curativas",
-        "summary": "Investigadores han identificado que el compuesto responsable del sabor de la vainilla posee capacidades para combatir infecciones y favorecer la regeneración de tejidos. Este ingrediente podría integrarse en futuros tratamientos médicos avanzados.",
+        "publishedAt": "2026-10-14T23:34:00+00:00",
+        "sourceTitle": "Scientists reveal 93% of Australia's Indigenous population was lost in just 73 years",
+        "fingerprint": "bfe91edc1ccb48e9d542371d",
+        "title": "Un estudio cifra en un 93% la pérdida de población indígena australiana tras la colonización",
+        "summary": "Una nueva investigación sugiere que la población aborigen antes de la llegada de los europeos era mucho mayor de lo estimado, sufriendo un colapso demográfico masivo en apenas siete décadas.",
         "paragraphs": [
-          "Un equipo científico ha hallado que la vainillina cuenta con propiedades beneficiosas para la salud, destacando su potencial para reducir inflamaciones y tratar heridas. Debido a su bajo coste y disponibilidad, se perfila como un elemento prometedor para la medicina regenerativa.",
-          "Aunque todavía se encuentra en fase de estudio, los expertos sugieren que este compuesto podría convertirse en un componente clave en el desarrollo de nuevas terapias para la curación de lesiones."
+          "Un estudio reciente ha revisado al alza el número de habitantes indígenas en Australia previos a la colonización europea, situándolo en 2,22 millones de personas.",
+          "Los investigadores señalan que, tras el inicio de la colonización, la población sufrió una catástrofe demográfica que acabó con el 93% de sus integrantes en un periodo de 73 años, lo que obliga a replantear la historia del continente."
         ],
         "bullets": [
-          "Propiedades antiinflamatorias y antibacterianas.",
-          "Potencial aplicación en medicina regenerativa.",
-          "Ventaja por su bajo coste y alta disponibilidad."
+          "La población indígena previa a la colonización se estima en 2,22 millones.",
+          "El 93% de la población desapareció en un lapso de 73 años.",
+          "El hallazgo altera significativamente la comprensión histórica de Australia."
         ],
-        "eventKey": "científicos-descubren-propiedades-curativas-vainillina",
+        "eventKey": "población indígena australiana-colapso demográfico-Australia",
         "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-3de8cde1689eb09961ac8130",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
+        "id": "n-5f2528424985d275b3746982",
+        "url": "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/",
         "source": "NASA",
         "section": "ciencia",
         "lang": "en",
-        "publishedAt": "2026-10-11T04:05:00+00:00",
-        "sourceTitle": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
-        "fingerprint": "21414017f62c9b4611ebe208",
-        "title": "La NASA destaca la búsqueda de neutrinos cósmicos en el hielo",
-        "summary": "La imagen astronómica del día de la NASA se centra en los esfuerzos científicos para detectar neutrinos cósmicos mediante instalaciones situadas en el hielo.",
+        "publishedAt": "2026-10-15T04:01:00+00:00",
+        "sourceTitle": "Fires Arrive in the Amazon Rainforest",
+        "fingerprint": "9e40ff085de2cb850385c5e6",
+        "title": "Incendios en la selva amazónica",
+        "summary": "La NASA advierte sobre la propagación de fuegos en la Amazonía, vinculando este fenómeno a los efectos climáticos de El Niño.",
         "paragraphs": [
-          "La NASA ha publicado una nueva imagen astronómica que ilustra las técnicas utilizadas para la captura de neutrinos cósmicos, un proceso comparado metafóricamente con la pesca en el hielo.",
-          "Esta iniciativa forma parte de la divulgación científica diaria de la agencia, que cuenta con explicaciones de astrónomos profesionales sobre fenómenos del universo."
+          "La actividad ígnea ha alcanzado la selva amazónica, siguiendo un patrón que, según los registros, suele iniciarse en Asia ecuatorial durante los episodios de El Niño.",
+          "El fenómeno se extiende actualmente por las regiones central y oriental de la cuenca amazónica."
         ],
         "bullets": [
-          "Publicación de la imagen astronómica del día (APOD).",
-          "Enfoque en la detección de neutrinos cósmicos.",
-          "Uso de entornos helados para la investigación científica."
+          "El Niño actúa como detonante de una cadena de incendios tropicales.",
+          "La afectación se desplaza desde Asia hacia el Amazonas."
         ],
-        "eventKey": "NASA-publica-imagen-neutrinos-hielo",
+        "eventKey": "NASA-incendios-Amazonas",
         "partial": true,
-        "summarizedAt": "2026-10-11T11:20:23.694515+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-ff70ffaea1de9167bad2d3ce",
-        "url": "https://www.sciencedaily.com/releases/2026/10/261008102721.htm",
+        "id": "n-991e1d4b5a41def235a60eb9",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261014015457.htm",
         "source": "ScienceDaily",
         "section": "ciencia",
         "lang": "en",
-        "publishedAt": "2026-10-12T00:51:31+00:00",
-        "sourceTitle": "Just 10 minutes of daily exercise could unlock deeper sleep",
-        "fingerprint": "b4371b3acc850c042f81963a",
-        "title": "Diez minutos de ejercicio diario podrían mejorar la calidad del sueño",
-        "summary": "Un estudio de la Universidad de Texas en Austin sugiere que una breve actividad física diaria favorece un descanso más profundo y reparador. Los investigadores señalan que incluso ejercicios ligeros se asocian con beneficios en el estado de ánimo y la recuperación cerebral.",
+        "publishedAt": "2026-10-14T22:51:56+00:00",
+        "sourceTitle": "A forgotten fossil reveals a fearsome dinosaur with giant claws",
+        "fingerprint": "edc2c32ba34d457804950103",
+        "title": "Un fósil olvidado en un museo revela un nuevo dinosaurio con garras gigantes",
+        "summary": "El hallazgo de un espécimen de 120 millones de años en un museo europeo permite identificar a un depredador del tamaño de un tigre. Este descubrimiento aporta datos clave sobre la evolución de los megaraptores hacia formas gigantescas.",
         "paragraphs": [
-          "Investigadores de la Universidad de Texas en Austin han hallado una relación directa entre la frecuencia del ejercicio y la obtención de un sueño más profundo. Este tipo de descanso resulta fundamental para procesos cognitivos como la memoria y la estabilidad emocional.",
-          "El análisis destaca que bastan diez minutos de actividad moderada o intensa para observar mejoras significativas. Asimismo, prácticas sencillas como caminar o realizar pausas activas durante la jornada también se vinculan con un mayor bienestar general."
+          "Un fósil que permaneció almacenado durante casi un siglo ha sido identificado como una nueva especie de dinosaurio. Según los investigadores, este depredador podría haber resultado más peligroso para los humanos que el propio T. rex.",
+          "El hallazgo supone la primera evidencia de la presencia de megaraptores en Europa. Este descubrimiento ayuda a comprender el proceso evolutivo que permitió a estos enigmáticos animales convertirse en grandes cazadores."
         ],
         "bullets": [
-          "El ejercicio frecuente facilita un sueño más reparador.",
-          "Diez minutos diarios de actividad moderada ofrecen beneficios medibles.",
-          "Las actividades ligeras, como caminar, también mejoran el estado de ánimo."
+          "Fósil de 120 millones de años redescubierto en un museo.",
+          "Depredador del tamaño de un tigre con garras gigantes.",
+          "Primera prueba de megaraptores en territorio europeo."
         ],
-        "eventKey": "investigadores UT Austin vinculan ejercicio y sueño",
+        "eventKey": "investigadores-identifican-nuevo-dinosaurio-europa",
         "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-9ab900e4fa8fe878141f660b",
+        "url": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
+        "source": "NASA",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-10-14T20:13:29+00:00",
+        "sourceTitle": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
+        "fingerprint": "336e6797b47e64b95538abe9",
+        "title": "La NASA presentará los detalles de los paseos espaciales 100 y 101",
+        "summary": "La agencia espacial estadounidense ha convocado una rueda de prensa para avanzar los objetivos de las próximas caminatas espaciales destinadas a mejorar el sistema energético de la Estación Espacial Internacional.",
+        "paragraphs": [
+          "La NASA ha programado una conferencia de prensa para el próximo 20 de octubre desde el Centro Espacial Johnson en Houston. El encuentro servirá para ofrecer detalles sobre las misiones 100 y 101 de paseos espaciales.",
+          "Estas actividades extravehiculares tienen como propósito finalizar la instalación de paneles solares y reforzar la capacidad de suministro eléctrico de la plataforma orbital."
+        ],
+        "bullets": [
+          "La rueda de prensa tendrá lugar el martes 20 de octubre a las 14:00 horas EDT.",
+          "El evento será retransmitido en directo a través de las plataformas digitales de la agencia.",
+          "Las misiones se centran en la instalación de paneles solares y la mejora de la potencia de la estación."
+        ],
+        "eventKey": "NASA-presentación-paseos-espaciales-Houston",
+        "partial": true,
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ],
     "tecnologia": [
       {
-        "id": "n-d907d34c9b164c55331952f8",
-        "url": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
-        "source": "Ars Technica",
-        "section": "tecnologia",
-        "lang": "en",
-        "publishedAt": "2026-10-11T18:10:54+00:00",
-        "sourceTitle": "Review: 4-hour Musk documentary feels like two different films",
-        "fingerprint": "a92461919c930b23e2d969b7",
-        "title": "Crítica del documental sobre Elon Musk de Alex Gibney",
-        "summary": "Un nuevo documental de cuatro horas sobre Elon Musk ha sido calificado como una obra interesante pero excesivamente larga, que aporta escasa información novedosa.",
-        "paragraphs": [
-          "El cineasta Alex Gibney ha estrenado un largometraje documental centrado en la figura de Elon Musk. La crítica señala que la pieza resulta cautivadora, aunque su extensa duración afecta al ritmo narrativo.",
-          "El análisis destaca que la cinta parece dividida en dos partes diferenciadas y advierte que los espectadores familiarizados con la trayectoria del empresario no encontrarán revelaciones significativas."
-        ],
-        "bullets": [
-          "El documental tiene una duración de cuatro horas.",
-          "Se percibe una falta de contenido inédito para el público especializado.",
-          "La estructura del filme genera la sensación de estar ante dos películas distintas."
-        ],
-        "eventKey": "Alex Gibney estrena documental sobre Elon Musk",
-        "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
-        "model": "gemini-3.1-flash-lite"
-      },
-      {
-        "id": "n-91b8aef85af2d4aa85540580",
-        "url": "https://www.xataka.com/empresas-y-economia/gran-paradoja-ia-que-creara-empleo-que-destruye-problema-que-casi-nadie-esta-preparado",
+        "id": "n-56d6059bbeaa50116a7fad53",
+        "url": "https://www.xataka.com/magnet/2022-madrid-regalo-gigantesca-osa-roja-a-miami-como-simbolo-su-hermanamiento-termino-restaurante",
         "source": "Xataka",
         "section": "tecnologia",
         "lang": "es",
-        "publishedAt": "2026-10-12T11:30:27+00:00",
-        "sourceTitle": "La gran paradoja de la IA es que creará más empleo del que destruye. El problema es que casi nadie está preparado",
-        "fingerprint": "67706097d85f127c793dfdd8",
-        "title": "La paradoja de la IA: creación de empleo frente a la falta de preparación",
-        "summary": "Aunque la inteligencia artificial automatizará numerosas tareas, los informes sugieren que el mercado laboral experimentará un desplazamiento de roles más que una destrucción neta de puestos. El principal desafío reside en la necesidad de formación y movilidad profesional para adaptarse a esta transformación.",
+        "publishedAt": "2026-10-15T09:30:25+00:00",
+        "sourceTitle": "En 2022, Madrid regaló una gigantesca osa roja a Miami como símbolo de su hermanamiento: terminó en un restaurante",
+        "fingerprint": "228be8dd57d5690db256c7eb",
+        "title": "El destino incierto de la osa roja regalada por Madrid a Miami",
+        "summary": "Una escultura pop de una osa, obsequiada por la Comunidad de Madrid a Miami en 2022 como símbolo de hermanamiento, ha desaparecido del espacio público previsto. La obra, que debía presidir una rotonda, terminó vinculada a un restaurante local entre dudas sobre su ubicación actual y la viabilidad del proyecto urbanístico.",
         "paragraphs": [
-          "Un informe de McKinsey proyecta que, para 2035, la automatización reducirá la demanda de horas de trabajo equivalente a 36 millones de empleos en Estados Unidos. Sin embargo, la mayoría de estos puestos se compensarán mediante la reconfiguración de tareas dentro de las mismas profesiones, permitiendo que los empleados mantengan su ocupación.",
-          "El verdadero reto se sitúa en los 11 millones de trabajadores estadounidenses que deberán reciclarse profesionalmente. Expertos señalan que el impacto global se traducirá en el desplazamiento de 92 millones de empleos, donde la capacidad de adquirir nuevas habilidades será determinante para la empleabilidad futura."
+          "La figura, creada por el artista dEmo, fue presentada por Isabel Díaz Ayuso durante un viaje oficial en junio de 2022. Aunque se proyectó su instalación en una rotonda bautizada como Comunidad de Madrid Square, el espacio nunca llegó a consolidarse.",
+          "Existen versiones contradictorias sobre el paradero y la ausencia de la escultura. Mientras se señalan problemas burocráticos, falta de financiación y riesgos meteorológicos por posibles huracanes, las autoridades locales y regionales no han aclarado la situación definitiva de la pieza."
         ],
         "bullets": [
-          "La IA eliminará tareas rutinarias, pero potenciará funciones humanas como la supervisión y el trato con el cliente.",
-          "El efecto Jevons sugiere que el abaratamiento de tareas mediante la IA podría aumentar la demanda de las mismas.",
-          "El mercado laboral actual muestra una brecha donde los perfiles sénior se ven más favorecidos que los júnior.",
-          "McKinsey clasifica la transición laboral en rutas directas, indirectas y sin pavimentar, dependiendo de la formación requerida."
+          "La escultura es una versión pop del oso madrileño realizada en resina brillante.",
+          "Fue presentada junto al restaurante Crazy About You en Miami.",
+          "El coste de la obra no ha sido revelado oficialmente, aunque piezas similares alcanzan precios elevados.",
+          "La rotonda prometida para albergar el símbolo no se ha materializado."
         ],
-        "eventKey": "McKinsey y Foro Económico Mundial analizan impacto IA en mercado laboral",
+        "eventKey": "Comunidad de Madrid y Miami, desaparición de escultura de oso",
         "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-e147283ec46b0e7f89dcfabe",
+        "url": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+        "source": "Ars Technica",
+        "section": "tecnologia",
+        "lang": "en",
+        "publishedAt": "2026-10-14T21:03:11+00:00",
+        "sourceTitle": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+        "fingerprint": "5130d1f45fcc6c72d7c51bda",
+        "title": "La OTAN contempla reubicar defensas antidrones tras ataques en el mar Negro",
+        "summary": "La Alianza Atlántica estudia el despliegue de sistemas de defensa ante el aumento de ataques contra buques mercantes en aguas cercanas a Bulgaria y Rumanía.",
+        "paragraphs": [
+          "La OTAN evalúa la posibilidad de redistribuir sus capacidades de defensa contra drones tras registrarse el hundimiento o daños en cinco embarcaciones en la región del mar Negro.",
+          "Las autoridades señalan a drones de origen ruso como los presuntos responsables de estas acciones, lo que ha generado preocupación por la seguridad de la navegación en la zona."
+        ],
+        "bullets": [
+          "Cinco buques afectados cerca de Bulgaria y Rumanía.",
+          "Sospechas sobre el uso de drones rusos en los ataques.",
+          "La OTAN analiza el redespliegue de sus defensas."
+        ],
+        "eventKey": "OTAN-reubicar-defensas-mar-Negro",
+        "partial": true,
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-40b5b50cfb15bc753a027ad5",
+        "url": "https://www.xataka.com/seleccion/action-este-calefactor-convector-wifi-69-95-euros-e-ideal-para-anticiparte-al-frio",
+        "source": "Xataka",
+        "section": "tecnologia",
+        "lang": "es",
+        "publishedAt": "2026-10-15T09:29:00+00:00",
+        "sourceTitle": "Ya en Action este calefactor convector con WiFi por 69,95 euros e ideal para anticiparte al frío",
+        "fingerprint": "e69a62373f6ff4366a38ebee",
+        "title": "Opciones de calefactores inteligentes con WiFi para el otoño",
+        "summary": "La cadena Action comercializa un calefactor convector con conectividad WiFi, mientras que alternativas similares están disponibles en otras plataformas digitales para climatizar el hogar.",
+        "paragraphs": [
+          "Ante la bajada de temperaturas, el mercado ofrece soluciones de calefacción conectada que permiten el control remoto a través de dispositivos móviles. El modelo LSC Smart Connect, disponible en Action, destaca por su integración domótica y diseño de cristal.",
+          "Otras opciones, como el radiador Cecotec Ready Warm 6670, también ofrecen funciones de programación y control por voz, aunque los precios pueden variar según el punto de venta."
+        ],
+        "bullets": [
+          "El calefactor de Action cuenta con 2.000 W de potencia y compatibilidad con asistentes de voz.",
+          "Los dispositivos permiten programar horarios y ajustar la temperatura de forma remota.",
+          "Se advierte sobre la necesidad de un uso eficiente para controlar el consumo eléctrico."
+        ],
+        "eventKey": "Action y otros comercios ofertan calefactores inteligentes",
+        "partial": true,
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-a712ab5828bf66e23d97fc59",
+        "url": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
+        "source": "Ars Technica",
+        "section": "tecnologia",
+        "lang": "en",
+        "publishedAt": "2026-10-14T20:15:56+00:00",
+        "sourceTitle": "Schools across US protest FCC plan that could disconnect kids from Internet",
+        "fingerprint": "4638b69191a16f257ac27169",
+        "title": "Protestas contra el plan de la FCC que amenaza la conexión a Internet en centros educativos",
+        "summary": "Diversas instituciones educativas y bibliotecas estadounidenses han solicitado a la FCC que desista de su intención de eliminar el programa de financiación E-Rate. El presidente del organismo justifica esta medida vinculando el uso de fondos con el tiempo excesivo que los menores pasan frente a las pantallas.",
+        "paragraphs": [
+          "Centros escolares y bibliotecas de Estados Unidos han alzado la voz contra una propuesta de la Comisión Federal de Comunicaciones (FCC) que pondría en riesgo el acceso a la red de los estudiantes. La iniciativa, impulsada por la presidencia del organismo, busca recortar el programa E-Rate, una partida presupuestaria esencial para la conectividad en el ámbito educativo.",
+          "La justificación esgrimida por el presidente de la FCC para retirar este apoyo financiero se centra en una crítica directa a los centros escolares, a los que responsabiliza del tiempo prolongado que los niños dedican a las pantallas. Esta postura ha generado una fuerte oposición por parte de las instituciones afectadas, que advierten sobre las consecuencias de desconectar a los menores."
+        ],
+        "bullets": [
+          "La FCC contempla la eliminación del programa E-Rate.",
+          "El presidente del organismo culpa a las escuelas del uso excesivo de pantallas por parte de los alumnos.",
+          "Instituciones educativas y bibliotecas exigen mantener la financiación para garantizar la conectividad."
+        ],
+        "eventKey": "escuelas y bibliotecas de EE.UU. protestan contra la FCC por el programa E-Rate",
+        "partial": true,
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-c266a1dab863896f9e73c1cf",
+        "url": "https://www.xataka.com/xataka-xtra/ultimas-horas-para-participar-sorteo-plaud-notepin-s-solo-para-miembros-xataka-xtra",
+        "source": "Xataka",
+        "section": "tecnologia",
+        "lang": "es",
+        "publishedAt": "2026-10-15T09:00:27+00:00",
+        "sourceTitle": "¡Últimas horas para participar en el sorteo de un Plaud NotePin S! Solo para miembros de Xataka Xtra",
+        "fingerprint": "1d4672cc97d6b6803af5286e",
+        "title": "Últimas horas para el sorteo de un Plaud NotePin S en Xataka Xtra",
+        "summary": "Los suscriptores de Xataka Xtra tienen hasta mañana para participar en el sorteo de una grabadora con inteligencia artificial. El ganador será seleccionado al azar entre los miembros de la comunidad.",
+        "paragraphs": [
+          "El plazo para optar al Plaud NotePin S, un dispositivo valorado en 179 euros que incluye un plan de transcripción, finaliza el 16 de octubre a las 9:00 horas. La participación está limitada exclusivamente a los miembros del servicio Xataka Xtra.",
+          "El ganador se dará a conocer el mismo día a las 11:00 horas a través de correo electrónico, el servidor de Discord de la comunidad y el artículo original. En caso de que el seleccionado no responda, se contactará con los suplentes previstos."
+        ],
+        "bullets": [
+          "Sorteo exclusivo para miembros de Xataka Xtra.",
+          "El premio incluye la grabadora y tres meses de transcripción ilimitada.",
+          "El cierre del plazo es el 16 de octubre a las 9:00 horas.",
+          "La suscripción a Xataka Xtra permite acceder a sorteos, descuentos y contacto directo con editores."
+        ],
+        "eventKey": "Xataka Xtra sortea Plaud NotePin S",
+        "partial": true,
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ],
     "economia": [
       {
-        "id": "n-7a17dffa24825917f5cc8256",
-        "url": "https://www.bbc.co.uk/news/articles/cjzxl7ee4e9xo?at_medium=RSS&at_campaign=rss",
+        "id": "n-1f7088d56feb4c6fc259037c",
+        "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "section": "economia",
         "lang": "en",
-        "publishedAt": "2026-10-12T10:36:39+00:00",
-        "sourceTitle": "HMV to close Oxford Street store after three years",
-        "fingerprint": "eec225ec4a27df6373d826fa",
-        "title": "HMV cerrará su tienda en Oxford Street",
-        "summary": "La cadena HMV ha anunciado el cierre de su establecimiento en Oxford Street al considerar que su ubicación actual no es rentable. La empresa ha indicado que se encuentra en la búsqueda de un nuevo emplazamiento en el West End londinense.",
+        "publishedAt": "2026-10-15T09:29:54+00:00",
+        "sourceTitle": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+        "fingerprint": "0929209f54f5c315dabb97c4",
+        "title": "El crecimiento inesperado de la economía británica en agosto",
+        "summary": "La economía del Reino Unido registró un ligero avance en agosto, superando las previsiones de los analistas que anticipaban una contracción. El Gobierno interpreta este dato como una muestra de resiliencia antes de la presentación de los presupuestos.",
         "paragraphs": [
-          "La emblemática tienda de HMV en Oxford Street bajará la persiana tras tres años de actividad. La compañía ha calificado la situación del local como inviable, lo que ha precipitado la decisión de abandonar el espacio.",
-          "A pesar del cierre, la firma ha confirmado que mantiene su interés por seguir operando en la zona. Actualmente, los responsables de la cadena están explorando alternativas para reubicarse en otros puntos del West End de Londres."
+          "El Reino Unido ha experimentado un crecimiento del 0,1% durante el mes de agosto. Este resultado ha sorprendido a los expertos, quienes esperaban una caída en la actividad económica.",
+          "El ministro John Healey ha calificado este comportamiento como un signo de fortaleza para el país, justo antes de que se anuncien las nuevas medidas presupuestarias."
         ],
         "bullets": [
-          "Cierre definitivo del local en Oxford Street tras tres años.",
-          "La empresa califica la ubicación actual como inviable.",
-          "HMV busca activamente un nuevo emplazamiento en el West End."
+          "Crecimiento del 0,1% en agosto.",
+          "Resultado superior a las expectativas de los analistas.",
+          "El Gobierno destaca la resiliencia económica ante el próximo presupuesto."
         ],
-        "eventKey": "HMV cierra tienda en Oxford Street",
+        "eventKey": "John Healey valora crecimiento económico Reino Unido",
         "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-9d2e3538f5941923e54674be",
-        "url": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+        "id": "n-0b7274ba05c98359d99b394f",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "section": "economia",
         "lang": "en",
-        "publishedAt": "2026-10-12T09:11:46+00:00",
-        "sourceTitle": "How to avoid getting stung if you miss credit card payments",
-        "fingerprint": "523faf859c7265fa726d6db3",
-        "title": "Consejos para gestionar el impago de tarjetas de crédito",
-        "summary": "Ante el aumento de los usuarios que se retrasan en sus pagos, se ofrecen recomendaciones para buscar asesoramiento financiero adecuado.",
+        "publishedAt": "2026-10-15T07:20:45+00:00",
+        "sourceTitle": "Anthropic flags revenue surge to investors ahead of stock market debut",
+        "fingerprint": "bd101d43f29d9845b9baa8e5",
+        "title": "Anthropic comunica un aumento de ingresos ante su posible salida a bolsa",
+        "summary": "La empresa de inteligencia artificial Anthropic ha reportado un incremento en sus ingresos mientras se prepara para su debut en el mercado bursátil. Este anuncio se produce en un contexto de inquietud entre los inversores por el elevado gasto en infraestructuras tecnológicas.",
         "paragraphs": [
-          "El incremento en el número de personas con dificultades para cumplir con sus obligaciones de crédito ha motivado la difusión de pautas para afrontar estas deudas.",
-          "Se sugiere recurrir a servicios especializados de asesoramiento para evitar consecuencias negativas derivadas de los impagos."
+          "Anthropic ha compartido datos sobre su crecimiento financiero con los inversores antes de su esperada entrada en el mercado de valores.",
+          "La compañía afronta este proceso en un momento en el que parte del sector inversor ha mostrado dudas sobre la sostenibilidad de las inversiones masivas destinadas a la infraestructura de inteligencia artificial."
         ],
         "bullets": [
-          "Aumento de los retrasos en los pagos de tarjetas de crédito.",
-          "Recomendación de buscar ayuda profesional para gestionar la deuda."
+          "Aumento de los ingresos reportado por Anthropic.",
+          "Preparativos en marcha para la salida a bolsa de la firma.",
+          "Preocupación inversora por el gasto en infraestructura de IA."
         ],
-        "eventKey": "usuarios-impago-tarjetas-credito",
+        "eventKey": "Anthropic-preparativos-salida-bolsa",
         "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-6490f52bc4e27312714a75a7",
-        "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+        "id": "n-58e81b270ae89a88222e5264",
+        "url": "https://cincodias.elpais.com/opinion/2026-10-15/la-banca-europea-se-acerca-al-precipicio-de-los-tipos-altos.html",
+        "source": "El País",
+        "section": "economia",
+        "lang": "es",
+        "publishedAt": "2026-10-15T03:40:00+00:00",
+        "sourceTitle": "La banca europea se acerca al precipicio de los tipos altos",
+        "fingerprint": "420a338f485b2552abd52238",
+        "title": "La banca europea ante el desafío de los tipos de interés",
+        "summary": "El sector bancario europeo afronta una notable presión en los mercados bursátiles ante la incertidumbre que generan los tipos de interés elevados. Pese a la inquietud inversora, los riesgos actuales se consideran todavía bajo control para las entidades financieras.",
+        "paragraphs": [
+          "La banca europea se encuentra bajo el foco de los inversores, quienes han castigado su cotización bursátil ante el escenario de tipos altos. Esta reacción del mercado parece, por el momento, sobredimensionar la situación real de las entidades.",
+          "A pesar de la volatilidad, los analistas sugieren que los riesgos a los que se enfrenta el sector financiero del continente siguen siendo manejables y no representan, por ahora, una amenaza inminente de colapso."
+        ],
+        "bullets": [
+          "El mercado bursátil muestra una respuesta negativa ante la política monetaria actual.",
+          "Los riesgos financieros se mantienen dentro de niveles gestionables para la banca europea."
+        ],
+        "eventKey": "banca europea-afronta-riesgos-mercado",
+        "partial": true,
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-4203f02c58c4f3e5d5515f6c",
+        "url": "https://www.bbc.co.uk/news/videos/cq398xnyx4gyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "section": "economia",
         "lang": "en",
-        "publishedAt": "2026-10-12T08:50:22+00:00",
-        "sourceTitle": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
-        "fingerprint": "624d5b38821b45a3c0945ff9",
-        "title": "El Gobierno británico afronta un déficit de 35.000 millones para cumplir sus promesas",
-        "summary": "El Instituto de Estudios Fiscales advierte de que el Ejecutivo necesitará inyectar miles de millones adicionales para cubrir sus compromisos de gasto.",
+        "publishedAt": "2026-10-15T05:37:44+00:00",
+        "sourceTitle": "Thousands of NI workers to get pay bump as Real Living Wage rises",
+        "fingerprint": "7adc9481f008d2e5b0fbdd12",
+        "title": "Aumento salarial para miles de trabajadores en Irlanda del Norte",
+        "summary": "Cerca de 6.000 empleados en Irlanda del Norte se beneficiarán de una subida en el Real Living Wage, una retribución voluntaria ajustada al coste de la vida.",
         "paragraphs": [
-          "El ministro de Hacienda, John Healey, se enfrenta a un complejo escenario presupuestario. Según el análisis del Instituto de Estudios Fiscales, los planes de gasto actuales requieren una financiación extra significativa para materializarse.",
-          "La institución señala que, sin este incremento en los fondos, el Gobierno tendrá dificultades para cumplir con los objetivos económicos prometidos."
+          "Un grupo de trabajadores en Irlanda del Norte verá incrementada su nómina tras la actualización del Real Living Wage. Este salario, que las empresas abonan de forma voluntaria, busca equiparar los ingresos de los empleados con el coste de vida actual.",
+          "La medida impacta directamente a unos 6.000 trabajadores en la región, quienes perciben esta remuneración específica frente a otros estándares salariales."
         ],
         "bullets": [
-          "El déficit estimado para alcanzar los compromisos de gasto asciende a 35.000 millones de libras.",
-          "El Instituto de Estudios Fiscales sugiere la necesidad de una inyección de capital adicional."
+          "Afecta a aproximadamente 6.000 trabajadores en Irlanda del Norte.",
+          "El Real Living Wage es un pago voluntario vinculado al coste de vida."
         ],
-        "eventKey": "John Healey afronta desafío presupuestario en Reino Unido",
+        "eventKey": "trabajadores Irlanda del Norte reciben aumento salarial",
         "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ],
     "cultura": [
       {
-        "id": "n-b3686d7c16ebd807424414f9",
-        "url": "https://elpais.com/cultura/cine/2026-10-12/los-demonios-cuando-ken-russell-rodo-unas-monjas-masturbandose-con-un-gigantesco-cristo-crucificado.html",
+        "id": "n-9d4a34e972ffa12f1e0daba6",
+        "url": "https://elpais.com/cultura/2026-10-15/la-escritora-sally-rooney-ya-no-vendera-sus-libros-en-el-reino-unido-por-su-activismo-propalestino.html",
         "source": "El País",
         "section": "cultura",
         "lang": "es",
-        "publishedAt": "2026-10-12T03:30:01+00:00",
-        "sourceTitle": "‘Los demonios’: cuando Ken Russell rodó unas monjas masturbándose con un gigantesco cristo crucificado",
-        "fingerprint": "008e71a5a0c284974b66c5a8",
-        "title": "El estreno íntegro de 'Los demonios' tras décadas de censura",
-        "summary": "La polémica película de Ken Russell, que sufrió cortes por parte de la censura británica en 1971, llega finalmente a las salas comerciales en su versión completa tras su exhibición en el Festival de Sitges.",
+        "publishedAt": "2026-10-15T09:19:44+00:00",
+        "sourceTitle": "La escritora Sally Rooney ya no venderá sus libros en el Reino Unido por su activismo propalestino",
+        "fingerprint": "7bcf897f91b35600eeb24558",
+        "title": "Sally Rooney retira sus libros del mercado británico",
+        "summary": "La escritora ha decidido dejar de comercializar sus obras en el Reino Unido tras anunciar su intención de financiar a un grupo activista palestino calificado como terrorista por las autoridades británicas.",
         "paragraphs": [
-          "El drama histórico, protagonizado por Vanessa Redgrave y Oliver Reed, fue objeto de una tijera censora que eliminó un minuto de metraje hace más de cinco décadas debido a su contenido explícito.",
-          "Tras su reciente paso por el Festival de Sitges, la obra se prepara para su distribución en cines manteniendo su integridad original."
+          "La autora ha comunicado su retirada del mercado del Reino Unido. Esta decisión se produce después de que Rooney expresara su voluntad de destinar fondos a una organización palestina que Londres considera una entidad terrorista."
         ],
         "bullets": [
-          "La censura británica recortó la cinta original en 1971.",
-          "El filme cuenta con las interpretaciones de Vanessa Redgrave y Oliver Reed.",
-          "La versión sin cortes se estrena en salas comerciales tras su proyección en Sitges."
+          "Cese de la venta de libros en territorio británico.",
+          "Motivación vinculada al apoyo financiero a un grupo activista palestino.",
+          "Conflicto con la clasificación de dicho grupo por parte del Gobierno de Londres."
         ],
-        "eventKey": "Ken Russell-estreno versión íntegra-Sitges",
+        "eventKey": "Sally Rooney-retirada libros-Reino Unido",
         "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-fc4dfdd38e5cbd0c5710b51f",
-        "url": "https://elpais.com/cultura/2026-10-12/nik-cohn-el-hombre-a-la-contra.html",
-        "source": "El País",
+        "id": "n-6f6e3bc95b7b3a83a706c190",
+        "url": "https://www.theguardian.com/stage/2026/oct/15/dominic-cooke-almeida-theatre-david-tennant-caryl-churchill",
+        "source": "The Guardian",
         "section": "cultura",
-        "lang": "es",
-        "publishedAt": "2026-10-12T03:30:01+00:00",
-        "sourceTitle": "Nik Cohn, el hombre a la contra",
-        "fingerprint": "ba3c7f87c0d34bfaf57c5f34",
-        "title": "Nik Cohn, una figura a contracorriente",
-        "summary": "El escritor británico Nik Cohn es descrito como un personaje propenso a los conflictos, una faceta que, según él mismo, resulta provechosa para su obra literaria.",
+        "lang": "en",
+        "publishedAt": "2026-10-15T09:00:09+00:00",
+        "sourceTitle": "‘The world is falling apart’: Dominic Cooke plans boldly political first season at Almeida",
+        "fingerprint": "6ccbf7da6b1c341cd0f7948a",
+        "title": "Dominic Cooke anuncia una temporada de marcado carácter político en el Almeida Theatre",
+        "summary": "El nuevo director artístico del teatro londinense ha presentado una programación centrada en la crisis británica, contando con la participación de David Tennant y la dramaturga Caryl Churchill.",
         "paragraphs": [
-          "El autor es definido como un caballero británico con una marcada inclinación a involucrarse en situaciones problemáticas.",
-          "Cohn sostiene que esta tendencia a buscar líos actúa como un beneficio directo para el desarrollo de su literatura."
+          "Dominic Cooke ha desvelado los planes para su primera temporada al frente del Almeida Theatre, caracterizada por un enfoque político ante la percepción de que el mundo atraviesa un momento de desmoronamiento.",
+          "La propuesta incluye una obra sobre el declive del Reino Unido protagonizada por David Tennant y un ciclo de nuevas piezas escritas por Caryl Churchill."
         ],
         "bullets": [
-          "Perfil de Nik Cohn como escritor polémico.",
-          "Relación entre su actitud personal y su producción literaria."
+          "Dominic Cooke asume la dirección artística del Almeida Theatre.",
+          "La programación abordará la situación política y el declive británico.",
+          "David Tennant participará en una de las producciones principales.",
+          "Caryl Churchill estrenará una serie de nuevas obras en el recinto."
         ],
-        "eventKey": "Nik Cohn reflexiona sobre su trayectoria",
+        "eventKey": "Dominic Cooke programa temporada política en Almeida Theatre",
         "partial": true,
-        "summarizedAt": "2026-10-12T12:57:07.074151+00:00",
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-2908ce85d8ddb7c16ca9a77f",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/15/crystal-lake-review-friday-the-13th-series",
+        "source": "The Guardian",
+        "section": "cultura",
+        "lang": "en",
+        "publishedAt": "2026-10-15T07:01:24+00:00",
+        "sourceTitle": "Crystal Lake review – Friday the 13th gets unnecessary expansion in gory and goofy series",
+        "fingerprint": "d66f7e44d2e3109a4e95d734",
+        "title": "Crítica de Crystal Lake: una expansión innecesaria de Viernes 13",
+        "summary": "La nueva serie que explora el origen de la franquicia de terror es calificada como un intento confuso y carente de sentido. A pesar del esfuerzo de Linda Cardellini, la producción se percibe como una extensión forzada de una propiedad intelectual agotada.",
+        "paragraphs": [
+          "La crítica de The Guardian cuestiona la necesidad de profundizar en la historia de fondo de una saga caracterizada por su sencillez narrativa. La obra se suma a la tendencia actual de explotar franquicias clásicas del género slasher mediante precuelas o reinicios.",
+          "El análisis señala que, al igual que ocurre con otros iconos del terror como Michael Myers o Ghostface, los derechos de autor buscan rentabilizar a Jason Voorhees con este nuevo proyecto ambientado en el campamento Crystal Lake."
+        ],
+        "bullets": [
+          "La serie es descrita como una expansión innecesaria y absurda.",
+          "Linda Cardellini protagoniza el proyecto pese a la debilidad del guion.",
+          "Se enmarca en una tendencia de la industria por revivir sagas de terror mediante nuevas entregas."
+        ],
+        "eventKey": "Crystal Lake serie estreno crítica",
+        "partial": true,
+        "summarizedAt": "2026-10-15T09:43:16.554431+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ]
