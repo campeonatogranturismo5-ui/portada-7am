@@ -6590,5 +6590,171 @@
   "n-08feba59d4e071dd650edc6d": {
     "fingerprint": "7d82ef0fc0aebf560e3c81ab",
     "item": null
+  },
+  "n-d2a7ac0fbf62b88db4041235": {
+    "fingerprint": "0dc0079c13d123c9f1182e57",
+    "item": {
+      "id": "n-d2a7ac0fbf62b88db4041235",
+      "url": "https://www.durangon.com/unas-zezenak-dira-bajo-la-lluvia-causan-un-punado-de-heridos-leves/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-17T09:11:03+00:00",
+      "sourceTitle": "Unas ‘zezenak dira’ bajo la lluvia causan un puñado de heridos leves",
+      "fingerprint": "0dc0079c13d123c9f1182e57",
+      "title": "Heridos leves en las 'zezenak dira' de Durango",
+      "summary": "La celebración de las 'zezenak dira' en Durango ha dejado varios heridos de carácter leve a pesar de las condiciones meteorológicas adversas.",
+      "paragraphs": [
+        "La jornada festiva en Durango se ha visto marcada por la lluvia durante la celebración de las tradicionales 'zezenak dira'. El evento ha registrado varios incidentes que se han saldado con heridos leves.",
+        "Tras este acto, la programación continúa con el Día del Disfraz, que incluye actividades para los más pequeños, música en las calles y el concurso de tortillas en Landako Gunea."
+      ],
+      "bullets": [
+        "Varios heridos leves durante las 'zezenak dira'.",
+        "La lluvia ha condicionado el desarrollo de los festejos.",
+        "La programación sigue con el Día del Disfraz y el concurso de tortillas."
+      ],
+      "eventKey": "participantes-zezenak dira-Durango",
+      "partial": true,
+      "summarizedAt": "2026-10-17T11:08:46.253593+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-765147c05ad7c46dda3e0c7d": {
+    "fingerprint": "6ee7de83332f63edcc524db5",
+    "item": {
+      "id": "n-765147c05ad7c46dda3e0c7d",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/17/we-are-in-hiding-briton-severe-health-issues-fears-deportation-sweden",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-17T11:00:30+00:00",
+      "sourceTitle": "‘We are in hiding’: Briton with severe health issues fears deportation from Sweden",
+      "fingerprint": "6ee7de83332f63edcc524db5",
+      "title": "Un ciudadano británico con graves problemas de salud se oculta en Suecia ante una posible deportación",
+      "summary": "Mark Smith, un hombre de 60 años residente en Suecia, se encuentra en paradero desconocido tras recibir una orden de expulsión que atribuye a un error administrativo relacionado con el Brexit.",
+      "paragraphs": [
+        "Mark Smith, casado con una ciudadana sueca, ha denunciado que las autoridades le instaron en repetidas ocasiones a no realizar trámites adicionales tras la salida del Reino Unido de la Unión Europea. Sin embargo, recientemente recibió una notificación telefónica que le exige abandonar el país al ser considerado un extranjero sin permiso de residencia.",
+        "El afectado, que padece dolencias cardíacas, hipertensión crónica y secuelas de accidentes cerebrovasculares, teme que la ejecución de esta medida ponga en riesgo su salud. Smith sostiene que la situación deriva de una gestión errónea por parte del gobierno sueco respecto a los derechos de residencia post-Brexit."
+      ],
+      "bullets": [
+        "Mark Smith ha pasado a la clandestinidad ante la amenaza de ser deportado este 17 de octubre.",
+        "El afectado alega haber recibido información contradictoria sobre su estatus legal tras el Brexit.",
+        "Su delicado estado de salud, que incluye problemas cardíacos, complica su situación actual."
+      ],
+      "eventKey": "Mark Smith-amenaza de deportación-Suecia",
+      "partial": true,
+      "summarizedAt": "2026-10-17T11:08:46.253593+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-e1b9f2d4fdbd304b9441d9f6": {
+    "fingerprint": "a5ff5a466cacd3b380ce3fdc",
+    "item": {
+      "id": "n-e1b9f2d4fdbd304b9441d9f6",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
+      "source": "NASA",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-17T04:05:00+00:00",
+      "sourceTitle": "APOD: 2026 October 17 – 3D 67P",
+      "fingerprint": "a5ff5a466cacd3b380ce3fdc",
+      "title": "Imagen tridimensional del cometa 67P",
+      "summary": "La NASA ha publicado una representación en 3D del cometa 67P como parte de su sección diaria de astronomía.",
+      "paragraphs": [
+        "La iniciativa Astronomy Picture of the Day ha compartido una nueva imagen del cometa 67P, acompañada por una explicación técnica redactada por un astrónomo profesional."
+      ],
+      "bullets": [
+        "Publicación de una imagen tridimensional del cometa 67P.",
+        "Contenido educativo supervisado por expertos en astronomía."
+      ],
+      "eventKey": "NASA-publica-imagen-cometa-67P",
+      "partial": true,
+      "summarizedAt": "2026-10-17T11:08:46.253593+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-4c40746536750b3cbac18f98": {
+    "fingerprint": "adcb2abfb687f711c2addf0f",
+    "item": {
+      "id": "n-4c40746536750b3cbac18f98",
+      "url": "https://www.xataka.com/movilidad/pere-navarro-director-dgt-sanciones-no-exceso-velocidad-tonto",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-17T11:00:10+00:00",
+      "sourceTitle": "Pere Navarro, director de la DGT: \"Las sanciones no son tanto por el exceso de velocidad, son por tonto\"",
+      "fingerprint": "adcb2abfb687f711c2addf0f",
+      "title": "Pere Navarro califica de \"tonto\" al conductor multado por radares fijos",
+      "summary": "El director de la DGT ha cuestionado la actitud de los conductores que son sancionados por exceso de velocidad en zonas señalizadas con radares fijos. Navarro defiende la eficacia de estos dispositivos frente a las críticas sobre el afán recaudatorio del organismo.",
+      "paragraphs": [
+        "Durante una entrevista en Asturias, el máximo responsable de Tráfico, Pere Navarro, ha restado importancia a las acusaciones de recaudación que recibe la DGT. Según Navarro, el conductor tiene la capacidad de frenar ante un radar señalizado, por lo que ser multado en esas circunstancias responde más a una falta de prudencia que a la propia velocidad.",
+        "El director ha reiterado que los radares son herramientas necesarias para reducir la siniestralidad, citando estudios que avalan la efectividad de estos sistemas, incluso cuando las cajas se encuentran vacías, debido al efecto disuasorio que generan en los automovilistas."
+      ],
+      "bullets": [
+        "Navarro sostiene que el conductor puede evitar la sanción simplemente frenando al ver el aviso del radar.",
+        "La DGT utiliza radares fijos, de tramo y móviles, además de helicópteros Pegasus, para controlar los límites de velocidad.",
+        "El organismo defiende que la presencia de radares reduce significativamente los accidentes con heridos graves o fallecidos."
+      ],
+      "eventKey": "Pere Navarro critica conductores radares DGT",
+      "partial": true,
+      "summarizedAt": "2026-10-17T11:08:46.253593+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-8980f89c0231959facfaec71": {
+    "fingerprint": "2d14af3fd03e91414c4a8b87",
+    "item": {
+      "id": "n-8980f89c0231959facfaec71",
+      "url": "https://www.bbc.co.uk/news/articles/cqde8zk6d916o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-17T06:18:16+00:00",
+      "sourceTitle": "Call for more food funding due to high living cost",
+      "fingerprint": "2d14af3fd03e91414c4a8b87",
+      "title": "Petición de mayor financiación alimentaria ante el coste de la vida",
+      "summary": "La diputada Louise Doublet ha cuestionado la finalización de un programa de prueba, argumentando que no se tuvo en cuenta el impacto del coste de la vida.",
+      "paragraphs": [
+        "La diputada Louise Doublet ha expresado su disconformidad con la reciente conclusión de un periodo de prueba. Según su valoración, la decisión de finalizar esta iniciativa no contempló adecuadamente la situación económica actual de los ciudadanos.",
+        "La parlamentaria ha solicitado que se incremente la financiación destinada a la alimentación, vinculando esta necesidad directamente con la presión que ejerce el elevado coste de la vida sobre las familias."
+      ],
+      "bullets": [
+        "Crítica a la finalización de un programa de prueba.",
+        "Falta de consideración sobre el coste de la vida.",
+        "Solicitud de más fondos para alimentación."
+      ],
+      "eventKey": "Louise Doublet solicita financiación alimentaria",
+      "partial": true,
+      "summarizedAt": "2026-10-17T11:08:46.253593+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-526ad3786be963e876d8c61b": {
+    "fingerprint": "355ad1828d075b1372926b44",
+    "item": {
+      "id": "n-526ad3786be963e876d8c61b",
+      "url": "https://www.europapress.es/euskadi/noticia-lehendakari-encabeza-lunes-mision-toulouse-abrir-nuevas-oportunidades-industria-aeroespacial-20261017110006.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-17T09:00:06+00:00",
+      "sourceTitle": "El lehendakari encabeza este lunes una misión a Toulouse para abrir nuevas oportunidades para la industria aeroespacial",
+      "fingerprint": "355ad1828d075b1372926b44",
+      "title": "Imanol Pradales lidera una misión institucional a Toulouse",
+      "summary": "El lehendakari viajará este lunes a la ciudad francesa para estrechar lazos con la región de Occitania y fomentar el crecimiento del sector aeroespacial vasco.",
+      "paragraphs": [
+        "El lehendakari, Imanol Pradales, encabezará una delegación institucional y empresarial con destino a Toulouse. El propósito principal de este viaje es fortalecer la colaboración con la región de Occitania.",
+        "La iniciativa busca explorar nuevas vías de negocio para la industria aeroespacial del País Vasco, aprovechando la relevancia de Toulouse como uno de los centros neurálgicos del sector en el continente europeo."
+      ],
+      "bullets": [
+        "Refuerzo de la cooperación con la región francesa de Occitania.",
+        "Búsqueda de oportunidades para la industria aeroespacial vasca.",
+        "Visita a uno de los principales polos aeronáuticos de Europa."
+      ],
+      "eventKey": "Imanol Pradales viaja a Toulouse para impulsar la industria aeroespacial",
+      "partial": true,
+      "summarizedAt": "2026-10-17T11:08:46.253593+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
