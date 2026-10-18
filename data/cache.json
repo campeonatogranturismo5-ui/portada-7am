@@ -6756,5 +6756,794 @@
       "summarizedAt": "2026-10-17T11:08:46.253593+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-cbec70a9010c7e37edb714f1": {
+    "fingerprint": "4201fcb2cd916636fa5b558c",
+    "item": {
+      "id": "n-cbec70a9010c7e37edb714f1",
+      "url": "https://www.durangon.com/durango-apura-los-sanfaustos-entre-pelucas-y-tortillas/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-17T15:04:44+00:00",
+      "sourceTitle": "Durango apura los ‘Sanfaustos’ entre pelucas y tortillas",
+      "fingerprint": "4201fcb2cd916636fa5b558c",
+      "title": "Durango afronta el final de sus fiestas de San Fausto",
+      "summary": "Las celebraciones de Durango encaran su recta final con cambios en la programación debido a la meteorología. La jornada incluye actos tradicionales y propuestas musicales para cerrar el programa festivo.",
+      "paragraphs": [
+        "La lluvia ha obligado a trasladar el desfile de disfraces al pórtico de Santa María, donde se celebrará a las 18.30 horas. Este evento marca el inicio de una tarde que culminará con la despedida de Trapu Zaharra.",
+        "Tras los actos de clausura, la programación festiva continuará durante la noche con diversas actuaciones musicales y una verbena para los asistentes."
+      ],
+      "bullets": [
+        "Desfile de disfraces reubicado en el pórtico de Santa María.",
+        "Despedida oficial de Trapu Zaharra.",
+        "Cierre de fiestas con conciertos y verbena."
+      ],
+      "eventKey": "Durango celebra final fiestas San Fausto",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-6e550d57be9cdc62b20b5bab": {
+    "fingerprint": "e3e0e4004ab9d4499adbeee4",
+    "item": {
+      "id": "n-6e550d57be9cdc62b20b5bab",
+      "url": "https://www.europapress.es/nacional/noticia-esperanza-aguirre-testigo-miercoles-juicio-contra-sucesor-ignacio-gonzalez-caso-lezo-20261018102749.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-18T08:27:49+00:00",
+      "sourceTitle": "Esperanza Aguirre, testigo este miércoles en el juicio contra su sucesor Ignacio González por el 'caso Lezo'",
+      "fingerprint": "e3e0e4004ab9d4499adbeee4",
+      "title": "Esperanza Aguirre declarará como testigo en el juicio del caso Lezo",
+      "summary": "La expresidenta madrileña ha sido citada para testificar en el proceso judicial que investiga a su sucesor, Ignacio González, por supuestas irregularidades en la gestión del Canal de Isabel II.",
+      "paragraphs": [
+        "Esperanza Aguirre comparecerá este miércoles ante el tribunal que juzga a Ignacio González. La dirigente del Partido Popular aportará su testimonio en relación con la causa que examina la adjudicación de contratos públicos vinculados a un campo de golf del Canal de Isabel II."
+      ],
+      "bullets": [
+        "La citación se enmarca en el juicio por el caso Lezo.",
+        "Se investigan presuntas irregularidades en la adjudicación de dos contratos públicos."
+      ],
+      "eventKey": "Esperanza Aguirre testifica juicio Ignacio González Madrid",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-cb129b240f7aff0a9f5c84a6": {
+    "fingerprint": "834e5e5d084f00a3154cd8ea",
+    "item": {
+      "id": "n-cb129b240f7aff0a9f5c84a6",
+      "url": "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-18T09:00:55+00:00",
+      "sourceTitle": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
+      "fingerprint": "834e5e5d084f00a3154cd8ea",
+      "title": "El auge de los 'hypemen' en la escena del Afrobeats",
+      "summary": "La figura del 'hypeman' ha ganado relevancia en la música Afrobeats gracias a su capacidad para dinamizar al público mediante improvisaciones vocales de alta intensidad.",
+      "paragraphs": [
+        "El estilo de animación conocido como 'Afrohype' o 'lamba' se ha consolidado como un subgénero del Afrobeats. Esta tendencia destaca por el uso de frases virales y una energía desbordante que logra captar la atención de las audiencias.",
+        "Toby Shang, uno de los referentes de este movimiento, ha pasado de sus inicios académicos en la Universidad de Lagos a convertirse en un pionero del sector tras el éxito de su tema 'Shedibalabala'."
+      ],
+      "bullets": [
+        "El 'Afrohype' se basa en la improvisación vocal y la interacción directa con el público.",
+        "Toby Shang es reconocido como uno de los principales evangelistas de este estilo musical.",
+        "La disciplina ha evolucionado desde presentaciones universitarias hasta alcanzar un impacto viral."
+      ],
+      "eventKey": "Toby Shang populariza el Afrohype en Lagos",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-39e132054eaf69eb1bddb20e": {
+    "fingerprint": "492e3d287f256b66ae4439d6",
+    "item": {
+      "id": "n-39e132054eaf69eb1bddb20e",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
+      "source": "NASA",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-18T04:05:00+00:00",
+      "sourceTitle": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
+      "fingerprint": "492e3d287f256b66ae4439d6",
+      "title": "La NASA presenta una versión sonora de los Pilares de la Creación",
+      "summary": "La imagen astronómica del día de la NASA ofrece una representación auditiva de la icónica Nebulosa del Águila.",
+      "paragraphs": [
+        "La agencia espacial ha publicado una nueva pieza divulgativa que permite escuchar la estructura de los conocidos Pilares de la Creación, situados en la Nebulosa del Águila.",
+        "Esta iniciativa forma parte de la sección diaria de astronomía de la NASA, que combina material visual con explicaciones de expertos para acercar el cosmos al público."
+      ],
+      "bullets": [
+        "La propuesta transforma datos visuales en sonido.",
+        "La iniciativa se enmarca en la sección Astronomy Picture of the Day."
+      ],
+      "eventKey": "NASA-sonifica-Nebulosa-Aguila",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-f1312e5c671ce6945e57a9b7": {
+    "fingerprint": "834f4a5504b6332f46da4093",
+    "item": {
+      "id": "n-f1312e5c671ce6945e57a9b7",
+      "url": "https://www.xataka.com/moviles/movil-120-euros-se-muere-no-va-a-volver",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-18T09:01:34+00:00",
+      "sourceTitle": "El móvil de 120 euros se muere. Y no va a volver",
+      "fingerprint": "834f4a5504b6332f46da4093",
+      "title": "El fin de los smartphones económicos",
+      "summary": "El mercado de la telefonía móvil atraviesa una crisis de ventas y encarecimiento de componentes que está provocando que los fabricantes abandonen definitivamente la gama baja. Las previsiones apuntan a que los dispositivos de bajo coste no se recuperarán, desplazando el interés de la industria hacia terminales de mayor margen.",
+      "paragraphs": [
+        "La escasez de memorias DRAM y NAND ha disparado los precios de producción, ofreciendo a las marcas la oportunidad de retirar sus modelos más asequibles. Según los datos de Counterpoint, el mercado se reconfigurará hacia dispositivos de gama media y alta, mientras que los teléfonos de menos de 200 dólares sufrirán una caída drástica en su disponibilidad.",
+        "Esta tendencia amenaza con reducir el acceso a Internet en países con menos recursos, ya que el smartphone ha dejado de ser un producto democrático. Mientras los fabricantes priorizan el suministro de componentes para centros de datos de inteligencia artificial, el incentivo para producir móviles de bajo coste parece haber desaparecido por completo."
+      ],
+      "bullets": [
+        "Las ventas mundiales de smartphones han caído un 20% interanual en el tercer trimestre de 2026.",
+        "Se prevé que los móviles de menos de 200 dólares caigan un 40% para 2030.",
+        "Apple ha alcanzado un 22% de cuota de mercado, beneficiándose de una estrategia centrada en el segmento premium.",
+        "La falta de terminales asequibles podría frenar la incorporación de nuevos usuarios a la red global."
+      ],
+      "eventKey": "fabricantes de móviles abandonan la gama baja",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-e164a6dfa610c5d79bbcb3c1": {
+    "fingerprint": "86ceccb794afd39501355c27",
+    "item": {
+      "id": "n-e164a6dfa610c5d79bbcb3c1",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-18/tadashi-yanai-el-hombre-mas-rico-de-japon-acecha-a-inditex.html",
+      "source": "El País",
+      "section": "economia",
+      "lang": "es",
+      "publishedAt": "2026-10-18T03:40:00+00:00",
+      "sourceTitle": "Tadashi Yanai, el hombre más rico de Japón, acecha a Inditex",
+      "fingerprint": "86ceccb794afd39501355c27",
+      "title": "El crecimiento de Fast Retailing desafía el liderazgo de Inditex",
+      "summary": "La matriz de Uniqlo, liderada por Tadashi Yanai, ha registrado beneficios récord y muestra un ritmo de expansión superior al de la compañía española.",
+      "paragraphs": [
+        "Fast Retailing, el grupo propietario de Uniqlo, ha consolidado una trayectoria de crecimiento acelerado que sitúa a la firma japonesa como una amenaza competitiva para Inditex.",
+        "La empresa, encabezada por el empresario más rico de Japón, Tadashi Yanai, ha cerrado su último ejercicio fiscal con resultados financieros históricos."
+      ],
+      "bullets": [
+        "Fast Retailing alcanzó un beneficio récord de 3.000 millones de euros.",
+        "La compañía japonesa mantiene un ritmo de crecimiento superior al de la firma gallega."
+      ],
+      "eventKey": "Tadashi Yanai y Fast Retailing compiten contra Inditex",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-b4371d3e00aa52ee901c48a6": {
+    "fingerprint": "4a2bf375b3e004f05620fa7d",
+    "item": {
+      "id": "n-b4371d3e00aa52ee901c48a6",
+      "url": "https://www.europapress.es/euskadi/noticia-pradales-apela-fortalecer-convivencia-valores-democraticos-cada-dia-aniversario-anuncio-fin-eta-20261018105940.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-18T08:59:40+00:00",
+      "sourceTitle": "Pradales apela a \"fortalecer la convivencia y valores democráticos cada día\" en el aniversario del anuncio de fin de ETA",
+      "fingerprint": "4a2bf375b3e004f05620fa7d",
+      "title": "Pradales reivindica la convivencia en el decimoquinto aniversario del fin de ETA",
+      "summary": "El lehendakari Imanol Pradales ha subrayado la necesidad de trabajar diariamente en la consolidación de los valores democráticos al cumplirse quince años del cese de la actividad armada de la banda terrorista.",
+      "paragraphs": [
+        "Con motivo del decimoquinto aniversario del anuncio del fin de ETA, el lehendakari Imanol Pradales ha hecho un llamamiento a no bajar la guardia en la construcción de una sociedad pacífica. El mandatario vasco ha insistido en que la paz requiere un esfuerzo constante y diario.",
+        "Pradales ha expresado su confianza en que será posible dejar un legado de convivencia a las futuras generaciones, siempre que se mantenga el compromiso con los principios democráticos fundamentales."
+      ],
+      "bullets": [
+        "Conmemoración del 15º aniversario del fin de la actividad armada de ETA.",
+        "Llamamiento del lehendakari a fortalecer la convivencia y los valores democráticos.",
+        "Confianza en el legado de paz para las próximas generaciones."
+      ],
+      "eventKey": "Imanol Pradales conmemora aniversario fin ETA en Euskadi",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-b2345c6b47ca65daeef79342": {
+    "fingerprint": "2a9961f1a607d53777ec61cb",
+    "item": {
+      "id": "n-b2345c6b47ca65daeef79342",
+      "url": "https://www.eldiario.es/tecnologia/colapsar-defensas-primera-linea-policia-cni-ataques-ia_1_13584501.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-17T20:11:43+00:00",
+      "sourceTitle": "“Puede colapsar las defensas”: dentro de la primera línea de Policía y CNI ante los ataques con IA",
+      "fingerprint": "2a9961f1a607d53777ec61cb",
+      "title": "El desafío de la inteligencia artificial para la seguridad pública",
+      "summary": "Las fuerzas de seguridad y el CNI advierten sobre el impacto de la inteligencia artificial en la ciberdelincuencia, destacando la creciente participación de menores en ataques informáticos. Los expertos señalan que el próximo año y medio será determinante para afrontar estas nuevas amenazas tecnológicas.",
+      "paragraphs": [
+        "La Policía Nacional y el CNI se enfrentan a un escenario donde el uso de herramientas de inteligencia artificial facilita brechas de seguridad, incluso por parte de adolescentes sin formación técnica avanzada. Un caso reciente en un municipio español, donde un menor accedió a datos de 5.000 ciudadanos, ilustra la gravedad de estos incidentes.",
+        "Las autoridades policiales han comenzado a explorar la colaboración con estos jóvenes infractores para desarrollar herramientas de monitorización. El inspector Javier Izquierdo subraya que la facilidad de acceso a estas tecnologías ha convertido los ciberataques en un reto para menores que actúan sin ánimo de lucro, pero con consecuencias graves."
+      ],
+      "bullets": [
+        "Los próximos 18 meses se consideran un periodo crítico para la ciberseguridad nacional.",
+        "La Policía investiga a menores que utilizan IA para vulnerar sistemas públicos por simple desafío.",
+        "Se plantea la posibilidad de que jóvenes expertos colaboren con las fuerzas de seguridad en la creación de defensas.",
+        "La profesionalización de la ciberdelincuencia y la accesibilidad de la IA complican la labor de las instituciones."
+      ],
+      "eventKey": "Policía y CNI investigan ataques con IA",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-6bd483fb49bef24adff26cac": {
+    "fingerprint": "dd4793aed56eebd3a30e2aa7",
+    "item": {
+      "id": "n-6bd483fb49bef24adff26cac",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-18T08:52:41+00:00",
+      "sourceTitle": "Several dead or injured in major fire at Canada military base",
+      "fingerprint": "dd4793aed56eebd3a30e2aa7",
+      "title": "Incendio de gran magnitud en una base militar canadiense",
+      "summary": "Se ha registrado un grave incendio en la base de las Fuerzas Canadienses en Wainwright, dejando un número indeterminado de víctimas. Las autoridades mantienen cautela sobre los detalles debido a la complejidad de la situación.",
+      "paragraphs": [
+        "Un importante fuego ha afectado a la base militar de Wainwright, en Canadá, provocando fallecidos y heridos. Por el momento, los responsables no han confirmado la cifra exacta de víctimas ni el origen del siniestro.",
+        "La situación en el recinto sigue siendo calificada como muy activa y delicada, lo que impide ofrecer más información oficial sobre el alcance de los daños o las causas del suceso."
+      ],
+      "bullets": [
+        "Incendio grave en la base militar de Wainwright.",
+        "Confirmada la existencia de muertos y heridos.",
+        "Causas y balance de víctimas aún bajo investigación."
+      ],
+      "eventKey": "Fuerzas Canadienses-incendio-Wainwright",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-64eec3307d023ba29be4f38e": {
+    "fingerprint": "c97a50be9e4a762c507571fe",
+    "item": {
+      "id": "n-64eec3307d023ba29be4f38e",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-17T13:28:13+00:00",
+      "sourceTitle": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
+      "fingerprint": "c97a50be9e4a762c507571fe",
+      "title": "El telescopio Roman de la NASA supera las previsiones de rendimiento",
+      "summary": "El telescopio espacial Nancy Grace Roman ha mejorado su capacidad de observación tras una serie de ajustes técnicos de precisión. Gracias a estas modificaciones, la calidad de sus imágenes supera en casi un 30% las estimaciones iniciales.",
+      "paragraphs": [
+        "Los ingenieros de la misión han logrado optimizar el rendimiento del telescopio mediante ajustes milimétricos en uno de sus espejos. Esta intervención ha permitido alinear sus instrumentos con una precisión casi perfecta.",
+        "Como resultado, el instrumento de campo amplio del Roman ofrece ahora una nitidez superior a la esperada, lo que facilitará la realización de estudios cósmicos de alta resolución en el futuro."
+      ],
+      "bullets": [
+        "Ajuste de un espejo en una fracción mínima del grosor de un cabello humano.",
+        "Mejora del 30% en la calidad de las imágenes captadas.",
+        "Optimización de los instrumentos para futuros sondeos del universo."
+      ],
+      "eventKey": "NASA-mejora-rendimiento-telescopio-Roman",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-6808fc909befc84a450c2985": {
+    "fingerprint": "18a91783bc8b70153aa5edc3",
+    "item": {
+      "id": "n-6808fc909befc84a450c2985",
+      "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+      "source": "Ars Technica",
+      "section": "tecnologia",
+      "lang": "en",
+      "publishedAt": "2026-10-17T11:15:11+00:00",
+      "sourceTitle": "Science says your boss should talk less in meetings",
+      "fingerprint": "18a91783bc8b70153aa5edc3",
+      "title": "La ciencia sugiere que los jefes deberían hablar menos en las reuniones",
+      "summary": "Un estudio reciente apunta a que la eficacia en las reuniones laborales mejora cuando los líderes escuchan más y reducen su tiempo de intervención. Asimismo, se plantea la eliminación de encuentros sin un objetivo claro.",
+      "paragraphs": [
+        "Investigaciones recientes indican que los responsables de equipos deberían priorizar la escucha activa durante las reuniones de trabajo. Limitar el tiempo de palabra de los superiores podría favorecer una dinámica más productiva.",
+        "El análisis también sugiere que suprimir las reuniones que carecen de un propósito definido contribuiría a optimizar el rendimiento laboral."
+      ],
+      "bullets": [
+        "Fomento de la escucha activa por parte de los líderes.",
+        "Reducción del tiempo de intervención de los jefes.",
+        "Eliminación de reuniones sin objetivos claros."
+      ],
+      "eventKey": "jefes-reducir-intervencion-reuniones",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-11a8195024bd6c6caadbadf6": {
+    "fingerprint": "a2f6ea2c4503b6604c57f3fb",
+    "item": {
+      "id": "n-11a8195024bd6c6caadbadf6",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-18T00:11:09+00:00",
+      "sourceTitle": "There's a crackdown on sports piracy - but is it already out of control?",
+      "fingerprint": "a2f6ea2c4503b6604c57f3fb",
+      "title": "La industria deportiva frente al desafío de la piratería",
+      "summary": "El sector del deporte se enfrenta a una creciente amenaza contra su modelo de negocio debido a la proliferación de dispositivos y enlaces de retransmisión ilegales.",
+      "paragraphs": [
+        "La industria deportiva está intensificando sus esfuerzos para combatir la piratería, que pone en riesgo la rentabilidad de sus actuales modelos de negocio.",
+        "El uso de dispositivos de televisión modificados y enlaces de streaming no autorizados ha generado dudas sobre si las medidas de control actuales son suficientes para frenar esta tendencia."
+      ],
+      "bullets": [
+        "El modelo de negocio deportivo se ve afectado por la piratería.",
+        "Se utilizan dispositivos de televisión y enlaces ilegales para acceder a contenidos.",
+        "Existe incertidumbre sobre si la situación está fuera de control."
+      ],
+      "eventKey": "industria deportiva combate piratería",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-dac90491b234eda811f7f78a": {
+    "fingerprint": "e7bd84a67f42575b3075dd48",
+    "item": {
+      "id": "n-dac90491b234eda811f7f78a",
+      "url": "https://www.theguardian.com/music/2026/oct/18/rebecca-ferguson-honest-playlist-whitney-houston-the-corrs",
+      "source": "The Guardian",
+      "section": "cultura",
+      "lang": "en",
+      "publishedAt": "2026-10-18T08:00:54+00:00",
+      "sourceTitle": "‘I drunkenly sing Wonderwall off-key and awfully’: Rebecca Ferguson’s honest playlist",
+      "fingerprint": "e7bd84a67f42575b3075dd48",
+      "title": "Las canciones que marcaron la vida de Rebecca Ferguson",
+      "summary": "La cantautora repasa los temas musicales que han influido en su trayectoria, desde sus primeras experiencias con el góspel hasta sus primeras adquisiciones discográficas.",
+      "paragraphs": [
+        "Rebecca Ferguson ha compartido una selección de canciones significativas, recordando cómo su educación inicial, limitada al género góspel, se vio alterada por el descubrimiento de artistas como Whitney Houston y Cher gracias a un regalo de la infancia.",
+        "La artista también rememora la compra de su primer sencillo, 'So Young' de The Corrs, un momento que destaca por la dificultad económica que suponía adquirir música durante su juventud en Liverpool."
+      ],
+      "bullets": [
+        "Influencia temprana de Whitney Houston y Cher en su vocación musical.",
+        "La compra de su primer disco como un hito personal en su infancia.",
+        "Recuerdos sobre las restricciones musicales en su entorno familiar."
+      ],
+      "eventKey": "Rebecca Ferguson repasa su trayectoria musical",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-4b81710e10f4507965bf5917": {
+    "fingerprint": "6a9a4aa5b240df05a449bd2f",
+    "item": {
+      "id": "n-4b81710e10f4507965bf5917",
+      "url": "https://www.durangon.com/las-zezenak-dira-se-despiden-con-un-traslado-y-cinco-asistencias/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-18T09:17:48+00:00",
+      "sourceTitle": "Las ‘zezenak dira’ se despiden con un traslado y cinco asistencias",
+      "fingerprint": "6a9a4aa5b240df05a449bd2f",
+      "title": "Finalizan las 'zezenak dira' con un balance de cinco asistencias",
+      "summary": "Las tradicionales sesiones de 'zezenak dira' han concluido con un traslado sanitario y cinco atenciones médicas, aprovechando la jornada para reconocer la trayectoria de un voluntario.",
+      "paragraphs": [
+        "La última jornada de las 'zezenak dira' ha cerrado su actividad con cinco asistencias sanitarias, incluyendo un traslado a centro hospitalario.",
+        "Durante el evento, se ha rendido homenaje a 'Peque', quien ha sido distinguido por su labor como voluntario durante más de cinco décadas."
+      ],
+      "bullets": [
+        "Cinco personas han requerido asistencia médica.",
+        "Se ha realizado un traslado sanitario.",
+        "Homenaje a 'Peque' por sus 50 años de voluntariado."
+      ],
+      "eventKey": "zezenak dira-finalizan-Durango",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-24ffeb38c664ec561f6791bd": {
+    "fingerprint": "d40e24c5f0bf824ea5e43d1d",
+    "item": {
+      "id": "n-24ffeb38c664ec561f6791bd",
+      "url": "https://www.europapress.es/nacional/noticia-arranca-audiencia-nacional-juicio-contra-empresa-duro-felguera-excargos-venezolanos-sobornos-20261018102150.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-18T08:21:50+00:00",
+      "sourceTitle": "Arranca en la Audiencia Nacional el juicio contra la empresa Duro Felguera y excargos venezolanos por sobornos",
+      "fingerprint": "d40e24c5f0bf824ea5e43d1d",
+      "title": "Juicio en la Audiencia Nacional contra Duro Felguera por presuntos sobornos en Venezuela",
+      "summary": "La Audiencia Nacional ha iniciado el proceso judicial contra la compañía asturiana Duro Felguera y varios ex altos cargos venezolanos por supuestos pagos ilícitos relacionados con un proyecto energético.",
+      "paragraphs": [
+        "El tribunal juzga a la empresa, a su expresidente Juan Carlos Torres y a los antiguos viceministros Nervis Villalobos y Javier Alvarado Ochoa. El caso se centra en la presunta entrega de sobornos vinculados a la construcción de una central termoeléctrica en Venezuela."
+      ],
+      "bullets": [
+        "Proceso judicial abierto en la Audiencia Nacional.",
+        "Implicación de la empresa Duro Felguera y su expresidente.",
+        "Acusación contra ex viceministros venezolanos por presuntos sobornos.",
+        "El caso gira en torno a la edificación de una central termoeléctrica."
+      ],
+      "eventKey": "Duro Felguera y ex cargos venezolanos juzgados en Audiencia Nacional",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-11801541aed4e2c94f01720c": {
+    "fingerprint": "af9cc93aa612c1383618d9a1",
+    "item": {
+      "id": "n-11801541aed4e2c94f01720c",
+      "url": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-18T08:44:21+00:00",
+      "sourceTitle": "Whole streets in Paris ‘devastated’ by protests, says mayor, as France demonstrations continue – Europe live",
+      "fingerprint": "af9cc93aa612c1383618d9a1",
+      "title": "Ola de disturbios en Francia y otros puntos de Europa",
+      "summary": "Francia afronta sus protestas más graves en años con daños materiales significativos, mientras se registran incidentes violentos en ciudades europeas como Milán.",
+      "paragraphs": [
+        "La alcaldía de París ha calificado de devastador el estado de varias calles tras las recientes manifestaciones. El país galo ha registrado un número récord de detenciones y numerosos edificios incendiados a lo largo de su territorio.",
+        "La inestabilidad se extiende más allá de las fronteras francesas. En Italia, grupos de manifestantes se han enfrentado a las fuerzas de seguridad en el centro de Milán, donde se han reportado saqueos y daños por fuego en establecimientos comerciales."
+      ],
+      "bullets": [
+        "París sufre daños materiales severos tras las protestas.",
+        "Francia alcanza cifras récord de arrestos.",
+        "Disturbios y saqueos registrados en el centro de Milán.",
+        "Las manifestaciones se extienden por diversos países europeos."
+      ],
+      "eventKey": "manifestantes-protestan-francia-italia",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-d40182de9fe52f8763f44bf9": {
+    "fingerprint": "aa8333ddbfb525fb7031c671",
+    "item": {
+      "id": "n-d40182de9fe52f8763f44bf9",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261016070624.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-17T13:05:02+00:00",
+      "sourceTitle": "This bird flies thousands of miles, but its wings have a catch",
+      "fingerprint": "aa8333ddbfb525fb7031c671",
+      "title": "El chotacabras europeo revela una adaptación única en su vuelo migratorio",
+      "summary": "Investigadores han identificado que el chotacabras europeo sacrifica la eficiencia en vuelos de alta velocidad para ganar agilidad en la caza de insectos durante sus largas migraciones.",
+      "paragraphs": [
+        "El estudio destaca una particularidad biomecánica en esta especie: la capacidad de generar empuje durante el movimiento ascendente del ala. Esta técnica, inusual en el mundo aviar, ha despertado el interés de la comunidad científica por su potencial aplicación en el desarrollo de nuevas tecnologías de vuelo."
+      ],
+      "bullets": [
+        "El ave recorre miles de kilómetros en sus rutas migratorias.",
+        "La morfología alar prioriza la maniobrabilidad para la captura de presas.",
+        "El mecanismo de propulsión ascendente podría inspirar innovaciones aeronáuticas."
+      ],
+      "eventKey": "chotacabras europeo estudio vuelo",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-e517b32f39a9b23c3f184514": {
+    "fingerprint": "29049b42fdb6536e545fe97a",
+    "item": {
+      "id": "n-e517b32f39a9b23c3f184514",
+      "url": "https://www.xataka.com/seleccion/mediamarkt-liquida-sus-iphone-exposicion-modelos-actuales-anterior-generacion-muy-baratos",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-18T08:15:34+00:00",
+      "sourceTitle": "MediaMarkt liquida sus iPhone de exposición con modelos actuales y de la anterior generación muy baratos",
+      "fingerprint": "29049b42fdb6536e545fe97a",
+      "title": "MediaMarkt liquida stock de iPhone en su outlet de eBay",
+      "summary": "MediaMarkt ha puesto a la venta diversos modelos de iPhone, tanto de la generación actual como de la anterior, a precios reducidos a través de su canal en eBay. La oferta incluye tanto unidades nuevas como dispositivos procedentes de exposición.",
+      "paragraphs": [
+        "La cadena de electrónica está comercializando terminales de Apple con descuentos significativos en su tienda de eBay. Entre el catálogo disponible se encuentran modelos como el iPhone 16, el 16 Plus, el 16e, el iPhone Air y el iPhone 17.",
+        "El estado de los dispositivos varía según la unidad, encontrándose desde teléfonos completamente precintados hasta artículos de exposición que han sido abiertos pero no presentan uso. Se advierte que los precios indicados podrían sufrir variaciones."
+      ],
+      "bullets": [
+        "Disponibilidad de modelos actuales y de la generación anterior.",
+        "Combinación de unidades nuevas y dispositivos de exposición.",
+        "Precios competitivos frente a otros distribuidores habituales.",
+        "Variedad de especificaciones técnicas, incluyendo chips A18 y A19."
+      ],
+      "eventKey": "MediaMarkt oferta iPhone en eBay",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-5f99488ac6499a19e0d744f9": {
+    "fingerprint": "972f13ea4cf20cc27b42fd72",
+    "item": {
+      "id": "n-5f99488ac6499a19e0d744f9",
+      "url": "https://elpais.com/economia/negocios/2026-10-18/la-inflacion-que-se-diluye-y-la-que-persiste.html",
+      "source": "El País",
+      "section": "economia",
+      "lang": "es",
+      "publishedAt": "2026-10-18T03:40:00+00:00",
+      "sourceTitle": "La inflación que se diluye y la que persiste",
+      "fingerprint": "972f13ea4cf20cc27b42fd72",
+      "title": "Análisis sobre la evolución de la inflación",
+      "summary": "El escenario económico actual muestra una moderación en los precios, aunque persisten ciertas dudas sobre la estabilidad a largo plazo.",
+      "paragraphs": [
+        "El análisis económico reciente señala que, por el momento, no se han materializado los temidos efectos de segunda ronda derivados del incremento en los costes energéticos."
+      ],
+      "bullets": [
+        "Ausencia de efectos de segunda ronda por la energía.",
+        "Persistencia de incertidumbre sobre la inflación."
+      ],
+      "eventKey": "economía-evolución-inflación",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-e4559f0f16fea669b4740985": {
+    "fingerprint": "4dcc255d8a6311fa92549222",
+    "item": {
+      "id": "n-e4559f0f16fea669b4740985",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/18/it-was-like-your-worst-nightmare-ellie-and-natasia-on-mums-music-and-failing-to-make-bob-mortimer-smile",
+      "source": "The Guardian",
+      "section": "cultura",
+      "lang": "en",
+      "publishedAt": "2026-10-18T06:00:52+00:00",
+      "sourceTitle": "‘It was like your worst nightmare’ – Ellie and Natasia on mums, music … and failing to make Bob Mortimer smile",
+      "fingerprint": "4dcc255d8a6311fa92549222",
+      "title": "El regreso de Ellie White y Natasia Demetriou a la comedia",
+      "summary": "Las cómicas Ellie White y Natasia Demetriou retoman su programa de sketches en la BBC adaptando sus personajes a su nueva realidad como madres. La segunda temporada del formato explora la evolución de sus parodias sobre la maternidad tras haber experimentado la crianza en primera persona.",
+      "paragraphs": [
+        "El dúo cómico vuelve a la televisión con la segunda entrega de su programa, donde sus icónicos personajes de madres obsesionadas con la higiene y los vlogs de estilo de vida regresan actualizados. En esta ocasión, las protagonistas ejercen como influencers gastronómicas centradas en el análisis de panes de supermercado.",
+        "El proceso creativo ha experimentado un cambio significativo, ya que ambas intérpretes han pasado de la etapa sin hijos a ser madres de dos niños cada una, una experiencia que influye en el tono de sus nuevas parodias."
+      ],
+      "bullets": [
+        "Regreso de la serie de sketches 'Ellie & Natasia' a la BBC.",
+        "Evolución de los personajes hacia el rol de influencers de alimentación.",
+        "Incorporación de la experiencia personal de las actrices en la escritura de los guiones."
+      ],
+      "eventKey": "Ellie White y Natasia Demetriou estrenan segunda temporada de su programa en BBC",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-0baa54a3bb98a11cc045204b": {
+    "fingerprint": "37857ffeb42c3893bb4793c6",
+    "item": {
+      "id": "n-0baa54a3bb98a11cc045204b",
+      "url": "https://www.europapress.es/euskadi/noticia-dos-detenidos-irun-acusados-terrorismo-permanecen-comisaria-espera-traslado-an-20261018082926.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-18T06:29:26+00:00",
+      "sourceTitle": "Los dos detenidos en Irun acusados de terrorismo permanecen en Comisaría a la espera de su traslado a la AN",
+      "fingerprint": "37857ffeb42c3893bb4793c6",
+      "title": "Dos detenidos en Irun por presunto terrorismo aguardan su traslado a la Audiencia Nacional",
+      "summary": "Dos personas permanecen bajo custodia de la Ertzaintza tras ser arrestadas en Irun por su supuesta vinculación con actividades terroristas. Se espera que sean puestas a disposición de la Audiencia Nacional en las próximas horas.",
+      "paragraphs": [
+        "Un hombre y una mujer continúan en dependencias policiales tras su detención el pasado sábado en la localidad guipuzcoana. La investigación se centra en la incautación previa de información sobre las Fuerzas de Seguridad y el hallazgo de un emplazamiento con material sospechoso.",
+        "Las autoridades han señalado que el material localizado podría tratarse de armas y explosivos. Los arrestados permanecen a la espera de ser trasladados a Madrid para comparecer ante la Audiencia Nacional."
+      ],
+      "bullets": [
+        "Detención de un hombre y una mujer en Irun por un supuesto delito de terrorismo.",
+        "Intervención previa de datos sobre las Fuerzas de Seguridad.",
+        "Localización de un lugar con material presuntamente explosivo o armamentístico.",
+        "Traslado pendiente a la Audiencia Nacional."
+      ],
+      "eventKey": "detenidos Irun terrorismo Audiencia Nacional",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-3265a349d6fa260ee1678357": {
+    "fingerprint": "3476ebac6836425aff06a96b",
+    "item": {
+      "id": "n-3265a349d6fa260ee1678357",
+      "url": "https://www.eldiario.es/politica/pp-arranca-tropiezos-precampana-elecciones-29n_1_13592479.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-17T20:11:42+00:00",
+      "sourceTitle": "El PP arranca con tropiezos la precampaña hacia las elecciones del 29N",
+      "fingerprint": "3476ebac6836425aff06a96b",
+      "title": "El PP afronta un inicio de precampaña marcado por las dudas y la polémica",
+      "summary": "El Partido Popular ha comenzado su carrera hacia las elecciones del 29N entre contradicciones discursivas y controversias sobre las pensiones. Estas dificultades han recordado a la formación los errores cometidos durante la campaña de 2023.",
+      "paragraphs": [
+        "Alberto Núñez Feijóo ha iniciado la precampaña con un mensaje que anticipa posibles sacrificios económicos, lo que ha generado críticas y comparaciones con recortes de etapas anteriores. A esto se suma la difusión de teorías sobre el voto por correo y supuestas tramas contra jueces, que han enturbiado el arranque del partido.",
+        "El debate sobre la revalorización de las pensiones conforme al IPC ha vuelto a situarse en el centro de la polémica. Las declaraciones de Feijóo y de la portavoz de campaña, Ester Muñoz, sobre la viabilidad del sistema público han provocado un fuerte rechazo, reabriendo heridas electorales que el PP intentaba evitar."
+      ],
+      "bullets": [
+        "Feijóo ha condicionado su futuro gobierno a la necesidad de pedir sacrificios a la ciudadanía.",
+        "El PP ha dado pábulo a teorías conspirativas sobre el voto por correo y supuestas tramas judiciales.",
+        "La incertidumbre sobre la sostenibilidad de las pensiones ha generado un conflicto político inmediato.",
+        "El partido busca evitar los errores estratégicos que marcaron su fallida campaña de 2023."
+      ],
+      "eventKey": "Feijóo y el PP inician la precampaña electoral con polémicas",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-a2a6b621103cfd0a44df0a76": {
+    "fingerprint": "ba1c16c6b093bedc2e595d17",
+    "item": null
+  },
+  "n-472f9f8e7d3f265b598f26b0": {
+    "fingerprint": "2dfcf5b3eed71f7012190473",
+    "item": {
+      "id": "n-472f9f8e7d3f265b598f26b0",
+      "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+      "source": "NASA",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-16T20:14:39+00:00",
+      "sourceTitle": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+      "fingerprint": "2dfcf5b3eed71f7012190473",
+      "title": "Stephen Cash, nuevo director del Marshall Space Flight Center de la NASA",
+      "summary": "El administrador de la NASA, Jared Isaacman, ha designado a Stephen Cash para dirigir el centro de la agencia en Huntsville, Alabama. Cash, un veterano ingeniero y ejecutivo aeroespacial, asumirá el cargo el próximo 19 de octubre.",
+      "paragraphs": [
+        "Stephen Cash regresa al Marshall Space Flight Center, lugar donde inició su trayectoria profesional hace más de cuarenta años, para liderar la institución. Su nombramiento ha sido confirmado por el administrador de la NASA, Jared Isaacman.",
+        "El relevo en la dirección del centro en Alabama se hará efectivo a partir del lunes 19 de octubre."
+      ],
+      "bullets": [
+        "Stephen Cash es un veterano ingeniero y ejecutivo del sector aeroespacial.",
+        "El nombramiento entrará en vigor el 19 de octubre.",
+        "Cash vuelve al centro donde comenzó su carrera hace cuatro décadas."
+      ],
+      "eventKey": "Stephen Cash nombrado director del Marshall Space Flight Center",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-ead9ea938e0fe498499362d8": {
+    "fingerprint": "5f3ebf3e21c4cb7c574b66fd",
+    "item": {
+      "id": "n-ead9ea938e0fe498499362d8",
+      "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
+      "source": "Ars Technica",
+      "section": "tecnologia",
+      "lang": "en",
+      "publishedAt": "2026-10-17T11:00:21+00:00",
+      "sourceTitle": "Why BioWare's Neverwinter Nights still has thousands of active players",
+      "fingerprint": "5f3ebf3e21c4cb7c574b66fd",
+      "title": "La vigencia de Neverwinter Nights",
+      "summary": "A pesar de que su modo para un jugador es calificado como aceptable, el título de BioWare mantiene una comunidad activa de miles de usuarios.",
+      "paragraphs": [
+        "El videojuego Neverwinter Nights continúa atrayendo a miles de jugadores activos años después de su lanzamiento. Según los usuarios, el rendimiento de su campaña individual es secundario frente a otros factores que mantienen vivo el interés por la obra."
+      ],
+      "bullets": [
+        "Miles de jugadores siguen activos en el título.",
+        "La experiencia individual se considera simplemente aceptable."
+      ],
+      "eventKey": "jugadores-mantienen-actividad-neverwinter-nights",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-cd1eb74272bdae2dfb6acadc": {
+    "fingerprint": "a11e408bccb1a6b2ab76d15a",
+    "item": null
+  },
+  "n-89a361154a9db619148fb99e": {
+    "fingerprint": "85b334e78d048609b66b5488",
+    "item": {
+      "id": "n-89a361154a9db619148fb99e",
+      "url": "https://www.durangon.com/garai-cubrira-los-juegos-infantiles-de-san-miguel-por-193-400-euros/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-18T03:52:47+00:00",
+      "sourceTitle": "Garai cubrirá los juegos infantiles de San Miguel por 193.400 euros",
+      "fingerprint": "85b334e78d048609b66b5488",
+      "title": "Garai invertirá 193.400 euros en cubrir el parque infantil de San Miguel",
+      "summary": "El Ayuntamiento de Garai ha destinado una partida presupuestaria para instalar una estructura modular que permita el uso de los juegos infantiles de San Miguel durante todo el año.",
+      "paragraphs": [
+        "El proyecto contempla la colocación de una cubierta modular en el área de juegos de San Miguel, una actuación que busca garantizar la operatividad de las instalaciones independientemente de las condiciones meteorológicas.",
+        "Además de la estructura, la intervención incluye la plantación de cinco nuevos árboles en la zona verde adyacente al parque."
+      ],
+      "bullets": [
+        "Presupuesto de 193.400 euros para la obra.",
+        "Instalación de una estructura modular permanente.",
+        "Plantación de cinco árboles en el entorno."
+      ],
+      "eventKey": "Ayuntamiento de Garai cubre parque infantil San Miguel",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-80151a537980dcb7a1244c86": {
+    "fingerprint": "949b1b06e849c3aeb7e9a62c",
+    "item": {
+      "id": "n-80151a537980dcb7a1244c86",
+      "url": "https://www.theguardian.com/books/2026/oct/18/tim-winton-cloudstreet-abc-poll-top-100-australian-books",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-18T07:15:53+00:00",
+      "sourceTitle": "‘Many family stories’: Tim Winton’s Cloudstreet takes out ABC radio poll of top 100 Australian books",
+      "fingerprint": "949b1b06e849c3aeb7e9a62c",
+      "title": "Cloudstreet, de Tim Winton, elegida la mejor novela australiana en una encuesta de la ABC",
+      "summary": "La obra de Tim Winton ha sido seleccionada como la favorita de los lectores en una consulta nacional organizada por la cadena pública australiana.",
+      "paragraphs": [
+        "La novela Cloudstreet, una epopeya familiar ambientada en Australia, ha encabezado la lista de los 100 mejores libros del país según una encuesta realizada por ABC Radio National.",
+        "El podio de esta clasificación lo completan The Book Thief, de Markus Zusak, en segunda posición, y Boy Swallows Universe, de Trent Dalton, en tercer lugar."
+      ],
+      "bullets": [
+        "Cloudstreet se alza con el primer puesto en la votación popular.",
+        "El podio está compuesto exclusivamente por autores masculinos.",
+        "La lista final comprende los 100 títulos australianos más destacados según los oyentes."
+      ],
+      "eventKey": "Tim Winton y otros autores ganan encuesta literaria en Australia",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-7f7a137455c4f8bb6e556b76": {
+    "fingerprint": "a8b8deb97409f9e859ccbf3e",
+    "item": {
+      "id": "n-7f7a137455c4f8bb6e556b76",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261015073222.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-17T12:44:22+00:00",
+      "sourceTitle": "Brain cells meant to protect us may be fueling cognitive decline",
+      "fingerprint": "a8b8deb97409f9e859ccbf3e",
+      "title": "Células cerebrales protectoras podrían causar deterioro cognitivo",
+      "summary": "Un estudio científico sugiere que ciertas células cerebrales, consideradas beneficiosas, podrían estar detrás del declive cognitivo asociado a la edad al volverse disfuncionales.",
+      "paragraphs": [
+        "Investigadores han identificado que células cerebrales que habitualmente protegen el sistema nervioso podrían estar contribuyendo al deterioro cognitivo. Al perder su funcionalidad, estas células generan un exceso de mielina que interfiere en las fibras nerviosas.",
+        "Este proceso anómalo podría estar vinculado directamente con el empeoramiento de las capacidades de memoria y razonamiento en las personas mayores."
+      ],
+      "bullets": [
+        "Células cerebrales protectoras podrían volverse disfuncionales con la edad.",
+        "La producción excesiva de mielina altera las fibras nerviosas.",
+        "El fenómeno se asocia con un declive en la memoria y el pensamiento."
+      ],
+      "eventKey": "células cerebrales-causan-deterioro cognitivo",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-78fb5fcb31850b7a4780d395": {
+    "fingerprint": "5578eb1ed0049d812dc54524",
+    "item": {
+      "id": "n-78fb5fcb31850b7a4780d395",
+      "url": "https://www.xataka.com/magnet/este-ranking-mejores-ciudades-europeas-calidad-vida-coste-confirma-malaga-valencia-caramelito-para-nomadas",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-18T08:00:00+00:00",
+      "sourceTitle": "Este ranking de mejores ciudades europeas en calidad de vida y coste lo confirma: Málaga y Valencia son un caramelito para nómadas",
+      "fingerprint": "5578eb1ed0049d812dc54524",
+      "title": "Málaga y Valencia destacan en un análisis sobre calidad de vida y coste en Europa",
+      "summary": "Un estudio basado en datos de Numbeo identifica ciudades europeas con una relación óptima entre calidad de vida y asequibilidad, destacando el atractivo de urbes como Málaga y Valencia para el trabajo remoto.",
+      "paragraphs": [
+        "El analista financiero Valerii Emelianov ha elaborado un gráfico de dispersión que clasifica 125 ciudades europeas según su calidad de vida y coste. El estudio sugiere que las ciudades medianas del sur y centro-este del continente ofrecen ventajas competitivas para los nómadas digitales.",
+        "El informe advierte que este fenómeno de migración laboral puede generar tensiones locales, como el encarecimiento de la vivienda y el ocio para los residentes habituales, tal como señala el Portal Europeo de la Juventud."
+      ],
+      "bullets": [
+        "El análisis utiliza datos de Numbeo, combinando factores como seguridad, sanidad, clima y poder adquisitivo.",
+        "Se señala que trabajar remotamente para empresas extranjeras desde ciudades como Málaga resulta beneficioso para el trabajador, pero puede perjudicar a la población local.",
+        "El autor del estudio subraya que los resultados deben tomarse como una orientación y no como una clasificación oficial o absoluta."
+      ],
+      "eventKey": "Valerii Emelianov analiza calidad de vida y coste en ciudades europeas",
+      "partial": true,
+      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
