@@ -7176,31 +7176,30 @@
     }
   },
   "n-11801541aed4e2c94f01720c": {
-    "fingerprint": "af9cc93aa612c1383618d9a1",
+    "fingerprint": "4d9c641181d0aba3736b2809",
     "item": {
       "id": "n-11801541aed4e2c94f01720c",
       "url": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
       "source": "The Guardian",
       "section": "internacional",
       "lang": "en",
-      "publishedAt": "2026-10-18T08:44:21+00:00",
-      "sourceTitle": "Whole streets in Paris ‘devastated’ by protests, says mayor, as France demonstrations continue – Europe live",
-      "fingerprint": "af9cc93aa612c1383618d9a1",
-      "title": "Ola de disturbios en Francia y otros puntos de Europa",
-      "summary": "Francia afronta sus protestas más graves en años con daños materiales significativos, mientras se registran incidentes violentos en ciudades europeas como Milán.",
+      "publishedAt": "2026-10-18T11:13:14+00:00",
+      "sourceTitle": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
+      "fingerprint": "4d9c641181d0aba3736b2809",
+      "title": "Aumentan a 1.800 los detenidos en Francia tras las violentas protestas",
+      "summary": "Las autoridades francesas han confirmado un incremento significativo de las detenciones tras una jornada de disturbios generalizados. El presidente Emmanuel Macron tiene previsto dirigirse a la nación esta noche para abordar la crisis.",
       "paragraphs": [
-        "La alcaldía de París ha calificado de devastador el estado de varias calles tras las recientes manifestaciones. El país galo ha registrado un número récord de detenciones y numerosos edificios incendiados a lo largo de su territorio.",
-        "La inestabilidad se extiende más allá de las fronteras francesas. En Italia, grupos de manifestantes se han enfrentado a las fuerzas de seguridad en el centro de Milán, donde se han reportado saqueos y daños por fuego en establecimientos comerciales."
+        "El Ministerio del Interior ha endurecido su postura frente a las movilizaciones, que se han convertido en las más graves registradas en el país en los últimos años. Las protestas, originadas por el descontento ante el coste de la vida, han dejado daños materiales considerables en diversas calles de París.",
+        "Ante la escalada de violencia, el presidente Macron ofrecerá un discurso televisado a las 20:00 horas para tratar la situación de inestabilidad que atraviesa el país."
       ],
       "bullets": [
-        "París sufre daños materiales severos tras las protestas.",
-        "Francia alcanza cifras récord de arrestos.",
-        "Disturbios y saqueos registrados en el centro de Milán.",
-        "Las manifestaciones se extienden por diversos países europeos."
+        "Más de 1.800 personas han sido arrestadas durante la jornada del sábado.",
+        "El Gobierno mantiene una postura firme asegurando que la República no cederá ante los disturbios.",
+        "Las protestas se originaron como respuesta al aumento del coste de la vida."
       ],
-      "eventKey": "manifestantes-protestan-francia-italia",
+      "eventKey": "Emmanuel Macron discurso protestas Francia",
       "partial": true,
-      "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "summarizedAt": "2026-10-18T11:40:01.180887+00:00",
       "model": "gemini-3.1-flash-lite"
     }
   },
@@ -7543,6 +7542,290 @@
       "eventKey": "Valerii Emelianov analiza calidad de vida y coste en ciudades europeas",
       "partial": true,
       "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-1b83078b58b420a93dd0f254": {
+    "fingerprint": "5f212c4c658a5fc9e2373d96",
+    "item": {
+      "id": "n-1b83078b58b420a93dd0f254",
+      "url": "https://www.europapress.es/nacional/noticia-deberes-proximo-congreso-dos-reformas-estatutarias-cinco-leyes-parlamentos-autonomicos-siete-ilp-20261018110548.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-18T09:05:48+00:00",
+      "sourceTitle": "Los 'deberes' del próximo Congreso: dos reformas estatutarias, cinco leyes de parlamentos autonómicos y siete ILP",
+      "fingerprint": "5f212c4c658a5fc9e2373d96",
+      "title": "La agenda legislativa pendiente tras la disolución de las Cortes",
+      "summary": "El Congreso afronta una lista de tareas legislativas que han sobrevivido al fin de la legislatura, centradas exclusivamente en iniciativas autonómicas y ciudadanas.",
+      "paragraphs": [
+        "Tras la disolución de las Cortes, la actividad parlamentaria se limitará a tramitar las propuestas que no han decaído. Estas incluyen reformas estatutarias, leyes remitidas por parlamentos regionales y diversas iniciativas legislativas populares.",
+        "El grueso de la agenda legislativa queda supeditado a estas iniciativas, que son las únicas que mantienen su vigencia tras el cierre del periodo parlamentario."
+      ],
+      "bullets": [
+        "Dos reformas de estatutos de autonomía.",
+        "Cinco proyectos de ley procedentes de parlamentos autonómicos.",
+        "Siete iniciativas legislativas populares (ILP)."
+      ],
+      "eventKey": "Congreso-tramitación-iniciativas-legislativas",
+      "partial": true,
+      "summarizedAt": "2026-10-18T11:40:01.180887+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-00042920c1b4f9648c0f9b8b": {
+    "fingerprint": "70c91944a085f94366960e1d",
+    "item": {
+      "id": "n-00042920c1b4f9648c0f9b8b",
+      "url": "https://www.xataka.com/videojuegos/droiddeck-convierte-tu-movil-android-steam-deck-para-jugar-a-juegos-pc-local-streaming-asi-funciona",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-18T11:31:33+00:00",
+      "sourceTitle": "DroidDeck convierte tu móvil Android en una Steam Deck para jugar a juegos de PC en local y sin streaming: así funciona",
+      "fingerprint": "70c91944a085f94366960e1d",
+      "title": "DroidDeck: la aplicación que transforma móviles Android en consolas portátiles para juegos de PC",
+      "summary": "El proyecto DroidDeck permite ejecutar juegos de PC directamente en dispositivos Android de forma local, sin depender de conexiones a internet ni servicios de streaming. La herramienta utiliza la interfaz de Steam y capas de compatibilidad para ofrecer una experiencia similar a la de una Steam Deck.",
+      "paragraphs": [
+        "DroidDeck se instala como una aplicación convencional en Android y ejecuta la versión ARM de Steam en modo Big Picture. Esto permite a los usuarios acceder a su biblioteca, descargar títulos directamente al teléfono y gestionar drivers o rendimiento sin necesidad de modificar el sistema operativo del dispositivo.",
+        "El funcionamiento se basa en el uso de Proton y la capa de traducción FEX, que adapta las instrucciones x86 de los juegos de PC a la arquitectura ARM de los procesadores móviles. Este enfoque, inspirado en la tecnología de las gafas Steam Frame, permite ejecutar juegos exigentes con tasas de fotogramas estables en terminales de alta gama."
+      ],
+      "bullets": [
+        "Permite jugar a títulos de PC de forma local sin recurrir a la nube.",
+        "Integra Steam Input, modo escritorio y soporte para aplicaciones Linux.",
+        "Diferencia su propuesta al utilizar el cliente oficial de Valve en lugar de launchers personalizados.",
+        "Ha demostrado un rendimiento fluido en dispositivos con procesadores Snapdragon 8 Elite Gen 5."
+      ],
+      "eventKey": "DroidDeck+ejecutar juegos PC+Android",
+      "partial": true,
+      "summarizedAt": "2026-10-18T11:40:01.180887+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-ac3b6a808cc9d163a189b879": {
+    "fingerprint": "7a96d0d6f8d1ca1578ada05e",
+    "item": {
+      "id": "n-ac3b6a808cc9d163a189b879",
+      "url": "https://www.bbc.co.uk/news/articles/c6n49w1r2zxjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-18T11:03:04+00:00",
+      "sourceTitle": "Gleaning group gives £1m of produce to food banks",
+      "fingerprint": "7a96d0d6f8d1ca1578ada05e",
+      "title": "Gleaning Cornwall dona un millón de libras en productos a bancos de alimentos",
+      "summary": "La organización Gleaning Cornwall ha distribuido alimentos valorados en un millón de libras, aunque advierte de la necesidad de obtener más financiación ante el incremento de los costes operativos.",
+      "paragraphs": [
+        "La entidad Gleaning Cornwall ha logrado suministrar productos agrícolas por valor de un millón de libras a diversas redes de ayuda alimentaria. A pesar de este hito, la organización ha alertado sobre la precariedad de su situación financiera.",
+        "El grupo señala que el aumento de los costes operativos amenaza la continuidad de su labor, por lo que reclama una mayor inyección de fondos para poder seguir adelante con su actividad."
+      ],
+      "bullets": [
+        "Distribución de un millón de libras en productos agrícolas.",
+        "Alerta sobre la necesidad urgente de financiación adicional.",
+        "Impacto negativo del aumento de costes en la operativa del grupo."
+      ],
+      "eventKey": "Gleaning Cornwall-distribuye alimentos-Cornwall",
+      "partial": true,
+      "summarizedAt": "2026-10-18T11:40:01.180887+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-2795dc844005b76c5502b753": {
+    "fingerprint": "3edce3f795ed180885b3c718",
+    "item": {
+      "id": "n-2795dc844005b76c5502b753",
+      "url": "https://www.europapress.es/euskadi/noticia-eh-bildu-defiende-declaracion-aiete-sento-bases-resolucion-integral-conflicto-politico-20261018121305.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-18T10:13:05+00:00",
+      "sourceTitle": "EH Bildu defiende que la Declaración de Aiete sentó las bases para \"la resolución integral del conflicto político\"",
+      "fingerprint": "3edce3f795ed180885b3c718",
+      "title": "EH Bildu reivindica la Declaración de Aiete como pilar para la resolución del conflicto",
+      "summary": "Gorka Elejabarrieta, portavoz de EH Bildu, ha destacado la importancia histórica de la Declaración de Aiete y ha abogado por un reconocimiento inclusivo de las víctimas.",
+      "paragraphs": [
+        "El senador de EH Bildu, Gorka Elejabarrieta, ha señalado que el documento de 2011 fue fundamental para abordar la resolución del conflicto político entre Euskal Herria y el Estado español.",
+        "Asimismo, el representante abertzale ha subrayado la urgencia de avanzar hacia un relato común que integre la verdad de todas las partes y reconozca a la totalidad de las víctimas."
+      ],
+      "bullets": [
+        "Defensa de la Declaración de Aiete como base política.",
+        "Apuesta por un relato compartido y una verdad conjunta.",
+        "Reivindicación del reconocimiento para todas las víctimas."
+      ],
+      "eventKey": "Gorka Elejabarrieta defiende Declaración de Aiete en Euskadi",
+      "partial": true,
+      "summarizedAt": "2026-10-18T11:40:01.180887+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-3371ebd7184486602240c692": {
+    "fingerprint": "ec4c70c6566a97437ccc1163",
+    "item": null
+  },
+  "n-faef0bf90e784d4f00b0106b": {
+    "fingerprint": "38fef886801f0ceb5cb54b42",
+    "item": {
+      "id": "n-faef0bf90e784d4f00b0106b",
+      "url": "https://www.theguardian.com/film/2026/oct/16/masterplan-stanley-tucci-movie-review",
+      "source": "The Guardian",
+      "section": "cultura",
+      "lang": "en",
+      "publishedAt": "2026-10-16T19:24:23+00:00",
+      "sourceTitle": "Masterplan review – Stanley Tucci is wasted in Amazon’s smooth-brained heist caper",
+      "fingerprint": "38fef886801f0ceb5cb54b42",
+      "title": "Crítica de Masterplan: Stanley Tucci desaprovechado en un atraco olvidable",
+      "summary": "La nueva película de Amazon, un thriller sobre un robo en el Louvre, cuenta con un reparto destacado pero resulta una propuesta superficial y poco memorable.",
+      "paragraphs": [
+        "La cinta presenta a un grupo de criminales que planean sustraer la Mona Lisa del Museo del Louvre. A pesar de contar con Stanley Tucci como protagonista, acompañado por Victor Belmondo y Simona Tabasco, la crítica señala que el resultado final no alcanza el potencial de su premisa.",
+        "El filme apuesta por una narrativa de giros constantes y tecnología de espionaje, aunque el personaje de Tucci, un cerebro criminal británico, termina cayendo en la parodia."
+      ],
+      "bullets": [
+        "El atraco se centra en el robo de la Mona Lisa en el Louvre.",
+        "El reparto incluye a Stanley Tucci, Victor Belmondo y Simona Tabasco.",
+        "La trama incorpora elementos de espionaje y traiciones múltiples.",
+        "La crítica califica la obra como un thriller superficial y olvidable."
+      ],
+      "eventKey": "Stanley Tucci protagoniza Masterplan en Amazon",
+      "partial": true,
+      "summarizedAt": "2026-10-18T11:40:01.180887+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-8bed1a27d74349d0c1aeb088": {
+    "fingerprint": "130ea7999f647b0b3c084dd3",
+    "item": {
+      "id": "n-8bed1a27d74349d0c1aeb088",
+      "url": "https://www.europapress.es/nacional/noticia-clave-digital-29n-sanchez-feijoo-pugnan-rentabilizar-redes-sociales-20261018105448.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-18T08:54:48+00:00",
+      "sourceTitle": "La clave digital del 29N: Sánchez y Feijóo pugnan por rentabilizar las redes sociales",
+      "fingerprint": "130ea7999f647b0b3c084dd3",
+      "title": "La estrategia digital de Sánchez y Feijóo ante el 29N",
+      "summary": "Pedro Sánchez y Alberto Núñez Feijóo intensifican su actividad en redes sociales como eje central de la campaña electoral, aunque los expertos advierten sobre la falta de correlación directa entre la popularidad digital y el resultado en las urnas.",
+      "paragraphs": [
+        "Los principales partidos políticos han transformado su uso de las plataformas digitales, pasando de la mera difusión institucional a una estrategia de campaña activa de cara a la cita electoral del 29 de noviembre.",
+        "A pesar de este despliegue, el analista José Gabriel García señala que métricas como el número de seguidores o las interacciones no aseguran un incremento en el apoyo electoral."
+      ],
+      "bullets": [
+        "Las redes sociales se consolidan como un escenario clave para la campaña del 29N.",
+        "Los partidos buscan rentabilizar su presencia digital frente al electorado.",
+        "Existe incertidumbre sobre la capacidad de convertir la actividad en redes en votos reales."
+      ],
+      "eventKey": "Sánchez y Feijóo campaña digital 29N",
+      "partial": true,
+      "summarizedAt": "2026-10-18T11:40:01.180887+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-72af892fa8ca144a25491e29": {
+    "fingerprint": "b4c83d191caa74fbe7805385",
+    "item": {
+      "id": "n-72af892fa8ca144a25491e29",
+      "url": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-18T11:02:39+00:00",
+      "sourceTitle": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
+      "fingerprint": "b4c83d191caa74fbe7805385",
+      "title": "Las protestas por el coste de la vida y la vivienda se extienden a Portugal e Italia",
+      "summary": "Las movilizaciones contra la carestía y la crisis habitacional han llegado a Lisboa y Milán tras las recientes revueltas en España y Francia. Mientras en Portugal se han instalado campamentos, en Italia se han registrado enfrentamientos violentos con las fuerzas de seguridad.",
+      "paragraphs": [
+        "Las tensiones sociales por el encarecimiento de la vida y el acceso a la vivienda han provocado nuevas protestas en Italia y Portugal. En Lisboa, los manifestantes han instalado un campamento de tiendas de campaña para exigir medidas urgentes.",
+        "Por su parte, Milán ha vivido una jornada de disturbios tras una marcha inicialmente pacífica. Grupos de encapuchados se enfrentaron a la policía, lanzando objetos y prendiendo fuego a barricadas, lo que ha generado una respuesta política que califica los hechos como actos de vandalismo."
+      ],
+      "bullets": [
+        "Manifestantes instalan un campamento de tiendas en Lisboa.",
+        "Disturbios y enfrentamientos con la policía en el centro de Milán.",
+        "Giorgia Meloni acusa a los participantes de ser vándalos."
+      ],
+      "eventKey": "manifestantes-protestan-lisboa-milan",
+      "partial": true,
+      "summarizedAt": "2026-10-18T11:40:01.180887+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-7ce76d9833babb6d603ef30b": {
+    "fingerprint": "e90f9ca23a4b30c43005cef2",
+    "item": {
+      "id": "n-7ce76d9833babb6d603ef30b",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-18T10:22:17+00:00",
+      "sourceTitle": "What is the Budget and what could be in it?",
+      "fingerprint": "e90f9ca23a4b30c43005cef2",
+      "title": "El ministro de Hacienda británico presentará sus planes fiscales",
+      "summary": "El canciller John Healey tiene previsto anunciar las medidas sobre impuestos en el Reino Unido a finales de octubre.",
+      "paragraphs": [
+        "El ministro de Hacienda, John Healey, ha fijado el próximo 28 de octubre como la fecha en la que dará a conocer su estrategia fiscal para el país."
+      ],
+      "bullets": [
+        "El anuncio se centrará en la política de impuestos británica.",
+        "La presentación está programada para el 28 de octubre."
+      ],
+      "eventKey": "John Healey presenta planes fiscales Reino Unido",
+      "partial": true,
+      "summarizedAt": "2026-10-18T11:40:01.180887+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-d0ff6b306c925b826e7d4acb": {
+    "fingerprint": "8ee606ce29892b95bd603652",
+    "item": {
+      "id": "n-d0ff6b306c925b826e7d4acb",
+      "url": "https://www.theguardian.com/culture/2026/oct/16/jimmy-kimmel-katie-zacharia-trump-press-secretary",
+      "source": "The Guardian",
+      "section": "cultura",
+      "lang": "en",
+      "publishedAt": "2026-10-16T13:04:10+00:00",
+      "sourceTitle": "Jimmy Kimmel on Trump’s new press secretary: ‘attorney in the way George Santos was volleyball champion’",
+      "fingerprint": "8ee606ce29892b95bd603652",
+      "title": "Jimmy Kimmel cuestiona la credibilidad de la nueva portavoz de Trump",
+      "summary": "El presentador Jimmy Kimmel ha ironizado sobre el nombramiento de Katie Zacharia como secretaria de prensa de Donald Trump, comparando su perfil profesional con el de George Santos. El programa abordó además la caída en las encuestas del expresidente estadounidense.",
+      "paragraphs": [
+        "Durante su espacio nocturno, Kimmel ha puesto en duda la trayectoria de la nueva portavoz de Trump, Katie Zacharia, sugiriendo una falta de veracidad en su perfil. El presentador ha aprovechado la ausencia de otros conductores para analizar la situación actual del equipo de comunicación del político.",
+        "El análisis también se ha centrado en el descenso de popularidad de Trump en los sondeos. Por su parte, Zacharia ha evitado concretar cuál será su nivel de interacción con los medios de comunicación, calificando de incierta su futura relación con la prensa."
+      ],
+      "bullets": [
+        "Kimmel compara la figura de Zacharia con la de George Santos.",
+        "Donald Trump registra actualmente sus niveles más bajos en las encuestas.",
+        "La nueva portavoz no ha aclarado cómo gestionará su relación con los periodistas."
+      ],
+      "eventKey": "Jimmy Kimmel critica a Katie Zacharia y Trump",
+      "partial": true,
+      "summarizedAt": "2026-10-18T11:40:01.180887+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-57ff18fa0df52957c05ceb8d": {
+    "fingerprint": "8d924a6236779198f33f9620",
+    "item": {
+      "id": "n-57ff18fa0df52957c05ceb8d",
+      "url": "https://www.europapress.es/nacional/noticia-mayoria-espanoles-desconoce-mitad-ministros-cis-fin-legislatura-20261018105048.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-18T08:50:48+00:00",
+      "sourceTitle": "La mayoría de los españoles desconoce a la mitad de los ministros, según el CIS de fin de legislatura",
+      "fingerprint": "8d924a6236779198f33f9620",
+      "title": "El CIS revela que la mayoría de los españoles no conoce a la mitad de los ministros",
+      "summary": "Un estudio del CIS al cierre de la legislatura muestra que gran parte de la ciudadanía no identifica a la mitad de los miembros del Gobierno de Pedro Sánchez.",
+      "paragraphs": [
+        "El adelanto electoral ha marcado el fin de una legislatura caracterizada por el desconocimiento público sobre los integrantes del Ejecutivo. Según los datos del CIS, una parte significativa de los ministros resulta ajena para la mayoría de los ciudadanos.",
+        "La ministra de Educación, Milagros Tolón, figura como la integrante del gabinete menos reconocida por la población, situándose a la cabeza de esta lista de desconocimiento."
+      ],
+      "bullets": [
+        "El CIS constata un escaso nivel de conocimiento sobre los ministros.",
+        "Milagros Tolón es la titular con menor reconocimiento público.",
+        "El adelanto de las elecciones cierra una legislatura marcada por esta falta de visibilidad."
+      ],
+      "eventKey": "ciudadanos españoles desconocen ministros gobierno",
+      "partial": true,
+      "summarizedAt": "2026-10-18T11:40:01.180887+00:00",
       "model": "gemini-3.1-flash-lite"
     }
   }
