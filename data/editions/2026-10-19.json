@@ -1,0 +1,563 @@
+{
+  "date": "2026-10-19",
+  "updatedAt": "2026-10-19T12:38:41.495006+02:00",
+  "timezone": "Europe/Madrid",
+  "sections": {
+    "euskadi": [
+      {
+        "id": "n-cbec70a9010c7e37edb714f1",
+        "url": "https://www.durangon.com/durango-apura-los-sanfaustos-entre-pelucas-y-tortillas/",
+        "source": "Durangon",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-10-17T15:04:44+00:00",
+        "sourceTitle": "Durango apura los ‘Sanfaustos’ entre pelucas y tortillas",
+        "fingerprint": "4201fcb2cd916636fa5b558c",
+        "title": "Durango afronta el final de sus fiestas de San Fausto",
+        "summary": "Las celebraciones de Durango encaran su recta final con cambios en la programación debido a la meteorología. La jornada incluye actos tradicionales y propuestas musicales para cerrar el programa festivo.",
+        "paragraphs": [
+          "La lluvia ha obligado a trasladar el desfile de disfraces al pórtico de Santa María, donde se celebrará a las 18.30 horas. Este evento marca el inicio de una tarde que culminará con la despedida de Trapu Zaharra.",
+          "Tras los actos de clausura, la programación festiva continuará durante la noche con diversas actuaciones musicales y una verbena para los asistentes."
+        ],
+        "bullets": [
+          "Desfile de disfraces reubicado en el pórtico de Santa María.",
+          "Despedida oficial de Trapu Zaharra.",
+          "Cierre de fiestas con conciertos y verbena."
+        ],
+        "eventKey": "Durango celebra final fiestas San Fausto",
+        "partial": true,
+        "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-a2c651017f06957660f9cc23",
+        "url": "https://www.durangon.com/el-mugarra-tt-repite-en-la-elite-de-las-escuelas-de-triatlon-con-su-segundo-oro-excelsior/",
+        "source": "Durangon",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-10-19T02:30:37+00:00",
+        "sourceTitle": "El Mugarra TT repite en la élite de las escuelas de triatlón con su segundo oro Excelsior",
+        "fingerprint": "0fe5d1680926925f01eeb146",
+        "title": "El Mugarra TT revalida su posición de élite con un nuevo oro Excelsior",
+        "summary": "El club de triatlón de Durango ha obtenido su segundo galardón Excelsior, consolidándose como la única escuela vasca reconocida por la federación nacional.",
+        "paragraphs": [
+          "La entidad deportiva ha vuelto a destacar en el ámbito estatal al recibir nuevamente el reconocimiento Excelsior. Este galardón ratifica su posición privilegiada dentro de las escuelas de triatlón en España.",
+          "Actualmente, el club cuenta con una base de 61 deportistas, destacando una presencia mayoritaria de chicas en las categorías inferiores."
+        ],
+        "bullets": [
+          "Segundo oro Excelsior para el club durangarra.",
+          "Única escuela de Euskadi con reconocimiento de la federación española.",
+          "61 deportistas integran la escuela, con predominio femenino en la base."
+        ],
+        "eventKey": "Mugarra TT recibe reconocimiento Excelsior en Durango",
+        "partial": true,
+        "summarizedAt": "2026-10-19T10:38:41.495006+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-b8f5cea334963224973b1049",
+        "url": "https://www.europapress.es/euskadi/noticia-lunes-esperan-euskadi-temperaturas-minimas-mas-bajas-chubascos-zona-20261018181227.html",
+        "source": "Europa Press Euskadi",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-10-18T16:12:27+00:00",
+        "sourceTitle": "Este lunes se esperan en Euskadi temperaturas mínimas más bajas y chubascos en la zona este",
+        "fingerprint": "040018a513166ef00cb78054",
+        "title": "Euskadi afronta un lunes de temperaturas mínimas a la baja y chubascos",
+        "summary": "La previsión meteorológica para este lunes en el País Vasco apunta a un descenso de las temperaturas mínimas y la aparición de precipitaciones en la mitad oriental del territorio.",
+        "paragraphs": [
+          "Euskalmet ha pronosticado una jornada marcada por cielos cubiertos y chubascos en la zona este, mientras que el oeste disfrutará de intervalos de nubes y claros. Las temperaturas mínimas sufrirán un descenso, pudiendo bajar de los 5 grados en áreas del interior.",
+          "Por el contrario, las temperaturas máximas se mantendrán estables. Se prevé que los termómetros alcancen los 17 grados en Bilbao, 16 en San Sebastián y 13 en Vitoria."
+        ],
+        "bullets": [
+          "Descenso de las temperaturas mínimas, especialmente en el interior.",
+          "Chubascos concentrados en la zona este del País Vasco.",
+          "Temperaturas máximas sin cambios significativos.",
+          "Previsión de máximas entre 13 y 17 grados en las capitales vascas."
+        ],
+        "eventKey": "Euskalmet-previsión meteorológica-País Vasco",
+        "partial": true,
+        "summarizedAt": "2026-10-19T10:38:41.495006+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-556c4d343a808c85e290a741",
+        "url": "https://www.europapress.es/euskadi/noticia-cerca-2000-personas-suman-carrera-contra-cancer-mama-vitoria-20261018170801.html",
+        "source": "Europa Press Euskadi",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-10-18T15:08:01+00:00",
+        "sourceTitle": "Cerca de 2.000 personas se suman a la carrera contra el cáncer de mama de Vitoria",
+        "fingerprint": "9bdce4b3f5999c5f6256f312",
+        "title": "Casi 2.000 participantes en la carrera contra el cáncer de mama en Vitoria",
+        "summary": "La octava edición de la carrera solidaria organizada por ASAMMA ha reunido a cerca de 2.000 personas en Vitoria para luchar contra el cáncer de mama y ginecológico.",
+        "paragraphs": [
+          "La capital alavesa ha acogido este domingo la octava edición de la carrera contra el cáncer de mama. El evento, impulsado por la asociación ASAMMA, ha contado con una notable afluencia de participantes.",
+          "La iniciativa busca visibilizar y apoyar la lucha contra el cáncer de mama y ginecológico en el territorio."
+        ],
+        "bullets": [
+          "Cerca de 2.000 personas inscritas.",
+          "Octava edición del evento deportivo.",
+          "Organizado por la asociación ASAMMA."
+        ],
+        "eventKey": "ASAMMA-organiza-carrera-cancer-mama-Vitoria",
+        "partial": true,
+        "summarizedAt": "2026-10-19T10:38:41.495006+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "espana": [
+      {
+        "id": "n-2c2c1479d16b05be5c055d1b",
+        "url": "https://www.europapress.es/nacional/noticia-guardia-civil-consolida-578-agentes-peso-eurogendfor-gendarmeria-europea-desplegada-ucrania-gaza-20261019122623.html",
+        "source": "Europa Press",
+        "section": "espana",
+        "lang": "es",
+        "publishedAt": "2026-10-19T10:26:23+00:00",
+        "sourceTitle": "La Guardia Civil consolida con 578 agentes su peso en Eurogendfor, la gendarmería europea desplegada en Ucrania o Gaza",
+        "fingerprint": "c453ca3445b83c9f3c1069b4",
+        "title": "La Guardia Civil refuerza su papel en la gendarmería europea",
+        "summary": "La Guardia Civil ha consolidado su posición como el segundo mayor contribuyente de la Fuerza de Gendarmería Europea, alcanzando los 579 efectivos desplegados en misiones internacionales.",
+        "paragraphs": [
+          "El instituto armado ha fortalecido su peso estratégico dentro de Eurogendfor, una organización con casi dos décadas de trayectoria. Esta cifra de efectivos sitúa a España solo por detrás de Francia en cuanto a aportación histórica a este cuerpo.",
+          "La presencia de estos agentes se ha materializado en operaciones de relevancia internacional, incluyendo despliegues en Ucrania y en el paso fronterizo de Rafah, en la Franja de Gaza."
+        ],
+        "bullets": [
+          "Despliegue de 579 agentes en la Fuerza de Gendarmería Europea.",
+          "España se posiciona como el segundo contribuyente histórico tras Francia.",
+          "Participación en misiones en Ucrania y el paso de Rafah."
+        ],
+        "eventKey": "Guardia Civil consolida presencia en Eurogendfor",
+        "partial": true,
+        "summarizedAt": "2026-10-19T10:38:41.495006+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-2be6b438cbfaa7821bc90818",
+        "url": "https://www.europapress.es/andalucia/cadiz-00351/noticia-landaluce-anuncia-dimision-alcalde-algeciras-proximo-25-octubre-pasar-mocion-censura-20261019120053.html",
+        "source": "Europa Press",
+        "section": "espana",
+        "lang": "es",
+        "publishedAt": "2026-10-19T10:00:53+00:00",
+        "sourceTitle": "Landaluce anuncia su dimisión como alcalde de Algeciras el próximo 25 de octubre sin pasar por moción de censura",
+        "fingerprint": "5171a53e43e8838eae81c03e",
+        "title": "José Ignacio Landaluce dimite como alcalde de Algeciras",
+        "summary": "El regidor algecireño ha comunicado su renuncia al cargo para el 25 de octubre, adelantándose a la moción de censura que estaba programada para finales de mes.",
+        "paragraphs": [
+          "José Ignacio Landaluce ha anunciado que abandonará la alcaldía de Algeciras el próximo domingo 25 de octubre. Con esta decisión, el primer edil evita someterse a la moción de censura que habían registrado el PP y Vox, cuya votación estaba fijada para tres días después de su salida."
+        ],
+        "bullets": [
+          "La dimisión se hará efectiva el 25 de octubre.",
+          "La medida busca eludir la moción de censura presentada por PP y Vox."
+        ],
+        "eventKey": "José Ignacio Landaluce dimisión alcaldía Algeciras",
+        "partial": true,
+        "summarizedAt": "2026-10-19T10:38:41.495006+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "internacional": [
+      {
+        "id": "n-0d1ca7925e7422f4d2945ba6",
+        "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "section": "internacional",
+        "lang": "en",
+        "publishedAt": "2026-10-19T10:33:12+00:00",
+        "sourceTitle": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+        "fingerprint": "267e4685d0ffe6b24058cb79",
+        "title": "Un pastor keniano se enfrenta a la sentencia por la muerte de menores",
+        "summary": "El autoproclamado líder religioso Paul Mackenzie aguarda el veredicto judicial tras ser acusado de ordenar a padres que dejaran morir de hambre a sus hijos.",
+        "paragraphs": [
+          "El juicio contra Paul Mackenzie llega a su fase final en Kenia. El acusado afronta 191 cargos de asesinato, la gran mayoría de ellos relacionados con víctimas menores de edad."
+        ],
+        "bullets": [
+          "El pastor está procesado por inducir a la inanición a niños.",
+          "Se le imputan 191 cargos de asesinato en total."
+        ],
+        "eventKey": "Paul Mackenzie juicio asesinato Kenia",
+        "partial": true,
+        "summarizedAt": "2026-10-19T10:38:41.495006+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-45e9141fa3785d9417d981a8",
+        "url": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
+        "source": "The Guardian",
+        "section": "internacional",
+        "lang": "en",
+        "publishedAt": "2026-10-19T10:20:08+00:00",
+        "sourceTitle": "France braces for weeks more of protests as unrest spreads to Italy – Europe live",
+        "fingerprint": "f89e9f251e4d79822bd1cbf6",
+        "title": "Francia e Italia se preparan para una escalada de disturbios",
+        "summary": "El movimiento de los chalecos amarillos convoca nuevas protestas en Francia mientras la violencia se extiende a ciudades italianas, forzando a Giorgia Meloni a convocar reuniones de crisis.",
+        "paragraphs": [
+          "Francia se prepara para semanas de inestabilidad tras un fin de semana marcado por 2.400 detenciones. Emmanuel Macron ha condenado la violencia desatada durante las movilizaciones.",
+          "En Italia, el Gobierno de Meloni ha programado encuentros de emergencia ante los saqueos registrados en varias ciudades. El primer ministro francés, Sébastien Lecornu, se reunirá con líderes políticos para analizar las consecuencias de la crisis."
+        ],
+        "bullets": [
+          "Convocatoria de nuevas manifestaciones por parte de los chalecos amarillos.",
+          "Condena de Macron ante la violencia generalizada.",
+          "Reuniones de crisis en Italia tras los saqueos.",
+          "Encuentro inminente entre el primer ministro francés y los líderes de los partidos."
+        ],
+        "eventKey": "protestas-francia-italia-disturbios",
+        "partial": true,
+        "summarizedAt": "2026-10-19T10:38:41.495006+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-119019f48ebc14b1ea788206",
+        "url": "https://www.theguardian.com/australia-news/live/2026/oct/19/helen-haines-updates-independent-mp-injured-in-incident-wangaratta-ntwnfb",
+        "source": "The Guardian",
+        "section": "internacional",
+        "lang": "en",
+        "publishedAt": "2026-10-19T10:12:33+00:00",
+        "sourceTitle": "Helen Haines live updates: Victorian premier ‘deeply appalled’ after Helen Haines injured in alleged attack; Angus Taylor calls incident ‘shocking day for our nation’",
+        "fingerprint": "32c7f3822530211d5b32613a",
+        "title": "La diputada independiente Helen Haines, herida tras un incidente con un vehículo en Wangaratta",
+        "summary": "La parlamentaria australiana se encuentra en estado crítico tras ser atropellada frente a su oficina electoral en Victoria. La policía investiga el suceso como un incidente aislado sin indicios de una amenaza mayor para la población.",
+        "paragraphs": [
+          "La diputada independiente Helen Haines ha sido hospitalizada en estado grave después de verse involucrada en un incidente con un vehículo en las inmediaciones de su despacho en Wangaratta. Las autoridades locales han acordonado la zona para realizar una investigación exhaustiva.",
+          "La policía de Victoria ha señalado que, por el momento, no existen pruebas de que la diputada y el conductor se conocieran previamente. El equipo de investigación de colisiones graves se ha desplazado al lugar para esclarecer las circunstancias del suceso."
+        ],
+        "bullets": [
+          "Haines se encuentra luchando por su vida tras el atropello.",
+          "Las autoridades descartan una amenaza continuada para la comunidad.",
+          "La policía investiga el caso como un incidente aislado.",
+          "El suceso ha provocado reacciones de consternación en el ámbito político australiano."
+        ],
+        "eventKey": "Helen Haines atropellada en Wangaratta",
+        "partial": true,
+        "summarizedAt": "2026-10-19T10:38:41.495006+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-7787377ffa110c6b74126bf4",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "section": "internacional",
+        "lang": "en",
+        "publishedAt": "2026-10-19T09:40:44+00:00",
+        "sourceTitle": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+        "fingerprint": "79adef90e72146ca66fa97a3",
+        "title": "Un incendio mortal en una base militar canadiense se propagó con extrema rapidez",
+        "summary": "Un fuego en una instalación militar de Canadá ha causado la muerte de cuatro hombres y ha dejado decenas de heridos tras extenderse a gran velocidad.",
+        "paragraphs": [
+          "El suceso ha provocado una tragedia en una base militar canadiense, donde un incendio se propagó de forma inusualmente rápida, recorriendo un kilómetro en menos de un minuto según los testimonios iniciales.",
+          "Las autoridades han confirmado el fallecimiento de cuatro personas y un elevado número de heridos como consecuencia del incidente."
+        ],
+        "bullets": [
+          "Cuatro personas han fallecido en el incendio.",
+          "Decenas de individuos han resultado heridos.",
+          "El fuego avanzó un kilómetro en un intervalo de 30 a 60 segundos."
+        ],
+        "eventKey": "incendio base militar Canadá víctimas",
+        "partial": true,
+        "summarizedAt": "2026-10-19T10:38:41.495006+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "ciencia": [
+      {
+        "id": "n-72e72c0e61b865e545626d1c",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/",
+        "source": "NASA",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-10-19T04:05:00+00:00",
+        "sourceTitle": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
+        "fingerprint": "cf06e8da237510b255c7a362",
+        "title": "La NASA destaca la fuente de radio Treble Clef",
+        "summary": "La imagen astronómica del día de la NASA se centra en Treble Clef, una fuente de radio inusual que emite rayos X.",
+        "paragraphs": [
+          "La agencia espacial ha presentado una nueva imagen astronómica que pone el foco en Treble Clef, un objeto cósmico caracterizado por su emisión de radio y su actividad en rayos X.",
+          "Este fenómeno, calificado como inusual por los expertos, forma parte de la divulgación diaria que realiza la NASA sobre los misterios del universo."
+        ],
+        "bullets": [
+          "Treble Clef es identificada como una fuente de radio con emisiones de rayos X.",
+          "La NASA clasifica este objeto como un fenómeno inusual en el cosmos."
+        ],
+        "eventKey": "NASA-presenta-Treble-Clef",
+        "partial": true,
+        "summarizedAt": "2026-10-19T10:38:41.495006+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-42a920ca5ec432f708cef8bb",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
+        "source": "ScienceDaily",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-10-18T13:46:34+00:00",
+        "sourceTitle": "Scientists discover a natural compound that could protect the brain from too much salt",
+        "fingerprint": "6a344717c371a31d88038bba",
+        "title": "Un compuesto de la soja podría mitigar los daños cerebrales por exceso de sal",
+        "summary": "Investigadores japoneses han identificado un compuesto derivado de la soja, denominado LPC70, que parece proteger frente a los efectos negativos de una dieta rica en sal en modelos animales.",
+        "paragraphs": [
+          "Un estudio reciente sugiere que el consumo elevado de sal no solo afecta a la presión arterial, sino que podría perjudicar la memoria y el comportamiento social. Ante esta problemática, científicos han hallado que el compuesto LPC70 ayuda a contrarrestar estos efectos adversos.",
+          "En pruebas realizadas con ratones, la administración de este suplemento permitió observar una mejora en las capacidades cognitivas y en las interacciones sociales, además de una reducción en la presión arterial en comparación con los sujetos que solo consumieron sal en exceso."
+        ],
+        "bullets": [
+          "El exceso de sal se vincula con daños en la memoria y la conducta social.",
+          "El compuesto LPC70, derivado de la soja, mostró efectos protectores en ratones.",
+          "Los sujetos tratados presentaron una mejor presión arterial y funciones cognitivas."
+        ],
+        "eventKey": "investigadores japoneses descubren compuesto protector contra exceso de sal",
+        "partial": true,
+        "summarizedAt": "2026-10-19T10:38:41.495006+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-abadf9dc76d73a46863a94f1",
+        "url": "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/",
+        "source": "NASA",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-10-19T04:01:00+00:00",
+        "sourceTitle": "Autumn Paints Poland’s Bieszczady Mountains",
+        "fingerprint": "fad88f3275d524df5c2d0b21",
+        "title": "El otoño transforma el paisaje de las montañas Bieszczady en Polonia",
+        "summary": "La llegada del otoño ha modificado la apariencia de las laderas boscosas y los prados de altura en el Parque Nacional de Bieszczady, según observaciones de la NASA.",
+        "paragraphs": [
+          "Las imágenes captadas muestran cómo la vegetación del parque polaco ha experimentado un cambio cromático característico de la estación. Mientras que las zonas boscosas presentan los colores típicos del otoño, las áreas de pradera alpina, conocidas como polonina, han adquirido un tono bronceado."
+        ],
+        "bullets": [
+          "Cambio de color en las laderas boscosas del parque.",
+          "Transformación de las praderas de alta montaña a tonos bronceados."
+        ],
+        "eventKey": "NASA-observa-cambios-estacionales-Bieszczady",
+        "partial": true,
+        "summarizedAt": "2026-10-19T10:38:41.495006+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-e302a5e0a1fa970872a51115",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
+        "source": "ScienceDaily",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-10-18T13:37:21+00:00",
+        "sourceTitle": "Physicists create a bizarre new quantum state called a fractional fermi sea",
+        "fingerprint": "b2797c9a8a19b4c9f3d5522a",
+        "title": "Físicos identifican un nuevo estado cuántico denominado mar de Fermi fraccionario",
+        "summary": "Un equipo de investigadores ha observado un estado de la materia inusual en átomos ultrafríos que cuestiona las teorías cuánticas vigentes. Este hallazgo sugiere la existencia de cuasipartículas exóticas que podrían comportarse como superfermiones.",
+        "paragraphs": [
+          "Científicos han detectado una configuración de materia cuántica donde los átomos ultrafríos se organizan de forma inesperada, desafiando las reglas convencionales. Este estado, bautizado como mar de Fermi fraccionario, presenta un alto nivel de excitación manteniendo una estructura ordenada.",
+          "El descubrimiento abre la puerta a la posible identificación de nuevas cuasipartículas, denominadas provisionalmente superfermiones, lo que podría obligar a revisar los modelos teóricos actuales sobre el comportamiento de la materia a nivel cuántico."
+        ],
+        "bullets": [
+          "Observación de un estado cuántico inédito en átomos ultrafríos.",
+          "El fenómeno contradice las normas de organización atómica conocidas.",
+          "Posible existencia de cuasipartículas exóticas llamadas superfermiones."
+        ],
+        "eventKey": "físicos-descubren-estado-cuántico-laboratorio",
+        "partial": true,
+        "summarizedAt": "2026-10-19T10:38:41.495006+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-5f1d40de0f7040b3e8d0a21d",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261017230028.htm",
+        "source": "ScienceDaily",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-10-18T13:22:24+00:00",
+        "sourceTitle": "Eating blueberries every day may have a surprising effect on your mood",
+        "fingerprint": "675df85875938e72a0577d36",
+        "title": "El consumo diario de arándanos y su posible impacto en el estado de ánimo",
+        "summary": "Un estudio preliminar sugiere que ingerir arándanos a diario podría reducir los síntomas depresivos en personas mayores, aunque los resultados no alcanzan significación estadística frente al placebo.",
+        "paragraphs": [
+          "Una investigación reciente ha analizado los efectos del consumo continuado de arándanos durante tres meses en adultos de edad avanzada. Los resultados observados apuntan a una posible mejora en el estado de ánimo de los participantes.",
+          "Los científicos han identificado alteraciones en las enzimas microbianas intestinales, lo que abriría la puerta a una relación entre el intestino y el cerebro. No obstante, los autores señalan que los beneficios detectados no son estadísticamente significativos en comparación con el grupo de control."
+        ],
+        "bullets": [
+          "Reducción de síntomas depresivos en adultos mayores tras tres meses de consumo.",
+          "Detección de cambios en las enzimas microbianas del intestino.",
+          "Posible conexión entre el sistema digestivo y el estado anímico.",
+          "Ausencia de significación estadística frente al placebo."
+        ],
+        "eventKey": "adultos mayores consumen arándanos estudio",
+        "partial": true,
+        "summarizedAt": "2026-10-19T10:38:41.495006+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "tecnologia": [
+      {
+        "id": "n-2cb84c887e9e3f7bf10c3207",
+        "url": "https://www.xataka.com/seleccion/sirve-como-baul-almacenaje-como-reposapies-asi-accesorio-domestico-para-guardar-todos-juegos-dispositivos",
+        "source": "Xataka",
+        "section": "tecnologia",
+        "lang": "es",
+        "publishedAt": "2026-10-19T10:30:11+00:00",
+        "sourceTitle": "Sirve como baúl de almacenaje y como reposapiés: así es el accesorio doméstico para guardar todos los juegos y dispositivos",
+        "fingerprint": "eda142fca5f7ae44d98adb43",
+        "title": "Un baúl de almacenaje multifuncional como solución de orden doméstico",
+        "summary": "Se presenta un accesorio de almacenaje disponible en AliExpress que combina la función de baúl con la de reposapiés o taburete. El producto destaca por su capacidad de carga y versatilidad para organizar dispositivos y objetos del hogar.",
+        "paragraphs": [
+          "El accesorio, con unas dimensiones de 38 x 76 x 38 cm y una capacidad de 89 litros, se propone como una alternativa para organizar periféricos, videojuegos o mantas. Su diseño permite plegarlo cuando no está en uso y soporta hasta 300 kg de peso.",
+          "El artículo, que cuenta con protectores en las esquinas y diversos acabados, se comercializa actualmente a un precio de 15,12 euros. Se advierte que, debido a su tamaño, es necesario considerar el espacio disponible en la estancia antes de su adquisición."
+        ],
+        "bullets": [
+          "Capacidad de almacenamiento de 89 litros.",
+          "Soporta una carga máxima de 300 kg.",
+          "Diseño plegable con protectores de esquinas.",
+          "Versatilidad como baúl, taburete o reposapiés."
+        ],
+        "eventKey": "AliExpress comercializa baúl de almacenaje multifuncional",
+        "partial": true,
+        "summarizedAt": "2026-10-19T10:38:41.495006+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-6808fc909befc84a450c2985",
+        "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+        "source": "Ars Technica",
+        "section": "tecnologia",
+        "lang": "en",
+        "publishedAt": "2026-10-17T11:15:11+00:00",
+        "sourceTitle": "Science says your boss should talk less in meetings",
+        "fingerprint": "18a91783bc8b70153aa5edc3",
+        "title": "La ciencia sugiere que los jefes deberían hablar menos en las reuniones",
+        "summary": "Un estudio reciente apunta a que la eficacia en las reuniones laborales mejora cuando los líderes escuchan más y reducen su tiempo de intervención. Asimismo, se plantea la eliminación de encuentros sin un objetivo claro.",
+        "paragraphs": [
+          "Investigaciones recientes indican que los responsables de equipos deberían priorizar la escucha activa durante las reuniones de trabajo. Limitar el tiempo de palabra de los superiores podría favorecer una dinámica más productiva.",
+          "El análisis también sugiere que suprimir las reuniones que carecen de un propósito definido contribuiría a optimizar el rendimiento laboral."
+        ],
+        "bullets": [
+          "Fomento de la escucha activa por parte de los líderes.",
+          "Reducción del tiempo de intervención de los jefes.",
+          "Eliminación de reuniones sin objetivos claros."
+        ],
+        "eventKey": "jefes-reducir-intervencion-reuniones",
+        "partial": true,
+        "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-ead9ea938e0fe498499362d8",
+        "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
+        "source": "Ars Technica",
+        "section": "tecnologia",
+        "lang": "en",
+        "publishedAt": "2026-10-17T11:00:21+00:00",
+        "sourceTitle": "Why BioWare's Neverwinter Nights still has thousands of active players",
+        "fingerprint": "5f3ebf3e21c4cb7c574b66fd",
+        "title": "La vigencia de Neverwinter Nights",
+        "summary": "A pesar de que su modo para un jugador es calificado como aceptable, el título de BioWare mantiene una comunidad activa de miles de usuarios.",
+        "paragraphs": [
+          "El videojuego Neverwinter Nights continúa atrayendo a miles de jugadores activos años después de su lanzamiento. Según los usuarios, el rendimiento de su campaña individual es secundario frente a otros factores que mantienen vivo el interés por la obra."
+        ],
+        "bullets": [
+          "Miles de jugadores siguen activos en el título.",
+          "La experiencia individual se considera simplemente aceptable."
+        ],
+        "eventKey": "jugadores-mantienen-actividad-neverwinter-nights",
+        "partial": true,
+        "summarizedAt": "2026-10-18T09:25:46.121911+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "economia": [
+      {
+        "id": "n-5223f447f7a1ab6eabb11114",
+        "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "section": "economia",
+        "lang": "en",
+        "publishedAt": "2026-10-19T09:49:58+00:00",
+        "sourceTitle": "People playing loud music on buses could face £100 fine",
+        "fingerprint": "98e578f8143e72de7b71933f",
+        "title": "Posibles multas de 100 libras por poner música alta en los autobuses ingleses",
+        "summary": "Las autoridades británicas estudian sancionar el comportamiento antisocial en el transporte público, incluyendo el uso de música a volumen elevado.",
+        "paragraphs": [
+          "El Gobierno de Inglaterra contempla imponer multas de hasta 100 libras a los pasajeros que reproduzcan música con un volumen excesivo en los autobuses. Esta medida busca combatir el comportamiento antisocial en el transporte público.",
+          "Paralelamente, se ha puesto en marcha una campaña nacional dirigida a los usuarios de trenes bajo el lema \"comparte el vagón, no el ruido\", con el objetivo de fomentar una mejor convivencia entre los viajeros."
+        ],
+        "bullets": [
+          "Multas de 100 libras por música alta en autobuses.",
+          "Campaña nacional de concienciación en el sector ferroviario.",
+          "Enfoque en la reducción del comportamiento antisocial."
+        ],
+        "eventKey": "pasajeros-sanciones-transporte-inglaterra",
+        "partial": true,
+        "summarizedAt": "2026-10-19T10:38:41.495006+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-45bc29851a85a91e673abc40",
+        "url": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "section": "economia",
+        "lang": "en",
+        "publishedAt": "2026-10-19T09:48:35+00:00",
+        "sourceTitle": "What are the new faces coming to UK bank notes?",
+        "fingerprint": "7775f5f916e0580061373137",
+        "title": "Nuevos diseños para los billetes del Reino Unido",
+        "summary": "El Banco de Inglaterra ha anunciado que los billetes británicos incluirán imágenes de animales como parte de una renovación temática centrada en la naturaleza.",
+        "paragraphs": [
+          "La entidad emisora ha desvelado los cuatro especímenes que protagonizarán el nuevo diseño del papel moneda en el Reino Unido.",
+          "Esta actualización supone un cambio estético significativo al incorporar motivos de la fauna local en el dinero de curso legal."
+        ],
+        "bullets": [
+          "El Banco de Inglaterra ha confirmado la selección de cuatro criaturas.",
+          "La temática elegida para los nuevos billetes es la naturaleza."
+        ],
+        "eventKey": "Banco de Inglaterra presenta nuevos diseños de billetes",
+        "partial": true,
+        "summarizedAt": "2026-10-19T10:38:41.495006+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-b93423fcf928cc5ec33d294d",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "section": "economia",
+        "lang": "en",
+        "publishedAt": "2026-10-19T09:38:25+00:00",
+        "sourceTitle": "Musk and Anthropic pledge public share giveaways",
+        "fingerprint": "05895f56429da486d6f21f3b",
+        "title": "Elon Musk y Anthropic anuncian la entrega de acciones al público",
+        "summary": "Elon Musk ha comunicado su intención de repartir acciones entre el público, siguiendo una iniciativa similar planteada por la empresa de inteligencia artificial Anthropic.",
+        "paragraphs": [
+          "El anuncio de Musk se produce poco después de que Anthropic se comprometiera a establecer un fondo de beneficio público antes de su salida a bolsa.",
+          "Ambas entidades han vinculado sus movimientos a procesos de cotización en el mercado bursátil, aunque los detalles específicos sobre la distribución aún no han sido esclarecidos."
+        ],
+        "bullets": [
+          "Elon Musk anuncia la entrega de acciones al público.",
+          "Anthropic creará un fondo de beneficio público previo a su salida a bolsa."
+        ],
+        "eventKey": "Musk y Anthropic anuncian reparto de acciones",
+        "partial": true,
+        "summarizedAt": "2026-10-19T10:38:41.495006+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "cultura": [
+      {
+        "id": "n-1a0546c8d99539a2fbc773ef",
+        "url": "https://elpais.com/cultura/2026-10-19/chuck-berry-el-gigante-olvidado.html",
+        "source": "El País",
+        "section": "cultura",
+        "lang": "es",
+        "publishedAt": "2026-10-19T03:30:01+00:00",
+        "sourceTitle": "Chuck Berry, el gigante olvidado",
+        "fingerprint": "f1a435317df96f1fd8294885",
+        "title": "La figura de Chuck Berry",
+        "summary": "El músico, reconocido como el cronista de la juventud de los años cincuenta, vivió una madurez marcada por el desencanto.",
+        "paragraphs": [
+          "El artículo analiza la contradicción que rodea a Chuck Berry, quien a pesar de definir la cultura juvenil de mediados del siglo XX, atravesó una etapa adulta caracterizada por la amargura."
+        ],
+        "bullets": [
+          "Fue el cronista de la vida juvenil en los años cincuenta.",
+          "Su trayectoria personal estuvo marcada por la amargura en su madurez."
+        ],
+        "eventKey": "Chuck Berry análisis trayectoria",
+        "partial": true,
+        "summarizedAt": "2026-10-19T10:38:41.495006+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ]
+  }
+}
