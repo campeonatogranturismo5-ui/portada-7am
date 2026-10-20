@@ -8358,5 +8358,365 @@
       "summarizedAt": "2026-10-19T10:38:41.495006+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-e419b53d409a0aacfa37d771": {
+    "fingerprint": "18b32d57adc432d3d976466c",
+    "item": {
+      "id": "n-e419b53d409a0aacfa37d771",
+      "url": "https://www.durangon.com/durango-kirolak-destinara-713-900-euros-a-la-renovacion-de-los-campos-de-arripausueta/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-19T10:52:01+00:00",
+      "sourceTitle": "Durango Kirolak destinará 713.900 euros a la renovación del césped de los campos de Arripausueta",
+      "fingerprint": "18b32d57adc432d3d976466c",
+      "title": "Durango Kirolak invertirá más de 700.000 euros en la mejora de instalaciones deportivas",
+      "summary": "El organismo municipal Durango Kirolak ha aprobado una modificación presupuestaria para renovar el césped de varios campos de fútbol de la localidad.",
+      "paragraphs": [
+        "La partida económica, que asciende a 713.900 euros, se destinará a la actualización de las superficies de juego en las instalaciones de Arripausueta, Landako I y Landako II."
+      ],
+      "bullets": [
+        "Inversión total de 713.900 euros.",
+        "Actuaciones en Arripausueta, Landako I y Landako II.",
+        "Renovación del césped deportivo."
+      ],
+      "eventKey": "Durango Kirolak-renovación campos-Durango",
+      "partial": true,
+      "summarizedAt": "2026-10-20T09:55:16.086671+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-00f5e79973c088d7f4ae3d3d": {
+    "fingerprint": "e5104f6526f613203f47a061",
+    "item": {
+      "id": "n-00f5e79973c088d7f4ae3d3d",
+      "url": "https://www.europapress.es/seguridad-y-defensa/noticia-15-nuevos-programas-especiales-modernizacion-defensa-saldran-adelante-antes-final-ano-20261020114929.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-20T09:49:29+00:00",
+      "sourceTitle": "Los 15 nuevos programas especiales de modernización de la defensa saldrán adelante antes de final de año",
+      "fingerprint": "e5104f6526f613203f47a061",
+      "title": "Defensa prevé aprobar 15 nuevos programas de modernización antes de 2027",
+      "summary": "El Ministerio de Defensa ha confirmado que pondrá en marcha quince nuevos proyectos de modernización industrial antes de que concluya el presente año.",
+      "paragraphs": [
+        "El teniente general Miguel Ivorra, director general de Estrategia e Innovación de la Industria de Defensa, ha anunciado que los 15 nuevos Programas Especiales de Modernización (PEM) recibirán luz verde antes de que finalice 2026."
+      ],
+      "bullets": [
+        "El Ministerio de Defensa impulsará 15 nuevos programas de modernización.",
+        "La aprobación de estos proyectos está prevista para antes de que termine el año 2026."
+      ],
+      "eventKey": "Ministerio de Defensa aprueba programas de modernización en España",
+      "partial": true,
+      "summarizedAt": "2026-10-20T09:55:16.086671+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-9ac9a053adc73084085867aa": {
+    "fingerprint": "6cb26c67b866c2fae01eda6d",
+    "item": {
+      "id": "n-9ac9a053adc73084085867aa",
+      "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-20T09:44:23+00:00",
+      "sourceTitle": "French cities ‘calm overnight’ after targeted curfews, prime minister says – Europe live",
+      "fingerprint": "6cb26c67b866c2fae01eda6d",
+      "title": "Francia evalúa ampliar los toques de queda tras las protestas",
+      "summary": "El primer ministro francés, Sébastien Lecornu, ha señalado la posibilidad de implementar nuevas restricciones nocturnas para frenar los disturbios registrados durante el fin de semana.",
+      "paragraphs": [
+        "Tras una noche de relativa calma en las ciudades francesas, el Gobierno contempla extender los toques de queda selectivos como medida para contener la inestabilidad social reciente.",
+        "Paralelamente, el comisario europeo Maroš Šefčovič ha subrayado la relevancia estratégica de la relación con el Reino Unido ante la próxima cumbre bilateral prevista para noviembre."
+      ],
+      "bullets": [
+        "Posible imposición de nuevos toques de queda en Francia.",
+        "Prioridades de la UE para la próxima cumbre con el Reino Unido.",
+        "Diálogo diplomático entre Maroš Šefčovič y Hamish Falconer."
+      ],
+      "eventKey": "Sébastien Lecornu evalúa toques de queda en Francia",
+      "partial": true,
+      "summarizedAt": "2026-10-20T09:55:16.086671+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-ad78dbc76c86778deedcbcaf": {
+    "fingerprint": "e720d5acd05c3c4d22a7ae89",
+    "item": {
+      "id": "n-ad78dbc76c86778deedcbcaf",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
+      "source": "NASA",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-20T04:05:00+00:00",
+      "sourceTitle": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+      "fingerprint": "e720d5acd05c3c4d22a7ae89",
+      "title": "Un abanico de arcoíris anticrepuscular",
+      "summary": "La NASA ha publicado una imagen astronómica del día que muestra un fenómeno óptico conocido como abanico de arcoíris anticrepuscular.",
+      "paragraphs": [
+        "La sección de astronomía de la agencia espacial ha destacado esta fotografía como parte de su divulgación diaria sobre el cosmos, acompañada de una explicación técnica realizada por un profesional."
+      ],
+      "bullets": [
+        "Imagen astronómica destacada por la NASA.",
+        "Fenómeno óptico de tipo anticrepuscular."
+      ],
+      "eventKey": "NASA-publica-imagen-astronomica",
+      "partial": true,
+      "summarizedAt": "2026-10-20T09:55:16.086671+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-3654ea67d84780b29b5ad7b5": {
+    "fingerprint": "b1d63c58366151aa2ecb0eb8",
+    "item": {
+      "id": "n-3654ea67d84780b29b5ad7b5",
+      "url": "https://www.xataka.com/seleccion/sabado-31-octubre-llega-a-aldi-solucion-definitiva-economica-para-borrar-manchas-sofa-coche",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-20T09:46:45+00:00",
+      "sourceTitle": "El sábado, 31 de octubre, llega a Aldi la solución definitiva y económica para borrar las manchas del sofá o el coche",
+      "fingerprint": "b1d63c58366151aa2ecb0eb8",
+      "title": "Aldi lanza un limpiador de tapicerías económico",
+      "summary": "La cadena de supermercados Aldi pondrá a la venta el próximo 31 de octubre un dispositivo para la limpieza de tapicerías, sofás y vehículos. El artículo destaca este producto frente a otras alternativas disponibles en el mercado por su precio y prestaciones.",
+      "paragraphs": [
+        "El nuevo limpiador de la marca Ambiano llegará a las tiendas físicas de Aldi el 31 de octubre con un precio de 69,99 euros. El aparato cuenta con una potencia de 750 W, dos depósitos de agua y diversos accesorios, incluyendo uno específico para el pelo de mascotas.",
+        "El artículo señala que, ante la falta de disponibilidad online en Aldi, existen opciones similares en plataformas como Amazon o Leroy Merlin, aunque con variaciones en potencia y coste."
+      ],
+      "bullets": [
+        "Precio de lanzamiento: 69,99 euros.",
+        "Potencia de 750 W y capacidad de succión de 15 kPa.",
+        "Incluye boquillas para distintas superficies y pelo de mascotas.",
+        "Disponibilidad limitada a tiendas físicas de la cadena."
+      ],
+      "eventKey": "Aldi lanza limpiador tapicerías",
+      "partial": true,
+      "summarizedAt": "2026-10-20T09:55:16.086671+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-bd0c73bf7f7e0cc3f9cc99e5": {
+    "fingerprint": "57d6ed0d398c96c5caad9bcc",
+    "item": {
+      "id": "n-bd0c73bf7f7e0cc3f9cc99e5",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-20T09:31:29+00:00",
+      "sourceTitle": "Jobless rate falls but small firms cut back hiring",
+      "fingerprint": "57d6ed0d398c96c5caad9bcc",
+      "title": "Desciende el desempleo mientras las pequeñas empresas reducen contrataciones",
+      "summary": "La tasa de paro ha experimentado un descenso, aunque las pymes están limitando sus nuevas contrataciones debido al impacto de los costes laborales.",
+      "paragraphs": [
+        "Según datos de la Oficina de Estadísticas Nacionales, el mercado laboral muestra una tendencia contradictoria. Mientras la cifra global de desempleo disminuye, el tejido empresarial de menor tamaño está frenando la creación de puestos de trabajo.",
+        "Las compañías señalan que el incremento en los costes de mano de obra es el motivo principal para ajustar sus planes de contratación a corto plazo."
+      ],
+      "bullets": [
+        "La tasa de desempleo registra una caída general.",
+        "Las pequeñas empresas recortan su ritmo de contratación.",
+        "Los costes laborales se identifican como el factor determinante en esta contención."
+      ],
+      "eventKey": "pequeñas empresas reducen contrataciones Reino Unido",
+      "partial": true,
+      "summarizedAt": "2026-10-20T09:55:16.086671+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-2b4882e58c416950f04040ee": {
+    "fingerprint": "7a8170cb3f3d5e164ec8e6c6",
+    "item": {
+      "id": "n-2b4882e58c416950f04040ee",
+      "url": "https://www.europapress.es/euskadi/noticia-pnv-reivindica-euskadi-violencia-paso-atras-15-aniversario-cese-definitivo-eta-20261020112345.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-20T09:23:45+00:00",
+      "sourceTitle": "PNV reivindica \"una Euskadi sin violencia\" y \"ni un paso atrás\" en el 15º aniversario del cese definitivo de ETA",
+      "fingerprint": "7a8170cb3f3d5e164ec8e6c6",
+      "title": "El PNV conmemora el 15º aniversario del fin de ETA reclamando una convivencia sin violencia",
+      "summary": "El PNV ha subrayado la importancia de mantener la paz y la convivencia en Euskadi al cumplirse quince años del cese definitivo de la actividad terrorista de ETA. La formación advierte contra cualquier retroceso en este ámbito tras las recientes detenciones relacionadas con el terrorismo.",
+      "paragraphs": [
+        "Con motivo del decimoquinto aniversario del fin de ETA, el PNV ha reivindicado la necesidad de consolidar una sociedad vasca libre de violencia. El partido ha enfatizado que el camino recorrido para alcanzar la paz ha sido muy costoso.",
+        "La formación ha rechazado cualquier posibilidad de un cierre en falso del proceso, haciendo referencia a las recientes detenciones por terrorismo. El mensaje central es la firmeza para evitar retrocesos en la convivencia lograda."
+      ],
+      "bullets": [
+        "Conmemoración de los 15 años del cese definitivo de ETA.",
+        "Defensa de una Euskadi sin violencia.",
+        "Advertencia ante las recientes detenciones por terrorismo.",
+        "Rechazo a cualquier cierre en falso del proceso de paz."
+      ],
+      "eventKey": "PNV-conmemora-aniversario-ETA-Euskadi",
+      "partial": true,
+      "summarizedAt": "2026-10-20T09:55:16.086671+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-2cfb5adcbce213ed11f000ca": {
+    "fingerprint": "42ef2f1a426813366709db31",
+    "item": {
+      "id": "n-2cfb5adcbce213ed11f000ca",
+      "url": "https://www.eldiario.es/politica/mujer-ignacio-gonzalez-niega-dragados-pagara-jardin-casa-adjudicarse-campo-golf_1_13599299.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-20T08:59:12+00:00",
+      "sourceTitle": "La mujer de Ignacio González niega que Dragados pagara el jardín de su casa tras adjudicarse el campo de golf",
+      "fingerprint": "42ef2f1a426813366709db31",
+      "title": "Lourdes Cavero niega que Dragados sufragara la reforma de su jardín",
+      "summary": "La esposa de Ignacio González ha testificado ante la Audiencia Nacional rechazando cualquier vínculo entre la constructora y las obras de su domicilio. Cavero sostiene haber abonado los trabajos en efectivo, aunque carece de justificantes documentales.",
+      "paragraphs": [
+        "Lourdes Cavero ha comparecido en el juicio por el supuesto amaño del campo de golf del Canal de Isabel II. Durante su declaración, ha negado que Dragados financiara la reforma de su jardín en Aravaca, a pesar de que la UCO halló facturas de la constructora vinculadas a su dirección durante un registro en 2017.",
+        "La testigo ha afirmado que gestionó personalmente la reforma con una paisajista, abonando 9.000 euros en metálico sin obtener recibos. Por su parte, la fiscalía ha recordado que, durante la instrucción, la profesional implicada señaló que los presupuestos fueron enviados por la propia constructora."
+      ],
+      "bullets": [
+        "Cavero asegura haber pagado 9.000 euros en efectivo sin conservar recibos.",
+        "La UCO encontró facturas de Dragados correspondientes al domicilio de la pareja.",
+        "La paisajista encargada de la obra no ha comparecido por motivos de salud."
+      ],
+      "eventKey": "Lourdes Cavero declara ante la Audiencia Nacional",
+      "partial": true,
+      "summarizedAt": "2026-10-20T09:55:16.086671+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-a8903642cc44d53a7d8bbe0a": {
+    "fingerprint": "3c49690ca309a0d5d3603c0b",
+    "item": {
+      "id": "n-a8903642cc44d53a7d8bbe0a",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-20T08:58:26+00:00",
+      "sourceTitle": "Suspect arrested after historic town hall set alight during disorder - French media",
+      "fingerprint": "3c49690ca309a0d5d3603c0b",
+      "title": "Detenido un sospechoso tras el incendio del ayuntamiento de Limoges",
+      "summary": "Un individuo ha sido arrestado en relación con los disturbios que provocaron el incendio y el colapso de la torre del reloj del ayuntamiento de Limoges.",
+      "paragraphs": [
+        "Las autoridades francesas han procedido a la detención de un sospechoso después de que el edificio consistorial de Limoges sufriera un grave incendio durante una jornada de disturbios.",
+        "El suceso culminó con el desplome de la aguja de la torre del reloj, que quedó envuelta en llamas el pasado sábado."
+      ],
+      "bullets": [
+        "Detención de un sospechoso por los incidentes.",
+        "El ayuntamiento de Limoges fue escenario de disturbios.",
+        "La torre del reloj colapsó tras ser pasto de las llamas."
+      ],
+      "eventKey": "sospechoso-detenido-incendio-ayuntamiento-limoges",
+      "partial": true,
+      "summarizedAt": "2026-10-20T09:55:16.086671+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-1dacb4d06e5db69e4c3a7b71": {
+    "fingerprint": "6d82bd337b728227ee16338e",
+    "item": {
+      "id": "n-1dacb4d06e5db69e4c3a7b71",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261018205047.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-19T13:09:18+00:00",
+      "sourceTitle": "Alaska’s monster tsunami sent water 1,580 feet up a mountain",
+      "fingerprint": "6d82bd337b728227ee16338e",
+      "title": "Un megatsunami en Alaska alcanza los 480 metros de altura",
+      "summary": "Un desprendimiento de tierras en Alaska ha provocado uno de los tsunamis más altos registrados, elevando agua y escombros por una ladera poco después de la presencia de turistas en la zona.",
+      "paragraphs": [
+        "El fenómeno, que alcanzó los 1.580 pies de altura, ha sido vinculado por los expertos a una serie de señales de advertencia previas, como el retroceso de los glaciares, precipitaciones intensas y actividad sísmica menor.",
+        "Los científicos advierten que el deshielo podría incrementar el riesgo de desastres similares en otras regiones costeras montañosas en el futuro."
+      ],
+      "bullets": [
+        "El tsunami es el segundo más alto documentado hasta la fecha.",
+        "El suceso ocurrió horas después de que hubiera turistas en el lugar.",
+        "El retroceso glaciar se señala como un factor de riesgo creciente."
+      ],
+      "eventKey": "desprendimiento en Alaska provoca tsunami",
+      "partial": true,
+      "summarizedAt": "2026-10-20T09:55:16.086671+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-f6e3170c2d58326aeed3df39": {
+    "fingerprint": "8162ca8c1af36446ae2e45aa",
+    "item": {
+      "id": "n-f6e3170c2d58326aeed3df39",
+      "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+      "source": "Ars Technica",
+      "section": "tecnologia",
+      "lang": "en",
+      "publishedAt": "2026-10-20T05:59:56+00:00",
+      "sourceTitle": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+      "fingerprint": "8162ca8c1af36446ae2e45aa",
+      "title": "Japón inicia una misión para recoger muestras de Fobos",
+      "summary": "La agencia espacial japonesa ha lanzado una sonda con el objetivo de obtener material de la luna marciana Fobos. Se espera que la fase crítica de la operación tenga lugar dentro de tres años.",
+      "paragraphs": [
+        "La misión MMX ha comenzado su trayectoria con el propósito de alcanzar el satélite de Marte. El plan contempla realizar hasta dos aterrizajes sobre la superficie del cuerpo celeste para recolectar muestras y traerlas de vuelta a la Tierra.",
+        "El momento decisivo de esta expedición está programado para 2029, fecha en la que la nave intentará posarse sobre Fobos para completar su cometido científico."
+      ],
+      "bullets": [
+        "Lanzamiento de la misión MMX hacia Fobos.",
+        "Previstos hasta dos intentos de aterrizaje en 2029."
+      ],
+      "eventKey": "Japón lanza misión MMX a Fobos",
+      "partial": true,
+      "summarizedAt": "2026-10-20T09:55:16.086671+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-0d938f5ec690dc72af384a6c": {
+    "fingerprint": "53352277150b1a6cef49e6f1",
+    "item": {
+      "id": "n-0d938f5ec690dc72af384a6c",
+      "url": "https://www.theguardian.com/film/2026/oct/19/you-can-see-everything-movie-spoilers-success",
+      "source": "The Guardian",
+      "section": "cultura",
+      "lang": "en",
+      "publishedAt": "2026-10-19T16:17:48+00:00",
+      "sourceTitle": "Secrets, lies and a shock A-list cameo: how You Can See Everything became the film of the year",
+      "fingerprint": "53352277150b1a6cef49e6f1",
+      "title": "El documental sobre Elizabeth Holmes dirigido por Nathan Fielder se convierte en un éxito",
+      "summary": "La cinta sobre la figura de Theranos ha logrado una gran repercusión tras su estreno, destacando por su enfoque inmersivo y el enfrentamiento directo entre el cineasta y la protagonista.",
+      "paragraphs": [
+        "El documental 'You Can See Everything', dirigido por Nathan Fielder y Lance Oppenheim, ha alcanzado un notable éxito de taquilla. La obra se centra en los días previos al ingreso en prisión de Elizabeth Holmes por fraude, mostrando la convivencia del equipo de rodaje con ella y su familia.",
+        "La película, de tres horas de duración, plantea dudas sobre la veracidad de las declaraciones de Holmes, quien llega a afirmar ante la cámara que nunca ha mentido. El estilo del filme ha generado gran expectación, situándolo como un posible candidato a los premios Óscar."
+      ],
+      "bullets": [
+        "El documental sigue a Elizabeth Holmes durante 2023 antes de su entrada en prisión.",
+        "Nathan Fielder intenta cuestionar la fachada de la protagonista mediante entrevistas directas.",
+        "La producción ha sido calificada como un éxito de ventas y podría hacer historia en los Óscar."
+      ],
+      "eventKey": "Nathan Fielder y Elizabeth Holmes estreno documental",
+      "partial": true,
+      "summarizedAt": "2026-10-20T09:55:16.086671+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-55a5286d0e6117cb8a884eb7": {
+    "fingerprint": "6a60faeb038bc484bed05623",
+    "item": {
+      "id": "n-55a5286d0e6117cb8a884eb7",
+      "url": "https://www.durangon.com/menos-peleas-pero-mas-delitos-de-lesiones-y-detenciones-en-unas-fiestas-con-gran-participacion/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-20T09:53:15+00:00",
+      "sourceTitle": "Menos peleas, pero más delitos de lesiones y detenciones en unas fiestas con “gran participación”",
+      "fingerprint": "6a60faeb038bc484bed05623",
+      "title": "Balance de las fiestas: descienden las peleas pero aumentan las lesiones y detenciones",
+      "summary": "Las recientes celebraciones, marcadas por una alta afluencia de público, han registrado un incremento en los delitos de lesiones y en el número de arrestos, a pesar de una reducción en los altercados físicos.",
+      "paragraphs": [
+        "El balance de las fiestas locales arroja resultados mixtos en materia de seguridad. Aunque se ha observado un descenso en el número de peleas, las autoridades han reportado un aumento tanto en los delitos de lesiones como en las detenciones practicadas durante los festejos.",
+        "La alta participación ciudadana ha sido una constante, destacando la gran afluencia de público en los conciertos programados, como las actuaciones de Leire Martínez y Alaska on Tour."
+      ],
+      "bullets": [
+        "Reducción de las peleas registradas.",
+        "Incremento de los delitos de lesiones y detenciones.",
+        "Alta participación en los eventos musicales."
+      ],
+      "eventKey": "participantes-asisten-fiestas-durango",
+      "partial": true,
+      "summarizedAt": "2026-10-20T09:55:16.086671+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
