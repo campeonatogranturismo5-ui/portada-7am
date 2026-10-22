@@ -9169,5 +9169,31 @@
       "summarizedAt": "2026-10-22T09:58:23.273595+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-4b28055a816c5b4e5c44f818": {
+    "fingerprint": "da132da7a5fc6fa3c4463776",
+    "item": {
+      "id": "n-4b28055a816c5b4e5c44f818",
+      "url": "https://www.durangon.com/la-itzulia-tambien-tendra-una-llegada-de-etapa-en-durango/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-22T10:33:48+00:00",
+      "sourceTitle": "La Itzulia también tendrá una llegada de etapa en Durango",
+      "fingerprint": "da132da7a5fc6fa3c4463776",
+      "title": "Durango acogerá una etapa de la Itzulia",
+      "summary": "El Ayuntamiento de Durango y la organización de la Itzulia han formalizado un acuerdo para que la localidad sea meta de una de las etapas de la próxima edición.",
+      "paragraphs": [
+        "La ronda vasca, que se celebrará entre el 5 y el 10 de abril, contará con la presencia de Durango tras el pacto alcanzado entre el consistorio y los responsables de la carrera ciclista."
+      ],
+      "bullets": [
+        "La localidad vizcaína será punto de llegada de la competición.",
+        "La prueba ciclista se disputará en el mes de abril."
+      ],
+      "eventKey": "Ayuntamiento de Durango y organización Itzulia firman acuerdo en Durango",
+      "partial": true,
+      "summarizedAt": "2026-10-22T12:21:02.432834+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
