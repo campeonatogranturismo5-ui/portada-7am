@@ -8975,5 +8975,199 @@
       "summarizedAt": "2026-10-21T09:58:23.082779+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-a3e44d8f94961e17c422f7c5": {
+    "fingerprint": "f06b13b80ee81ae09cefb479",
+    "item": {
+      "id": "n-a3e44d8f94961e17c422f7c5",
+      "url": "https://www.durangon.com/una-cata-de-panes-y-la-cocina-de-otono-protagonizan-las-proximas-citas-de-durangoko-merkatua/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-22T08:36:27+00:00",
+      "sourceTitle": "Una cata de panes y la cocina de otoño protagonizan las próximas citas de Durangoko Merkatua",
+      "fingerprint": "f06b13b80ee81ae09cefb479",
+      "title": "Durangoko Merkatua organiza actividades sobre pan y cocina de temporada",
+      "summary": "El mercado de Durango ha programado nuevas sesiones centradas en la gastronomía otoñal y la presentación de variedades de trigo.",
+      "paragraphs": [
+        "La agenda de Durangoko Merkatua incluye para esta tarde la presentación de la nueva cosecha de trigos antiguos, una actividad que se suma a las propuestas sobre cocina de otoño.",
+        "Estas citas buscan poner en valor los productos locales y las técnicas tradicionales de panadería ante el público asistente."
+      ],
+      "bullets": [
+        "Presentación de la nueva cosecha de trigos antiguos.",
+        "Actividades centradas en la cocina de otoño."
+      ],
+      "eventKey": "Durangoko Merkatua presenta actividades gastronómicas en Durango",
+      "partial": true,
+      "summarizedAt": "2026-10-22T09:58:23.273595+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-cbdbbc8b67089966a131ea0e": {
+    "fingerprint": "ad4bbbb96b7ff0b11db2d36c",
+    "item": {
+      "id": "n-cbdbbc8b67089966a131ea0e",
+      "url": "https://www.europapress.es/catalunya/noticia-colau-urtasun-completan-lista-barcelona-29n-miralles-berrio-martin-mena-20261022115152.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-22T09:51:52+00:00",
+      "sourceTitle": "Colau y Urtasun completan su lista por Barcelona al 29N con Miralles, Berrio, Martín y Mena",
+      "fingerprint": "ad4bbbb96b7ff0b11db2d36c",
+      "title": "Colau y Urtasun cierran la candidatura de los Comuns por Barcelona para el 29N",
+      "summary": "Los Comuns han ratificado sus listas electorales para las próximas elecciones catalanas, confirmando los nombres que acompañarán a Ada Colau y Ernest Urtasun en la circunscripción de Barcelona.",
+      "paragraphs": [
+        "El Consell Nacional Extraordinario de la formación ha dado luz verde a las candidaturas de Comuns-Front Ampli para las cuatro provincias. En Barcelona, la lista queda encabezada por Colau y Urtasun, seguidos por otros cuatro perfiles designados para completar los puestos de salida.",
+        "La formación concurrirá a los comicios del 29 de noviembre con esta estructura definitiva, tras la aprobación formal de los nombres por parte de sus órganos internos."
+      ],
+      "bullets": [
+        "Ada Colau lidera la lista por Barcelona, acompañada por Ernest Urtasun como número dos.",
+        "La candidatura se completa con Júlia Miralles, Andrés García Berrio, Lucía Martín y Joan Mena.",
+        "El Consell Nacional Extraordinario ha validado las listas para las cuatro provincias catalanas."
+      ],
+      "eventKey": "Colau y Urtasun completan lista electoral Barcelona",
+      "partial": true,
+      "summarizedAt": "2026-10-22T09:58:23.273595+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-c289548e4451556b9b9d178d": {
+    "fingerprint": "747633c72b542ea7be93d99d",
+    "item": {
+      "id": "n-c289548e4451556b9b9d178d",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-22T09:56:36+00:00",
+      "sourceTitle": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+      "fingerprint": "747633c72b542ea7be93d99d",
+      "title": "Un tiburón mediático se resiste a abandonar un canal en Corea del Sur",
+      "summary": "Un ejemplar de tiburón, convertido en fenómeno viral tras ser avistado en un canal de Busan, se niega a regresar a mar abierto a pesar de los intentos por guiarlo fuera de la zona.",
+      "paragraphs": [
+        "El animal, conocido como Bukangi, ha captado la atención pública tras permanecer durante semanas en un canal de la ciudad surcoreana de Busan. A pesar de las labores realizadas para facilitar su salida hacia el océano, el escualo continúa en el mismo lugar.",
+        "Las autoridades y expertos mantienen la incertidumbre sobre el comportamiento del ejemplar, que se ha convertido en una inesperada sensación mediática en la región."
+      ],
+      "bullets": [
+        "El tiburón fue localizado en un canal de Busan hace varias semanas.",
+        "El animal se resiste a abandonar el canal pese a los esfuerzos por guiarlo al mar."
+      ],
+      "eventKey": "Bukangi tiburón permanece canal Busan",
+      "partial": true,
+      "summarizedAt": "2026-10-22T09:58:23.273595+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-813711696cd81a60554dd3e0": {
+    "fingerprint": "b11484d06d27a3fa89af367f",
+    "item": {
+      "id": "n-813711696cd81a60554dd3e0",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
+      "source": "NASA",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-22T04:05:00+00:00",
+      "sourceTitle": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+      "fingerprint": "b11484d06d27a3fa89af367f",
+      "title": "La NASA destaca el hallazgo de la primera estrella verde",
+      "summary": "La imagen astronómica del día de la NASA presenta el descubrimiento de WD J1330+6435, catalogada como la primera estrella de color verde identificada.",
+      "paragraphs": [
+        "La agencia espacial ha publicado una nueva entrada en su sección de astronomía dedicada a este cuerpo celeste. El fenómeno, denominado WD J1330+6435, ha sido seleccionado como la imagen destacada de la jornada.",
+        "El contenido incluye una explicación técnica redactada por un astrónomo profesional para detallar las características de este inusual hallazgo estelar."
+      ],
+      "bullets": [
+        "Identificación de la estrella WD J1330+6435.",
+        "Clasificación como la primera estrella verde observada.",
+        "Inclusión en la serie Astronomy Picture of the Day."
+      ],
+      "eventKey": "NASA-presenta-estrella-verde-WD-J1330+6435",
+      "partial": true,
+      "summarizedAt": "2026-10-22T09:58:23.273595+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-586a6d8848df7af2a292d82a": {
+    "fingerprint": "27d6738e2caf494ecf6b5d85",
+    "item": {
+      "id": "n-586a6d8848df7af2a292d82a",
+      "url": "https://www.xataka.com/seleccion/aldi-soluciona-mi-papeleta-todas-comidas-familiares-tripode-ia-que-me-sigue-funciona-como-pulsador-a-distancia",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-22T09:30:11+00:00",
+      "sourceTitle": "Aldi soluciona mi papeleta en todas las comidas familiares con un trípode con IA que me sigue y funciona como pulsador a distancia",
+      "fingerprint": "27d6738e2caf494ecf6b5d85",
+      "title": "Aldi pondrá a la venta un trípode con IA de la marca Rollei",
+      "summary": "La cadena de supermercados Aldi comercializará próximamente un trípode inteligente con funciones de seguimiento facial y control por gestos. El dispositivo, que también actúa como palo de selfie, estará disponible exclusivamente en tiendas físicas a un precio promocional.",
+      "paragraphs": [
+        "El nuevo trípode con IA de Rollei llegará a los establecimientos físicos de Aldi el próximo 31 de octubre. El producto se lanzará con una oferta de lanzamiento que reduce su coste a 24,99 euros, frente a los 59,99 euros de su precio habitual.",
+        "El accesorio destaca por incluir seguimiento facial, control mediante gestos y un mando a distancia Bluetooth. Su diseño permite utilizarlo como soporte de mano o trípode, con una altura regulable que oscila entre los 38 y los 163 centímetros."
+      ],
+      "bullets": [
+        "Disponible en tiendas físicas de Aldi desde el 31 de octubre.",
+        "Precio promocional de 24,99 euros.",
+        "Incluye seguimiento facial y control por gestos mediante IA.",
+        "Estructura versátil convertible en palo de selfie."
+      ],
+      "eventKey": "Aldi comercializa trípode inteligente Rollei",
+      "partial": true,
+      "summarizedAt": "2026-10-22T09:58:23.273595+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-6e1142813e707b23d8cce4b0": {
+    "fingerprint": "41e3007be58cf891adc3b5b4",
+    "item": {
+      "id": "n-6e1142813e707b23d8cce4b0",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-22T09:37:58+00:00",
+      "sourceTitle": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "fingerprint": "41e3007be58cf891adc3b5b4",
+      "title": "Barclays recortará 5.000 empleos por el uso de inteligencia artificial",
+      "summary": "La entidad bancaria británica ha anunciado una reducción del 5% de su plantilla total, justificando la medida por una mayor integración de herramientas de inteligencia artificial en sus procesos.",
+      "paragraphs": [
+        "Barclays ha confirmado un plan de ajuste que afectará a 5.000 trabajadores. La dirección del banco atribuye esta decisión a la creciente dependencia de la tecnología de inteligencia artificial en sus operaciones.",
+        "Este recorte supone una disminución del 5% en el número de empleados de la compañía, enmarcado en una estrategia de automatización de sus servicios."
+      ],
+      "bullets": [
+        "Reducción del 5% de la plantilla global.",
+        "El banco justifica el ajuste por el uso de inteligencia artificial."
+      ],
+      "eventKey": "Barclays-recorte-empleo-inteligencia-artificial",
+      "partial": true,
+      "summarizedAt": "2026-10-22T09:58:23.273595+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-75987ad3e70ef9d2bad651ce": {
+    "fingerprint": "1717eb214bfe6123aa2e53a1",
+    "item": {
+      "id": "n-75987ad3e70ef9d2bad651ce",
+      "url": "https://www.eldiario.es/politica/aguirre-defiende-tribunal-buena-idea-construir-campo-golf-chamberi-mejor-helipuerto-bono_1_13605462.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-22T09:23:52+00:00",
+      "sourceTitle": "Aguirre dice que fue \"una buena idea\" construir un campo de Golf en Chamberí: \"Mejor que un helipuerto para Bono\"",
+      "fingerprint": "1717eb214bfe6123aa2e53a1",
+      "title": "Esperanza Aguirre defiende la construcción del campo de golf en Chamberí durante el juicio",
+      "summary": "La expresidenta madrileña ha testificado en la Audiencia Nacional sobre el supuesto amaño del campo de golf del Canal de Isabel II, calificando la obra como una decisión positiva frente a otras alternativas.",
+      "paragraphs": [
+        "Esperanza Aguirre ha comparecido como testigo en el juicio por las irregularidades en la construcción de un campo de golf sobre los depósitos del Canal de Isabel II. La exdirigente ha defendido la idoneidad del proyecto, asegurando que prefería esta instalación a la creación de un helipuerto para el uso del entonces ministro José Bono.",
+        "Durante su declaración, Aguirre ha negado tener conocimiento en aquel momento sobre los vínculos familiares de Ignacio González con los contratos de la empresa pública. Asimismo, ha justificado su decisión de declarar la obra de interés general tras la negativa del Ayuntamiento de Madrid a conceder la licencia."
+      ],
+      "bullets": [
+        "Aguirre sostiene que la idea del campo de golf surgió tras un viaje a Japón.",
+        "La expresidenta asegura desconocer los detalles de la ejecución de las obras gestionadas por Ignacio González e Ildefonso de Miguel.",
+        "Testigos previos señalaron que el helipuerto proyectado tenía fines sanitarios para trasplantes hospitalarios."
+      ],
+      "eventKey": "Esperanza Aguirre testifica juicio campo golf Chamberí",
+      "partial": true,
+      "summarizedAt": "2026-10-22T09:58:23.273595+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
