@@ -9195,5 +9195,455 @@
       "summarizedAt": "2026-10-22T12:21:02.432834+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-fc234560104b7a95368c61b6": {
+    "fingerprint": "3bb34f63384ab1c2fd1aa6a0",
+    "item": {
+      "id": "n-fc234560104b7a95368c61b6",
+      "url": "https://www.eldiario.es/politica/despacho-baltasar-garzon-busca-via-veto-voto-ley-nietos-regrese-constitucional_1_13609038.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-23T09:35:22+00:00",
+      "sourceTitle": "El despacho de Baltasar Garzón busca la vía para que el veto al voto por la ley de nietos regrese al Constitucional",
+      "fingerprint": "3bb34f63384ab1c2fd1aa6a0",
+      "title": "El despacho de Baltasar Garzón intenta elevar al Constitucional el veto al voto de los nacionalizados",
+      "summary": "El equipo legal del exjuez busca reactivar el debate sobre el sufragio de los afectados por la ley de nietos tras el rechazo inicial del Tribunal Constitucional. Para ello, han interpuesto un incidente de nulidad alegando la vulneración de derechos fundamentales y la arbitrariedad de las medidas cautelares del Supremo.",
+      "paragraphs": [
+        "El despacho de Baltasar Garzón ha presentado un incidente excepcional de nulidad de actuaciones, paso previo necesario para interponer un recurso de amparo ante el Tribunal Constitucional. La acción busca revertir la suspensión del derecho al voto de miles de personas que obtuvieron la nacionalidad mediante la ley de nietos.",
+        "La defensa sostiene que la suspensión del sufragio activo es contraria al ordenamiento jurídico y denuncia una discriminación respecto a otros nacionalizados que residen en España. Asimismo, critican la indefensión sufrida por los afectados y cuestionan la competencia del Tribunal Supremo para adoptar estas medidas cautelares."
+      ],
+      "bullets": [
+        "El Constitucional inadmitió previamente la petición del Defensor del Pueblo para reactivar el voto de 160.000 personas.",
+        "Se alega la vulneración del derecho a la participación política, la igualdad ante la ley y la tutela judicial efectiva.",
+        "El despacho argumenta que la suspensión del voto en masa no tiene cabida en el sistema jurídico actual.",
+        "La nulidad es el trámite obligado para intentar que el tribunal de garantías se pronuncie sobre el fondo del asunto."
+      ],
+      "eventKey": "Baltasar Garzón+impugna veto voto ley nietos+Tribunal Constitucional",
+      "partial": true,
+      "summarizedAt": "2026-10-23T09:53:19.566172+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-69507617ea9517a68e36595e": {
+    "fingerprint": "51b7b30606c0934da5422c4b",
+    "item": {
+      "id": "n-69507617ea9517a68e36595e",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-23T09:44:40+00:00",
+      "sourceTitle": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+      "fingerprint": "51b7b30606c0934da5422c4b",
+      "title": "Cinco israelíes heridos y dos presuntos atacantes palestinos muertos en un tiroteo en Cisjordania",
+      "summary": "Un ataque armado en Cisjordania ha dejado cinco personas heridas y a los dos supuestos agresores fallecidos, en un contexto de gran inestabilidad política.",
+      "paragraphs": [
+        "El incidente ha tenido lugar en Cisjordania, una zona que atraviesa un periodo de elevada tensión. El suceso ocurre a escasos días de la celebración de las elecciones generales en Israel."
+      ],
+      "bullets": [
+        "Cinco ciudadanos israelíes han resultado heridos.",
+        "Los dos presuntos atacantes han muerto durante el enfrentamiento.",
+        "El ataque se produce a cuatro días de los comicios generales en Israel."
+      ],
+      "eventKey": "israelíes y palestinos tiroteo Cisjordania",
+      "partial": true,
+      "summarizedAt": "2026-10-23T09:53:19.566172+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-b0849f04c9f3097c024436bd": {
+    "fingerprint": "2290b65127fe490e861b2584",
+    "item": {
+      "id": "n-b0849f04c9f3097c024436bd",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
+      "source": "NASA",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-23T04:05:00+00:00",
+      "sourceTitle": "APOD: 2026 October 23 – Andromeda in Southern Spring",
+      "fingerprint": "2290b65127fe490e861b2584",
+      "title": "La galaxia de Andrómeda en la primavera austral",
+      "summary": "La NASA ha publicado una nueva imagen astronómica del día centrada en la galaxia de Andrómeda, acompañada de una explicación técnica.",
+      "paragraphs": [
+        "La sección Astronomy Picture of the Day ha compartido una fotografía de Andrómeda, destacando su visibilidad durante la primavera en el hemisferio sur.",
+        "Como es habitual en esta iniciativa, la publicación incluye un análisis redactado por un astrónomo profesional sobre el objeto celeste protagonista."
+      ],
+      "bullets": [
+        "Publicación diaria de la NASA sobre el cosmos.",
+        "Enfoque en la galaxia de Andrómeda.",
+        "Explicación técnica a cargo de expertos."
+      ],
+      "eventKey": "NASA-publica-imagen-Andromeda",
+      "partial": true,
+      "summarizedAt": "2026-10-23T09:53:19.566172+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-91deae12641d9e843589fa8b": {
+    "fingerprint": "ea4a39aef0ad8b8aad9b8a3b",
+    "item": {
+      "id": "n-91deae12641d9e843589fa8b",
+      "url": "https://www.xataka.com/cine-y-tv/revuelta-descubre-que-no-hay-mayor-entretenimiento-que-politico-33-share-su-entrevista-a-pedro-sanchez",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-23T09:35:42+00:00",
+      "sourceTitle": "'La Revuelta' descubre que no hay mayor entretenimiento que un político con un 33% de share en su entrevista a Pedro Sánchez",
+      "fingerprint": "ea4a39aef0ad8b8aad9b8a3b",
+      "title": "El éxito de audiencia de Pedro Sánchez en 'La Revuelta'",
+      "summary": "La entrevista a Pedro Sánchez en 'La Revuelta' ha marcado un hito de audiencia, superando los registros históricos del programa y los datos de otros espacios de entretenimiento con políticos.",
+      "paragraphs": [
+        "El programa presentado por David Broncano alcanzó un 33,9% de cuota de pantalla con la visita del presidente del Gobierno, reuniendo a más de 4,3 millones de espectadores. Esta cifra supone el mejor dato histórico del formato, superando ampliamente las marcas previas logradas por otros invitados.",
+        "La aparición de Sánchez se produce en un contexto de precampaña electoral, tras la invitación cursada por el programa a los principales candidatos. Mientras que otras figuras políticas han mostrado disposición a acudir, otros líderes han declinado la oferta manteniendo sus criterios de comunicación habituales."
+      ],
+      "bullets": [
+        "La entrevista logró un 33,9% de cuota de pantalla en La 1.",
+        "El programa superó los registros de audiencia de 'El Hormiguero' con dirigentes políticos.",
+        "Broncano justificó la invitación por la responsabilidad de la televisión pública en periodo electoral.",
+        "Pedro Sánchez afirmó que acudirá a otros espacios televisivos si es necesario."
+      ],
+      "eventKey": "Pedro Sánchez-entrevista-La Revuelta",
+      "partial": true,
+      "summarizedAt": "2026-10-23T09:53:19.566172+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-3aa09f554070157c5e09f875": {
+    "fingerprint": "f2d9d44f48895b47bdec290b",
+    "item": {
+      "id": "n-3aa09f554070157c5e09f875",
+      "url": "https://www.europapress.es/euskadi/noticia-euskadi-registra-71400-parados-tercer-trimestre-3100-menos-anterior-1012800-ocupados-1700-mas-20261023103711.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-23T08:37:11+00:00",
+      "sourceTitle": "Euskadi registra 71.400 parados en el tercer trimestre, 3.100 menos que en el anterior, y 1.012.800 ocupados, 1.700 más",
+      "fingerprint": "f2d9d44f48895b47bdec290b",
+      "title": "Euskadi reduce el desempleo y aumenta la ocupación en el tercer trimestre",
+      "summary": "El País Vasco ha registrado un descenso en el número de personas desempleadas y un ligero incremento en la población ocupada durante el tercer trimestre de 2026.",
+      "paragraphs": [
+        "Según los datos publicados por el Eustat, la cifra de parados en Euskadi se ha situado en 71.400 personas, lo que representa una bajada de 3.100 individuos respecto al periodo anterior.",
+        "Por otro lado, el número de personas ocupadas ha experimentado un crecimiento, alcanzando un total de 1.012.800 trabajadores tras sumar 1.700 nuevos empleos."
+      ],
+      "bullets": [
+        "El desempleo cae en 3.100 personas.",
+        "La ocupación sube en 1.700 personas.",
+        "El total de ocupados asciende a 1.012.800."
+      ],
+      "eventKey": "Euskadi-datos-empleo-trimestrales",
+      "partial": true,
+      "summarizedAt": "2026-10-23T09:53:19.566172+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-ac0a39b131b946468e1174cc": {
+    "fingerprint": "49f5245f1469efa5b2098809",
+    "item": {
+      "id": "n-ac0a39b131b946468e1174cc",
+      "url": "https://www.theguardian.com/politics/2026/oct/23/briton-forced-separation-baby-son-sweden-deportation-brexit",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-23T09:37:12+00:00",
+      "sourceTitle": "Briton facing forced separation from baby son after Sweden orders his deportation",
+      "fingerprint": "49f5245f1469efa5b2098809",
+      "title": "Un fotógrafo británico se enfrenta a la deportación de Suecia y a la separación de su hijo",
+      "summary": "Las autoridades suecas han denegado el permiso de residencia a Simon Montgomery, priorizando el control migratorio sobre la situación familiar del afectado.",
+      "paragraphs": [
+        "Simon Montgomery, un fotógrafo de nacionalidad británica, se enfrenta a una orden de expulsión de Suecia que le obligaría a separarse de su hijo de 16 meses. La agencia de migración sueca ha rechazado su solicitud de permanencia, argumentando que el interés estatal en la regulación migratoria prevalece sobre sus circunstancias personales.",
+        "La decisión, que ha sido ratificada por el tribunal de migración, se produce en un contexto marcado por las consecuencias del Brexit. Montgomery se encuentra ahora ante la perspectiva de una separación forzosa de su familia tras el fallo judicial."
+      ],
+      "bullets": [
+        "La agencia de migración sueca denegó la solicitud de residencia del fotógrafo.",
+        "El tribunal de migración ha confirmado la orden de deportación.",
+        "El afectado alega que la medida le separará de su hijo de 16 meses."
+      ],
+      "eventKey": "Simon Montgomery deportación Suecia",
+      "partial": true,
+      "summarizedAt": "2026-10-23T09:53:19.566172+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-436e52a9d0120de7fb7ed639": {
+    "fingerprint": "ba618bf033fe5b282e26552e",
+    "item": {
+      "id": "n-436e52a9d0120de7fb7ed639",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261021231241.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-23T03:35:13+00:00",
+      "sourceTitle": "40 years later, Chernobyl's nuclear fallout is not what scientists expected",
+      "fingerprint": "ba618bf033fe5b282e26552e",
+      "title": "El legado radiactivo de Chernóbil tras cuatro décadas",
+      "summary": "Investigadores han analizado la persistencia de partículas radiactivas en el suelo de Chernóbil cuarenta años después del desastre nuclear. Los resultados sugieren que algunas de estas partículas mantienen una estabilidad inesperada, reteniendo sustancias peligrosas en su interior.",
+      "paragraphs": [
+        "Cuatro décadas después del accidente, el análisis mediante rayos X ha revelado que parte del material radiactivo no se ha dispersado como se preveía. En su lugar, estas partículas actúan como contenedores que atrapan elementos peligrosos, evitando su liberación al entorno.",
+        "Este hallazgo ofrece una nueva perspectiva sobre la evolución del legado tóxico en la zona afectada, planteando interrogantes sobre la estabilidad a largo plazo de estos residuos en el suelo."
+      ],
+      "bullets": [
+        "Persistencia de partículas radiactivas en el suelo tras 40 años.",
+        "Uso de rayos X para observar la estabilidad del material.",
+        "Retención de sustancias peligrosas dentro de las partículas."
+      ],
+      "eventKey": "científicos-analizan-partículas-radiactivas-Chernóbil",
+      "partial": true,
+      "summarizedAt": "2026-10-23T09:53:19.566172+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-5ad6cfcc6b70cfedaf966083": {
+    "fingerprint": "a69c45e88de18adc1baccaa8",
+    "item": {
+      "id": "n-5ad6cfcc6b70cfedaf966083",
+      "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+      "source": "Ars Technica",
+      "section": "tecnologia",
+      "lang": "en",
+      "publishedAt": "2026-10-22T21:52:31+00:00",
+      "sourceTitle": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+      "fingerprint": "a69c45e88de18adc1baccaa8",
+      "title": "La cifra de lanzamientos de Starship necesarios para llegar a la Luna",
+      "summary": "Las estimaciones actuales sugieren que se requerirán hasta 22 lanzamientos de la nave Starship para completar una misión de alunizaje.",
+      "paragraphs": [
+        "La complejidad logística de la misión lunar de SpaceX ha quedado patente tras conocerse que el número de despegues necesarios para abastecer de combustible al módulo de aterrizaje asciende a 22.",
+        "La compañía mantiene el foco en la gestión de estos repostajes críticos, fundamentales para garantizar el éxito del alunizaje."
+      ],
+      "bullets": [
+        "Se estima una necesidad de 22 lanzamientos de Starship.",
+        "El proceso requiere múltiples operaciones de repostaje en órbita.",
+        "La atención se centra en la viabilidad de estos suministros para el módulo lunar."
+      ],
+      "eventKey": "SpaceX-lanzamientos-Starship-Luna",
+      "partial": true,
+      "summarizedAt": "2026-10-23T09:53:19.566172+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-22534c873d065bb3fb2f0ea1": {
+    "fingerprint": "b0bfc5137ea36d891230ca40",
+    "item": {
+      "id": "n-22534c873d065bb3fb2f0ea1",
+      "url": "https://www.theguardian.com/film/2026/oct/22/final-james-bond-screen-tests-callum-turner-jack-lowden",
+      "source": "The Guardian",
+      "section": "cultura",
+      "lang": "en",
+      "publishedAt": "2026-10-22T21:16:02+00:00",
+      "sourceTitle": "James Bond finalists to screen-test for role this week – reports",
+      "fingerprint": "b0bfc5137ea36d891230ca40",
+      "title": "Los candidatos finales para interpretar a James Bond realizarán pruebas de cámara esta semana",
+      "summary": "La búsqueda del próximo agente 007 parece acercarse a su conclusión con la realización de pruebas de pantalla en Londres. Entre los actores seleccionados para el papel en la futura película de Denis Villeneuve se encuentran Callum Turner y Jack Lowden.",
+      "paragraphs": [
+        "La producción de la próxima entrega de la saga James Bond, dirigida por Denis Villeneuve, ha convocado a un grupo reducido de intérpretes para realizar pruebas de cámara este fin de semana en Londres.",
+        "Según diversas informaciones, el proceso de selección para encontrar al sucesor del agente secreto británico estaría entrando en su fase definitiva."
+      ],
+      "bullets": [
+        "Callum Turner y Jack Lowden figuran entre los candidatos reportados.",
+        "Las pruebas se llevarán a cabo en Londres durante el fin de semana.",
+        "El proyecto cinematográfico está vinculado a la dirección de Denis Villeneuve."
+      ],
+      "eventKey": "Callum Turner y Jack Lowden realizan pruebas para James Bond en Londres",
+      "partial": true,
+      "summarizedAt": "2026-10-23T09:53:19.566172+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-e74562b2f5d0f746d1c2cce5": {
+    "fingerprint": "55baae2c9e95bccaa58bffa3",
+    "item": {
+      "id": "n-e74562b2f5d0f746d1c2cce5",
+      "url": "https://www.europapress.es/nacional/noticia-leire-querella-contra-pp-video-ia-le-atribuye-haber-contratado-matones-quitar-juez-20261023110617.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-23T09:06:17+00:00",
+      "sourceTitle": "Leire se querella contra el PP por el vídeo con IA que le atribuye \"haber contratado a matones\" para \"quitar\" a una juez",
+      "fingerprint": "55baae2c9e95bccaa58bffa3",
+      "title": "Leire Díez se querella contra el PP por un vídeo manipulado con IA",
+      "summary": "La antigua militante socialista ha emprendido acciones legales contra el Partido Popular tras la difusión de un vídeo generado por inteligencia artificial que la vincula falsamente con la contratación de matones para apartar a una magistrada.",
+      "paragraphs": [
+        "Leire Díez ha interpuesto una querella contra la formación popular por la publicación de un contenido audiovisual esta semana. En la pieza, una recreación artificial de la denunciante afirma haber recurrido a terceros para eliminar a una jueza.",
+        "La alusión del vídeo se dirige presuntamente hacia Beatriz Biedma, magistrada que ha instruido la causa contra el hermano del presidente del Gobierno, David Sánchez."
+      ],
+      "bullets": [
+        "La querella responde a la difusión de un vídeo con IA por parte del PP.",
+        "El contenido atribuye a Díez la contratación de matones contra una jueza.",
+        "La magistrada aludida investigó a David Sánchez."
+      ],
+      "eventKey": "Leire Díez querella contra PP por vídeo IA",
+      "partial": true,
+      "summarizedAt": "2026-10-23T09:53:19.566172+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-2fc55096c931225c9eb5106b": {
+    "fingerprint": "004f1f7cbb7886c093a73b30",
+    "item": {
+      "id": "n-2fc55096c931225c9eb5106b",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-23T09:36:43+00:00",
+      "sourceTitle": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "fingerprint": "004f1f7cbb7886c093a73b30",
+      "title": "Ucrania denuncia que las restricciones en Starlink persisten",
+      "summary": "A pesar de las declaraciones de Donald Trump sobre el levantamiento de las limitaciones, fuentes militares ucranianas aseguran que el servicio sigue presentando problemas operativos.",
+      "paragraphs": [
+        "El ejército ucraniano continúa experimentando dificultades técnicas con la red de satélites Starlink. Esta situación se mantiene vigente a pesar de que el expresidente estadounidense, Donald Trump, afirmó recientemente que las restricciones sobre el servicio habían sido eliminadas.",
+        "Desde hace tiempo, se han producido negativas reiteradas sobre la existencia de una ralentización deliberada en el funcionamiento de la red, pero los problemas de conectividad persisten para las fuerzas ucranianas."
+      ],
+      "bullets": [
+        "Persisten los fallos en la red utilizada por el ejército ucraniano.",
+        "Las afirmaciones de Trump sobre el fin de las limitaciones chocan con la realidad operativa.",
+        "Se han negado repetidamente las acusaciones de una ralentización intencionada."
+      ],
+      "eventKey": "Ucrania-denuncia-restricciones-Starlink",
+      "partial": true,
+      "summarizedAt": "2026-10-23T09:53:19.566172+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-ec3bc3e869d143fdc02d121b": {
+    "fingerprint": "718799391d470f7f1124a2fd",
+    "item": {
+      "id": "n-ec3bc3e869d143fdc02d121b",
+      "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
+      "source": "NASA",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-23T04:00:00+00:00",
+      "sourceTitle": "El Niño Then and Now",
+      "fingerprint": "718799391d470f7f1124a2fd",
+      "title": "Análisis comparativo de El Niño mediante datos satelitales",
+      "summary": "La NASA utiliza un registro de altimetría satelital de 35 años para evaluar la intensidad del fenómeno de El Niño actual en relación con eventos históricos.",
+      "paragraphs": [
+        "Gracias a tres décadas y media de mediciones por satélite, los investigadores disponen de una base de datos que permite contrastar el comportamiento del actual episodio de El Niño con los registros más potentes observados anteriormente."
+      ],
+      "bullets": [
+        "Uso de registros de altimetría de 35 años.",
+        "Comparación del fenómeno actual con sus predecesores más fuertes."
+      ],
+      "eventKey": "NASA-analiza-El-Niño-espacio",
+      "partial": true,
+      "summarizedAt": "2026-10-23T09:53:19.566172+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-9b03199d2d0c0a71aca8f31d": {
+    "fingerprint": "f699bc58487c92bf003c2a70",
+    "item": {
+      "id": "n-9b03199d2d0c0a71aca8f31d",
+      "url": "https://www.xataka.com/seleccion/hoy-ha-llegado-a-lidl-aspiradora-mano-perfecta-para-limpiar-coche-casa",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-23T09:30:12+00:00",
+      "sourceTitle": "Hoy ha llegado a Lidl la aspiradora de mano perfecta para limpiar el coche o la casa",
+      "fingerprint": "f699bc58487c92bf003c2a70",
+      "title": "Lidl lanza un nuevo aspirador de mano recargable de Silvercrest",
+      "summary": "Lidl ha puesto a la venta un aspirador de mano recargable de la marca Silvercrest, diseñado para la limpieza de vehículos y zonas domésticas de difícil acceso. El dispositivo destaca por su versatilidad y la inclusión de diversos accesorios, aunque se presenta como una opción compacta con autonomía limitada.",
+      "paragraphs": [
+        "El nuevo modelo de Silvercrest, disponible tanto en tiendas físicas como en la plataforma online de Lidl, se comercializa por 34,99 euros. El aparato cuenta con una potencia de succión de 6.000 Pa, dos modos de funcionamiento y capacidad para aspirar tanto polvo como pequeñas cantidades de líquidos.",
+        "Como alternativa, el artículo menciona el modelo Cecotec Conga Immortal Extreme Suction, disponible en Amazon por un precio superior. El aspirador de Silvercrest incluye boquillas específicas, soporte de pared y un filtro EPA 10 lavable, ofreciendo una autonomía máxima de 50 minutos."
+      ],
+      "bullets": [
+        "Precio de lanzamiento de 34,99 euros en Lidl.",
+        "Incluye boquillas para juntas, cepillo y turbo.",
+        "Capacidad de 400 ml para polvo y 150 ml para líquidos.",
+        "Autonomía de hasta 50 minutos de uso."
+      ],
+      "eventKey": "Lidl-comercializa-aspirador-mano-Silvercrest",
+      "partial": true,
+      "summarizedAt": "2026-10-23T09:53:19.566172+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-e96bbf92ded75d1f9e7f5d36": {
+    "fingerprint": "c8598808dfba2a187d192532",
+    "item": {
+      "id": "n-e96bbf92ded75d1f9e7f5d36",
+      "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-23T09:26:52+00:00",
+      "sourceTitle": "Starlink access for Ukraine limited after Trump’s claims satellite service restored, officials say – Europe live",
+      "fingerprint": "c8598808dfba2a187d192532",
+      "title": "Restricciones y protestas en Francia ante la tensión social",
+      "summary": "El Gobierno francés ha endurecido las medidas de control y prohibiciones de manifestación ante las nuevas convocatorias de protestas previstas para este fin de semana. Mientras se mantienen las restricciones, el presidente Macron ha iniciado contactos con los líderes estudiantiles para intentar rebajar la tensión.",
+      "paragraphs": [
+        "El Ejecutivo de Macron ha implementado medidas restrictivas y toques de queda en diversas ciudades para evitar los disturbios registrados en jornadas anteriores. En urbes como Marsella y Lyon se han prohibido las concentraciones, mientras que en París se han limitado los recorridos de las marchas.",
+        "Ante la previsión de nuevas movilizaciones de sindicatos y grupos estudiantiles, las autoridades han anunciado un incremento del 20% en el despliegue policial. Paralelamente, el presidente francés ha convocado reuniones de seguridad y tiene previsto negociar con los representantes de los estudiantes en el Elíseo."
+      ],
+      "bullets": [
+        "Prohibición total de manifestaciones durante el fin de semana en Marsella y Lyon.",
+        "Despliegue adicional del 20% de efectivos policiales en las calles.",
+        "Cierre preventivo de comercios, museos como el Louvre y eventos culturales.",
+        "Reunión programada entre el presidente Macron y líderes estudiantiles."
+      ],
+      "eventKey": "Macron y Gobierno francés gestionan protestas y restricciones en Francia",
+      "partial": true,
+      "summarizedAt": "2026-10-23T09:53:19.566172+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-8ceb0d0a53b260941ecedef6": {
+    "fingerprint": "87d2df4b6a4110c2c7b2fdb8",
+    "item": {
+      "id": "n-8ceb0d0a53b260941ecedef6",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-23T02:54:41+00:00",
+      "sourceTitle": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
+      "fingerprint": "87d2df4b6a4110c2c7b2fdb8",
+      "title": "El estudio de casi 3.000 supernovas cuestiona la naturaleza de la energía oscura",
+      "summary": "Un análisis masivo de estrellas en explosión sugiere que la energía oscura podría variar con el tiempo, desafiando los modelos cosmológicos actuales.",
+      "paragraphs": [
+        "Una investigación centrada en 2.884 estrellas que han explotado ha revelado indicios de que la energía oscura, responsable de la expansión acelerada del cosmos, podría no ser constante.",
+        "Estos resultados ponen en duda uno de los pilares de la cosmología moderna y plantean la posibilidad de una reconfiguración en la comprensión del funcionamiento del universo."
+      ],
+      "bullets": [
+        "Análisis de 2.884 estrellas en explosión.",
+        "La energía oscura podría cambiar con el tiempo.",
+        "Posible redefinición de los modelos cosmológicos actuales."
+      ],
+      "eventKey": "estrellas-analisis-energia-oscura",
+      "partial": true,
+      "summarizedAt": "2026-10-23T09:53:19.566172+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-1f013ba2bc251ff370a200b5": {
+    "fingerprint": "77c8f8a4a10468b01d255b69",
+    "item": {
+      "id": "n-1f013ba2bc251ff370a200b5",
+      "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+      "source": "Ars Technica",
+      "section": "tecnologia",
+      "lang": "en",
+      "publishedAt": "2026-10-22T21:07:09+00:00",
+      "sourceTitle": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+      "fingerprint": "77c8f8a4a10468b01d255b69",
+      "title": "Comcast pierde clientes y califica de irracionales los precios de la competencia",
+      "summary": "La compañía Comcast ha reportado una nueva caída en su base de usuarios de cable y planea implementar recortes de plantilla. La empresa sostiene que las tarifas económicas ofrecidas por otros proveedores de servicios de internet carecen de sentido comercial.",
+      "paragraphs": [
+        "Ante la pérdida continuada de suscriptores, Comcast ha anunciado una reestructuración que incluye la reducción de puestos de trabajo. La estrategia de la compañía para afrontar esta situación pasa por aumentar el uso de agentes de inteligencia artificial en su atención al cliente.",
+        "La dirección de la firma ha cuestionado la sostenibilidad de los precios bajos que ofrecen otros proveedores del sector, calificándolos de irracionales en el contexto actual del mercado."
+      ],
+      "bullets": [
+        "Reducción de la base de clientes de cable.",
+        "Anuncio de recortes de empleo.",
+        "Mayor despliegue de agentes de inteligencia artificial.",
+        "Crítica a los precios bajos de otros proveedores."
+      ],
+      "eventKey": "Comcast-pierde-clientes-y-recorta-empleo",
+      "partial": true,
+      "summarizedAt": "2026-10-23T09:53:19.566172+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
