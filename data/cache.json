@@ -9561,33 +9561,8 @@
     }
   },
   "n-e96bbf92ded75d1f9e7f5d36": {
-    "fingerprint": "c8598808dfba2a187d192532",
-    "item": {
-      "id": "n-e96bbf92ded75d1f9e7f5d36",
-      "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-      "source": "The Guardian",
-      "section": "internacional",
-      "lang": "en",
-      "publishedAt": "2026-10-23T09:26:52+00:00",
-      "sourceTitle": "Starlink access for Ukraine limited after Trump’s claims satellite service restored, officials say – Europe live",
-      "fingerprint": "c8598808dfba2a187d192532",
-      "title": "Restricciones y protestas en Francia ante la tensión social",
-      "summary": "El Gobierno francés ha endurecido las medidas de control y prohibiciones de manifestación ante las nuevas convocatorias de protestas previstas para este fin de semana. Mientras se mantienen las restricciones, el presidente Macron ha iniciado contactos con los líderes estudiantiles para intentar rebajar la tensión.",
-      "paragraphs": [
-        "El Ejecutivo de Macron ha implementado medidas restrictivas y toques de queda en diversas ciudades para evitar los disturbios registrados en jornadas anteriores. En urbes como Marsella y Lyon se han prohibido las concentraciones, mientras que en París se han limitado los recorridos de las marchas.",
-        "Ante la previsión de nuevas movilizaciones de sindicatos y grupos estudiantiles, las autoridades han anunciado un incremento del 20% en el despliegue policial. Paralelamente, el presidente francés ha convocado reuniones de seguridad y tiene previsto negociar con los representantes de los estudiantes en el Elíseo."
-      ],
-      "bullets": [
-        "Prohibición total de manifestaciones durante el fin de semana en Marsella y Lyon.",
-        "Despliegue adicional del 20% de efectivos policiales en las calles.",
-        "Cierre preventivo de comercios, museos como el Louvre y eventos culturales.",
-        "Reunión programada entre el presidente Macron y líderes estudiantiles."
-      ],
-      "eventKey": "Macron y Gobierno francés gestionan protestas y restricciones en Francia",
-      "partial": true,
-      "summarizedAt": "2026-10-23T09:53:19.566172+00:00",
-      "model": "gemini-3.1-flash-lite"
-    }
+    "fingerprint": "5ca0ad044cb8fba3eb6737c3",
+    "item": null
   },
   "n-8ceb0d0a53b260941ecedef6": {
     "fingerprint": "87d2df4b6a4110c2c7b2fdb8",
@@ -9643,6 +9618,373 @@
       "eventKey": "Comcast-pierde-clientes-y-recorta-empleo",
       "partial": true,
       "summarizedAt": "2026-10-23T09:53:19.566172+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-fa7efc2cf75f30c206a862a4": {
+    "fingerprint": "5ebee3e2914cae39bba244dc",
+    "item": {
+      "id": "n-fa7efc2cf75f30c206a862a4",
+      "url": "https://www.eldiario.es/politica/juez-pide-informacion-patrimonio-joyas-regalos-institucionales-recibidos-zapatero-presidente_1_13609770.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-23T11:52:25+00:00",
+      "sourceTitle": "El juez pide información a Patrimonio sobre las joyas y regalos “institucionales” que recibió Zapatero como presidente",
+      "fingerprint": "5ebee3e2914cae39bba244dc",
+      "title": "El juez del caso Plus Ultra solicita datos sobre los regalos recibidos por Zapatero",
+      "summary": "El magistrado José Luis Calama ha requerido a Patrimonio del Estado información sobre los obsequios institucionales recibidos por José Luis Rodríguez Zapatero durante su etapa como presidente del Gobierno. La investigación busca esclarecer el origen de unas joyas halladas en su despacho, que el expresidente atribuye a un regalo del monarca saudí.",
+      "paragraphs": [
+        "En el marco de la investigación sobre el caso Plus Ultra, el juez de la Audiencia Nacional ha solicitado el acta de aceptación de los regalos recibidos por Zapatero entre 2004 y 2011. Esta diligencia se produce antes de tramitar la petición de la defensa de dirigirse a las autoridades de Arabia Saudí.",
+        "El magistrado mantiene abiertas diversas líneas de investigación, incluyendo la posible mediación del expresidente en el rescate de la aerolínea y la procedencia de unas joyas valoradas en 1,3 millones de euros localizadas en su despacho."
+      ],
+      "bullets": [
+        "El juez solicita a Patrimonio el acta de aceptación de los obsequios institucionales de 2004 a 2011.",
+        "La investigación indaga si Zapatero cobró comisiones por el rescate de la aerolínea Plus Ultra.",
+        "La defensa sostiene que las joyas halladas fueron un regalo del monarca saudí en 2007."
+      ],
+      "eventKey": "José Luis Rodríguez Zapatero-investigación judicial-Audiencia Nacional",
+      "partial": true,
+      "summarizedAt": "2026-10-23T12:03:08.649322+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-c6e03f6ae71cef59437fe5b4": {
+    "fingerprint": "7563bffb2260e2a12a952bd7",
+    "item": {
+      "id": "n-c6e03f6ae71cef59437fe5b4",
+      "url": "https://www.theguardian.com/world/2026/oct/23/france-protests-new-world-orchestra-gassed-paris-police",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-23T11:57:00+00:00",
+      "sourceTitle": "‘An orchestra being gassed should be an alarm signal’: the musical activists targeted in Paris",
+      "fingerprint": "7563bffb2260e2a12a952bd7",
+      "title": "Denuncian el uso de gases lacrimógenos contra una orquesta en París",
+      "summary": "Músicos de la New World Orchestra han expresado su conmoción tras ser blanco de gases lacrimógenos por parte de la policía francesa durante una protesta en la capital.",
+      "paragraphs": [
+        "La formación musical, dirigida por Étienne Jarrier, continuó interpretando sus piezas en la Place de la République a pesar de la intervención de las fuerzas antidisturbios para dispersar a los manifestantes.",
+        "El director decidió detener la actuación cuando los agentes comenzaron a lanzar botes de gas directamente hacia los músicos, provocando pequeños incendios en sus instrumentos y soportes."
+      ],
+      "bullets": [
+        "La policía francesa dispersó una concentración pacífica en París mediante el uso de gases lacrimógenos.",
+        "La New World Orchestra se mantuvo tocando hasta que los proyectiles impactaron en su equipo.",
+        "El director Étienne Jarrier ha calificado el incidente como una señal de alarma preocupante."
+      ],
+      "eventKey": "New World Orchestra-protesta-París",
+      "partial": true,
+      "summarizedAt": "2026-10-23T12:03:08.649322+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-23611b3ed5b0168aa7bf0a6b": {
+    "fingerprint": "75ff86252b4579ee2ff7d432",
+    "item": {
+      "id": "n-23611b3ed5b0168aa7bf0a6b",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-23T11:23:19+00:00",
+      "sourceTitle": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+      "fingerprint": "75ff86252b4579ee2ff7d432",
+      "title": "La caldera de Kikai en Japón vuelve a acumular magma",
+      "summary": "Investigadores han detectado que el supervolcán japonés está recargando sus reservas de magma miles de años después de su última gran erupción. Este hallazgo podría arrojar luz sobre los procesos de reactivación en otros supervolcanes del planeta.",
+      "paragraphs": [
+        "Un estudio basado en prospecciones sísmicas submarinas ha revelado la presencia de un importante depósito de magma bajo la caldera de Kikai. Este fenómeno ocurre 7.300 años después de que el volcán protagonizara una de las erupciones más potentes de la historia geológica reciente.",
+        "Los científicos señalan que este descubrimiento es clave para comprender cómo se regeneran los suministros de magma en estructuras similares, como Yellowstone o Toba."
+      ],
+      "bullets": [
+        "Detección de un gran reservorio de magma bajo la caldera de Kikai.",
+        "El proceso de recarga sucede tras milenios de inactividad desde su última catástrofe.",
+        "El estudio utiliza datos de prospecciones sísmicas submarinas.",
+        "El hallazgo ayuda a entender el comportamiento de otros supervolcanes."
+      ],
+      "eventKey": "supervolcan Kikai recarga magma Japon",
+      "partial": true,
+      "summarizedAt": "2026-10-23T12:03:08.649322+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-3267b120dca2cea36c2fb8f7": {
+    "fingerprint": "224bf244666577f217443191",
+    "item": {
+      "id": "n-3267b120dca2cea36c2fb8f7",
+      "url": "https://www.xataka.com/seleccion/mediamarkt-lanza-pack-ahorro-nintendo-switch-2-incluye-consola-videojuego-suscripcion-online",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-23T11:46:08+00:00",
+      "sourceTitle": "MediaMarkt lanza un pack ahorro en la Nintendo Switch 2: incluye la consola, videojuego y suscripción online",
+      "fingerprint": "224bf244666577f217443191",
+      "title": "MediaMarkt comercializa un pack de lanzamiento para la Nintendo Switch 2",
+      "summary": "MediaMarkt ha puesto a la venta un paquete promocional que agrupa la nueva consola de Nintendo junto al videojuego 'Nintendo Switch Sports Resort' y tres meses de suscripción a su servicio online. El precio del conjunto se sitúa en 499 euros, aunque la disponibilidad y el coste final podrían estar sujetos a cambios.",
+      "paragraphs": [
+        "La oferta incluye la consola Nintendo Switch 2, el título deportivo 'Nintendo Switch Sports Resort' y acceso al servicio Switch Online durante un trimestre. Este videojuego, diseñado para entornos familiares, permite competir en doce disciplinas deportivas distintas tanto en modalidad local como a través de internet.",
+        "El paquete se posiciona como una opción para quienes buscan un conjunto completo para el multijugador, aunque se advierte que el juego se entrega en formato digital. Otras cadenas de distribución también ofrecen el producto, aunque con variaciones en el precio final."
+      ],
+      "bullets": [
+        "El pack tiene un precio de 499 euros en MediaMarkt.",
+        "Incluye el juego 'Nintendo Switch Sports Resort' y tres meses de suscripción básica a Switch Online.",
+        "El título permite partidas multijugador online y offline.",
+        "El precio del conjunto podría variar según el punto de venta."
+      ],
+      "eventKey": "MediaMarkt lanza pack comercial Nintendo Switch 2",
+      "partial": true,
+      "summarizedAt": "2026-10-23T12:03:08.649322+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-d2f08bc4bcc7ea7f197cb149": {
+    "fingerprint": "7757fc61c150d5aa924b801b",
+    "item": {
+      "id": "n-d2f08bc4bcc7ea7f197cb149",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-23T11:48:04+00:00",
+      "sourceTitle": "Earnings limit of up to £140K for first-time buyers loan scheme",
+      "fingerprint": "7757fc61c150d5aa924b801b",
+      "title": "Límite de ingresos de 140.000 libras para el nuevo plan de préstamos hipotecarios",
+      "summary": "El Gobierno británico ha anunciado el programa 'Your First Home', que facilitará préstamos avalados por el Estado para la adquisición de viviendas de obra nueva en Inglaterra.",
+      "paragraphs": [
+        "El Ejecutivo ha establecido un tope de ingresos de 140.000 libras anuales para los solicitantes que deseen acceder a esta nueva línea de ayudas. El esquema está diseñado específicamente para fomentar la compra de inmuebles de nueva construcción dentro del territorio inglés.",
+        "La medida busca dinamizar el mercado inmobiliario mediante el respaldo público a los préstamos hipotecarios, aunque los detalles operativos sobre la implementación del programa se irán conociendo próximamente."
+      ],
+      "bullets": [
+        "El plan se denomina 'Your First Home'.",
+        "El límite de ingresos para los compradores se sitúa en 140.000 libras.",
+        "La iniciativa se centra en viviendas de obra nueva en Inglaterra.",
+        "El Estado actuará como avalista de los préstamos concedidos."
+      ],
+      "eventKey": "Gobierno británico lanza plan de préstamos para vivienda en Inglaterra",
+      "partial": true,
+      "summarizedAt": "2026-10-23T12:03:08.649322+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-5a533165169a181d2d81e754": {
+    "fingerprint": "bb4cfe058c96fcf1cc3cc53a",
+    "item": {
+      "id": "n-5a533165169a181d2d81e754",
+      "url": "https://www.europapress.es/euskadi/noticia-denuncias-violencia-genero-euskadi-crecen-134-segundo-trimestre-ano-victimas-89-20261023134506.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-23T11:45:06+00:00",
+      "sourceTitle": "Las denuncias por violencia de género en Euskadi crecen un 13,4% en el segundo trimestre del año",
+      "fingerprint": "bb4cfe058c96fcf1cc3cc53a",
+      "title": "Aumentan las denuncias por violencia de género en el País Vasco",
+      "summary": "Los tribunales vascos han registrado un incremento significativo en las denuncias y en el número de mujeres atendidas por violencia de género durante el segundo trimestre de 2026.",
+      "paragraphs": [
+        "Las secciones especializadas de los Tribunales de Instancia en Euskadi han reportado un repunte en la actividad judicial relacionada con la violencia de género. Los datos comparativos respecto al año anterior muestran una tendencia al alza tanto en el volumen de denuncias presentadas como en la cifra de víctimas que han recibido atención.",
+        "Este incremento se sitúa en un 13,4% en el caso de las denuncias y en un 8,9% en cuanto a las mujeres atendidas, reflejando la actividad registrada entre abril y junio del presente ejercicio."
+      ],
+      "bullets": [
+        "Se contabilizaron 2.054 denuncias en el segundo trimestre.",
+        "El número de mujeres atendidas ascendió a 1.902."
+      ],
+      "eventKey": "tribunales vascos registran aumento denuncias violencia género",
+      "partial": true,
+      "summarizedAt": "2026-10-23T12:03:08.649322+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-0b2de37a24b54b4960ab0561": {
+    "fingerprint": "8286f487cdb033bfacf3f35a",
+    "item": {
+      "id": "n-0b2de37a24b54b4960ab0561",
+      "url": "https://www.europapress.es/nacional/noticia-podemos-erc-piden-comparecencia-urgente-sanchez-congreso-violencia-policial-contra-jovenes-20261023135128.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-23T11:51:28+00:00",
+      "sourceTitle": "Podemos y ERC piden la comparecencia urgente de Sánchez en el Congreso por la \"violencia\" policial contra jóvenes",
+      "fingerprint": "8286f487cdb033bfacf3f35a",
+      "title": "Podemos y ERC exigen explicaciones a Sánchez por las cargas policiales",
+      "summary": "Podemos y ERC han solicitado la comparecencia urgente del presidente del Gobierno y los titulares de Interior y Defensa en el Congreso. El objetivo es que el Ejecutivo aclare los recientes episodios de violencia policial contra jóvenes en varias ciudades españolas.",
+      "paragraphs": [
+        "La formación morada, junto a su socio electoral Esquerra Republicana, ha registrado una petición formal para que Pedro Sánchez, Fernando Grande-Marlaska y Margarita Robles rindan cuentas ante la Cámara Baja.",
+        "La iniciativa responde a la preocupación por las actuaciones de las fuerzas de seguridad durante las últimas cargas policiales registradas en distintos puntos del territorio nacional."
+      ],
+      "bullets": [
+        "Solicitud de comparecencia urgente en el Congreso.",
+        "Interpelación dirigida a Sánchez, Marlaska y Robles.",
+        "Investigación sobre la violencia policial contra jóvenes."
+      ],
+      "eventKey": "Podemos y ERC solicitan comparecencia de Sánchez en el Congreso",
+      "partial": true,
+      "summarizedAt": "2026-10-23T12:03:08.649322+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-e097ac388c0ec7ecbaaa07c5": {
+    "fingerprint": "eba8b8471d91590e3ca5a7ed",
+    "item": {
+      "id": "n-e097ac388c0ec7ecbaaa07c5",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-23T11:44:12+00:00",
+      "sourceTitle": "At least one dead and four injured in Paris suburb shooting",
+      "fingerprint": "eba8b8471d91590e3ca5a7ed",
+      "title": "Un tiroteo en un suburbio de París deja al menos un fallecido",
+      "summary": "Las autoridades francesas han confirmado un incidente armado en Trappes que ha provocado víctimas mortales y heridos. La policía antiterrorista ha asumido la investigación de los hechos.",
+      "paragraphs": [
+        "Un tiroteo ocurrido en la localidad de Trappes, situada al oeste de París, ha causado la muerte de al menos una persona y ha dejado a otras cuatro heridas.",
+        "Ante la gravedad de lo sucedido, las unidades especializadas en la lucha antiterrorista se han hecho cargo de las pesquisas para esclarecer las circunstancias del ataque."
+      ],
+      "bullets": [
+        "Un fallecido y cuatro heridos confirmados.",
+        "El suceso tuvo lugar en Trappes, al oeste de la capital francesa.",
+        "La policía antiterrorista lidera la investigación."
+      ],
+      "eventKey": "policia antiterrorista investiga tiroteo en Trappes",
+      "partial": true,
+      "summarizedAt": "2026-10-23T12:03:08.649322+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-703ae3430d3e6bc8915785e7": {
+    "fingerprint": "be5075f051b5e2cb7b0b6a62",
+    "item": {
+      "id": "n-703ae3430d3e6bc8915785e7",
+      "url": "https://www.europapress.es/nacional/noticia-an-archiva-causa-contra-cdr-procesados-terrorismo-aplicar-sentencia-tjue-ley-amnistia-20261023133744.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-23T11:37:44+00:00",
+      "sourceTitle": "La AN archiva la causa contra los CDR procesados por terrorismo al aplicar la sentencia del TJUE sobre ley de amnistía",
+      "fingerprint": "be5075f051b5e2cb7b0b6a62",
+      "title": "La Audiencia Nacional archiva la causa por terrorismo contra doce miembros de los CDR",
+      "summary": "La Audiencia Nacional ha decidido cerrar el procedimiento judicial contra doce integrantes de los CDR tras aplicar la reciente sentencia del TJUE sobre la ley de amnistía.",
+      "paragraphs": [
+        "El tribunal ha procedido al archivo de la causa que mantenía procesados a doce miembros de los Comités de Defensa de la República por un presunto delito de terrorismo.",
+        "Esta resolución se fundamenta en la aplicación directa de la sentencia del Tribunal de Justicia de la Unión Europea, que ha validado la ley de amnistía vinculada al proceso independentista catalán."
+      ],
+      "bullets": [
+        "Archivo de la causa contra doce miembros de los CDR.",
+        "Aplicación de la sentencia del TJUE sobre la ley de amnistía.",
+        "Los procesados estaban acusados de un presunto delito de terrorismo."
+      ],
+      "eventKey": "Audiencia Nacional archiva causa CDR",
+      "partial": true,
+      "summarizedAt": "2026-10-23T12:03:08.649322+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-87223e7ec8853e654c6e907c": {
+    "fingerprint": "2ea112366348205a1ded2ebe",
+    "item": {
+      "id": "n-87223e7ec8853e654c6e907c",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-23T11:12:28+00:00",
+      "sourceTitle": "Dental implants can hijack your immune system, scientists discover",
+      "fingerprint": "2ea112366348205a1ded2ebe",
+      "title": "Los implantes dentales podrían alterar el sistema inmunitario",
+      "summary": "Un estudio científico sugiere que los implantes de titanio podrían favorecer infecciones resistentes a los antibióticos al interactuar negativamente con las células inmunitarias.",
+      "paragraphs": [
+        "Investigadores han identificado que los implantes dentales podrían ser un factor determinante en la persistencia de ciertas infecciones. El proceso ocurre cuando las bacterias corroen el titanio, liberando partículas microscópicas.",
+        "Estas partículas parecen secuestrar las células del sistema inmunitario, lo que provoca una inflamación destructiva y acelera la pérdida de masa ósea en la mandíbula."
+      ],
+      "bullets": [
+        "La corrosión del titanio por bacterias libera partículas nocivas.",
+        "Estas partículas interfieren con el funcionamiento de las células inmunitarias.",
+        "El proceso desencadena inflamación y pérdida de hueso maxilar."
+      ],
+      "eventKey": "investigadores-analizan-implantes-dentales-sistema-inmunitario",
+      "partial": true,
+      "summarizedAt": "2026-10-23T12:03:08.649322+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-0c971a68684d0e220f11f134": {
+    "fingerprint": "590a6294352ea19aa8f269da",
+    "item": {
+      "id": "n-0c971a68684d0e220f11f134",
+      "url": "https://www.xataka.com/servicios/amazon-cierra-puerta-a-agentes-ia-mayor-cadena-supermercados-eeuu-abre-par-par",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-23T11:30:11+00:00",
+      "sourceTitle": "Mientras Amazon cierra la puerta a los agentes de IA, la mayor cadena de supermercados de EEUU la abre de par en par",
+      "fingerprint": "590a6294352ea19aa8f269da",
+      "title": "Walmart apuesta por los agentes de IA mientras Amazon los restringe",
+      "summary": "Walmart ha anunciado la integración de agentes de inteligencia artificial para realizar compras en nombre de sus usuarios, marcando una clara diferencia con la postura restrictiva de Amazon.",
+      "paragraphs": [
+        "Walmart ha presentado una estrategia para permitir que agentes de IA operen en sus plataformas, incluyendo Sam's Club, mediante herramientas como Agent Gateway y Agent Profiles. Esta iniciativa permitirá a los usuarios autorizar programas para gestionar compras y consultar inventarios bajo controles de gasto específicos.",
+        "Por el contrario, Amazon mantiene una política de bloqueo frente a estos agentes externos. La compañía ha advertido que el acceso no autorizado de herramientas como Muse de Meta supone una violación de sus condiciones de uso, llegando a restringir previamente a otros desarrolladores como OpenAI o Google."
+      ],
+      "bullets": [
+        "Walmart implementará controles de seguridad y permitirá devoluciones si un agente realiza compras no deseadas.",
+        "Los agentes autorizados en Walmart accederán a los mismos precios que los clientes humanos.",
+        "Amazon ha señalado que el acceso de agentes no autorizados vulnera la privacidad y seguridad de sus cuentas.",
+        "La estrategia de Walmart busca integrar la IA en el proceso de compra, mientras Amazon prioriza la restricción de accesos externos."
+      ],
+      "eventKey": "Walmart y Amazon adoptan posturas opuestas sobre agentes de IA",
+      "partial": true,
+      "summarizedAt": "2026-10-23T12:03:08.649322+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-262cc4aa743fd9f285c28ba9": {
+    "fingerprint": "ed8ca502bc59353b06e32ed2",
+    "item": {
+      "id": "n-262cc4aa743fd9f285c28ba9",
+      "url": "https://www.europapress.es/euskadi/noticia-ejecutado-desahucio-familia-seis-menores-cargo-vitoria-gasteiz-20261023133504.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-23T11:35:04+00:00",
+      "sourceTitle": "Ejecutado el desahucio de una familia con seis menores a su cargo en Vitoria-Gasteiz",
+      "fingerprint": "ed8ca502bc59353b06e32ed2",
+      "title": "Desahucio de una familia con seis menores en Vitoria-Gasteiz",
+      "summary": "Una familia con seis menores a su cargo ha sido desalojada de su vivienda en el barrio de Sansomendi. El Sindicato Socialista de Vivienda ha convocado una protesta para denunciar la actuación policial durante el proceso.",
+      "paragraphs": [
+        "Las autoridades han ejecutado este viernes el desahucio de una familia que residía en el barrio vitoriano de Sansomendi y que tiene a su cargo a seis menores de edad.",
+        "Tras el operativo, el Sindicato Socialista de Vivienda ha anunciado la convocatoria de una manifestación vespertina con el objetivo de protestar contra la supuesta violencia policial ejercida durante el desalojo."
+      ],
+      "bullets": [
+        "Desalojo de una familia con seis menores en Sansomendi.",
+        "Convocatoria de protesta por parte del Sindicato Socialista de Vivienda.",
+        "Denuncia de violencia policial durante la ejecución del desahucio."
+      ],
+      "eventKey": "familia-desalojada-vitoria-gasteiz",
+      "partial": true,
+      "summarizedAt": "2026-10-23T12:03:08.649322+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-77a97776015518a7e7efef13": {
+    "fingerprint": "c7347c659d9a31a9aa8a1b38",
+    "item": {
+      "id": "n-77a97776015518a7e7efef13",
+      "url": "https://www.eldiario.es/politica/fiscalia-pide-27-anos-prision-autor-material-atentado-vidal-quadras-operacion-encubierta-iran_1_13609598.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-23T11:27:40+00:00",
+      "sourceTitle": "La Fiscalía pide 27 años de prisión para el autor del atentado contra Vidal-Quadras en \"una operación encubierta de Irán\"",
+      "fingerprint": "c7347c659d9a31a9aa8a1b38",
+      "title": "La Fiscalía solicita 27 años de cárcel para el autor del ataque a Vidal-Quadras",
+      "summary": "El Ministerio Público vincula el intento de asesinato del exfundador de Vox con una operación encubierta de Irán y señala a seis personas como implicadas.",
+      "paragraphs": [
+        "La Fiscalía ha formalizado su escrito de acusación contra Mehrez Ayari, solicitando 27 años de prisión por el atentado contra Alejo Vidal-Quadras. El fiscal sostiene que el ataque fue una operación orquestada desde Irán.",
+        "Además del autor material, otras cinco personas están acusadas de cooperar en el intento de asesinato y una sexta figura como cómplice. Las autoridades advierten que el responsable de ordenar el disparo permanece fugado y se sospecha que se encuentra en territorio iraní."
+      ],
+      "bullets": [
+        "Petición de 22 años por tentativa de asesinato y 5 por pertenencia a organización criminal para Ayari.",
+        "Seis personas acusadas de integrar la organización criminal vinculada al ataque.",
+        "El presunto autor intelectual del atentado continúa en paradero desconocido."
+      ],
+      "eventKey": "Fiscalía-acusa-implicados-atentado-Vidal-Quadras",
+      "partial": true,
+      "summarizedAt": "2026-10-23T12:03:08.649322+00:00",
       "model": "gemini-3.1-flash-lite"
     }
   }
