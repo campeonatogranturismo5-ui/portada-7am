@@ -9987,5 +9987,512 @@
       "summarizedAt": "2026-10-23T12:03:08.649322+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-bc449707d363b5050848f5c7": {
+    "fingerprint": "dc8bb6fb1d908c142ef04911",
+    "item": {
+      "id": "n-bc449707d363b5050848f5c7",
+      "url": "https://www.durangon.com/la-umeen-euskal-jaia-reunira-a-200-jovenes-dantzaris-en-durango/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-23T12:06:56+00:00",
+      "sourceTitle": "La Umeen Euskal Jaia reunirá a 200 jóvenes dantzaris en Durango",
+      "fingerprint": "dc8bb6fb1d908c142ef04911",
+      "title": "Durango acoge la Umeen Euskal Jaia con 200 dantzaris",
+      "summary": "La localidad vizcaína celebrará este domingo una nueva edición de la fiesta infantil de danza vasca, que contará con la participación de nueve grupos.",
+      "paragraphs": [
+        "El evento reunirá a cerca de 200 jóvenes bailarines en una jornada dedicada al folclore tradicional. La programación incluye un pasacalle matinal y una exhibición principal en la plaza de Ezkurdi."
+      ],
+      "bullets": [
+        "Participación de nueve grupos de danza.",
+        "Kalejira programada para las 11:00 horas.",
+        "Alarde de danzas a las 13:00 horas en Ezkurdi."
+      ],
+      "eventKey": "jóvenes dantzaris celebran Umeen Euskal Jaia en Durango",
+      "partial": true,
+      "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-cdf27cd22af555f9c3aa2c18": {
+    "fingerprint": "39fd3201abf235a5b299fd13",
+    "item": {
+      "id": "n-cdf27cd22af555f9c3aa2c18",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13611766.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-24T08:15:53+00:00",
+      "sourceTitle": "Última hora sobre la actualidad política, en directo",
+      "fingerprint": "39fd3201abf235a5b299fd13",
+      "title": "Intensa actividad electoral de los partidos a cinco semanas de los comicios",
+      "summary": "Las formaciones políticas intensifican su presencia en todo el territorio nacional con diversos actos de campaña durante el fin de semana. Los principales líderes nacionales y autonómicos protagonizarán mítines en ciudades como Granada, Vigo y Barcelona.",
+      "paragraphs": [
+        "A falta de poco más de un mes para la cita electoral, los partidos han programado una agenda cargada de actos por toda España. El presidente del Gobierno, Pedro Sánchez, y el líder del PP, Alberto Núñez Feijóo, encabezarán eventos en Granada y Vigo, respectivamente.",
+        "Por su parte, en Barcelona, Gabriel Rufián e Irene Montero celebrarán su primer mitin conjunto tras la reciente alianza electoral alcanzada entre ERC y Podemos en Catalunya."
+      ],
+      "bullets": [
+        "Pedro Sánchez y María Jesús Montero intervendrán en Granada.",
+        "Alberto Núñez Feijóo y Alfonso Rueda coincidirán en Vigo.",
+        "Gabriel Rufián e Irene Montero inician su colaboración conjunta en Barcelona."
+      ],
+      "eventKey": "Líderes políticos realizan mítines de campaña en España",
+      "partial": true,
+      "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-7c2eaa95742e889dfcc1a80e": {
+    "fingerprint": "1b2d53a11ea9fcedb1c67d04",
+    "item": {
+      "id": "n-7c2eaa95742e889dfcc1a80e",
+      "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-24T09:13:44+00:00",
+      "sourceTitle": "Hundreds of protests expected across France, with shops, businesses and tourist sites closed – Europe live",
+      "fingerprint": "1b2d53a11ea9fcedb1c67d04",
+      "title": "Francia se prepara para una jornada de protestas masivas tras un ataque terrorista",
+      "summary": "El Gobierno francés ha desplegado un amplio dispositivo policial ante la previsión de numerosas manifestaciones en todo el país, en un clima de tensión tras un reciente ataque calificado de racista y terrorista.",
+      "paragraphs": [
+        "Las autoridades francesas han movilizado a 70.000 agentes ante la convocatoria de protestas que han obligado al cierre de comercios y lugares turísticos. La situación se ha visto agravada por el impacto de un ataque armado ocurrido el viernes al oeste de París.",
+        "El suceso, que el Ejecutivo ha definido como un acto terrorista y racista, se saldó con el fallecimiento de un deportista y varios heridos, entre ellos una menor de edad. Se prevé que la inestabilidad se extienda a otros países europeos como Italia, España, Austria, Portugal, Albania e Irlanda."
+      ],
+      "bullets": [
+        "Despliegue de 70.000 policías en territorio francés.",
+        "Cierre preventivo de negocios y puntos de interés turístico.",
+        "Ataque armado con un fallecido y cinco heridos cerca de París.",
+        "Protestas previstas en diversos países europeos."
+      ],
+      "eventKey": "Francia-protestas-ataque-terrorista",
+      "partial": true,
+      "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-8360b681ee239812a57244cb": {
+    "fingerprint": "f278e0529faf8036f650ff4f",
+    "item": {
+      "id": "n-8360b681ee239812a57244cb",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
+      "source": "NASA",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-24T04:05:00+00:00",
+      "sourceTitle": "APOD: 2026 October 24 – Rosetta’s Selfie",
+      "fingerprint": "f278e0529faf8036f650ff4f",
+      "title": "La imagen del día de la NASA destaca un autorretrato de la sonda Rosetta",
+      "summary": "La sección de astronomía de la NASA ha seleccionado como imagen destacada un autorretrato capturado por la sonda espacial Rosetta.",
+      "paragraphs": [
+        "La plataforma Astronomy Picture of the Day ha publicado una nueva instantánea que muestra a la sonda Rosetta en el espacio. Esta iniciativa de la agencia espacial busca divulgar el conocimiento astronómico mediante fotografías comentadas por expertos."
+      ],
+      "bullets": [
+        "La imagen forma parte de la serie diaria de divulgación científica de la NASA.",
+        "El contenido incluye una explicación técnica redactada por un astrónomo profesional."
+      ],
+      "eventKey": "NASA-publica-imagen-Rosetta",
+      "partial": true,
+      "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-b9b2ee89209694fc4f2dfe7a": {
+    "fingerprint": "6cc94b370b7cf9aced7cfb8d",
+    "item": {
+      "id": "n-b9b2ee89209694fc4f2dfe7a",
+      "url": "https://www.theguardian.com/artanddesign/2026/oct/24/rm-bts-sfmoma-exhibition",
+      "source": "The Guardian",
+      "section": "cultura",
+      "lang": "en",
+      "publishedAt": "2026-10-24T09:00:29+00:00",
+      "sourceTitle": "‘Unlike anything we’ve experienced’: fans swarm San Francisco for BTS star’s art exhibition",
+      "fingerprint": "6cc94b370b7cf9aced7cfb8d",
+      "title": "El SFMOMA atrae a una multitud de seguidores por la exposición de arte de RM",
+      "summary": "La muestra de la colección privada del integrante de BTS, RM, ha revitalizado la afluencia de visitantes al Museo de Arte Moderno de San Francisco.",
+      "paragraphs": [
+        "El SFMOMA ha experimentado un notable incremento de público tras inaugurar una exposición que reúne más de un centenar de obras pertenecientes a la colección personal de Kim Namjoon, conocido artísticamente como RM.",
+        "La propuesta, titulada 'RM x SFMOMA: Between You and Me', surgió de una invitación cursada al artista mientras cumplía con su servicio militar y ha sido comisariada por América Castillo y Hyoeun Kim."
+      ],
+      "bullets": [
+        "La exposición cuenta con más de 100 piezas artísticas.",
+        "El proyecto busca mostrar la faceta más honesta del artista a través de sus adquisiciones.",
+        "La iniciativa ha supuesto un impulso para el museo, que atravesaba dificultades previas."
+      ],
+      "eventKey": "RM-expone-coleccion-arte-SFMOMA",
+      "partial": true,
+      "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-202f7c3654130dd9ec26520b": {
+    "fingerprint": "eac637ef34a00ca5370610e7",
+    "item": {
+      "id": "n-202f7c3654130dd9ec26520b",
+      "url": "https://www.europapress.es/euskadi/noticia-euskadi-participa-agrifish-luxemburgo-lograr-acuerdo-parcial-respecto-pac-2027-20261024110700.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-24T09:07:00+00:00",
+      "sourceTitle": "Euskadi participa en 'Agrifish' de Luxemburgo para lograr un acuerdo parcial respecto a la PAC para 2027",
+      "fingerprint": "eac637ef34a00ca5370610e7",
+      "title": "Euskadi busca un acuerdo sobre la PAC post-2027 en el consejo Agrifish",
+      "summary": "La consejera vasca Amaia Barredo asistirá a la reunión europea en Luxemburgo para negociar la futura Política Agraria Común.",
+      "paragraphs": [
+        "Amaia Barredo, consejera de Alimentación, Desarrollo Rural, Agricultura y Pesca del Gobierno Vasco, se desplazará a Luxemburgo los días 26 y 27 de octubre. Su objetivo es participar en el Consejo de Agricultura y Pesca de la Unión Europea, conocido como Agrifish.",
+        "Durante este encuentro, los representantes autonómicos y los ministros de los Estados miembros intentarán alcanzar un consenso sobre la posición negociadora respecto al reglamento de la PAC que entrará en vigor a partir de 2027."
+      ],
+      "bullets": [
+        "Participación de Amaia Barredo en el consejo Agrifish.",
+        "Negociación de la posición parcial sobre la PAC para 2027.",
+        "Reunión de ministros y consejeros autonómicos en Luxemburgo."
+      ],
+      "eventKey": "Amaia Barredo participa en consejo Agrifish Luxemburgo",
+      "partial": true,
+      "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-b21372dd7b9c2a5fedc7f0a8": {
+    "fingerprint": "6ee11c902f6fb45a09c005e1",
+    "item": {
+      "id": "n-b21372dd7b9c2a5fedc7f0a8",
+      "url": "https://www.europapress.es/nacional/noticia-exteriores-ordena-oficinas-consulares-trabajen-fin-semana-cumplir-plazo-ley-nietos-20261023215419.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-23T19:54:19+00:00",
+      "sourceTitle": "Exteriores ordena a las oficinas consulares que trabajen este fin de semana para cumplir el plazo de la 'ley de nietos'",
+      "fingerprint": "6ee11c902f6fb45a09c005e1",
+      "title": "Exteriores fuerza el trabajo en fin de semana para cumplir con la Ley de Nietos",
+      "summary": "El Ministerio de Asuntos Exteriores ha instado a sus oficinas consulares a operar durante el fin de semana para atender un requerimiento judicial del Tribunal Supremo. La medida busca evitar posibles sanciones económicas ante el incumplimiento de los plazos fijados para identificar a los afectados por la suspensión del voto.",
+      "paragraphs": [
+        "El departamento ministerial ha ordenado la apertura extraordinaria de las sedes consulares este sábado y domingo. El objetivo es dar respuesta a un auto del Tribunal Supremo que exige la entrega de un listado específico de ciudadanos en un plazo de cinco días.",
+        "La urgencia responde a la advertencia de multas por parte del alto tribunal si el Gobierno no facilita la relación de los 163.020 afectados por la suspensión cautelar del voto de los nacionalizados bajo la normativa vigente."
+      ],
+      "bullets": [
+        "Apertura obligatoria de oficinas consulares durante el fin de semana.",
+        "Requerimiento del Tribunal Supremo bajo amenaza de multa.",
+        "Plazo de cinco días para identificar a los afectados por la suspensión del voto."
+      ],
+      "eventKey": "Ministerio de Exteriores ordena trabajo consular por Ley de Nietos",
+      "partial": true,
+      "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-b63a73bec91ba1d8c61a18de": {
+    "fingerprint": "8144e0254c12147ee8580f66",
+    "item": {
+      "id": "n-b63a73bec91ba1d8c61a18de",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-24T09:03:15+00:00",
+      "sourceTitle": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "fingerprint": "8144e0254c12147ee8580f66",
+      "title": "Detenido tras un incendio en el refugio de Hitler en los Alpes",
+      "summary": "Las autoridades alemanas han efectuado una detención tras declararse un fuego en el Eagle's Nest, la antigua residencia de montaña del dictador nazi.",
+      "paragraphs": [
+        "Un dispositivo compuesto por cerca de 200 efectivos de emergencia trabaja en las labores de extinción del incendio que afecta a la histórica propiedad alpina.",
+        "Por el momento, se ha confirmado la detención de una persona en relación con el suceso, mientras los equipos de rescate continúan desplegados en la zona."
+      ],
+      "bullets": [
+        "Incendio en el Eagle's Nest, antigua residencia de Hitler.",
+        "Despliegue de 200 efectivos de emergencia.",
+        "Una persona ha sido detenida por las autoridades."
+      ],
+      "eventKey": "detenido-incendio-refugio-hitler-alemania",
+      "partial": true,
+      "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-94538d593663829e116d52cd": {
+    "fingerprint": "1a747b75cddcfc81ebd0b325",
+    "item": {
+      "id": "n-94538d593663829e116d52cd",
+      "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+      "source": "Ars Technica",
+      "section": "tecnologia",
+      "lang": "en",
+      "publishedAt": "2026-10-23T22:48:25+00:00",
+      "sourceTitle": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+      "fingerprint": "1a747b75cddcfc81ebd0b325",
+      "title": "La NASA ajusta sus planes para el alunizaje y resuelve un problema en la nave Orion",
+      "summary": "La agencia espacial estadounidense ha actualizado su estrategia para las misiones lunares, logrando solventar una dificultad técnica persistente en el vehículo Orion.",
+      "paragraphs": [
+        "La NASA ha comunicado cambios en la planificación de sus módulos de aterrizaje destinados a la Luna. Esta actualización incluye la resolución de un problema técnico que afectaba a la nave Orion desde hace tiempo.",
+        "La agencia asegura contar con el respaldo necesario y los recursos suficientes para avanzar en estos objetivos espaciales."
+      ],
+      "bullets": [
+        "Actualización de los planes para los módulos de aterrizaje lunares.",
+        "Solución técnica implementada en la nave Orion.",
+        "Confirmación de apoyo institucional y disponibilidad de recursos."
+      ],
+      "eventKey": "NASA-actualiza-planes-luna",
+      "partial": true,
+      "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-97c227bfaa08472768aae88e": {
+    "fingerprint": "53120360e38dfcf906f31081",
+    "item": {
+      "id": "n-97c227bfaa08472768aae88e",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-24T00:36:47+00:00",
+      "sourceTitle": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "fingerprint": "53120360e38dfcf906f31081",
+      "title": "La Casa Blanca ajusta los aranceles a productos canadienses ante las elecciones",
+      "summary": "El Gobierno estadounidense ha anunciado una modificación en su política arancelaria sobre bienes procedentes de Canadá, coincidiendo con la proximidad de los comicios de mitad de mandato.",
+      "paragraphs": [
+        "A partir del 30 de octubre, la administración estadounidense aplicará cambios en los gravámenes comerciales. La medida supone una relajación para ciertos productos, como maquinaria específica, mientras que otros artículos, entre los que se incluyen las alfombras, pasarán a estar sujetos a nuevos aranceles."
+      ],
+      "bullets": [
+        "Entrada en vigor de los cambios el 30 de octubre.",
+        "Reducción de aranceles para maquinaria seleccionada.",
+        "Imposición de nuevas tasas a productos como alfombras.",
+        "Contexto electoral marcado por las elecciones de mitad de mandato."
+      ],
+      "eventKey": "Casa Blanca-modifica aranceles-Canadá",
+      "partial": true,
+      "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-63c76767eb0c95542ecc9e6f": {
+    "fingerprint": "8b5e15d646546dd6e72b943e",
+    "item": {
+      "id": "n-63c76767eb0c95542ecc9e6f",
+      "url": "https://www.eldiario.es/politica/afecta-sistema-electoral-izquierda-alternativa-escanos-grandes-provincias-castigo-pequenas_1_13608875.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-23T20:40:08+00:00",
+      "sourceTitle": "Cómo afecta el sistema electoral a la izquierda alternativa: escaños en las grandes provincias y castigo en las pequeñas",
+      "fingerprint": "8b5e15d646546dd6e72b943e",
+      "title": "El impacto del sistema electoral en la izquierda alternativa",
+      "summary": "El sistema electoral español favorece a la izquierda alternativa en las grandes circunscripciones urbanas, mientras que las barreras efectivas en las provincias pequeñas han impedido su representación parlamentaria durante la última década.",
+      "paragraphs": [
+        "Las formaciones a la izquierda del PSOE han encontrado dificultades para obtener escaños en 13 provincias durante los últimos diez años, coincidiendo con aquellas circunscripciones de menor tamaño poblacional. En estos territorios, el umbral necesario para acceder al reparto de diputados resulta inalcanzable debido a la baja cantidad de escaños en juego.",
+        "Por el contrario, este espacio político ha consolidado su presencia en 18 provincias de mayor densidad urbana, donde el porcentaje de voto requerido es menor. Ante este escenario, el Frente Amplio ha descartado alcanzar un acuerdo global con el PSOE para retirar candidaturas en las provincias donde su representación es más compleja."
+      ],
+      "bullets": [
+        "La izquierda alternativa no ha logrado representación en 13 provincias desde 2015.",
+        "Las provincias con menos de cinco escaños actúan como barreras efectivas para las formaciones minoritarias.",
+        "El espacio confederal mantiene una presencia constante en 18 circunscripciones, principalmente en grandes núcleos urbanos.",
+        "El Frente Amplio rechaza un pacto con el PSOE para retirar listas en circunscripciones pequeñas."
+      ],
+      "eventKey": "izquierda alternativa-sistema electoral-España",
+      "partial": true,
+      "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-ad6b67bc328927b63428b39b": {
+    "fingerprint": "304ff2bf1f7c49df11ad00c3",
+    "item": {
+      "id": "n-ad6b67bc328927b63428b39b",
+      "url": "https://www.theguardian.com/music/2026/oct/24/donal-lunny-colossus-irish-music-dies-aged-79",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-24T08:44:44+00:00",
+      "sourceTitle": "Dónal Lunny, ‘colossus of Irish music’, dies aged 79",
+      "fingerprint": "304ff2bf1f7c49df11ad00c3",
+      "title": "Fallece a los 79 años el músico irlandés Dónal Lunny",
+      "summary": "El influyente músico tradicional irlandés, conocido por su papel en bandas como Planxty y Moving Hearts, ha muerto a causa de un cáncer.",
+      "paragraphs": [
+        "Dónal Lunny, figura fundamental de la música tradicional de Irlanda, ha fallecido a los 79 años. El artista, que padecía cáncer, alcanzó notoriedad inicial con el grupo Rakes of Kildare.",
+        "A lo largo de su trayectoria, Lunny formó parte de formaciones clave como Planxty, The Bothy Band, Moving Hearts y Coolfin, realizando giras internacionales que consolidaron su legado musical."
+      ],
+      "bullets": [
+        "Miembro fundador de Planxty.",
+        "Integró bandas destacadas como Moving Hearts y The Bothy Band.",
+        "Fallecimiento a los 79 años debido a un cáncer."
+      ],
+      "eventKey": "Dónal Lunny fallecimiento Irlanda",
+      "partial": true,
+      "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-57c0a5f2d9657bbd32fd2ee5": {
+    "fingerprint": "0bf9c053ced6a72ef233aaa1",
+    "item": null
+  },
+  "n-7ebe93509d890aa664394874": {
+    "fingerprint": "9bd26fe5acf551a8f323efee",
+    "item": {
+      "id": "n-7ebe93509d890aa664394874",
+      "url": "https://www.xataka.com/seleccion/ahorrate-iva-carrefour-cinco-teles-para-aprovechar-nueva-campana-ofertas-modelo-lg-samsung",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-24T08:16:07+00:00",
+      "sourceTitle": "Ahórrate el IVA en Carrefour: cinco teles para aprovechar la nueva campaña de ofertas con modelo LG, Samsung y más",
+      "fingerprint": "9bd26fe5acf551a8f323efee",
+      "title": "Carrefour lanza su campaña de ahorro del IVA en televisores",
+      "summary": "Carrefour ha activado una promoción que permite obtener el importe del IVA en forma de cupón para futuras compras en una selección de televisores. La oferta estará vigente exclusivamente en su tienda online hasta el próximo 26 de octubre.",
+      "paragraphs": [
+        "La cadena de supermercados ha puesto en marcha una nueva edición de su campaña 'Ahórrate el IVA', aplicable a diversos modelos de televisores de marcas como Samsung, LG, Xiaomi y TCL. El beneficio consiste en la entrega de un cupón canjeable tras realizar la compra, cuyo valor exacto no ha sido especificado por la compañía.",
+        "La promoción, que finaliza el 26 de octubre, se limita a las adquisiciones realizadas a través de la web, aunque permite la opción de solicitar el envío a un establecimiento físico. Entre los modelos destacados se encuentran opciones de gama alta y dispositivos con diversas tecnologías de pantalla."
+      ],
+      "bullets": [
+        "Campaña válida únicamente en la tienda online de Carrefour.",
+        "El ahorro se materializa mediante un cupón para compras futuras.",
+        "La promoción concluye el 26 de octubre.",
+        "Incluye modelos de marcas como Samsung, LG, Xiaomi y TCL."
+      ],
+      "eventKey": "Carrefour-oferta-televisores-España",
+      "partial": true,
+      "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-3a11c9a315424aa3876a7f20": {
+    "fingerprint": "9c49b4b29703c59dc9f96bfc",
+    "item": {
+      "id": "n-3a11c9a315424aa3876a7f20",
+      "url": "https://elpais.com/economia/2026-10-24/cuando-rejuvenecer-las-plantillas-no-es-barato-las-empresas-se-gastan-27000-millones-al-ano-en-reemplazar-a-los-trabajadores-seniors.html",
+      "source": "El País",
+      "section": "economia",
+      "lang": "es",
+      "publishedAt": "2026-10-24T03:45:01+00:00",
+      "sourceTitle": "Cuando rejuvenecer las plantillas no es barato: las empresas se gastan 27.000 millones al año en reemplazar a los trabajadores séniors",
+      "fingerprint": "9c49b4b29703c59dc9f96bfc",
+      "title": "El elevado coste de sustituir a los trabajadores sénior",
+      "summary": "Las compañías destinan anualmente 27.000 millones de euros a renovar sus plantillas mediante el reemplazo de empleados de mayor edad.",
+      "paragraphs": [
+        "El proceso de rejuvenecimiento de las plantillas supone un desembolso económico significativo para el tejido empresarial, que invierte miles de millones en sustituir a los trabajadores con más experiencia.",
+        "Los datos oficiales reflejan una tendencia al alza en la desvinculación de este perfil profesional, con un incremento notable en el número de salidas laborales en los últimos años."
+      ],
+      "bullets": [
+        "Gasto anual de 27.000 millones de euros en reemplazos.",
+        "Aumento del 20% en los despidos de mayores de 45 años entre 2022 y 2024."
+      ],
+      "eventKey": "empresas-reemplazan-trabajadores-senior",
+      "partial": true,
+      "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-119c02e8d712c41ed6641ff0": {
+    "fingerprint": "2af2c1556c5a7bc26ce02f34",
+    "item": {
+      "id": "n-119c02e8d712c41ed6641ff0",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/24/a-course-called-ireland-bill-murray-clearly-hated-making-his-new-golfing-show-but-its-extremely-fun-to-binge",
+      "source": "The Guardian",
+      "section": "cultura",
+      "lang": "en",
+      "publishedAt": "2026-10-24T06:00:25+00:00",
+      "sourceTitle": "A Course Called Ireland: Bill Murray clearly hated making his new golfing show – but it’s extremely fun to binge",
+      "fingerprint": "2af2c1556c5a7bc26ce02f34",
+      "title": "Bill Murray protagoniza un nuevo programa de viajes sobre golf en Irlanda",
+      "summary": "El actor Bill Murray participa en un peculiar programa de viajes junto al autor Tom Coyne, donde recorren campos de golf irlandeses entre situaciones inesperadas.",
+      "paragraphs": [
+        "El nuevo formato televisivo, titulado 'A Course Called Ireland', sigue al actor Bill Murray y al escritor Tom Coyne en un viaje por Irlanda jugando al golf. A pesar de la premisa, el programa se distancia de los típicos espacios de viajes protagonizados por celebridades.",
+        "La producción destaca por mostrar a un Murray aparentemente agotado por la fama, participando en momentos espontáneos y situaciones peculiares, como ser confundido con otros personajes públicos durante el trayecto."
+      ],
+      "bullets": [
+        "El programa combina el golf con experiencias personales y encuentros fortuitos en Irlanda.",
+        "Se cuestiona la naturaleza del formato, que se aleja de los clichés habituales de los programas de viajes con famosos.",
+        "El actor muestra signos de cansancio ante su propia popularidad durante el rodaje."
+      ],
+      "eventKey": "Bill Murray y Tom Coyne recorren Irlanda en un programa de golf",
+      "partial": true,
+      "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-7e558b47677e4533d7a44b19": {
+    "fingerprint": "b95683810c2ee1d3265306d3",
+    "item": {
+      "id": "n-7e558b47677e4533d7a44b19",
+      "url": "https://www.europapress.es/nacional/noticia-pedro-sanchez-acepta-entrevista-youtuber-jordi-wild-si-feijoo-abascal-colau-20261023205019.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-23T18:50:19+00:00",
+      "sourceTitle": "Pedro Sánchez acepta la entrevista del 'youtuber' Jordi Wild tras el sí de Feijóo, Abascal y Colau",
+      "fingerprint": "b95683810c2ee1d3265306d3",
+      "title": "Pedro Sánchez participará en el podcast de Jordi Wild",
+      "summary": "El presidente del Gobierno ha confirmado su asistencia al programa 'The Wild Project' tras la aceptación previa de otros líderes políticos. La entrevista se enmarca en la campaña para las elecciones generales del 29 de noviembre.",
+      "paragraphs": [
+        "Pedro Sánchez ha dado el visto bueno a la invitación del creador de contenido Jordi Wild. Su participación se suma a la de otros dirigentes como Feijóo, Abascal y Colau, quienes también han aceptado pasar por el espacio antes de la cita electoral.",
+        "El encuentro tendrá lugar en el contexto de la carrera hacia las urnas fijadas para finales de noviembre."
+      ],
+      "bullets": [
+        "Sánchez confirma su presencia en 'The Wild Project'.",
+        "La entrevista se produce tras el sí de otros líderes políticos.",
+        "El objetivo es abordar la actualidad ante las elecciones del 29 de noviembre."
+      ],
+      "eventKey": "Pedro Sánchez entrevista Jordi Wild España",
+      "partial": true,
+      "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-cea5bb11177c1ce6e4569975": {
+    "fingerprint": "ac7bda8deda8c40484a6697d",
+    "item": {
+      "id": "n-cea5bb11177c1ce6e4569975",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-24T07:17:44+00:00",
+      "sourceTitle": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+      "fingerprint": "ac7bda8deda8c40484a6697d",
+      "title": "Melania Trump media una tregua en la ciudad ucraniana de Oleshky",
+      "summary": "La Casa Blanca asegura que Melania Trump ha logrado un acuerdo de alto el fuego para la localidad ocupada de Oleshky, una zona que se encontraba al borde de una crisis humanitaria extrema.",
+      "paragraphs": [
+        "La administración estadounidense ha atribuido a Melania Trump la mediación necesaria para establecer una tregua en Oleshky, ciudad bajo control ruso. El acuerdo busca aliviar la situación de los residentes, quienes, según los informes, han llegado a consumir hierbas de sus jardines para subsistir.",
+        "Tanto las autoridades ucranianas como las rusas han confirmado la existencia de este alto el fuego en la zona ocupada, que se describía como un escenario al borde del desastre."
+      ],
+      "bullets": [
+        "Melania Trump interviene como mediadora en el conflicto.",
+        "La tregua afecta a la ciudad ocupada de Oleshky.",
+        "La población local sufría una grave escasez de alimentos."
+      ],
+      "eventKey": "Melania Trump media tregua Oleshky",
+      "partial": true,
+      "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-7beb0b6ead3f11cd78fa8b46": {
+    "fingerprint": "ebec4ba265a9bb1cb26b3452",
+    "item": {
+      "id": "n-7beb0b6ead3f11cd78fa8b46",
+      "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
+      "source": "Ars Technica",
+      "section": "tecnologia",
+      "lang": "en",
+      "publishedAt": "2026-10-23T20:28:43+00:00",
+      "sourceTitle": "Hegseth warns prediction market bets warp military judgment, endanger troops",
+      "fingerprint": "ebec4ba265a9bb1cb26b3452",
+      "title": "El Pentágono advierte que las apuestas sobre operaciones militares ponen en riesgo a las tropas",
+      "summary": "Un memorando interno del Pentágono alerta de que el uso de mercados de predicción podría comprometer la seguridad de los militares al filtrar información sensible a adversarios.",
+      "paragraphs": [
+        "El secretario de Defensa, Pete Hegseth, ha advertido sobre los peligros que suponen los mercados de predicción para el juicio militar. Según el documento, estas plataformas podrían estar facilitando el acceso a información privilegiada por parte de enemigos de Estados Unidos.",
+        "La preocupación principal radica en que las apuestas sobre movimientos tácticos revelen detalles operativos críticos, poniendo en peligro directo la integridad de los soldados desplegados."
+      ],
+      "bullets": [
+        "El Pentágono señala que el uso de información privilegiada en apuestas es una amenaza para la seguridad.",
+        "Hegseth sostiene que estas prácticas distorsionan la toma de decisiones militares.",
+        "Existe el temor de que los adversarios obtengan inteligencia clave a través de estas plataformas."
+      ],
+      "eventKey": "Pete Hegseth advierte sobre riesgos de mercados de predicción en el Pentágono",
+      "partial": true,
+      "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
