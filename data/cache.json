@@ -10494,5 +10494,34 @@
       "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-3fbc2a8e455f0289355d0a2d": {
+    "fingerprint": "b890b65035616de17c45f473",
+    "item": {
+      "id": "n-3fbc2a8e455f0289355d0a2d",
+      "url": "https://www.eldiario.es/politica/sanchez-reivindica-espana-lorca-frente-tijeras-feijoo-motosierra-abascal_1_13611964.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-24T11:22:41+00:00",
+      "sourceTitle": "Sánchez reivindica \"la España de Lorca\" frente a \"las tijeras\" de Feijóo y \"la motosierra\" de Abascal",
+      "fingerprint": "b890b65035616de17c45f473",
+      "title": "Sánchez contrapone su modelo al de Feijóo y Abascal desde Granada",
+      "summary": "Pedro Sánchez ha reivindicado la figura de Federico García Lorca como símbolo de su proyecto político frente a lo que califica como una involución impulsada por el PP y Vox. El presidente ha prometido blindar el aborto en la Constitución si revalida su mandato.",
+      "paragraphs": [
+        "Durante un mitin en Granada, el presidente del Gobierno ha defendido una España diversa y humanista, utilizando la figura del poeta granadino como eje de su discurso. Sánchez ha criticado duramente la gestión de las formaciones de derecha, a las que ha acusado de aplicar recortes y censura cultural en las regiones donde gobiernan.",
+        "El líder socialista ha calificado las propuestas de Alberto Núñez Feijóo y Santiago Abascal como una amenaza de involución. Asimismo, ha anunciado que, en la próxima legislatura, su Ejecutivo reformará la Carta Magna para blindar el derecho al aborto y el derecho a una muerte digna."
+      ],
+      "bullets": [
+        "Sánchez vincula a Feijóo y Abascal con un modelo de recortes y censura.",
+        "El presidente promete blindar el aborto en la Constitución.",
+        "Críticas a la gestión cultural de PP y Vox en Castilla y León.",
+        "Reivindicación de la España diversa frente a la derecha."
+      ],
+      "eventKey": "Pedro Sánchez reivindica su modelo político en Granada",
+      "partial": true,
+      "summarizedAt": "2026-10-24T11:34:37.844032+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
