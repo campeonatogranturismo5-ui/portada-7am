@@ -1,0 +1,689 @@
+{
+  "date": "2026-10-25",
+  "updatedAt": "2026-10-25T12:08:16.203413+01:00",
+  "timezone": "Europe/Madrid",
+  "sections": {
+    "euskadi": [
+      {
+        "id": "n-c57de3034c756f4a6120f1b0",
+        "url": "https://www.durangon.com/una-charla-en-durango-abordara-como-detectar-las-primeras-senales-de-perdida-de-autonomia/",
+        "source": "Durangon",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-10-25T07:09:56+00:00",
+        "sourceTitle": "Una charla en Durango abordará cómo detectar las primeras señales de pérdida de autonomía",
+        "fingerprint": "571a7f30f1e93f249eb8b299",
+        "title": "Charla en Durango sobre la detección de la pérdida de autonomía",
+        "summary": "La asociación Bizidun ha programado una sesión informativa gratuita en Durango para aprender a identificar los síntomas iniciales de dependencia física.",
+        "paragraphs": [
+          "La fisioterapeuta Ismene Arrinda será la encargada de impartir esta charla, que tendrá lugar el próximo 27 de octubre en las instalaciones de Landako Elkartegia."
+        ],
+        "bullets": [
+          "Organizada por Bizidun.",
+          "Ponente: Ismene Arrinda.",
+          "Fecha: 27 de octubre.",
+          "Lugar: Landako Elkartegia."
+        ],
+        "eventKey": "Bizidun-organiza-charla-Durango",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-2c921a681e25d280169606f0",
+        "url": "https://www.europapress.es/euskadi/noticia-ertzaintza-adquiere-nuevo-material-efectuar-rescates-menroes-nueva-bolsa-camilla-20261025113247.html",
+        "source": "Europa Press Euskadi",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-10-25T10:32:47+00:00",
+        "sourceTitle": "La Ertzaintza adquiere nuevo material para efectuar rescates de menroes como una nueva bolsa-camilla",
+        "fingerprint": "00cfd12b0539b29d4c7cf9ca",
+        "title": "La Ertzaintza incorpora equipamiento específico para el rescate de menores",
+        "summary": "La Unidad de Vigilancia y Rescate de la policía vasca ha sumado a su dotación un nuevo dispositivo de evacuación adaptado para niños. Este material está destinado a facilitar las operaciones en entornos montañosos o de complicado acceso.",
+        "paragraphs": [
+          "La Ertzaintza ha adquirido un nuevo sistema denominado \"Baby Rescue\", consistente en una bolsa-camilla diseñada para el traslado seguro de los menores durante las intervenciones de emergencia.",
+          "El objetivo de esta incorporación es mejorar la capacidad operativa de los agentes al enfrentarse a rescates en zonas de difícil acceso o terrenos de montaña."
+        ],
+        "bullets": [
+          "Adquisición de la bolsa-camilla Baby Rescue.",
+          "Orientado a rescates en montaña y lugares complejos.",
+          "Diseñado específicamente para la evacuación de menores."
+        ],
+        "eventKey": "Ertzaintza-adquiere-material-rescate-menores-Euskadi",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-bc449707d363b5050848f5c7",
+        "url": "https://www.durangon.com/la-umeen-euskal-jaia-reunira-a-200-jovenes-dantzaris-en-durango/",
+        "source": "Durangon",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-10-23T12:06:56+00:00",
+        "sourceTitle": "La Umeen Euskal Jaia reunirá a 200 jóvenes dantzaris en Durango",
+        "fingerprint": "dc8bb6fb1d908c142ef04911",
+        "title": "Durango acoge la Umeen Euskal Jaia con 200 dantzaris",
+        "summary": "La localidad vizcaína celebrará este domingo una nueva edición de la fiesta infantil de danza vasca, que contará con la participación de nueve grupos.",
+        "paragraphs": [
+          "El evento reunirá a cerca de 200 jóvenes bailarines en una jornada dedicada al folclore tradicional. La programación incluye un pasacalle matinal y una exhibición principal en la plaza de Ezkurdi."
+        ],
+        "bullets": [
+          "Participación de nueve grupos de danza.",
+          "Kalejira programada para las 11:00 horas.",
+          "Alarde de danzas a las 13:00 horas en Ezkurdi."
+        ],
+        "eventKey": "jóvenes dantzaris celebran Umeen Euskal Jaia en Durango",
+        "partial": true,
+        "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-3365012553aa6eb8386cfecf",
+        "url": "https://www.europapress.es/euskadi/noticia-eh-bildu-pide-avanzar-nuevo-estatus-politico-estatuto-incumplido-estrategicamente-lastrado-20261025093408.html",
+        "source": "Europa Press Euskadi",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-10-25T08:34:08+00:00",
+        "sourceTitle": "EH Bildu pide avanzar hacia un nuevo estatus político ante un Estatuto \"incumplido y estratégicamente lastrado\"",
+        "fingerprint": "7dd446d4bfafe4391ed5b786",
+        "title": "EH Bildu reclama un nuevo estatus político para Euskadi",
+        "summary": "Pello Otxandiano ha instado a superar el actual Estatuto de Gernika, al que considera un marco agotado, para avanzar hacia una mayor soberanía política.",
+        "paragraphs": [
+          "El portavoz de EH Bildu en el Parlamento vasco, Pello Otxandiano, ha calificado el Estatuto de Gernika como un texto incumplido y lastrado estratégicamente. Por ello, ha solicitado la apertura de un proceso para definir un nuevo estatus político que dote a Euskadi de mayores competencias.",
+          "Según la formación, este nuevo marco debería permitir a la sociedad vasca gestionar aspectos clave como el salario mínimo interprofesional o las pensiones mínimas, además de garantizar la capacidad de decidir sobre su propio futuro."
+        ],
+        "bullets": [
+          "Crítica al Estatuto de Gernika por su falta de cumplimiento.",
+          "Propuesta de nuevas competencias en materia laboral y de pensiones.",
+          "Reivindicación del derecho a decidir sobre el futuro político vasco."
+        ],
+        "eventKey": "Pello Otxandiano-pide-nuevo-estatus-político-Euskadi",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-b35c63897ad4dd152821bc88",
+        "url": "https://www.europapress.es/euskadi/noticia-ultimo-lunes-octubre-reunira-251-puestos-gernika-lumo-productos-vascos-concursos-cesta-punta-20261025090820.html",
+        "source": "Europa Press Euskadi",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-10-25T08:08:20+00:00",
+        "sourceTitle": "El Último Lunes de Octubre reunirá 251 puestos en Gernika-Lumo con productos vascos, concursos y cesta punta",
+        "fingerprint": "15d8109bb2422912dd24c543",
+        "title": "Gernika-Lumo celebra el Último Lunes de Octubre con 251 puestos",
+        "summary": "La tradicional feria de Gernika-Lumo contará con más de doscientos puestos dedicados a la gastronomía y artesanía local, acompañados de actividades deportivas.",
+        "paragraphs": [
+          "La localidad vizcaína de Gernika-Lumo acogerá la edición del Último Lunes de Octubre, que reunirá a 251 expositores. La oferta se centrará en productos agroalimentarios, maquinaria agrícola y artesanía.",
+          "El evento incluirá concursos y exhibiciones de cesta punta, destacando la presencia de productos típicos como el queso, el pan, el pastel vasco y el txakoli."
+        ],
+        "bullets": [
+          "Participación de 251 puestos de venta.",
+          "Presencia de productos agroalimentarios y artesanía.",
+          "Programación de concursos y partidos de cesta punta."
+        ],
+        "eventKey": "Gernika-Lumo celebra feria Último Lunes de Octubre",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "espana": [
+      {
+        "id": "n-0c484435a735af3e4db70fd9",
+        "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13613071.html",
+        "source": "elDiario.es",
+        "section": "espana",
+        "lang": "es",
+        "publishedAt": "2026-10-25T08:26:18+00:00",
+        "sourceTitle": "Última hora sobre la actualidad política, en directo",
+        "fingerprint": "27f1b9fa34f314be8c9c360e",
+        "title": "Campaña electoral y disturbios en Barcelona",
+        "summary": "A cinco semanas de las elecciones del 29N, los partidos intensifican sus actos de campaña mientras Barcelona registra graves incidentes tras una protesta juvenil.",
+        "paragraphs": [
+          "Los principales partidos políticos han desplegado su maquinaria electoral por todo el territorio nacional. Alberto Núñez Feijóo encabeza un acto en Salamanca con los cabezas de lista del PP, mientras que Frente Amplio celebra un mitin en Móstoles con la presencia de Ada Colau, Emilio Delgado y Toni Valero.",
+          "Paralelamente, la actualidad está marcada por los altercados y saqueos ocurridos en Barcelona durante una manifestación juvenil. Los Mossos d'Esquadra investigan la posible organización de estos disturbios a través de redes sociales y han confirmado la detención de 128 personas, de las cuales 72 son menores de edad."
+        ],
+        "bullets": [
+          "El PP celebra un acto en Salamanca con sus candidatos al Congreso.",
+          "Frente Amplio organiza un mitin en Móstoles con Ada Colau.",
+          "128 detenidos en Barcelona tras una protesta contra el sistema.",
+          "La policía investiga el papel de TikTok en la organización de los altercados."
+        ],
+        "eventKey": "partidos políticos y manifestantes en campaña y disturbios en España",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-9e58104aaf77380c9711548c",
+        "url": "https://www.eldiario.es/politica/rey-felipe-vi-somete-operacion-cataratas-oviedo_1_13613044.html",
+        "source": "elDiario.es",
+        "section": "espana",
+        "lang": "es",
+        "publishedAt": "2026-10-25T07:44:27+00:00",
+        "sourceTitle": "El rey Felipe VI recibe el alta tras someterse a una operación de cataratas en Oviedo",
+        "fingerprint": "d7323dda40cb3555ffd4799d",
+        "title": "El rey Felipe VI recibe el alta tras una operación de cataratas en Oviedo",
+        "summary": "El monarca ha abandonado el Instituto Oftalmológico Fernández-Vega tras una intervención rutinaria en su ojo izquierdo. Se espera que pueda retomar su agenda oficial esta misma semana.",
+        "paragraphs": [
+          "Felipe VI ha recibido el alta médica este domingo después de someterse a una operación de cataratas en Oviedo. La intervención, calificada como rutinaria y sin incidencias, se realizó la noche del sábado tras finalizar sus compromisos en el Principado de Asturias.",
+          "El oftalmólogo Luis Fernández-Vega ha confirmado que la cirugía fue exitosa y que el proceso de recuperación será rápido. El rey deberá seguir un tratamiento sencillo con gotas y evitar esfuerzos físicos, aunque el especialista asegura que no existen impedimentos para que continúe con sus actividades oficiales."
+        ],
+        "bullets": [
+          "La operación se llevó a cabo en el Instituto Oftalmológico Fernández-Vega.",
+          "El monarca podrá mantener su agenda oficial durante la semana.",
+          "El posoperatorio requiere el uso de gafas de sol y la aplicación de gotas oculares."
+        ],
+        "eventKey": "Felipe VI-operación cataratas-Oviedo",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-f60d1f008801d0e5577d26bb",
+        "url": "https://www.europapress.es/nacional/noticia-sanchez-gobierno-pp-vox-no-alternancia-retroceder-50-anos-20261025102254.html",
+        "source": "Europa Press",
+        "section": "espana",
+        "lang": "es",
+        "publishedAt": "2026-10-25T09:22:54+00:00",
+        "sourceTitle": "Sánchez: \"Un Gobierno del PP con Vox no es alternancia, es retroceder 50 años\"",
+        "fingerprint": "b3c2880b4146f3c798e5a521",
+        "title": "Sánchez califica de retroceso una posible coalición entre PP y Vox",
+        "summary": "El presidente del Gobierno ha advertido que una alianza entre el Partido Popular y Vox supondría un retroceso de medio siglo para el país. Asimismo, ha reconocido errores en la gestión del caso Ábalos y ha confirmado una futura subida del salario mínimo.",
+        "paragraphs": [
+          "Pedro Sánchez ha rechazado la idea de que un Ejecutivo formado por el PP y Vox represente una alternancia política normalizada, calificándolo en su lugar como un retroceso de cincuenta años.",
+          "En el ámbito interno, el presidente ha admitido que no detectar la corrupción vinculada a Ábalos constituye su principal error político. Por otro lado, ha garantizado que el Salario Mínimo Interprofesional experimentará un incremento en el corto plazo."
+        ],
+        "bullets": [
+          "Crítica a la posible coalición de derechas.",
+          "Autocrítica sobre el caso Ábalos.",
+          "Anuncio de subida del SMI."
+        ],
+        "eventKey": "Pedro Sánchez valora coalición PP-Vox y gestión interna",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "internacional": [
+      {
+        "id": "n-ee273e8d6d2effa2e3171640",
+        "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "section": "internacional",
+        "lang": "en",
+        "publishedAt": "2026-10-25T11:00:26+00:00",
+        "sourceTitle": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+        "fingerprint": "27f32cfa38c986d306aa96b4",
+        "title": "Elecciones en Brasil: Lula se enfrenta al hijo de Bolsonaro",
+        "summary": "Los ciudadanos brasileños acuden a las urnas en una jornada electoral donde el actual presidente, Lula da Silva, busca su cuarto mandato frente a la candidatura de Flávio Bolsonaro.",
+        "paragraphs": [
+          "Brasil celebra una nueva cita electoral en la que el presidente Luiz Inácio Lula da Silva aspira a revalidar su cargo. Su principal oponente en esta contienda es Flávio Bolsonaro, hijo del expresidente encarcelado Jair Bolsonaro."
+        ],
+        "bullets": [
+          "Lula da Silva busca un cuarto mandato presidencial.",
+          "Flávio Bolsonaro desafía al actual mandatario en las urnas."
+        ],
+        "eventKey": "Lula y Flávio Bolsonaro elecciones Brasil",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-b48029ef08eec337629c9bfb",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation",
+        "source": "The Guardian",
+        "section": "internacional",
+        "lang": "en",
+        "publishedAt": "2026-10-25T09:33:05+00:00",
+        "sourceTitle": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister",
+        "fingerprint": "69383953d3e193903bcf011e",
+        "title": "Investigan a Thomas Markle Sr. por presunta posesión de material de abuso infantil en Filipinas",
+        "summary": "El ministro del Interior filipino ha señalado que los indicios apuntan a que el padre de la duquesa de Sussex podría ser un delincuente sexual, mientras las autoridades analizan imágenes halladas en su antigua residencia.",
+        "paragraphs": [
+          "Las autoridades de Filipinas han iniciado una investigación forense tras el hallazgo de material digital comprometido en una vivienda vinculada a Thomas Markle Sr. en Cebú. El ministro del Interior ha calificado la situación de grave, aunque ha precisado que se requiere un análisis exhaustivo para obtener una conclusión definitiva.",
+          "La denuncia fue interpuesta por Thomas Markle Jr., quien asegura haber encontrado las imágenes la semana pasada. Por su parte, el padre de Meghan Markle ha negado categóricamente poseer cualquier tipo de contenido relacionado con el abuso sexual infantil."
+        ],
+        "bullets": [
+          "El ministro del Interior filipino califica a Markle Sr. como un posible delincuente sexual de extrema gravedad.",
+          "La investigación se centra en el análisis forense de imágenes digitales encontradas en su antigua casa.",
+          "Thomas Markle Sr. rechaza las acusaciones sobre la posesión de dicho material.",
+          "La denuncia fue presentada por su hijo, Thomas Markle Jr."
+        ],
+        "eventKey": "Thomas Markle Sr investigado por posesión de material ilícito en Filipinas",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-32bd2b6300f9cd74f3011f57",
+        "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "section": "internacional",
+        "lang": "en",
+        "publishedAt": "2026-10-25T10:55:33+00:00",
+        "sourceTitle": "El Salvador president says bodies found in Haiti are not those of hostages",
+        "fingerprint": "c902f67dcb0bd2dc2742c109",
+        "title": "Bukele niega que los cuerpos hallados en Haití sean los de los salvadoreños secuestrados",
+        "summary": "El presidente de El Salvador ha descartado que los restos mortales entregados a sus militares en Haití pertenezcan a los ciudadanos secuestrados la semana pasada.",
+        "paragraphs": [
+          "Nayib Bukele ha confirmado que los cuerpos recibidos por las fuerzas salvadoreñas en territorio haitiano no corresponden a los hombres que están siendo buscados tras su reciente rapto.",
+          "La operación de búsqueda continúa activa mientras las autoridades salvadoreñas intentan esclarecer el paradero de sus nacionales en medio de la incertidumbre sobre su estado."
+        ],
+        "bullets": [
+          "El presidente salvadoreño desmiente la identidad de los cadáveres.",
+          "Continúa la búsqueda de los ciudadanos secuestrados la semana pasada."
+        ],
+        "eventKey": "Nayib Bukele niega identidad cuerpos Haití",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-431f5566a31b29b49c93579a",
+        "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "section": "internacional",
+        "lang": "en",
+        "publishedAt": "2026-10-25T10:38:15+00:00",
+        "sourceTitle": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+        "fingerprint": "2600c0faaf474b351490bd8f",
+        "title": "Detenciones masivas tras una nueva jornada de protestas en Francia",
+        "summary": "Las autoridades francesas han practicado más de 1.300 detenciones tras una nueva oleada de manifestaciones multitudinarias que también se han extendido a otros países europeos.",
+        "paragraphs": [
+          "Cientos de miles de personas han salido a las calles en Francia para participar en las protestas, que han derivado en enfrentamientos. La movilización ha tenido un alcance internacional, replicándose las concentraciones en diversas naciones de Europa."
+        ],
+        "bullets": [
+          "Más de 1.300 personas han sido arrestadas en el marco de las protestas.",
+          "Las manifestaciones han contado con la participación de cientos de miles de ciudadanos.",
+          "Las movilizaciones se han extendido más allá de las fronteras francesas hacia otros países europeos."
+        ],
+        "eventKey": "manifestantes-protestan-francia",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "ciencia": [
+      {
+        "id": "n-09d4b89b345a39b88c5e0157",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+        "source": "NASA",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-10-25T08:19:48+00:00",
+        "sourceTitle": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+        "fingerprint": "8fe67881c17b9e24afd3f9ea",
+        "title": "La materia oscura en una simulación del universo",
+        "summary": "La NASA ha publicado una imagen astronómica del día que ilustra la distribución de la materia oscura mediante una simulación computacional del cosmos.",
+        "paragraphs": [
+          "La sección de Astronomía de la NASA ha compartido una representación visual que explora cómo se estructura la materia oscura en el universo. Esta imagen forma parte de su iniciativa diaria de divulgación científica, acompañada por la explicación de un astrónomo profesional."
+        ],
+        "bullets": [
+          "Publicación de una simulación sobre materia oscura.",
+          "Iniciativa de divulgación astronómica de la NASA."
+        ],
+        "eventKey": "NASA-publica-simulacion-materia-oscura",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-3cb80aed2ef41681c11689d4",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
+        "source": "ScienceDaily",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-10-24T13:15:00+00:00",
+        "sourceTitle": "Could lowering high blood pressure be as simple as stimulating your ear?",
+        "fingerprint": "6ea4fdf5cc70853371b55a9d",
+        "title": "Un dispositivo auricular para tratar la hipertensión resistente",
+        "summary": "Un ensayo clínico ha evaluado un aparato que estimula los nervios del oído como posible método complementario para reducir la presión arterial elevada.",
+        "paragraphs": [
+          "El estudio, realizado con 63 pacientes que ya seguían un tratamiento farmacológico, ha analizado la seguridad y facilidad de uso de este dispositivo doméstico.",
+          "Aunque los resultados globales no mostraron una superioridad significativa frente al placebo, los investigadores han observado una reducción prometedora de la presión arterial en los casos de hipertensión más grave."
+        ],
+        "bullets": [
+          "El tratamiento se basa en la estimulación nerviosa a través del oído.",
+          "Los participantes del ensayo ya estaban bajo medicación previa.",
+          "El dispositivo resultó ser seguro y bien tolerado por los usuarios.",
+          "Se detectaron mejoras específicas en pacientes con cuadros hipertensivos severos."
+        ],
+        "eventKey": "pacientes-ensayo-dispositivo-estimulacion-oido",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-7ed1d07eadcb4b2aa7d57cc9",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
+        "source": "ScienceDaily",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-10-24T13:01:22+00:00",
+        "sourceTitle": "A hidden bias in human language challenges 70 years of science",
+        "fingerprint": "aa28488a519d1fac5cc61a5a",
+        "title": "Un sesgo oculto en el lenguaje humano cuestiona décadas de investigación",
+        "summary": "Un reciente estudio científico pone en duda las teorías lingüísticas establecidas durante los últimos 70 años al revelar una estructura semántica basada en la supervivencia.",
+        "paragraphs": [
+          "Una investigación basada en el análisis de miles de millones de usos lingüísticos sugiere que el significado de las palabras no depende exclusivamente de las emociones. Los resultados indican que el lenguaje está organizado principalmente en torno a conceptos de poder, peligro y orden.",
+          "El estudio destaca una preferencia latente por la seguridad en el habla humana, lo que podría ser un reflejo de instintos de supervivencia ancestrales que han condicionado nuestra forma de comunicarnos."
+        ],
+        "bullets": [
+          "Cuestionamiento de 70 años de asunciones sobre el funcionamiento del lenguaje.",
+          "El significado se articula sobre el poder, el peligro y el orden.",
+          "Evidencia de una preferencia oculta por la seguridad en el lenguaje.",
+          "Posible influencia de instintos de supervivencia antiguos."
+        ],
+        "eventKey": "científicos-cuestionan-teorías-lenguaje",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-8360b681ee239812a57244cb",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
+        "source": "NASA",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-10-24T04:05:00+00:00",
+        "sourceTitle": "APOD: 2026 October 24 – Rosetta’s Selfie",
+        "fingerprint": "f278e0529faf8036f650ff4f",
+        "title": "La imagen del día de la NASA destaca un autorretrato de la sonda Rosetta",
+        "summary": "La sección de astronomía de la NASA ha seleccionado como imagen destacada un autorretrato capturado por la sonda espacial Rosetta.",
+        "paragraphs": [
+          "La plataforma Astronomy Picture of the Day ha publicado una nueva instantánea que muestra a la sonda Rosetta en el espacio. Esta iniciativa de la agencia espacial busca divulgar el conocimiento astronómico mediante fotografías comentadas por expertos."
+        ],
+        "bullets": [
+          "La imagen forma parte de la serie diaria de divulgación científica de la NASA.",
+          "El contenido incluye una explicación técnica redactada por un astrónomo profesional."
+        ],
+        "eventKey": "NASA-publica-imagen-Rosetta",
+        "partial": true,
+        "summarizedAt": "2026-10-24T09:22:46.399646+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-e57267176fcd62cf253bf365",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
+        "source": "ScienceDaily",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-10-24T12:50:06+00:00",
+        "sourceTitle": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
+        "fingerprint": "14aa57cd6cffc0a6e1d15670",
+        "title": "El análisis de las muestras del asteroide Bennu cuestiona el origen del Sistema Solar",
+        "summary": "El estudio de fragmentos del asteroide Bennu sugiere que su formación fue más compleja de lo previsto, involucrando una mezcla de materiales de distintas zonas del Sistema Solar y la influencia de Júpiter.",
+        "paragraphs": [
+          "Investigadores de la NASA han analizado muestras del asteroide Bennu, hallazgos que obligan a revisar las teorías actuales sobre la formación de nuestro sistema planetario.",
+          "Los datos indican que este cuerpo celeste se originó en un punto donde convergieron materiales del interior y exterior del sistema, destacando un papel inesperado de Júpiter en este proceso."
+        ],
+        "bullets": [
+          "Las muestras tienen una antigüedad de 4.500 millones de años.",
+          "Se ha identificado una mezcla de materiales de diversas regiones del Sistema Solar.",
+          "Júpiter habría desempeñado una función clave en la configuración del asteroide."
+        ],
+        "eventKey": "NASA-analiza-muestras-Bennu",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "tecnologia": [
+      {
+        "id": "n-0b6e74805b9c427762d0e6e4",
+        "url": "https://www.xataka.com/seguridad/empresa-biometrica-sam-altman-hace-su-primer-gran-movimiento-verificacion-universal-orientada-a-grandes-bancos",
+        "source": "Xataka",
+        "section": "tecnologia",
+        "lang": "es",
+        "publishedAt": "2026-10-25T11:00:13+00:00",
+        "sourceTitle": "La empresa biométrica de Sam Altman hace su primer gran movimiento: una verificación universal orientada a grandes bancos",
+        "fingerprint": "70dce11d9562150f88be902d",
+        "title": "World, la empresa de Sam Altman, busca integrar su verificación biométrica en el sector bancario",
+        "summary": "La compañía de biometría World ha presentado una solución de identidad diseñada específicamente para entidades financieras con el fin de combatir el fraude mediante IA. El sistema busca garantizar la autenticidad de los usuarios en videollamadas y transacciones digitales.",
+        "paragraphs": [
+          "World, cofundada por Sam Altman, ha lanzado un paquete de herramientas de identidad orientado a la banca. Este protocolo integra tres productos previos: una cartera de identidad, un sistema de verificación para videollamadas contra deepfakes y una solución para agentes de inteligencia artificial.",
+          "La empresa ya está explorando colaboraciones con grandes entidades financieras, planteando incluso la instalación de sus escáneres de iris, conocidos como Orbs, en las oficinas de sus socios. El objetivo es mitigar el creciente riesgo de fraude financiero, que se prevé aumente significativamente en los próximos años debido a la sofisticación de las herramientas de IA."
+        ],
+        "bullets": [
+          "El sistema permite confirmar que el interlocutor en una videollamada es una persona real.",
+          "World ID for Agents permite que una IA realice pruebas de identidad en nombre del usuario.",
+          "La compañía busca posicionarse como una solución ante el aumento de pérdidas por fraude financiero.",
+          "Más de 18 millones de personas cuentan ya con el certificado de humanidad de la empresa."
+        ],
+        "eventKey": "World y Sam Altman lanzan verificación biométrica para bancos",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-28a3ac1f48449efd79c12c50",
+        "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+        "source": "Ars Technica",
+        "section": "tecnologia",
+        "lang": "en",
+        "publishedAt": "2026-10-24T11:50:28+00:00",
+        "sourceTitle": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+        "fingerprint": "4d15169d1bf7126f57593069",
+        "title": "Una nube marciana de 1.600 kilómetros podría desvelar fenómenos físicos inéditos",
+        "summary": "Un modelo científico reciente apunta a que Marte podría albergar procesos de formación de hielo que nunca se han observado directamente en la naturaleza.",
+        "paragraphs": [
+          "La investigación sugiere la existencia de dinámicas atmosféricas singulares en el planeta rojo. Estas formaciones nubosas de gran extensión podrían ser la clave para comprender comportamientos físicos hasta ahora desconocidos."
+        ],
+        "bullets": [
+          "Detección de una nube de 1.000 millas de longitud.",
+          "Posible presencia de física de formación de hielo no observada previamente."
+        ],
+        "eventKey": "nube en Marte revela física desconocida",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-0da1fae7870426f243d25565",
+        "url": "https://www.xataka.com/privacidad/dinamarca-tiene-plan-deepfakes-blindar-voz-rostro-sus-ciudadanos-ia",
+        "source": "Xataka",
+        "section": "tecnologia",
+        "lang": "es",
+        "publishedAt": "2026-10-25T10:30:00+00:00",
+        "sourceTitle": "Dinamarca tiene un plan contra los deepfakes: blindar la voz y el rostro de su ciudadanía contra la IA",
+        "fingerprint": "cf0cc0676809ed64c5187796",
+        "title": "Dinamarca propone una ley para prohibir la difusión de deepfakes sin consentimiento",
+        "summary": "El Gobierno danés ha presentado un proyecto de ley para ilegalizar la distribución de imitaciones digitales realistas de voz e imagen sin permiso. La medida busca reformar la propiedad intelectual para proteger a toda la ciudadanía, con el objetivo de que entre en vigor a principios de 2027.",
+        "paragraphs": [
+          "El proyecto legislativo pretende otorgar a los ciudadanos el derecho a impedir la circulación de contenidos generados por inteligencia artificial que suplanten su identidad. La ministra de Cultura, Zenia Stampe, ha señalado que la normativa se centrará en la difusión de estas imitaciones para facilitar que las grandes plataformas tecnológicas retiren el material manipulado con mayor celeridad.",
+          "La propuesta contempla dos niveles de protección, uno general para la población y otro específico para artistas, aunque incluirá excepciones para la sátira, la parodia y la crítica social. Esta iniciativa se suma a otras medidas europeas, como la obligación de etiquetar contenidos artificiales, aunque su eficacia dependerá de la capacidad real de detección y retirada de los archivos."
+        ],
+        "bullets": [
+          "La reforma legal se encuentra actualmente en fase de tramitación.",
+          "Se prevé que la ley sea efectiva a partir de principios de 2027.",
+          "La normativa no regula la creación de deepfakes, sino su distribución pública.",
+          "Se establecen excepciones para proteger el derecho a la caricatura y la crítica."
+        ],
+        "eventKey": "Gobierno de Dinamarca propone ley contra difusión de deepfakes",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-bc0ee4ef9353aebda5552926",
+        "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+        "source": "Ars Technica",
+        "section": "tecnologia",
+        "lang": "en",
+        "publishedAt": "2026-10-24T11:00:09+00:00",
+        "sourceTitle": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+        "fingerprint": "0a0f39e35977c8f6dbbe1ab6",
+        "title": "La expansión de la capa de hielo Laurentide pudo iniciarse hace dos milenios",
+        "summary": "Un estudio sugiere que los restos de la capa de hielo Laurentide comenzaron a crecer hace 2.000 años, un proceso que habría sido interrumpido por la actividad humana.",
+        "paragraphs": [
+          "Investigaciones recientes indican que la capa de hielo Laurentide, cuyos vestigios se consideraban en retroceso, inició una fase de expansión hace dos milenios.",
+          "El análisis sugiere que este fenómeno natural de crecimiento fue frenado posteriormente, posiblemente debido a la intervención humana en el clima."
+        ],
+        "bullets": [
+          "La capa de hielo Laurentide mostró signos de crecimiento hace 2.000 años.",
+          "La actividad humana habría cancelado este proceso de expansión natural."
+        ],
+        "eventKey": "capa de hielo Laurentide expansión interrumpida",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-c74f4201a071f4b46024d4ec",
+        "url": "https://www.xataka.com/empresas-y-economia/zelenza-tiene-2-000-empleados-servicios-tic-barco-nadie-a-bordo-su-futuro-depende-segundo",
+        "source": "Xataka",
+        "section": "tecnologia",
+        "lang": "es",
+        "publishedAt": "2026-10-25T10:00:07+00:00",
+        "sourceTitle": "Zelenza tiene 2.000 empleados en servicios TIC y un barco sin nadie a bordo. Su futuro depende de lo segundo",
+        "fingerprint": "06403e52c20a9b1c79af598a",
+        "title": "Zelenza: la dualidad entre servicios TIC y drones militares",
+        "summary": "La compañía Zelenza combina una gran plantilla dedicada a servicios tecnológicos con una incipiente división de defensa centrada en vehículos no tripulados. Su futuro depende de la consolidación de esta apuesta tecnológica, que actualmente representa una pequeña parte de sus ingresos.",
+        "paragraphs": [
+          "Zelenza opera bajo un modelo de negocio dividido. Por un lado, mantiene su actividad tradicional en servicios TIC, que emplea a la mayoría de sus 2.500 trabajadores y genera la mayor parte de sus ingresos. Por otro, desarrolla una línea de defensa y seguridad centrada en drones, como el SEAD 23, el primer vehículo de superficie no tripulado de la Armada española.",
+          "El CEO de la compañía, Pedro Alfaro, reconoce que la división de defensa es todavía una promesa más que un negocio consolidado, aportando una sexta parte de los 120 millones de euros ingresados en 2025. La estrategia del grupo consiste en adquirir participaciones mayoritarias en empresas especializadas, permitiendo a los fundadores mantener el control del I+D mientras el grupo aporta capacidad industrial y comercial."
+        ],
+        "bullets": [
+          "La empresa gestiona una red de filiales especializadas en software de mando, enjambres, plataformas navales y simulación.",
+          "El modelo de Zelenza busca evitar la pérdida de tecnología propia mediante la retención de los fundadores originales en las empresas adquiridas.",
+          "La facturación del área de defensa proviene mayoritariamente de proyectos de I+D y prototipos, sin contratos recurrentes significativos hasta la fecha."
+        ],
+        "eventKey": "Zelenza-desarrolla-drones-defensa-España",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "economia": [
+      {
+        "id": "n-859e9cf18ee4c2046a9ff553",
+        "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "section": "economia",
+        "lang": "en",
+        "publishedAt": "2026-10-25T10:03:17+00:00",
+        "sourceTitle": "Budget to include £1bn for social and affordable housing",
+        "fingerprint": "64bd21b39a19f63964751ea7",
+        "title": "El presupuesto incluirá 1.000 millones de libras para vivienda social",
+        "summary": "El Gobierno británico destinará una partida adicional de 1.000 millones de libras a la construcción de viviendas sociales y asequibles. Esta medida elevará la inversión total del programa decenal por encima de los 40.000 millones de libras.",
+        "paragraphs": [
+          "El Ejecutivo ha anunciado una nueva inyección económica destinada a impulsar el parque de vivienda social y asequible en el Reino Unido. Esta asignación se integrará dentro de los presupuestos generales.",
+          "Con esta aportación, el programa de inversión a diez años superará la barrera de los 40.000 millones de libras, consolidando el compromiso financiero con el sector inmobiliario público."
+        ],
+        "bullets": [
+          "Inversión adicional de 1.000 millones de libras.",
+          "El programa decenal superará los 40.000 millones de libras en total."
+        ],
+        "eventKey": "Gobierno británico-anuncia inversión-vivienda social",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-02986a017ad14e8ee89e2853",
+        "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "section": "economia",
+        "lang": "en",
+        "publishedAt": "2026-10-25T07:15:38+00:00",
+        "sourceTitle": "Rosebank: Life on the oil field at the centre of a political storm",
+        "fingerprint": "c1b41be7f89ca2c39f48e44f",
+        "title": "Rosebank: la vida en el yacimiento petrolífero en el centro de la polémica",
+        "summary": "Un reportaje desde el interior de un buque en el yacimiento de Rosebank explora la cotidianidad de sus trabajadores mientras el proyecto aguarda una decisión política sobre su futuro.",
+        "paragraphs": [
+          "El editor de la BBC en Escocia, James Cook, ha visitado las instalaciones situadas en este yacimiento de petróleo aún sin explotar. La estancia permite conocer de primera mano cómo es la vida a bordo de la embarcación.",
+          "El proyecto se encuentra actualmente en una situación de incertidumbre, pendiente de resolverse en medio de un intenso debate político sobre su viabilidad y continuidad."
+        ],
+        "bullets": [
+          "Visita a un buque en el yacimiento de Rosebank.",
+          "El proyecto permanece a la espera de una resolución política.",
+          "Testimonio sobre la vida cotidiana de los trabajadores en alta mar."
+        ],
+        "eventKey": "trabajadores-yacimiento-rosebank-espera-decision-politica",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-33157f235e4ddfa31546f501",
+        "url": "https://www.bbc.co.uk/news/articles/c6n8de1jgrdvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "section": "economia",
+        "lang": "en",
+        "publishedAt": "2026-10-25T07:12:21+00:00",
+        "sourceTitle": "Heating oil costs 'more than double' ahead of winter",
+        "fingerprint": "80f4bc4fb011a1233751384e",
+        "title": "El precio del gasóleo de calefacción se duplica antes del invierno",
+        "summary": "Los residentes de Middleton in Teesdale se enfrentan a un encarecimiento drástico del combustible necesario para la calefacción ante la llegada del frío. La ausencia de red de gas natural en la zona agrava la dependencia de este suministro.",
+        "paragraphs": [
+          "Los habitantes de Middleton in Teesdale afrontan un invierno complicado debido a que el coste del gasóleo de calefacción ha superado el doble de su precio habitual. Esta situación afecta especialmente a una población que carece de acceso a la red de gas convencional.",
+          "La falta de alternativas energéticas en la localidad obliga a los vecinos a depender de este combustible, cuyo encarecimiento genera incertidumbre sobre cómo afrontarán los meses de bajas temperaturas."
+        ],
+        "bullets": [
+          "El precio del gasóleo de calefacción se ha duplicado.",
+          "La localidad carece de suministro de gas natural.",
+          "Los residentes dependen exclusivamente de este combustible caro."
+        ],
+        "eventKey": "residentes Middleton in Teesdale enfrentan subida precio calefacción",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "cultura": [
+      {
+        "id": "n-e9e348da52220beb428ad80c",
+        "url": "https://www.theguardian.com/music/2026/oct/25/jack-antonoff-bleachers-interview-producer-kendrick-springsteen-taylor-swift",
+        "source": "The Guardian",
+        "section": "cultura",
+        "lang": "en",
+        "publishedAt": "2026-10-25T10:00:00+00:00",
+        "sourceTitle": "‘I’d rather live through something publicly than escape it privately’: Jack Antonoff on survivor’s guilt, songwriting and his shock breakup",
+        "fingerprint": "48a81b59abf56eaa2ff0ffc5",
+        "title": "Jack Antonoff reflexiona sobre su trayectoria y la honestidad en su música",
+        "summary": "El músico y productor Jack Antonoff analiza su necesidad de mantener la integridad artística mientras navega por el escrutinio público sobre su vida personal y profesional.",
+        "paragraphs": [
+          "El líder de Bleachers, actualmente de gira por Estados Unidos, cuestiona el interés constante del público por descifrar su figura, a pesar de haber volcado sus experiencias personales en sus composiciones durante más de una década.",
+          "Antonoff recuerda su etapa en la banda Fun, donde, a pesar del éxito masivo, se sintió insatisfecho al no ser el autor de las letras, lo que le impulsó a buscar una expresión artística más auténtica y personal."
+        ],
+        "bullets": [
+          "Defiende la importancia de escribir canciones que reflejen su propia historia vital.",
+          "Mantiene su compromiso de abordar temas como el fin de su matrimonio en sus letras.",
+          "Valora el trabajo en proyectos musicales de alta presión."
+        ],
+        "eventKey": "Jack Antonoff reflexiona sobre su carrera y vida personal",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-1d62b48fb2165e9f2555d7d9",
+        "url": "https://www.theguardian.com/film/2026/oct/25/anthony-lapaglia-10-chaotic-questions-interview",
+        "source": "The Guardian",
+        "section": "cultura",
+        "lang": "en",
+        "publishedAt": "2026-10-24T19:00:42+00:00",
+        "sourceTitle": "Anthony LaPaglia: ‘There is not a role I didn’t get that I ever gave more than four hours of grievance to – even Tony Soprano’",
+        "fingerprint": "80abcaeb2773f83a625033c1",
+        "title": "Anthony LaPaglia reflexiona sobre su carrera y su pragmatismo ante el rechazo",
+        "summary": "El actor australiano repasa su trayectoria profesional en una entrevista donde aborda su paso por la televisión estadounidense y su actitud ante los papeles que no consiguió.",
+        "paragraphs": [
+          "Anthony LaPaglia ha compartido detalles sobre su carrera, incluyendo su experiencia en la serie 'Without a Trace' y su perspectiva sobre la industria. El intérprete destaca su capacidad para superar rápidamente la pérdida de oportunidades laborales, citando como ejemplo el papel de Tony Soprano.",
+          "El actor también menciona su decisión de abandonar Estados Unidos para establecerse fuera del país ante el clima político actual."
+        ],
+        "bullets": [
+          "Afirma que nunca dedica más de cuatro horas a lamentarse por un papel perdido.",
+          "Considera que su pragmatismo es fundamental para mantener su salud mental.",
+          "Confirma que dejó Estados Unidos para sobrellevar el mandato de Trump."
+        ],
+        "eventKey": "Anthony LaPaglia reflexiona sobre su carrera",
+        "partial": true,
+        "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ]
+  }
+}
