@@ -11223,5 +11223,61 @@
       "summarizedAt": "2026-10-25T11:08:16.203413+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-b1fbd08b8cafb31465a045e6": {
+    "fingerprint": "7566a3a1711317988c9f5ec9",
+    "item": {
+      "id": "n-b1fbd08b8cafb31465a045e6",
+      "url": "https://www.durangon.com/los-sotanos-de-landako-acogen-la-primera-sala-compartida-para-ensayos-musicales-de-durango/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-26T11:58:42+00:00",
+      "sourceTitle": "Los sótanos de Landako acogen la primera sala compartida para ensayos musicales de Durango",
+      "fingerprint": "7566a3a1711317988c9f5ec9",
+      "title": "Durango estrena su primera sala de ensayos musical compartida en Landako",
+      "summary": "Los sótanos del recinto de Landako albergan un nuevo espacio habilitado para que músicos y grupos locales puedan realizar sus ensayos.",
+      "paragraphs": [
+        "El Ayuntamiento de Durango ha puesto en marcha una sala de ensayos compartida ubicada en los sótanos de Landako. Esta iniciativa busca ofrecer un lugar adecuado para la práctica musical en el municipio.",
+        "El acceso a las instalaciones estará sujeto a un sistema de reserva previa, permitiendo que diversos artistas y formaciones utilicen el equipamiento de manera rotativa."
+      ],
+      "bullets": [
+        "Ubicación en los sótanos de Landako.",
+        "Espacio de uso compartido para músicos y grupos.",
+        "Gestión mediante reserva previa."
+      ],
+      "eventKey": "Ayuntamiento de Durango habilita sala de ensayos en Landako",
+      "partial": true,
+      "summarizedAt": "2026-10-26T14:32:10.467884+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-cc3fc0d45f619d72982d6143": {
+    "fingerprint": "c0ccdf05b19600793722fbe6",
+    "item": {
+      "id": "n-cc3fc0d45f619d72982d6143",
+      "url": "https://www.europapress.es/nacional/noticia-mandos-policia-guardia-civil-declaran-vieron-barcos-marruecos-agentes-guiaban-migrantes-ceuta-20261026145719.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-26T13:57:19+00:00",
+      "sourceTitle": "Mandos de Policía y Guardia Civil declaran que vieron barcos de Marruecos y que agentes guiaban a migrantes hacia Ceuta",
+      "fingerprint": "c0ccdf05b19600793722fbe6",
+      "title": "Mandos policiales señalan la implicación de agentes marroquíes en la entrada masiva de migrantes a Ceuta",
+      "summary": "Responsables de la Policía Nacional y la Guardia Civil han testificado ante la Audiencia Nacional sobre la presunta participación de autoridades marroquíes en la llegada de migrantes a la ciudad autónoma.",
+      "paragraphs": [
+        "Altos mandos de las fuerzas de seguridad españolas han declarado ante la jueza que, durante la crisis migratoria, observaron embarcaciones de Marruecos en la zona. Según su testimonio, agentes del país vecino habrían dirigido activamente a las personas hacia territorio español.",
+        "Estas declaraciones se han producido en el marco de la investigación judicial abierta en la Audiencia Nacional para esclarecer los hechos ocurridos durante la entrada masiva de migrantes en Ceuta."
+      ],
+      "bullets": [
+        "Testimonio de mandos de la Policía Nacional y Guardia Civil ante la Audiencia Nacional.",
+        "Avistamiento de embarcaciones marroquíes la noche previa a la entrada masiva.",
+        "Acusación de que agentes del país vecino guiaron a los migrantes hacia Ceuta."
+      ],
+      "eventKey": "mandos policiales y guardia civil declaran sobre entrada migrantes en Ceuta",
+      "partial": true,
+      "summarizedAt": "2026-10-26T14:32:10.467884+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
