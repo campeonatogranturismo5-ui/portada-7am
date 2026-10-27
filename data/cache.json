@@ -11279,5 +11279,59 @@
       "summarizedAt": "2026-10-26T14:32:10.467884+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-20b74c0a1dc6fffd7eb6e190": {
+    "fingerprint": "847fc7ca117415421bafc1eb",
+    "item": {
+      "id": "n-20b74c0a1dc6fffd7eb6e190",
+      "url": "https://www.durangon.com/detenido-el-autor-de-dos-robos-con-violencia-a-mujeres-por-el-metodo-del-tiron-en-durango-y-abadino/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-27T10:13:17+00:00",
+      "sourceTitle": "Detenido el autor de dos robos con violencia a mujeres por el método del tirón en Durango y Abadiño",
+      "fingerprint": "847fc7ca117415421bafc1eb",
+      "title": "Detenido un hombre por dos robos violentos en Durango y Abadiño",
+      "summary": "La Ertzaintza ha arrestado al presunto autor de dos robos mediante el método del tirón, uno de los cuales provocó heridas graves a la víctima.",
+      "paragraphs": [
+        "Las autoridades han procedido a la detención de un individuo acusado de cometer dos robos con violencia contra mujeres en las localidades de Durango y Abadiño.",
+        "En uno de los sucesos, la víctima resultó herida de gravedad, lo que obligó a que fuera sometida a una intervención quirúrgica."
+      ],
+      "bullets": [
+        "Detención por robos con violencia mediante el método del tirón.",
+        "Una de las víctimas requirió cirugía por la gravedad de sus lesiones."
+      ],
+      "eventKey": "hombre-detenido-robos-violentos-durango-abadino",
+      "partial": true,
+      "summarizedAt": "2026-10-27T11:57:03.120932+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-32d491bc4ac4d23547c0c970": {
+    "fingerprint": "d320a698d128dec3b224a7b4",
+    "item": {
+      "id": "n-32d491bc4ac4d23547c0c970",
+      "url": "https://www.europapress.es/nacional/noticia-supremo-rechaza-exigir-gobierno-devolucion-migrantes-pedia-ceuta-escuchar-antes-alegaciones-20261027123434.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-27T11:34:34+00:00",
+      "sourceTitle": "El Supremo rechaza exigir al Gobierno la devolución de migrantes que pedía Ceuta sin escuchar antes sus alegaciones",
+      "fingerprint": "d320a698d128dec3b224a7b4",
+      "title": "El Supremo desestima la petición de Ceuta para forzar al Gobierno a devolver migrantes",
+      "summary": "El Tribunal Supremo ha rechazado las medidas cautelarísimas solicitadas por la ciudad autónoma de Ceuta para obligar al Ejecutivo central a expulsar a los migrantes llegados a finales de julio.",
+      "paragraphs": [
+        "La instancia judicial ha denegado la solicitud presentada por el Gobierno ceutí, que acusaba al Ejecutivo nacional de inactividad ante la entrada masiva de personas ocurrida los días 30 y 31 de julio. El tribunal ha optado por no imponer la devolución sin haber escuchado previamente las alegaciones de la Administración central."
+      ],
+      "bullets": [
+        "Ceuta reclamaba la expulsión inmediata de los migrantes llegados en julio.",
+        "El Supremo rechaza las medidas cautelarísimas solicitadas.",
+        "El tribunal exige escuchar al Gobierno antes de tomar una decisión sobre el fondo del recurso."
+      ],
+      "eventKey": "Tribunal Supremo rechaza recurso de Ceuta sobre migrantes",
+      "partial": true,
+      "summarizedAt": "2026-10-27T11:57:03.120932+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
