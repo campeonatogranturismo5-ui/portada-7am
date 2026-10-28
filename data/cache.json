@@ -11333,5 +11333,292 @@
       "summarizedAt": "2026-10-27T11:57:03.120932+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-6355efe9e1ba9db221bac57f": {
+    "fingerprint": "881bf281a6d057647b494ceb",
+    "item": {
+      "id": "n-6355efe9e1ba9db221bac57f",
+      "url": "https://www.durangon.com/la-mesa-de-inclusion-de-durango-reflexiona-sobre-alternativas-de-vivienda-para-personas-vulnerables/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-27T12:11:19+00:00",
+      "sourceTitle": "La Mesa de Inclusión de Durango reflexiona sobre alternativas de vivienda para personas vulnerables",
+      "fingerprint": "881bf281a6d057647b494ceb",
+      "title": "La Mesa de Inclusión de Durango debate sobre el acceso a la vivienda",
+      "summary": "La Mesa de Inclusión de Durango ha organizado una jornada para analizar soluciones habitacionales destinadas a colectivos en situación de vulnerabilidad.",
+      "paragraphs": [
+        "El encuentro abordará diversas propuestas de carácter político y analizará experiencias prácticas que puedan servir como alternativa de vivienda para las personas con mayores dificultades en el municipio."
+      ],
+      "bullets": [
+        "Enfoque en propuestas políticas y casos prácticos.",
+        "Orientado a personas en situación de vulnerabilidad."
+      ],
+      "eventKey": "Mesa de Inclusión de Durango analiza alternativas de vivienda",
+      "partial": true,
+      "summarizedAt": "2026-10-28T12:34:37.336852+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-45ab60ffbf9bfc396044503a": {
+    "fingerprint": "55cd228c1e097c54864c1b8f",
+    "item": {
+      "id": "n-45ab60ffbf9bfc396044503a",
+      "url": "https://www.europapress.es/nacional/noticia-rey-cancela-agenda-jueves-accidente-ferroviario-toledo-20261028131443.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-28T12:14:43+00:00",
+      "sourceTitle": "El Rey cancela su agenda hasta el jueves por el accidente ferroviario en Toledo",
+      "fingerprint": "55cd228c1e097c54864c1b8f",
+      "title": "Felipe VI suspende sus actos oficiales por el siniestro ferroviario de Urda",
+      "summary": "El monarca ha decidido cancelar su agenda institucional hasta el próximo jueves como consecuencia del grave accidente de tren ocurrido en la provincia de Toledo.",
+      "paragraphs": [
+        "La Casa Real ha comunicado la interrupción de los compromisos previstos del Rey Felipe VI tras el descarrilamiento registrado en la localidad toledana de Urda.",
+        "El suceso ha provocado, según las primeras informaciones, el fallecimiento de al menos treinta personas."
+      ],
+      "bullets": [
+        "Cancelación de la agenda institucional hasta el jueves.",
+        "Accidente ferroviario en Urda, Toledo.",
+        "Balance provisional de al menos treinta víctimas mortales."
+      ],
+      "eventKey": "Felipe VI suspende agenda por accidente ferroviario en Toledo",
+      "partial": true,
+      "summarizedAt": "2026-10-28T12:34:37.336852+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-cf7e79d97da3b250c556bacb": {
+    "fingerprint": "4d8bd9e49a31d89a2e29b4e7",
+    "item": {
+      "id": "n-cf7e79d97da3b250c556bacb",
+      "url": "https://www.xataka.com/seleccion/doblete-descuentos-robot-aspirador-xiaomi-robot-vacuum-h50-base-autovaciado-navegacion-laser",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-28T12:08:24+00:00",
+      "sourceTitle": "Doblete de descuentos en el robot aspirador de Xiaomi, un Robot Vacuum H50 con base de autovaciado y navegación láser",
+      "fingerprint": "4d8bd9e49a31d89a2e29b4e7",
+      "title": "Oferta en el robot aspirador Xiaomi Robot Vacuum H50",
+      "summary": "La tienda oficial de Xiaomi ha aplicado un doble descuento al modelo Robot Vacuum H50, situando su precio final en 299,99 euros. Este dispositivo destaca por integrar funciones de aspiración, fregado y una base de autovaciado.",
+      "paragraphs": [
+        "El Xiaomi Robot Vacuum H50 se encuentra actualmente rebajado mediante una promoción que combina una reducción sobre su precio oficial y otra sobre una oferta previa. El dispositivo cuenta con navegación láser para el mapeo de estancias y una potencia de succión de 10.000 Pa.",
+        "Entre sus prestaciones, el robot incluye mopas giratorias con elevación inteligente para alfombras y una estación que gestiona tanto el vaciado de polvo como la limpieza de las almohadillas. El fabricante advierte que el precio final podría variar según la disponibilidad."
+      ],
+      "bullets": [
+        "Doble función de aspiración y fregado con sistema antienredos.",
+        "Navegación láser y compatibilidad con asistentes de voz.",
+        "Base de autovaciado con depósitos para agua limpia y sucia.",
+        "Precio promocional de 299,99 euros en la tienda oficial."
+      ],
+      "eventKey": "Xiaomi-oferta-robot-aspirador",
+      "partial": true,
+      "summarizedAt": "2026-10-28T12:34:37.336852+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-342101562842398141ed2bd6": {
+    "fingerprint": "c5fbd40f0bbf60d0e684f8c3",
+    "item": {
+      "id": "n-342101562842398141ed2bd6",
+      "url": "https://www.bbc.co.uk/news/videos/c6y0e1812r1no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-28T12:28:29+00:00",
+      "sourceTitle": "How will the tax cut on gherkins help restaurants?",
+      "fingerprint": "c5fbd40f0bbf60d0e684f8c3",
+      "title": "El impacto de la rebaja fiscal a los pepinillos en la hostelería",
+      "summary": "La BBC ha consultado a una hamburguesería local para analizar cómo afectará a los restaurantes el reciente anuncio presupuestario del canciller sobre los pepinillos.",
+      "paragraphs": [
+        "Tras los anuncios presupuestarios realizados por el canciller, ha surgido la duda sobre el efecto real que tendrá la reducción de impuestos aplicada a los pepinillos en el sector de la restauración.",
+        "BBC Radio Manchester ha entrevistado a los responsables de una hamburguesería para conocer su perspectiva sobre esta medida económica."
+      ],
+      "bullets": [
+        "Anuncio presupuestario del canciller.",
+        "Rebaja fiscal aplicada a los pepinillos.",
+        "Consulta a una hamburguesería sobre el impacto en el sector."
+      ],
+      "eventKey": "canciller-anuncia-rebaja-fiscal-pepinillos-reino-unido",
+      "partial": true,
+      "summarizedAt": "2026-10-28T12:34:37.336852+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-0ee1f54e9c0b2506dfb223c8": {
+    "fingerprint": "6bac0f2be3ae3b72a89c80b2",
+    "item": null
+  },
+  "n-994451edea236cdfbd407bec": {
+    "fingerprint": "f6822fcdc0493f362eca1796",
+    "item": {
+      "id": "n-994451edea236cdfbd407bec",
+      "url": "https://www.europapress.es/euskadi/noticia-buces-cebek-critica-sindicatos-viven-conflicto-fin-cuando-mejor-ahuyentador-inversiones-20261028125433.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-28T11:54:33+00:00",
+      "sourceTitle": "Cebek critica a sindicatos que viven el conflicto como un fin cuando es \"el mejor ahuyentador de inversiones\"",
+      "fingerprint": "f6822fcdc0493f362eca1796",
+      "title": "Cebek arremete contra los sindicatos por la huelga del 11N",
+      "summary": "La patronal vizcaína denuncia que la próxima convocatoria de huelga carece de motivos laborales y advierte sobre el impacto negativo de la conflictividad en la inversión.",
+      "paragraphs": [
+        "La Confederación Empresarial de Bizkaia (Cebek) ha calificado la huelga prevista para el 11 de noviembre como un acto de naturaleza política. Según la patronal, este tipo de movilizaciones no responden a reivindicaciones laborales legítimas.",
+        "La organización ha lamentado que las empresas sean las principales perjudicadas por estas acciones, señalando que la conflictividad constante actúa como un freno para la llegada de inversiones al territorio."
+      ],
+      "bullets": [
+        "Cebek tilda la huelga del 11N de política.",
+        "La patronal advierte que el conflicto ahuyenta las inversiones.",
+        "Las empresas son señaladas como las que sufrirán el coste de la movilización."
+      ],
+      "eventKey": "Cebek critica huelga sindicatos Vizcaya",
+      "partial": true,
+      "summarizedAt": "2026-10-28T12:34:37.336852+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-cd7a18ecaeb03e8ac8a43975": {
+    "fingerprint": "0fa8986e8f82c431d5f6109e",
+    "item": {
+      "id": "n-cd7a18ecaeb03e8ac8a43975",
+      "url": "https://www.eldiario.es/politica/exjuez-saenz-tejada-niega-pedraz-haber-propuesto-jefa-clan-narcos-atentar-biedma_1_13621427.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-28T11:40:47+00:00",
+      "sourceTitle": "El exjuez Sáenz de Tejada niega a Pedraz haber propuesto a la jefa de un clan de narcos atentar contra Biedma",
+      "fingerprint": "0fa8986e8f82c431d5f6109e",
+      "title": "El exjuez Sáenz de Tejada niega ante el juez Pedraz haber planeado un atentado contra la magistrada Biedma",
+      "summary": "El exjuez Luis Sáenz de Tejada ha comparecido ante la Audiencia Nacional para desmentir las acusaciones de haber instigado un ataque contra la jueza Beatriz Biedma. El investigado sostiene que el proceso en su contra es una represalia por sus denuncias sobre corrupción judicial en Badajoz.",
+      "paragraphs": [
+        "Sáenz de Tejada ha negado ante el magistrado Santiago Pedraz cualquier contacto con una presunta jefa de un clan de narcotraficantes para atentar contra la jueza Biedma, instructora de la causa contra el hermano del presidente del Gobierno. El exjuez ha calificado las acusaciones de \"bulo\" y ha atribuido su imputación a una maniobra política y de represalia.",
+        "El investigado ha aclarado que, si en algún momento utilizó el término \"eliminar\" respecto a la magistrada, se refería exclusivamente a apartarla de un procedimiento judicial, tal como ocurrió en una causa previa por violencia de género. Asimismo, ha negado haber seguido a la jueza y ha aportado pruebas de geolocalización para desmentir su presencia en el lugar de los hechos."
+      ],
+      "bullets": [
+        "Sáenz de Tejada niega haber contactado con la narcotraficante Cintia Rocho para atentar contra Biedma.",
+        "El exjuez vincula su imputación a una represalia por denunciar prevaricación judicial en Badajoz.",
+        "Defiende que las menciones a \"eliminar\" a la jueza se referían a apartarla de la causa, no a un ataque físico.",
+        "Aporta pruebas de geolocalización para negar haber seguido a la magistrada."
+      ],
+      "eventKey": "Luis Sáenz de Tejada declara ante Santiago Pedraz por presuntas amenazas a Beatriz Biedma",
+      "partial": true,
+      "summarizedAt": "2026-10-28T12:34:37.336852+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-db525af4b0f26e4cd913cdc1": {
+    "fingerprint": "4ad55bfefd164fe0e2e1342b",
+    "item": null
+  },
+  "n-a6b7e646d37c043a2646dd47": {
+    "fingerprint": "be43ad8a40851f4de07f40d2",
+    "item": {
+      "id": "n-a6b7e646d37c043a2646dd47",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-28T03:02:38+00:00",
+      "sourceTitle": "The autistic brain processes faces differently than scientists thought",
+      "fingerprint": "be43ad8a40851f4de07f40d2",
+      "title": "El procesamiento facial en el cerebro autista",
+      "summary": "Una investigación reciente sugiere que el cerebro de los niños autistas procesa los rostros de manera distinta a lo que se creía, con diferencias que podrían manifestarse a edades más tempranas.",
+      "paragraphs": [
+        "El estudio indica que, mientras que en los niños neurotípicos las señales cerebrales vinculadas al reconocimiento facial se especializan con el desarrollo, este proceso es significativamente menor en los niños autistas.",
+        "Este hallazgo podría arrojar luz sobre las dificultades que experimentan algunas personas dentro del espectro autista al intentar identificar rostros o interpretar emociones ajenas."
+      ],
+      "bullets": [
+        "Diferencias en el procesamiento cerebral de rostros.",
+        "Posible aparición temprana de estas variaciones.",
+        "Menor especialización de señales cerebrales con la edad.",
+        "Implicaciones en la lectura de emociones y reconocimiento facial."
+      ],
+      "eventKey": "niños autistas procesamiento facial cerebro",
+      "partial": true,
+      "summarizedAt": "2026-10-28T12:34:37.336852+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-8c13645a5495df2dbe0b018f": {
+    "fingerprint": "9f1005444df7156e36f3e504",
+    "item": {
+      "id": "n-8c13645a5495df2dbe0b018f",
+      "url": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+      "source": "Ars Technica",
+      "section": "tecnologia",
+      "lang": "en",
+      "publishedAt": "2026-10-27T22:22:32+00:00",
+      "sourceTitle": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+      "fingerprint": "9f1005444df7156e36f3e504",
+      "title": "El sarampión se propaga por Estados Unidos a través de viajes nacionales",
+      "summary": "Los viajes internos en Estados Unidos han superado a los internacionales como principal fuente de riesgo para la transmisión del sarampión, complicando la gestión sanitaria en los estados.",
+      "paragraphs": [
+        "Un brote de sarampión originado en Carolina del Sur ha logrado extenderse hasta el estado de Washington en múltiples ocasiones durante un periodo de apenas dos semanas.",
+        "Este fenómeno marca un cambio en la tendencia epidemiológica, donde la movilidad doméstica se ha convertido en el vector de contagio predominante frente a los desplazamientos al extranjero."
+      ],
+      "bullets": [
+        "El sarampión se desplaza ahora principalmente mediante viajes nacionales.",
+        "Se han registrado cinco casos de transmisión desde Carolina del Sur a Washington en quince días.",
+        "Las autoridades estatales enfrentan nuevos desafíos para contener la propagación del virus."
+      ],
+      "eventKey": "brote sarampión Estados Unidos propagación nacional",
+      "partial": true,
+      "summarizedAt": "2026-10-28T12:34:37.336852+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-c9445eb743fed1a357fddd91": {
+    "fingerprint": "9a1aa17c5951c60e4dc97b24",
+    "item": {
+      "id": "n-c9445eb743fed1a357fddd91",
+      "url": "https://elpais.com/economia/2026-10-28/el-empleo-masculino-supera-por-primera-vez-el-pico-de-la-burbuja-inmobiliaria-en-espana.html",
+      "source": "El País",
+      "section": "economia",
+      "lang": "es",
+      "publishedAt": "2026-10-28T04:45:01+00:00",
+      "sourceTitle": "El empleo masculino supera por primera vez el pico de la burbuja inmobiliaria en España",
+      "fingerprint": "9a1aa17c5951c60e4dc97b24",
+      "title": "El empleo masculino en España alcanza niveles récord tras dos décadas",
+      "summary": "El número de hombres ocupados ha superado el máximo histórico registrado durante la burbuja inmobiliaria de 2007, según los datos de la EPA.",
+      "paragraphs": [
+        "La Encuesta de Población Activa (EPA) ha confirmado que el empleo masculino ha alcanzado los 12,19 millones de trabajadores, superando por primera vez el pico registrado hace veinte años.",
+        "A pesar de este incremento en términos absolutos, el peso de los hombres en el mercado laboral ha descendido significativamente, pasando de representar el 59% del total en 2007 al 53% actual."
+      ],
+      "bullets": [
+        "Se contabilizan 12,19 millones de hombres ocupados.",
+        "El dato supera el máximo previo de 2007.",
+        "La cuota masculina sobre el total de ocupados ha caído seis puntos porcentuales."
+      ],
+      "eventKey": "empleo masculino supera pico 2007 España",
+      "partial": true,
+      "summarizedAt": "2026-10-28T12:34:37.336852+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-2de30d8362062265906b07b2": {
+    "fingerprint": "591dfeef9c42fdc313c308e7",
+    "item": {
+      "id": "n-2de30d8362062265906b07b2",
+      "url": "https://www.europapress.es/nacional/noticia-senado-suspende-agenda-institucional-hoy-manana-accidente-toledo-20261028122430.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-28T11:24:30+00:00",
+      "sourceTitle": "El Senado suspende su agenda institucional de hoy y mañana por al accidente de Toledo",
+      "fingerprint": "591dfeef9c42fdc313c308e7",
+      "title": "El Senado cancela su actividad oficial por el siniestro ferroviario en Toledo",
+      "summary": "La Cámara Alta ha paralizado su agenda institucional durante dos días debido al accidente de tren ocurrido en la provincia de Toledo.",
+      "paragraphs": [
+        "Pedro Rollán, presidente del Senado, ha ordenado la suspensión de todos los actos oficiales previstos para este miércoles y jueves. La medida responde al accidente ferroviario registrado entre las localidades de Los Yébenes y Urda."
+      ],
+      "bullets": [
+        "Suspensión de la agenda institucional durante 48 horas.",
+        "El motivo es un accidente ferroviario en Toledo."
+      ],
+      "eventKey": "Pedro Rollán suspende agenda Senado Toledo",
+      "partial": true,
+      "summarizedAt": "2026-10-28T12:34:37.336852+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
