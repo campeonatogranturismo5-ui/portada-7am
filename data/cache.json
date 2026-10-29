@@ -11788,7 +11788,7 @@
     }
   },
   "n-7e29827d31f11ff85e0c359f": {
-    "fingerprint": "91281ed56d360d01ae7caaec",
+    "fingerprint": "361f62484a0e4a89e8018fdf",
     "item": {
       "id": "n-7e29827d31f11ff85e0c359f",
       "url": "https://www.eldiario.es/politica/editora-okdiario-pago-defensa-koldo-garcia-juicio-supremo_1_13623197.html",
@@ -11797,22 +11797,22 @@
       "lang": "es",
       "publishedAt": "2026-10-29T12:11:41+00:00",
       "sourceTitle": "Okdiario pagó la defensa de Koldo García en el juicio del Supremo",
-      "fingerprint": "91281ed56d360d01ae7caaec",
-      "title": "La editora de Okdiario sufragó la defensa legal de Koldo García",
-      "summary": "Documentación judicial revela que la empresa editora de Okdiario abonó más de 240.000 euros para cubrir los gastos jurídicos del exasesor de Ábalos. La abogada implicada presentó estas facturas ante la Audiencia Nacional para desvincularse de una supuesta trama de desestabilización judicial vinculada al PSOE.",
+      "fingerprint": "361f62484a0e4a89e8018fdf",
+      "title": "Okdiario pagó la defensa de Koldo García en el juicio del Supremo",
+      "summary": "La empresa editora de Okdiario abonó más de 240.000 euros al despacho que representaba a Koldo García, exasesor de José Luis Ábalos, durante sus procesos judiciales. La abogada del exasesor ha presentado esta documentación ante el juez para desvincularse de una trama de desestabilización judicial vinculada al PSOE.",
       "paragraphs": [
-        "La editora de Okdiario, Dos Mil Palabras S. L., efectuó pagos por valor de 242.000 euros al despacho de la abogada Leticia de la Hoz bajo el concepto de asesoramiento y defensa de Koldo García. La letrada, actualmente imputada en el caso Leire Díez, ha aportado esta documentación para defenderse de las acusaciones que la vinculan con presuntos intentos de soborno a testigos para favorecer al PSOE.",
-        "Por su parte, Koldo García denunció durante el juicio del Supremo que ciertos medios le habrían ofrecido beneficios procesales a cambio de declarar contra el Gobierno. La defensa de la abogada sostiene que estos documentos prueban que el pago de sus servicios no provino del Partido Socialista, sino de un medio de comunicación crítico con el Ejecutivo."
+        "La editora de Okdiario, Dos Mil Palabras S. L., sufragó los gastos de defensa de Koldo García mediante dos facturas dirigidas al despacho IDBO Consultants. La letrada Leticia de la Hoz, imputada en el caso Leire Díez por un presunto intento de soborno, ha aportado estos documentos para defenderse de las acusaciones que la vinculan con el PSOE.",
+        "El exasesor, condenado por corrupción, denunció durante el juicio que ciertos medios le ofrecieron beneficios procesales a cambio de declarar contra el Gobierno. Coincidiendo con los pagos, el medio publicó una entrevista donde García vertía graves acusaciones contra el Ejecutivo de Pedro Sánchez."
       ],
       "bullets": [
-        "La editora de Okdiario pagó 242.000 euros al despacho de la abogada de Koldo García.",
-        "La letrada está imputada en el caso Leire Díez por un supuesto intento de soborno a una empresaria.",
-        "Koldo García afirmó en el juicio que recibió ofertas de medios para mentir contra el Gobierno a cambio de impunidad.",
-        "La defensa busca demostrar que el PSOE no financió la representación legal del exasesor."
+        "La editora de Okdiario pagó 242.000 euros por la defensa jurídica de Koldo García.",
+        "La abogada Leticia de la Hoz busca demostrar que no recibió fondos del PSOE para este fin.",
+        "Koldo García denunció presiones mediáticas para que mintiera contra el Gobierno a cambio de impunidad.",
+        "El pago de las facturas coincide con la publicación de una entrevista crítica con el Ejecutivo."
       ],
-      "eventKey": "Okdiario-pago-defensa-Koldo-Garcia-Audiencia-Nacional",
+      "eventKey": "Okdiario+paga+defensa+Koldo+García",
       "partial": true,
-      "summarizedAt": "2026-10-29T12:44:58.091938+00:00",
+      "summarizedAt": "2026-10-29T14:38:08.360749+00:00",
       "model": "gemini-3.1-flash-lite"
     }
   },
@@ -11926,6 +11926,352 @@
       "eventKey": "Durangoko Azoka homenajea creadores vascos",
       "partial": true,
       "summarizedAt": "2026-10-29T12:44:58.091938+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-815c1b87fe2455c3b5624563": {
+    "fingerprint": "41022a31b411583d1f1f2c9b",
+    "item": {
+      "id": "n-815c1b87fe2455c3b5624563",
+      "url": "https://www.eldiario.es/politica/feijoo-exige-gobierno-responsabilidades-politicas-accidente-urda-no-termine-investigacion_1_13624579.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-29T13:09:23+00:00",
+      "sourceTitle": "Feijóo exige al Gobierno \"responsabilidades políticas\" por el accidente de Urda ya, \"no cuando termine la investigación\"",
+      "fingerprint": "41022a31b411583d1f1f2c9b",
+      "title": "Feijóo reclama responsabilidades políticas inmediatas por el accidente de Urda",
+      "summary": "El líder del Partido Popular ha exigido al Ejecutivo que asuma responsabilidades políticas por el siniestro ferroviario de Toledo sin esperar a que concluya la investigación. Desde la formación popular critican que el Gobierno intente atribuir la culpa exclusivamente a un operador de Atocha.",
+      "paragraphs": [
+        "Alberto Núñez Feijóo ha calificado de frívola la postura del Gobierno ante el accidente en Urda, donde han fallecido al menos 69 personas. El dirigente popular sostiene que las decisiones políticas deben tomarse de forma inmediata y no aguardar al resultado de las pesquisas técnicas.",
+        "Por su parte, el portavoz de campaña del PP, Borja Sémper, ha señalado que la responsabilidad trasciende la figura del ministro de Transportes, Óscar Puente, apuntando a una gestión superior que, a su juicio, ha provocado una descomposición de la credibilidad institucional."
+      ],
+      "bullets": [
+        "Feijóo considera imprescindible la asunción de responsabilidades políticas tras la catástrofe.",
+        "El PP rechaza que el Ejecutivo culpe a un operador de Atocha por el accidente.",
+        "Borja Sémper sugiere que la responsabilidad alcanza a niveles superiores del Gobierno."
+      ],
+      "eventKey": "Alberto Núñez Feijóo exige responsabilidades políticas por accidente ferroviario en Urda",
+      "partial": true,
+      "summarizedAt": "2026-10-29T14:38:08.360749+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-fab0cbed0e945e175c681739": {
+    "fingerprint": "32378a86af26cdc4061effa8",
+    "item": {
+      "id": "n-fab0cbed0e945e175c681739",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-29T14:17:35+00:00",
+      "sourceTitle": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "fingerprint": "32378a86af26cdc4061effa8",
+      "title": "Un ataque ruso con drones contra una estación de tren en Ucrania deja al menos 14 muertos",
+      "summary": "Las autoridades ucranianas han informado de un bombardeo con drones contra una estación ferroviaria en la ciudad de Dnipro, que ha causado al menos 14 fallecidos y numerosos heridos.",
+      "paragraphs": [
+        "Un ataque perpetrado con drones contra una estación de tren en la ciudad de Dnipro, situada en el centro de Ucrania, ha provocado la muerte de al menos 14 personas, según han comunicado las autoridades locales.",
+        "Además de las víctimas mortales, el suceso ha dejado al menos otros 14 heridos, entre los que se encuentra un menor de 11 años."
+      ],
+      "bullets": [
+        "Ataque con drones en la ciudad de Dnipro.",
+        "Al menos 14 personas han fallecido.",
+        "Se contabilizan 14 heridos, incluyendo un niño de 11 años."
+      ],
+      "eventKey": "Rusia-ataca-estacion-tren-Dnipro",
+      "partial": true,
+      "summarizedAt": "2026-10-29T14:38:08.360749+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-7046869d7610b5ca294ebc80": {
+    "fingerprint": "02d935296676c3c3f5ae56f7",
+    "item": {
+      "id": "n-7046869d7610b5ca294ebc80",
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/",
+      "source": "NASA",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-29T13:27:34+00:00",
+      "sourceTitle": "Contractor to Civil Servant: NASA Welcomes Jared Spiers",
+      "fingerprint": "02d935296676c3c3f5ae56f7",
+      "title": "Jared Spiers se incorpora como funcionario a la NASA",
+      "summary": "Jared Spiers ha pasado a formar parte de la plantilla de funcionarios de la NASA tras una larga vinculación personal y profesional con el Centro Espacial Stennis.",
+      "paragraphs": [
+        "Spiers, quien creció en las proximidades del Centro Espacial Stennis en Mississippi, ha mantenido un interés constante por la misión de la agencia espacial desde su juventud, influenciado en gran medida por la trayectoria profesional de su padre en dichas instalaciones.",
+        "Tras años de conexión con el programa espacial estadounidense, Spiers ha formalizado su integración como empleado civil de la agencia, culminando así una aspiración que comenzó a gestarse antes incluso de finalizar sus estudios secundarios."
+      ],
+      "bullets": [
+        "Jared Spiers se une al cuerpo de funcionarios de la NASA.",
+        "Su vinculación con el Centro Espacial Stennis comenzó en su infancia.",
+        "La carrera de su padre en la agencia influyó en su vocación."
+      ],
+      "eventKey": "Jared Spiers incorporación NASA Stennis",
+      "partial": true,
+      "summarizedAt": "2026-10-29T14:38:08.360749+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-36efe27e6f0a5e592af498c7": {
+    "fingerprint": "5baff1680c3861a189fef03e",
+    "item": {
+      "id": "n-36efe27e6f0a5e592af498c7",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/copernicus-acaba-mandarle-recado-a-espana-vamos-invierno-muy-calido-deberiamos-prepararnos-nadie-sabe-cuanto-va-a-llover",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-10-29T14:31:30+00:00",
+      "sourceTitle": "Copernicus acaba de mandarle un recado a España. Vamos hacia un invierno muy cálido y deberíamos prepararnos: nadie sabe cuánto va a llover",
+      "fingerprint": "5baff1680c3861a189fef03e",
+      "title": "Copernicus prevé un invierno cálido en España con incertidumbre sobre las precipitaciones",
+      "summary": "El servicio Copernicus anticipa un invierno con temperaturas superiores a la media en España, aunque la previsión de lluvias resulta incierta debido a la complejidad de los patrones atmosféricos. Los expertos advierten que, pese a la posible llegada de frentes, el aumento del calor incrementa el consumo de agua, lo que mantiene la preocupación por la gestión de los embalses.",
+      "paragraphs": [
+        "Las predicciones estacionales de Copernicus, basadas en la combinación de diversos modelos, apuntan a una tendencia de temperaturas más elevadas de lo habitual para el próximo invierno en gran parte de Europa. En el caso de España y Portugal, los datos sugieren una probabilidad superior al 70% de experimentar un periodo cálido.",
+        "Respecto a las precipitaciones, la situación es menos clara. Aunque se contempla la posibilidad de una Oscilación del Atlántico Norte (NAO) negativa que favorecería la entrada de frentes húmedos, los expertos subrayan que el aumento de las temperaturas conlleva un mayor gasto hídrico, lo que impide dar por resuelto el problema de la escasez de agua."
+      ],
+      "bullets": [
+        "Copernicus estima una alta probabilidad de temperaturas inusualmente cálidas para el invierno español.",
+        "La previsión de lluvias es débil y presenta una alta incertidumbre, similar a la variabilidad observada en años anteriores.",
+        "El fenómeno de la NAO negativa podría traer humedad, pero el calor eleva el consumo de los embalses.",
+        "Se enfatiza la necesidad de cautela, ya que un invierno lluvioso no garantiza la estabilidad hídrica a largo plazo."
+      ],
+      "eventKey": "Copernicus+predice+invierno+cálido+España",
+      "partial": true,
+      "summarizedAt": "2026-10-29T14:38:08.360749+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-96884aa87e4de10dafa017fe": {
+    "fingerprint": "333f9b6f1368164da959f6b0",
+    "item": {
+      "id": "n-96884aa87e4de10dafa017fe",
+      "url": "https://elpais.com/suscripciones/elpaismas/experiencias/2026-10-29/nuevo-concierto-del-ciclo-da-camera-en-el-auditorio-sony.html",
+      "source": "El País",
+      "section": "cultura",
+      "lang": "es",
+      "publishedAt": "2026-10-29T11:37:09+00:00",
+      "sourceTitle": "Nuevo concierto del Ciclo ‘Da Camera’ en el Auditorio Sony",
+      "fingerprint": "333f9b6f1368164da959f6b0",
+      "title": "Próximo recital del ciclo Da Camera en el Auditorio Sony",
+      "summary": "El Auditorio Sony acogerá una nueva cita musical protagonizada por tres agrupaciones de cámara internacionales. Los interesados pueden adquirir sus localidades para asistir a la actuación en directo.",
+      "paragraphs": [
+        "El ciclo Da Camera ha programado un nuevo concierto en el Auditorio Sony. El evento contará con la participación de tres jóvenes formaciones internacionales de música de cámara.",
+        "La organización ha habilitado la venta de entradas para que el público pueda disfrutar de la interpretación en vivo."
+      ],
+      "bullets": [
+        "Participación de tres grupos camerísticos jóvenes.",
+        "Concierto programado en el Auditorio Sony.",
+        "Entradas disponibles para el público."
+      ],
+      "eventKey": "formaciones camerísticas actúan en Auditorio Sony",
+      "partial": true,
+      "summarizedAt": "2026-10-29T14:38:08.360749+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-6cbb28065d5f074506a370d3": {
+    "fingerprint": "55f9d2a04437dc7433c119dc",
+    "item": {
+      "id": "n-6cbb28065d5f074506a370d3",
+      "url": "https://www.europapress.es/euskadi/noticia-zupiria-afirma-hay-25-manifestaciones-fin-semana-avisa-hay-gente-quiere-provocar-disturbios-20261029140430.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-29T13:04:30+00:00",
+      "sourceTitle": "Zupiria afirma que hay 25 manifestaciones para este fin de semana y avisa que hay gente que quiere \"provocar disturbios\"",
+      "fingerprint": "55f9d2a04437dc7433c119dc",
+      "title": "Zupiria alerta de 25 manifestaciones y posibles disturbios en Euskadi",
+      "summary": "El consejero de Seguridad del Gobierno Vasco ha advertido sobre la alta cifra de protestas convocadas para el fin de semana y la existencia de grupos con intención de generar altercados. Asimismo, ha señalado que las fuerzas de seguridad investigan el origen de las convocatorias digitales bajo el nombre 'Blocus'.",
+      "paragraphs": [
+        "Bingen Zupiria ha confirmado la programación de 25 manifestaciones en el País Vasco para los próximos días. El consejero ha expresado su preocupación ante la posibilidad de que ciertos colectivos busquen provocar disturbios durante estas concentraciones.",
+        "Respecto a las convocatorias difundidas en redes sociales bajo el fenómeno 'Blocus', Zupiria ha admitido desconocer su naturaleza. Las autoridades estatales trabajan actualmente en el análisis de estos incidentes y de la actividad en plataformas digitales para determinar su procedencia."
+      ],
+      "bullets": [
+        "25 manifestaciones previstas en Euskadi para el fin de semana.",
+        "Advertencia oficial sobre la intención de provocar disturbios.",
+        "Investigación policial en curso sobre el fenómeno 'Blocus' en redes sociales."
+      ],
+      "eventKey": "Bingen Zupiria-alerta sobre manifestaciones y disturbios-Euskadi",
+      "partial": true,
+      "summarizedAt": "2026-10-29T14:38:08.360749+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-045f3847c0e99720217717cd": {
+    "fingerprint": "2661b5d7570f6b725cd9e66d",
+    "item": null
+  },
+  "n-8ac96b345e61e28c3fe0cb95": {
+    "fingerprint": "24712cbe7f40a2692881af74",
+    "item": {
+      "id": "n-8ac96b345e61e28c3fe0cb95",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/30/study-of-100000-australians-seeks-causes-of-mental-health-disorders-and-early-onset-cancer",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-29T14:00:48+00:00",
+      "sourceTitle": "Study of 100,000 Australians seeks causes of mental health disorders and early onset cancer",
+      "fingerprint": "24712cbe7f40a2692881af74",
+      "title": "Un estudio australiano analizará la salud de 100.000 personas para investigar enfermedades mentales y cáncer",
+      "summary": "El Sax Institute ha puesto en marcha una investigación intergeneracional para identificar las causas del aumento de trastornos mentales y casos de cáncer en adultos jóvenes.",
+      "paragraphs": [
+        "El proyecto, denominado '18 and Up', realizará un seguimiento a largo plazo de ciudadanos de entre 18 y 45 años. El objetivo es profundizar en los factores que impulsan los principales desafíos sanitarios que afectan a las nuevas generaciones.",
+        "Esta iniciativa se presenta como el estudio intergeneracional sobre bienestar y envejecimiento más grande de Australia, dando continuidad a la labor previa realizada por la organización en su estudio '45 and Up'."
+      ],
+      "bullets": [
+        "Participación de 100.000 personas en el estudio.",
+        "Enfoque en el aumento de enfermedades mentales y cáncer precoz.",
+        "Seguimiento vital de adultos jóvenes entre 18 y 45 años."
+      ],
+      "eventKey": "Sax Institute lanza estudio de salud en Australia",
+      "partial": true,
+      "summarizedAt": "2026-10-29T14:38:08.360749+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-3cd252bd797227fb22c73c7e": {
+    "fingerprint": "e89bf483c42fece0668dcb8d",
+    "item": {
+      "id": "n-3cd252bd797227fb22c73c7e",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-29T13:14:52+00:00",
+      "sourceTitle": "A single brain signal may explain schizophrenia's most puzzling symptoms",
+      "fingerprint": "e89bf483c42fece0668dcb8d",
+      "title": "Identificada una señal cerebral vinculada a los síntomas de la esquizofrenia",
+      "summary": "Un equipo científico ha detectado una señal cerebral debilitada que podría explicar la conexión entre diversos síntomas de la esquizofrenia. Este hallazgo abre la puerta a futuras mejoras en el diagnóstico precoz y en el desarrollo de terapias.",
+      "paragraphs": [
+        "Investigadores han hallado una anomalía en la actividad cerebral que parece relacionar problemas en el procesamiento sensorial con el habla desorganizada y la gravedad clínica del trastorno. Esta señal podría ser clave para comprender los mecanismos biológicos subyacentes a la enfermedad.",
+        "El descubrimiento sugiere nuevas vías para la detección temprana y el diseño de tratamientos más eficaces, aunque el estudio aún se encuentra en una fase de exploración de sus implicaciones clínicas."
+      ],
+      "bullets": [
+        "La señal debilitada conecta síntomas aparentemente inconexos.",
+        "El hallazgo podría facilitar la identificación temprana de la patología.",
+        "Se abre una posible línea de investigación para nuevos tratamientos."
+      ],
+      "eventKey": "científicos-identifican-señal-cerebral-esquizofrenia",
+      "partial": true,
+      "summarizedAt": "2026-10-29T14:38:08.360749+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-1e4c07a23d0712e582f9f8d8": {
+    "fingerprint": "30613f7da74154cea1265613",
+    "item": null
+  },
+  "n-d42474f11886923dc5b557f0": {
+    "fingerprint": "d7e3a0a8d0567f78c8442206",
+    "item": null
+  },
+  "n-b6e345eb662d1bb1d63a2f89": {
+    "fingerprint": "3208d013d685cc37a1b14037",
+    "item": {
+      "id": "n-b6e345eb662d1bb1d63a2f89",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-29T14:00:47+00:00",
+      "sourceTitle": "Erin Patterson prepares for mushroom murders appeal ruling to learn if she could face retrial or longer jail term",
+      "fingerprint": "3208d013d685cc37a1b14037",
+      "title": "Erin Patterson conocerá el fallo sobre sus apelaciones por el caso de las setas venenosas",
+      "summary": "Un tribunal de Victoria dictaminará este viernes si la condenada por triple asesinato deberá enfrentarse a un nuevo juicio o a una pena de prisión mayor.",
+      "paragraphs": [
+        "El Tribunal de Apelación de Victoria tiene previsto anunciar su decisión este viernes tras haber escuchado los argumentos tanto de la defensa de Patterson como de la fiscalía el pasado mes de agosto.",
+        "La resolución determinará el futuro judicial de la acusada, quien podría ver incrementada su condena actual o ser sometida a un proceso de repetición del juicio."
+      ],
+      "bullets": [
+        "El tribunal emitirá su veredicto a partir de las 10:00 horas.",
+        "Los jueces Lesley Taylor, Stephen McLeish y Peter Kidd han revisado las dos apelaciones presentadas."
+      ],
+      "eventKey": "Erin Patterson-fallo apelación-Victoria",
+      "partial": true,
+      "summarizedAt": "2026-10-29T14:38:08.360749+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-eec0c3afae90f1acb2a3b7ae": {
+    "fingerprint": "46d0b461d2d53a4fb5625d19",
+    "item": {
+      "id": "n-eec0c3afae90f1acb2a3b7ae",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-29T13:04:04+00:00",
+      "sourceTitle": "Six popular sugar substitutes linked to faster brain aging",
+      "fingerprint": "46d0b461d2d53a4fb5625d19",
+      "title": "Vínculo entre edulcorantes artificiales y un envejecimiento cerebral acelerado",
+      "summary": "Una investigación con cerca de 13.000 adultos sugiere que el consumo elevado de edulcorantes artificiales podría acelerar el deterioro cognitivo. Aunque se observa una correlación, los autores subrayan que no se ha confirmado una relación de causalidad.",
+      "paragraphs": [
+        "Un estudio reciente ha detectado una asociación entre el uso frecuente de seis edulcorantes populares y una pérdida más rápida de las capacidades de memoria y razonamiento. Los resultados indican que los consumidores habituales podrían experimentar un envejecimiento cerebral equivalente a 1,6 años adicionales.",
+        "Pese a la magnitud de los datos, los investigadores advierten que el estudio no establece una relación causa-efecto directa, lo que mantiene la incertidumbre sobre los efectos a largo plazo de estos sustitutos del azúcar en la salud neurológica."
+      ],
+      "bullets": [
+        "Análisis realizado sobre una muestra de casi 13.000 adultos.",
+        "Se estima un declive un 62% más rápido en habilidades cognitivas.",
+        "Seis edulcorantes comunes bajo sospecha por sus posibles efectos cerebrales.",
+        "La investigación no confirma que los edulcorantes sean la causa directa del deterioro."
+      ],
+      "eventKey": "estudio científico vincula edulcorantes con deterioro cognitivo",
+      "partial": true,
+      "summarizedAt": "2026-10-29T14:38:08.360749+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-e3ce02c1f269803adeb2c923": {
+    "fingerprint": "0ba9d4ca021506db3c405cc0",
+    "item": {
+      "id": "n-e3ce02c1f269803adeb2c923",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7l1375d74o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-29T13:39:54+00:00",
+      "sourceTitle": "Island Energy: No plans to remove gas standing charge",
+      "fingerprint": "0ba9d4ca021506db3c405cc0",
+      "title": "Island Energy descarta eliminar el cargo fijo por gas",
+      "summary": "La compañía energética ha comunicado que no tiene intención de suprimir el cargo fijo en las facturas de gas, condicionando cualquier modificación futura al respaldo de las autoridades y los usuarios.",
+      "paragraphs": [
+        "Island Energy ha señalado que el mantenimiento de este cargo fijo es necesario bajo las condiciones actuales. La empresa subraya que cualquier alteración en su estructura tarifaria requeriría un consenso previo entre el regulador, el Gobierno y la propia comunidad.",
+        "Por el momento, no se prevén cambios inmediatos en la política de facturación de la compañía, manteniendo la incertidumbre sobre si se producirán ajustes en el futuro."
+      ],
+      "bullets": [
+        "La empresa rechaza eliminar el cargo fijo por el momento.",
+        "Cualquier cambio exige el apoyo del Gobierno y el regulador.",
+        "La compañía vincula futuras decisiones al consenso comunitario."
+      ],
+      "eventKey": "Island Energy mantiene cargo fijo gas",
+      "partial": true,
+      "summarizedAt": "2026-10-29T14:38:08.360749+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-d1380a088a3e7e88925fb652": {
+    "fingerprint": "cbcd7bfc832d4bcc13a15bc2",
+    "item": {
+      "id": "n-d1380a088a3e7e88925fb652",
+      "url": "https://elpais.com/suscripciones/elpaismas/experiencias/2026-10-29/carmen-desde-la-gran-pantalla-de-cine-yelmo.html",
+      "source": "El País",
+      "section": "cultura",
+      "lang": "es",
+      "publishedAt": "2026-10-29T11:31:44+00:00",
+      "sourceTitle": "‘Carmen’ desde la gran pantalla de Cine Yelmo",
+      "fingerprint": "cbcd7bfc832d4bcc13a15bc2",
+      "title": "Proyección de la ópera Carmen en Cine Yelmo",
+      "summary": "La conocida composición de Georges Bizet será emitida a través de las salas de Cine Yelmo.",
+      "paragraphs": [
+        "La emblemática obra operística Carmen, creada por Georges Bizet, llega a la cartelera de Cine Yelmo para ser disfrutada desde la gran pantalla."
+      ],
+      "bullets": [
+        "La pieza es considerada una de las obras más populares de la historia."
+      ],
+      "eventKey": "Georges Bizet-proyección de Carmen-Cine Yelmo",
+      "partial": true,
+      "summarizedAt": "2026-10-29T14:38:08.360749+00:00",
       "model": "gemini-3.1-flash-lite"
     }
   }
