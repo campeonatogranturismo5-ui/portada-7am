@@ -11620,5 +11620,313 @@
       "summarizedAt": "2026-10-28T12:34:37.336852+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-b39b09c021321b0ecd01b550": {
+    "fingerprint": "7c483937796f224bb70f3d16",
+    "item": {
+      "id": "n-b39b09c021321b0ecd01b550",
+      "url": "https://www.durangon.com/durango-impartira-formaciones-gratuitas-de-inteligencia-artificial-para-comercios-y-lengua-de-signos/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-29T12:32:55+00:00",
+      "sourceTitle": "Durango impartirá formaciones gratuitas de Inteligencia Artificial para comercios y lengua de signos",
+      "fingerprint": "7c483937796f224bb70f3d16",
+      "title": "Durango ofrecerá cursos gratuitos de IA y lengua de signos",
+      "summary": "El Ayuntamiento de Durango ha anunciado la puesta en marcha de talleres formativos sin coste dirigidos a mejorar la atención y gestión en los comercios locales.",
+      "paragraphs": [
+        "La administración local ha programado sesiones de aprendizaje centradas en la inteligencia artificial y la lengua de signos. El objetivo es integrar estas competencias en la operativa diaria de los negocios del municipio.",
+        "Esta iniciativa pretende facilitar el acceso a nuevas herramientas tecnológicas y mejorar la accesibilidad comunicativa en el sector comercial."
+      ],
+      "bullets": [
+        "Formación gratuita en inteligencia artificial.",
+        "Talleres de lengua de signos para comerciantes.",
+        "Enfoque en la aplicación práctica en establecimientos."
+      ],
+      "eventKey": "Ayuntamiento de Durango imparte formación en Durango",
+      "partial": true,
+      "summarizedAt": "2026-10-29T12:44:58.091938+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-660fd6f9340e2aed1b1020a1": {
+    "fingerprint": "377ab8640da3a5b4238ccc65",
+    "item": {
+      "id": "n-660fd6f9340e2aed1b1020a1",
+      "url": "https://www.europapress.es/nacional/noticia-iu-dice-no-puede-reducir-accidente-urda-factor-humano-critica-liberalizacion-sector-ferroviario-20261029134127.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-29T12:41:27+00:00",
+      "sourceTitle": "IU dice que no se puede reducir el accidente en Urda al factor humano y critica la liberalización del sector ferroviario",
+      "fingerprint": "377ab8640da3a5b4238ccc65",
+      "title": "IU cuestiona la liberalización ferroviaria tras el accidente de Urda",
+      "summary": "Toni Valero, coordinador de IU en Andalucía, ha rechazado que el siniestro ferroviario de Urda se explique únicamente por un error humano y ha vinculado el suceso con los riesgos de la liberalización del sector.",
+      "paragraphs": [
+        "El dirigente de Izquierda Unida ha criticado el modelo actual de gestión ferroviaria, advirtiendo que la apertura del mercado a la competencia podría estar comprometiendo la seguridad de los usuarios.",
+        "Valero ha insistido en que no se debe simplificar la causa del accidente ocurrido en Toledo, instando a una reflexión más profunda sobre las consecuencias de las políticas de liberalización en el transporte por tren."
+      ],
+      "bullets": [
+        "IU rechaza limitar las causas del accidente de Urda al factor humano.",
+        "Toni Valero vincula la liberalización del sector con riesgos para la seguridad.",
+        "La formación política cuestiona el modelo ferroviario actual."
+      ],
+      "eventKey": "Toni Valero critica liberalización ferroviaria tras accidente en Urda",
+      "partial": true,
+      "summarizedAt": "2026-10-29T12:44:58.091938+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-684a0e80dde93c2c3a3cb67a": {
+    "fingerprint": "e45d7f2aa0f4683c542eba85",
+    "item": {
+      "id": "n-684a0e80dde93c2c3a3cb67a",
+      "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
+      "source": "NASA",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-29T04:05:00+00:00",
+      "sourceTitle": "APOD: 29 October 2026 – The Horns of Venus",
+      "fingerprint": "e45d7f2aa0f4683c542eba85",
+      "title": "La NASA destaca la imagen astronómica de los cuernos de Venus",
+      "summary": "La sección Astronomy Picture of the Day de la NASA ha publicado una nueva imagen centrada en el fenómeno visual conocido como los cuernos de Venus.",
+      "paragraphs": [
+        "La agencia espacial estadounidense ha compartido una fotografía astronómica acompañada de una explicación técnica elaborada por un profesional del sector. Esta iniciativa forma parte de su archivo diario de imágenes del cosmos."
+      ],
+      "bullets": [
+        "Publicación de la imagen astronómica del día.",
+        "Enfoque en el fenómeno visual de Venus.",
+        "Explicación técnica proporcionada por un astrónomo."
+      ],
+      "eventKey": "NASA-publica-imagen-Venus",
+      "partial": true,
+      "summarizedAt": "2026-10-29T12:44:58.091938+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-aab5d82fc54d70b43d7466dd": {
+    "fingerprint": "365cad9be778a00dc0e75bc5",
+    "item": {
+      "id": "n-aab5d82fc54d70b43d7466dd",
+      "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "economia",
+      "lang": "en",
+      "publishedAt": "2026-10-29T12:09:14+00:00",
+      "sourceTitle": "Poundland's future hangs in the balance as chain edges towards collapse",
+      "fingerprint": "365cad9be778a00dc0e75bc5",
+      "title": "Poundland se acerca al colapso",
+      "summary": "La cadena de tiendas Poundland se encuentra en una situación crítica y se encamina hacia una posible quiebra. La dirección ha iniciado los trámites legales para nombrar administradores para la compañía.",
+      "paragraphs": [
+        "El futuro de la cadena de establecimientos Poundland es incierto tras conocerse que la empresa se aproxima a una situación de colapso financiero.",
+        "Los responsables de la firma han presentado formalmente una notificación con la intención de designar administradores para gestionar el negocio."
+      ],
+      "bullets": [
+        "La empresa se encuentra al borde del colapso.",
+        "Se ha presentado una notificación para nombrar administradores."
+      ],
+      "eventKey": "Poundland-inicio-administracion-ReinoUnido",
+      "partial": true,
+      "summarizedAt": "2026-10-29T12:44:58.091938+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-9dffdd6adf66b46304324108": {
+    "fingerprint": "a96710eba65e5be6de349a68",
+    "item": {
+      "id": "n-9dffdd6adf66b46304324108",
+      "url": "https://www.theguardian.com/film/2026/oct/29/rocky-sylvester-stallone-anthony-ippolita",
+      "source": "The Guardian",
+      "section": "cultura",
+      "lang": "en",
+      "publishedAt": "2026-10-29T05:00:25+00:00",
+      "sourceTitle": "How did a fishmonger who starred in an adult movie make Rocky? The film about Sylvester Stallone’s amazing triumph",
+      "fingerprint": "a96710eba65e5be6de349a68",
+      "title": "El legado de Rocky tras medio siglo",
+      "summary": "Se cumplen cincuenta años del estreno de Rocky, la película que catapultó a Sylvester Stallone al éxito tras una difícil etapa personal. El actor Anthony Ippolito reflexiona sobre el impacto de interpretar a este icono del cine.",
+      "paragraphs": [
+        "La historia de Rocky, que narra la lucha de un boxeador de Filadelfia por alcanzar la gloria, refleja la propia trayectoria de Stallone. El actor logró escribir y protagonizar el filme tras convencer al estudio de que confiara en él para el papel principal.",
+        "Cincuenta años después, la cinta mantiene su relevancia cultural. La figura del púgil sigue inspirando a miles de personas que visitan anualmente los escalones del Museo de Arte de Filadelfia en honor al personaje."
+      ],
+      "bullets": [
+        "Stallone superó dificultades económicas y críticas personales para crear el guion.",
+        "La película obtuvo el premio Óscar a la mejor película.",
+        "Anthony Ippolito analiza su experiencia al encarnar al protagonista."
+      ],
+      "eventKey": "Sylvester Stallone y Anthony Ippolito conmemoran el aniversario de Rocky",
+      "partial": true,
+      "summarizedAt": "2026-10-29T12:44:58.091938+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-b1f68c4bbdb7f0784dded6ba": {
+    "fingerprint": "0a2267fddeefef555d0ea4b2",
+    "item": {
+      "id": "n-b1f68c4bbdb7f0784dded6ba",
+      "url": "https://www.europapress.es/euskadi/noticia-pnv-exige-sanchez-responsabilidades-politicas-maximas-cese-dimision-ministro-puente-20261029130310.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-29T12:03:10+00:00",
+      "sourceTitle": "PNV exige a Sánchez \"responsabilidades políticas máximas\" como \"el cese o dimisión\" del ministro Puente",
+      "fingerprint": "0a2267fddeefef555d0ea4b2",
+      "title": "El PNV reclama responsabilidades políticas al Gobierno tras el accidente ferroviario de Urda",
+      "summary": "La portavoz del PNV en el Congreso ha instado a Pedro Sánchez a exigir responsabilidades políticas, incluyendo la posible dimisión o cese del ministro de Transportes, tras el choque de trenes en Toledo.",
+      "paragraphs": [
+        "Maribel Vaquero, representante del PNV, ha condicionado la exigencia de responsabilidades al esclarecimiento de los hechos ocurridos en el accidente ferroviario de Urda, que ha dejado un balance de 69 fallecidos.",
+        "La formación nacionalista sostiene que, si la situación resulta inasumible, el presidente del Gobierno deberá adoptar medidas contundentes, apuntando implícitamente a la cúpula del Ministerio de Transportes."
+      ],
+      "bullets": [
+        "El PNV solicita responsabilidades políticas máximas tras el siniestro ferroviario.",
+        "Se plantea la dimisión o el cese del ministro Óscar Puente.",
+        "El accidente en Urda ha provocado 69 víctimas mortales."
+      ],
+      "eventKey": "PNV exige responsabilidades a Pedro Sánchez por accidente ferroviario en Urda",
+      "partial": true,
+      "summarizedAt": "2026-10-29T12:44:58.091938+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-7e29827d31f11ff85e0c359f": {
+    "fingerprint": "91281ed56d360d01ae7caaec",
+    "item": {
+      "id": "n-7e29827d31f11ff85e0c359f",
+      "url": "https://www.eldiario.es/politica/editora-okdiario-pago-defensa-koldo-garcia-juicio-supremo_1_13623197.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-10-29T12:11:41+00:00",
+      "sourceTitle": "Okdiario pagó la defensa de Koldo García en el juicio del Supremo",
+      "fingerprint": "91281ed56d360d01ae7caaec",
+      "title": "La editora de Okdiario sufragó la defensa legal de Koldo García",
+      "summary": "Documentación judicial revela que la empresa editora de Okdiario abonó más de 240.000 euros para cubrir los gastos jurídicos del exasesor de Ábalos. La abogada implicada presentó estas facturas ante la Audiencia Nacional para desvincularse de una supuesta trama de desestabilización judicial vinculada al PSOE.",
+      "paragraphs": [
+        "La editora de Okdiario, Dos Mil Palabras S. L., efectuó pagos por valor de 242.000 euros al despacho de la abogada Leticia de la Hoz bajo el concepto de asesoramiento y defensa de Koldo García. La letrada, actualmente imputada en el caso Leire Díez, ha aportado esta documentación para defenderse de las acusaciones que la vinculan con presuntos intentos de soborno a testigos para favorecer al PSOE.",
+        "Por su parte, Koldo García denunció durante el juicio del Supremo que ciertos medios le habrían ofrecido beneficios procesales a cambio de declarar contra el Gobierno. La defensa de la abogada sostiene que estos documentos prueban que el pago de sus servicios no provino del Partido Socialista, sino de un medio de comunicación crítico con el Ejecutivo."
+      ],
+      "bullets": [
+        "La editora de Okdiario pagó 242.000 euros al despacho de la abogada de Koldo García.",
+        "La letrada está imputada en el caso Leire Díez por un supuesto intento de soborno a una empresaria.",
+        "Koldo García afirmó en el juicio que recibió ofertas de medios para mentir contra el Gobierno a cambio de impunidad.",
+        "La defensa busca demostrar que el PSOE no financió la representación legal del exasesor."
+      ],
+      "eventKey": "Okdiario-pago-defensa-Koldo-Garcia-Audiencia-Nacional",
+      "partial": true,
+      "summarizedAt": "2026-10-29T12:44:58.091938+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-4dd579edd050ef39f24c6acc": {
+    "fingerprint": "d43b35e0e516cb178e9ef08a",
+    "item": {
+      "id": "n-4dd579edd050ef39f24c6acc",
+      "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-10-29T11:11:52+00:00",
+      "sourceTitle": "Spain begins mourning period after train crash as search continues for victims in wreckage",
+      "fingerprint": "d43b35e0e516cb178e9ef08a",
+      "title": "España inicia tres días de luto tras el choque ferroviario en Castilla-La Mancha",
+      "summary": "El país ha decretado un periodo de luto oficial por el fallecimiento de 69 personas en una colisión entre dos trenes de alta velocidad. Mientras los equipos de emergencia prosiguen con las labores de búsqueda, las autoridades han habilitado puntos de atención para los familiares de las víctimas.",
+      "paragraphs": [
+        "España ha comenzado tres días de luto oficial tras el accidente ferroviario ocurrido cerca de la localidad de Urda. El siniestro se produjo cuando un tren de Renfe impactó contra la parte trasera de un convoy de la compañía Iryo, que se encontraba detenido en la vía.",
+        "Los servicios de emergencia, apoyados por drones y unidades caninas, continúan trabajando en el lugar del siniestro para localizar a posibles víctimas entre los restos de los vagones. Paralelamente, la Guardia Civil ha establecido clínicas para recoger muestras de ADN de los familiares de los afectados."
+      ],
+      "bullets": [
+        "69 personas han fallecido en el choque entre dos trenes de alta velocidad.",
+        "El accidente tuvo lugar en la región de Castilla-La Mancha cuando ambos trenes se dirigían a Andalucía.",
+        "Las autoridades han iniciado un periodo de tres días de luto nacional.",
+        "Equipos de rescate siguen rastreando los vagones siniestrados."
+      ],
+      "eventKey": "España-accidente-ferroviario-Urda",
+      "partial": true,
+      "summarizedAt": "2026-10-29T12:44:58.091938+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-907d95ac7dd3b754acbf0490": {
+    "fingerprint": "8ec3dcfdcf66a0d23b0ea33c",
+    "item": {
+      "id": "n-907d95ac7dd3b754acbf0490",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-10-29T03:54:37+00:00",
+      "sourceTitle": "Your blood pressure could be dangerous even when your numbers look normal",
+      "fingerprint": "8ec3dcfdcf66a0d23b0ea33c",
+      "title": "Identificado un mecanismo cerebral que regula la presión arterial",
+      "summary": "Un grupo de células cerebrales recientemente descubierto podría ser clave para evitar fluctuaciones peligrosas en la presión arterial, incluso cuando los niveles medios parecen saludables.",
+      "paragraphs": [
+        "Investigadores han hallado un conjunto específico de neuronas que actúa como estabilizador de la presión sanguínea. Este hallazgo sugiere que existen riesgos cardiovasculares ocultos que no se detectan mediante las mediciones convencionales.",
+        "El descubrimiento abre la posibilidad de desarrollar futuras terapias orientadas a proteger la salud del corazón y del cerebro mediante la regulación de este mecanismo neuronal."
+      ],
+      "bullets": [
+        "Descubrimiento de células cerebrales que previenen oscilaciones peligrosas de presión.",
+        "Posible existencia de riesgos cardiovasculares invisibles en lecturas normales.",
+        "Potencial desarrollo de nuevos tratamientos preventivos."
+      ],
+      "eventKey": "investigadores-descubren-células-cerebrales-presión-arterial",
+      "partial": true,
+      "summarizedAt": "2026-10-29T12:44:58.091938+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-1509a3fb520a602cf8c6a237": {
+    "fingerprint": "51e1dc649fcffc314736aa98",
+    "item": {
+      "id": "n-1509a3fb520a602cf8c6a237",
+      "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+      "source": "Ars Technica",
+      "section": "tecnologia",
+      "lang": "en",
+      "publishedAt": "2026-10-29T11:00:08+00:00",
+      "sourceTitle": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+      "fingerprint": "51e1dc649fcffc314736aa98",
+      "title": "La creciente independencia de SpaceX frente a la NASA",
+      "summary": "La relación de dependencia entre la agencia espacial estadounidense y la compañía de Elon Musk se ha invertido, planteando un desafío estratégico para la NASA.",
+      "paragraphs": [
+        "La dinámica de poder entre la NASA y SpaceX ha cambiado significativamente. Actualmente, la agencia espacial depende de manera crítica de la tecnología y los servicios de la empresa privada para sus objetivos.",
+        "Esta situación genera incertidumbre sobre el futuro de la agencia, dado que SpaceX es plenamente consciente de su posición dominante en la industria aeroespacial."
+      ],
+      "bullets": [
+        "La NASA requiere desesperadamente la colaboración de SpaceX.",
+        "Elon Musk es consciente de la ventaja estratégica que posee su compañía.",
+        "La dependencia actual supone un problema para la agencia gubernamental."
+      ],
+      "eventKey": "SpaceX-NASA-relacion-dependencia",
+      "partial": true,
+      "summarizedAt": "2026-10-29T12:44:58.091938+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-11ec060efe818a1f7377ecdb": {
+    "fingerprint": "d56c9b86b9a5677298ae19e5",
+    "item": {
+      "id": "n-11ec060efe818a1f7377ecdb",
+      "url": "https://www.durangon.com/durangoko-azokak-euskal-sortzaileen-ekarpena-aitortuko-du/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-10-28T13:13:28+00:00",
+      "sourceTitle": "Durangoko Azokak euskal sortzaileen ekarpena aitortuko du",
+      "fingerprint": "d56c9b86b9a5677298ae19e5",
+      "title": "La Durangoko Azoka homenajeará la labor de los creadores vascos",
+      "summary": "La próxima edición de la feria pondrá el foco en las herramientas utilizadas para la creación cultural. El artista Andoni Beristain ha sido el encargado de diseñar la nueva propuesta visual del evento.",
+      "paragraphs": [
+        "La organización de la Durangoko Azoka ha anunciado que su próxima edición servirá para reconocer la aportación de los artistas locales. El eje central de la imagen de este año girará en torno a los instrumentos y medios empleados en el proceso creativo.",
+        "El autor de la nueva identidad visual es el artista Andoni Beristain, quien ha desarrollado la propuesta estética que representará al certamen en esta ocasión."
+      ],
+      "bullets": [
+        "Reconocimiento a la contribución de los creadores vascos.",
+        "Enfoque temático en las herramientas de creación cultural.",
+        "Nueva propuesta visual diseñada por Andoni Beristain."
+      ],
+      "eventKey": "Durangoko Azoka homenajea creadores vascos",
+      "partial": true,
+      "summarizedAt": "2026-10-29T12:44:58.091938+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
