@@ -1,0 +1,717 @@
+{
+  "date": "2026-11-01",
+  "updatedAt": "2026-11-01T14:03:54.515328+01:00",
+  "timezone": "Europe/Madrid",
+  "sections": {
+    "euskadi": [
+      {
+        "id": "n-a81374aff6a426a6ceb5e8d6",
+        "url": "https://www.europapress.es/euskadi/noticia-obispo-bilbao-lamenta-vez-mas-haya-fenomeno-violento-euskadi-apela-dialogo-20261101124749.html",
+        "source": "Europa Press Euskadi",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-11-01T11:47:49+00:00",
+        "sourceTitle": "El Obispo de Bilbao lamenta que, \"una vez más, haya un fenómeno violento\" en Euskadi y apela al diálogo",
+        "fingerprint": "5d772b2f7c0d9c8c0e550816",
+        "title": "El obispo de Bilbao condena la violencia en Euskadi y pide diálogo",
+        "summary": "El prelado ha expresado su pesar ante la reaparición de actos violentos en la región, instando a buscar soluciones mediante el entendimiento.",
+        "paragraphs": [
+          "El obispo de Bilbao ha manifestado su preocupación por la reciente irrupción de episodios violentos en el País Vasco. Ante esta situación, ha hecho un llamamiento a la convivencia y al diálogo como vías necesarias para resolver los conflictos.",
+          "El representante eclesiástico ha subrayado la importancia de atender las inquietudes ciudadanas para lograr una sociedad integradora donde tengan cabida todas las personas."
+        ],
+        "bullets": [
+          "Condena de los nuevos episodios violentos en Euskadi.",
+          "Apelación al diálogo como herramienta de resolución.",
+          "Defensa de una sociedad inclusiva para todos."
+        ],
+        "eventKey": "Obispo de Bilbao condena violencia en Euskadi",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-caca13545d78082f017f365f",
+        "url": "https://www.durangon.com/iurreta-suspende-el-control-por-camaras-de-bidebarrieta-hasta-revisar-las-propuestas-vecinales/",
+        "source": "Durangon",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-11-01T03:22:53+00:00",
+        "sourceTitle": "Iurreta suspende el control por cámaras de Bidebarrieta hasta revisar las propuestas vecinales",
+        "fingerprint": "a0fa7cf0c35d3bd5273d6fa2",
+        "title": "Iurreta paraliza el control de cámaras en Bidebarrieta",
+        "summary": "El Ayuntamiento de Iurreta ha decidido suspender temporalmente el sistema de vigilancia en Bidebarrieta para analizar las sugerencias de los residentes. La medida se mantendrá vigente hasta la aprobación de una nueva normativa municipal.",
+        "paragraphs": [
+          "El Consistorio ha optado por desactivar el control mediante cámaras en la zona de Bidebarrieta. Esta decisión se produce apenas tres días después de que se hubiera anunciado el inicio de su funcionamiento.",
+          "La inactividad del sistema se prolongará hasta que se publique la ordenanza correspondiente, permitiendo así que se evalúen las propuestas presentadas por el vecindario."
+        ],
+        "bullets": [
+          "Suspensión temporal del control por cámaras en Bidebarrieta.",
+          "El sistema permanecerá inactivo hasta la publicación de la nueva ordenanza.",
+          "El Ayuntamiento revisará las propuestas vecinales antes de retomar la medida."
+        ],
+        "eventKey": "Ayuntamiento de Iurreta suspende control cámaras Bidebarrieta",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-1feb44140ce7cacb702244fa",
+        "url": "https://www.europapress.es/euskadi/noticia-tunel-artxanda-cerrara-trafico-lunes-cinco-meses-obras-rehabilitacion-20261101092955.html",
+        "source": "Europa Press Euskadi",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-11-01T08:29:55+00:00",
+        "sourceTitle": "El túnel de Artxanda se cerrará al tráfico este lunes, durante cinco meses, por obras de rehabilitación",
+        "fingerprint": "c052d23a86c8b207124265af",
+        "title": "Cierre del túnel de Artxanda por obras de rehabilitación",
+        "summary": "El túnel que une La Salve y el Txorierri permanecerá cerrado al tráfico durante cinco meses a partir de este lunes para realizar trabajos de mejora integral.",
+        "paragraphs": [
+          "La Diputación Foral de Bizkaia ha programado el cierre del túnel de Artxanda para llevar a cabo una rehabilitación completa de la infraestructura. La restricción al tráfico comenzará este lunes, 2 de noviembre, a partir de las 20.00 horas.",
+          "Se prevé que los trabajos de adecuación se prolonguen durante un periodo de cinco meses."
+        ],
+        "bullets": [
+          "Inicio del cierre: lunes 2 de noviembre a las 20.00 horas.",
+          "Duración estimada de las obras: cinco meses.",
+          "Motivo: rehabilitación integral de la infraestructura.",
+          "Promotor: Diputación Foral de Bizkaia."
+        ],
+        "eventKey": "Diputación Foral de Bizkaia cierra túnel de Artxanda",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-d651d1461d27dddc35cb3d03",
+        "url": "https://www.durangon.com/el-ezkurdi-jai-alai-homenajeara-a-helena-barrenetxea-tras-su-exito-en-el-mundial-de-pelota-vasca/",
+        "source": "Durangon",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-10-31T15:12:29+00:00",
+        "sourceTitle": "El Ezkurdi Jai Alai homenajeará a Helena Barrenetxea tras su éxito en el Mundial de Pelota Vasca",
+        "fingerprint": "3f7d600bd8ea46167837bea5",
+        "title": "Homenaje a Helena Barrenetxea en el Ezkurdi Jai Alai",
+        "summary": "El club Durango Uria Jai Alai celebrará un acto de reconocimiento a la pelotari Helena Barrenetxea tras su reciente desempeño en el Mundial de Pelota Vasca.",
+        "paragraphs": [
+          "La deportista, que forma parte de la entidad organizadora, recibirá este tributo en el frontón Ezkurdi Jai Alai como consecuencia de sus resultados en la competición internacional."
+        ],
+        "bullets": [
+          "Reconocimiento a la trayectoria reciente de la pelotari.",
+          "Organización a cargo del club Durango Uria Jai Alai."
+        ],
+        "eventKey": "Helena Barrenetxea homenajeada en Durango",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-bfaa11e79c3fea962080a26e",
+        "url": "https://www.europapress.es/euskadi/noticia-cientos-personas-marchan-bilbao-exigir-libertad-aratz-malen-acusados-terrorismo-20261031185554.html",
+        "source": "Europa Press Euskadi",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-10-31T17:55:54+00:00",
+        "sourceTitle": "Cientos de personas marchan en Bilbao para exigir la libertad de Aratz y Malen, acusados de terrorismo",
+        "fingerprint": "c79211a66a182170cbb6f2e0",
+        "title": "Manifestación en Bilbao por la libertad de dos detenidos por terrorismo",
+        "summary": "Cientos de personas se han concentrado en Bilbao para reclamar la liberación de Aratz y Malen, quienes permanecen en prisión provisional tras ser arrestados en Irun.",
+        "paragraphs": [
+          "La movilización, organizada por la plataforma Aske y vinculada a la coordinadora Jardun, ha tenido lugar este sábado en la capital vizcaína. Los asistentes han protestado contra la situación de los dos detenidos, acusados de un supuesto delito de terrorismo.",
+          "Aratz y Malen fueron arrestados el pasado 17 de octubre en Irun. Actualmente, ambos se encuentran en prisión provisional por decisión de un magistrado de la Audiencia Nacional."
+        ],
+        "bullets": [
+          "Convocatoria organizada por la organización Aske.",
+          "Los detenidos están acusados de un supuesto delito de terrorismo.",
+          "El ingreso en prisión fue ordenado por la Audiencia Nacional."
+        ],
+        "eventKey": "Aratz y Malen manifestación libertad Bilbao",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "espana": [
+      {
+        "id": "n-89630635e707acd71c7e97a9",
+        "url": "https://www.europapress.es/nacional/noticia-pp-personara-causa-accidente-urda-exige-gobierno-asuma-responsabilidades-20261101131641.html",
+        "source": "Europa Press",
+        "section": "espana",
+        "lang": "es",
+        "publishedAt": "2026-11-01T12:16:41+00:00",
+        "sourceTitle": "El PP se personará en la causa por el accidente de Urda y exige al Gobierno que asuma responsabilidades",
+        "fingerprint": "52ba9e65d472b02a638750df",
+        "title": "El PP se personará en la investigación del accidente ferroviario de Urda",
+        "summary": "El Partido Popular ha anunciado su intención de participar en el proceso judicial abierto tras el siniestro ferroviario ocurrido en la localidad toledana de Urda. La formación reclama al Ejecutivo que asuma las responsabilidades políticas derivadas de los hechos.",
+        "paragraphs": [
+          "La vicesecretaria de Regeneración Institucional del PP, Alma Ezcurra, ha confirmado que el partido se personará en la causa judicial. El objetivo es garantizar que se investigue el suceso hasta sus últimas consecuencias y se determinen las responsabilidades pertinentes.",
+          "La formación ha instado al Gobierno a responder por lo ocurrido en el accidente, manteniendo la presión sobre la gestión del Ejecutivo en relación con este siniestro."
+        ],
+        "bullets": [
+          "El PP se personará en la causa judicial por el accidente de Urda.",
+          "Exigen al Gobierno que asuma responsabilidades por el suceso.",
+          "La formación busca que se investiguen los hechos hasta el final."
+        ],
+        "eventKey": "PP-personación-accidente-Urda",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-7d243363ae83b20c9673c47b",
+        "url": "https://www.eldiario.es/politica/gobierno-aprobara-martes-ayudas-economicas-victimas-accidente-urda_1_13630405.html",
+        "source": "elDiario.es",
+        "section": "espana",
+        "lang": "es",
+        "publishedAt": "2026-11-01T11:16:13+00:00",
+        "sourceTitle": "El Gobierno aprobará el martes las ayudas económicas para las víctimas del accidente de Urda",
+        "fingerprint": "ffb570523a22125823c38476",
+        "title": "El Gobierno aprobará ayudas para los afectados por el accidente ferroviario de Urda",
+        "summary": "El Ejecutivo tiene previsto aprobar este martes un real decreto con medidas económicas para las víctimas del siniestro en Toledo, mientras el ministro Óscar Puente presentará un informe sobre lo ocurrido.",
+        "paragraphs": [
+          "El Consejo de Ministros abordará el próximo martes la aprobación de ayudas directas para los damnificados por el accidente ferroviario ocurrido en Urda. El ministro de Transportes, Óscar Puente, será el encargado de presentar un informe detallado sobre el suceso y comparecerá posteriormente ante la prensa y la Diputación Permanente del Congreso.",
+          "El presidente Pedro Sánchez mantiene su respaldo a Puente para gestionar la crisis, a pesar de reconocer que la confianza ciudadana en el sistema ferroviario se encuentra dañada tras este incidente y el previo en Adamuz. El ministro trabaja actualmente en medidas técnicas para evitar futuros fallos y restaurar la seguridad en la red."
+        ],
+        "bullets": [
+          "El real decreto busca ofrecer apoyo económico urgente a los afectados, siguiendo el precedente establecido tras el accidente de Adamuz.",
+          "Óscar Puente descarta su dimisión y se centra en la gestión de la crisis y la mejora de la confianza en el sistema ferroviario.",
+          "El ministro comparecerá en Moncloa y en el Congreso para explicar los detalles técnicos del siniestro."
+        ],
+        "eventKey": "Gobierno-aprueba-ayudas-accidente-Urda",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-bb7c5a6b1494bd9ebee98a24",
+        "url": "https://www.europapress.es/nacional/noticia-senadora-mayor-patrimonio-inmobiliario-no-ira-listas-pp-29n-20261101121947.html",
+        "source": "Europa Press",
+        "section": "espana",
+        "lang": "es",
+        "publishedAt": "2026-11-01T11:19:47+00:00",
+        "sourceTitle": "La senadora con mayor patrimonio inmobiliario no irá en las listas del PP para el 29N",
+        "fingerprint": "fd848f708a644119c8370ab9",
+        "title": "María Salom Coll queda fuera de las listas del PP para el 29N",
+        "summary": "La senadora, conocida por poseer el mayor patrimonio inmobiliario de la pasada legislatura, no formará parte de la candidatura popular en las próximas elecciones generales.",
+        "paragraphs": [
+          "María Salom Coll, dirigente del Partido Popular, no concurrirá a los comicios generales convocados para el 29 de noviembre. La senadora destacó anteriormente por declarar un amplio conjunto de propiedades inmobiliarias.",
+          "Su ausencia en las listas marca un cambio en la composición de la formación para esta cita electoral."
+        ],
+        "bullets": [
+          "María Salom Coll no repetirá en las listas del PP.",
+          "La senadora poseía diez inmuebles, ocho locales y veinte plazas de garaje.",
+          "La exclusión se produce de cara a las elecciones del 29 de noviembre."
+        ],
+        "eventKey": "María Salom Coll exclusión listas PP",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-40a3776bef554647a0c63b2f",
+        "url": "https://www.eldiario.es/politica/alvise-acude-primeras-generales-rodeado-ejecutiva-abandonado-candidatos-europeas_1_13622159.html",
+        "source": "elDiario.es",
+        "section": "espana",
+        "lang": "es",
+        "publishedAt": "2026-10-31T21:12:18+00:00",
+        "sourceTitle": "Alvise acude a sus primeras generales rodeado de su ejecutiva y abandonado por sus candidatos de las europeas",
+        "fingerprint": "60b6ec0c881ad91b0fc0d960",
+        "title": "Alvise Pérez afronta sus primeras generales con una lista renovada y sin sus antiguos eurodiputados",
+        "summary": "El líder de Se Acabó La Fiesta concurre a las elecciones generales del 29 de noviembre rodeado de su ejecutiva y sin el apoyo de los candidatos que le acompañaron en las europeas. El proyecto, que enfrenta diversas causas judiciales, busca representación en el Congreso tras la ruptura con sus antiguos parlamentarios.",
+        "paragraphs": [
+          "Luis 'Alvise' Pérez encabeza la candidatura por Madrid para las próximas elecciones generales, apoyado principalmente por miembros de su ejecutiva y antiguos cabezas de lista de los comicios autonómicos en Aragón y Andalucía. La formación, que se constituyó como partido tras su paso por Bruselas, presenta listas en la mayoría de las circunscripciones, aunque con una notable ausencia de los candidatos que formaron parte de su lista europea en 2024.",
+          "El contexto electoral de la formación está marcado por la ruptura con sus dos eurodiputados, Diego Solier y Nora Junco, quienes abandonaron el grupo tras denunciar acoso. Paralelamente, Alvise Pérez se encuentra imputado en el Tribunal Supremo por presunta financiación ilegal y por el uso de datos personales contra sus antiguos compañeros."
+        ],
+        "bullets": [
+          "Alvise Pérez es la única cara visible de un proyecto que, según el CIS, no tiene garantizada representación en el Congreso.",
+          "La lista incluye a cargos rebotados de otras formaciones como Vox o Ciudadanos.",
+          "El líder de SALF afronta investigaciones judiciales por presunta financiación irregular con criptomonedas.",
+          "Solo dos personas de la lista original de las europeas repiten en esta convocatoria electoral."
+        ],
+        "eventKey": "Alvise Pérez presenta candidaturas a las elecciones generales",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-ccdc407ab11e36b3e46fd006",
+        "url": "https://www.europapress.es/nacional/noticia-frente-amplio-podemos-pugnan-jec-herencia-sumar-reparto-tiempos-rtve-20261101105956.html",
+        "source": "Europa Press",
+        "section": "espana",
+        "lang": "es",
+        "publishedAt": "2026-11-01T09:59:56+00:00",
+        "sourceTitle": "Frente Amplio y Podemos pugnan en la JEC por la herencia de Sumar en el reparto de tiempos en RTVE",
+        "fingerprint": "45def6dda9478abf9f3a7562",
+        "title": "Disputa en la JEC por el reparto de tiempos electorales de Sumar",
+        "summary": "Frente Amplio y Podemos han iniciado una pugna ante la Junta Electoral Central para reclamar los derechos de la coalición Sumar de cara a las elecciones del 29 de noviembre.",
+        "paragraphs": [
+          "Ambas formaciones, que concurrieron juntas en las elecciones generales de 2023, se disputan ahora la herencia de dicha coalición. El conflicto se centra en cómo debe realizarse el reparto de tiempos en los informativos y los espacios de propaganda electoral en RTVE.",
+          "La resolución de la JEC será determinante para establecer la presencia mediática de cada partido durante la campaña electoral que culminará en los comicios de finales de noviembre."
+        ],
+        "bullets": [
+          "Conflicto por la herencia de la coalición Sumar.",
+          "Impacto directo en el reparto de tiempos en RTVE.",
+          "Afecta a la campaña de las elecciones del 29 de noviembre."
+        ],
+        "eventKey": "Frente Amplio y Podemos disputan tiempos electorales ante la JEC",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "internacional": [
+      {
+        "id": "n-f845da07825410f4870fccb8",
+        "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "section": "internacional",
+        "lang": "en",
+        "publishedAt": "2026-11-01T11:57:48+00:00",
+        "sourceTitle": "Shops looted as German cost of living protests turn violent",
+        "fingerprint": "939e93f75455c2ee6475e2fb",
+        "title": "Saqueos en Alemania durante las protestas por el coste de la vida",
+        "summary": "Varias ciudades alemanas han registrado episodios de violencia y saqueos en el marco de las movilizaciones contra el encarecimiento del nivel de vida. Estas protestas han coincidido con manifestaciones masivas en Francia.",
+        "paragraphs": [
+          "Las protestas, que han afectado a núcleos urbanos como Berlín, Hamburgo y Frankfurt, han derivado en disturbios y saqueos en establecimientos comerciales.",
+          "La jornada de movilizaciones en Alemania se ha producido de forma simultánea a las protestas multitudinarias que han tenido lugar en Francia."
+        ],
+        "bullets": [
+          "Saqueos en comercios alemanes.",
+          "Protestas por el coste de la vida en Alemania.",
+          "Movilizaciones simultáneas en Francia."
+        ],
+        "eventKey": "manifestantes alemanes saquean comercios en Alemania",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-2fb0efb57addc66b0adb83fd",
+        "url": "https://www.theguardian.com/society/2026/nov/01/high-street-slot-farms-budget-tax-rise-business-rates-bingo-licence-loophole",
+        "source": "The Guardian",
+        "section": "internacional",
+        "lang": "en",
+        "publishedAt": "2026-11-01T12:04:59+00:00",
+        "sourceTitle": "High street ‘slot farms’ could avoid budget tax rise through bingo hall loophole",
+        "fingerprint": "edfecc5676bd2c0cf248522f",
+        "title": "Los centros de juego en Inglaterra podrían eludir la subida fiscal mediante un vacío legal",
+        "summary": "Cientos de centros de juego para adultos en Inglaterra mantienen licencias de bingo que les permiten acceder a descuentos en sus tasas comerciales. El Gobierno se enfrenta a la presión de cerrar este vacío legal tras aumentar los impuestos sobre las máquinas tragaperras.",
+        "paragraphs": [
+          "Numerosos establecimientos conocidos como 'slot farms' podrían evitar el incremento de la carga impositiva previsto en el presupuesto. Aunque el Ejecutivo ha elevado la tasa sobre los beneficios de las máquinas tragaperras del 20% al 25%, estos locales conservan la posibilidad de tributar como salas de bingo.",
+          "El ministro John Healey ha señalado a estos centros de juego para adultos, argumentando que el aumento de impuestos busca fomentar el crecimiento en las calles comerciales. Sin embargo, la persistencia de esta clasificación administrativa permite que sigan beneficiándose de reducciones fiscales."
+        ],
+        "bullets": [
+          "Los centros de juego para adultos utilizan licencias de bingo para obtener descuentos en tasas.",
+          "El Gobierno ha incrementado el impuesto sobre las máquinas tragaperras del 20% al 25%.",
+          "Existe una demanda para cerrar el vacío legal que permite esta exención fiscal."
+        ],
+        "eventKey": "centros de juego en Inglaterra eluden impuestos",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-9fdd859de5445198a141ff8f",
+        "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "section": "internacional",
+        "lang": "en",
+        "publishedAt": "2026-11-01T07:00:55+00:00",
+        "sourceTitle": "India's opposition holds mega rally seeking election chief's resignation",
+        "fingerprint": "d008644976cc89cb51e97a39",
+        "title": "La oposición india exige la dimisión del jefe electoral",
+        "summary": "Miles de manifestantes se han congregado en el centro de Delhi para reclamar la salida del comisionado jefe de la Comisión Electoral.",
+        "paragraphs": [
+          "Una multitud se ha reunido en la capital india en una protesta masiva contra el máximo responsable del organismo electoral del país.",
+          "Los convocantes han solicitado formalmente que el comisionado jefe abandone su cargo, en una movilización que ha ocupado el corazón de la ciudad."
+        ],
+        "bullets": [
+          "Protesta multitudinaria en Delhi.",
+          "Exigencia de dimisión del comisionado jefe electoral."
+        ],
+        "eventKey": "oposición india-protesta-Delhi",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-f063ceae6ff751ba9d7c0016",
+        "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+        "source": "The Guardian",
+        "section": "internacional",
+        "lang": "en",
+        "publishedAt": "2026-11-01T12:00:12+00:00",
+        "sourceTitle": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+        "fingerprint": "2df4baa5fa949ea810573f1e",
+        "title": "La aparente tregua comercial entre Estados Unidos y China es engañosa",
+        "summary": "Aunque el conflicto comercial entre las dos mayores potencias mundiales ha perdido protagonismo mediático, los expertos advierten de que la calma es ficticia. Existe el riesgo de que las tensiones latentes escalen hacia una confrontación económica de gran magnitud.",
+        "paragraphs": [
+          "La guerra comercial entre Estados Unidos y China parece haber quedado en un segundo plano frente a otras preocupaciones globales. Sin embargo, esta percepción de estabilidad es engañosa, ya que no se han tomado medidas reales para evitar futuras hostilidades.",
+          "Bajo la superficie, el escenario internacional se encamina hacia una posible guerra económica de proporciones épicas. Según el análisis, este tipo de tensiones históricamente han corrido el riesgo de derivar en conflictos de mayor gravedad."
+        ],
+        "bullets": [
+          "Las amenazas arancelarias de Donald Trump siguen surgiendo de forma intermitente.",
+          "La atención pública se ha desviado hacia otros temores como la inteligencia artificial o la estabilidad democrática.",
+          "La falta de acciones concretas mantiene latente el riesgo de una escalada económica."
+        ],
+        "eventKey": "EEUU y China mantienen tensiones comerciales latentes",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "ciencia": [
+      {
+        "id": "n-dd303facb7c61db2d289e92e",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
+        "source": "ScienceDaily",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-11-01T04:33:36+00:00",
+        "sourceTitle": "Scientists say a forgotten particle may explain why the universe exists",
+        "fingerprint": "ff0db79f279100c81d354dea",
+        "title": "Una partícula olvidada podría explicar la existencia del universo",
+        "summary": "Investigadores sugieren que un tipo de neutrino ignorado durante años habría sido determinante para la supervivencia de la materia tras el Big Bang.",
+        "paragraphs": [
+          "Un estudio reciente apunta a que una partícula, pasada por alto durante décadas, podría ser la clave para entender por qué existe la materia que compone estrellas y planetas. Según los científicos, este neutrino habría transformado el universo primitivo.",
+          "El equipo investigador señala que esta partícula podría haber generado señales de ondas gravitacionales detectables, lo que permitiría profundizar en los enigmas fundamentales del cosmos."
+        ],
+        "bullets": [
+          "La partícula podría explicar la supervivencia de la materia tras el Big Bang.",
+          "El neutrino habría moldeado el universo en sus etapas iniciales.",
+          "Se espera que el hallazgo ayude a resolver misterios cósmicos mediante ondas gravitacionales."
+        ],
+        "eventKey": "científicos-investigan-partícula-universo",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-0ca18ebd381f9f00feefaed2",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
+        "source": "NASA",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-11-01T04:05:00+00:00",
+        "sourceTitle": "APOD: 2026 November 1 – Colors of the Moon",
+        "fingerprint": "f4a89e85aebe9f54f2b5c792",
+        "title": "La NASA publica una imagen sobre los colores de la Luna",
+        "summary": "La sección Astronomy Picture of the Day de la NASA ha compartido una nueva fotografía centrada en la coloración del satélite terrestre.",
+        "paragraphs": [
+          "La agencia espacial estadounidense ha actualizado su portal divulgativo con una imagen que explora las tonalidades lunares, acompañada por una explicación técnica redactada por un astrónomo profesional.",
+          "Esta iniciativa forma parte de la serie diaria de la NASA que busca acercar el conocimiento del cosmos al público general mediante material visual y divulgación científica."
+        ],
+        "bullets": [
+          "Publicación diaria de la Astronomy Picture of the Day.",
+          "Enfoque en la diversidad cromática de la Luna.",
+          "Explicación técnica a cargo de expertos en astronomía."
+        ],
+        "eventKey": "NASA-publica-imagen-Luna",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-bd167004b89c953e7a8ad125",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm",
+        "source": "ScienceDaily",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-11-01T02:44:28+00:00",
+        "sourceTitle": "Scientists discover the hidden “muscles” trees use to straighten themselves",
+        "fingerprint": "8691a5216c997de55d50468d",
+        "title": "Descubierto el mecanismo que permite a los árboles enderezar sus troncos",
+        "summary": "Un equipo científico ha identificado que los árboles poseen una madera especializada que funciona como músculos opuestos para corregir su postura. Este hallazgo podría tener aplicaciones en la mejora de cultivos y la gestión forestal.",
+        "paragraphs": [
+          "Investigadores han revelado que los árboles cuentan con una capacidad intrínseca para detectar su propia forma y rectificar la inclinación de sus troncos. Este proceso se lleva a cabo mediante un tipo de madera específica que actúa de manera similar a la musculatura animal.",
+          "El descubrimiento abre nuevas vías para fortalecer la resistencia de los bosques y optimizar la calidad de la madera, además de ofrecer posibles beneficios para el desarrollo de cultivos más resilientes."
+        ],
+        "bullets": [
+          "Los árboles detectan su forma y corrigen su postura.",
+          "Utilizan madera especializada como músculos opuestos.",
+          "El hallazgo podría mejorar la producción de madera.",
+          "Se prevé una mayor resiliencia en futuros cultivos."
+        ],
+        "eventKey": "científicos-descubren-mecanismo-enderezamiento-árboles",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-ebf9e7f0e97f4b65a13c3566",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
+        "source": "NASA",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-10-31T04:05:00+00:00",
+        "sourceTitle": "APOD: 2026 October 31 – Night on a Spooky Planet",
+        "fingerprint": "ba416f43040a3b25f357d0fb",
+        "title": "La NASA publica una imagen astronómica con temática de Halloween",
+        "summary": "La sección 'Astronomy Picture of the Day' de la NASA ha compartido una fotografía especial con motivo de la festividad de Halloween.",
+        "paragraphs": [
+          "La agencia espacial estadounidense ha difundido una nueva imagen dentro de su serie diaria, que en esta ocasión se centra en una temática inquietante bajo el título 'Noche en un planeta espeluznante'."
+        ],
+        "bullets": [
+          "La iniciativa forma parte del archivo diario de la NASA sobre el cosmos.",
+          "Cada publicación incluye una explicación redactada por un astrónomo profesional."
+        ],
+        "eventKey": "NASA-publica-imagen-astronomica",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-0912aa804a0ffbc930fbd600",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
+        "source": "ScienceDaily",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-10-31T13:09:49+00:00",
+        "sourceTitle": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
+        "fingerprint": "4b56107b522c1bf9e5814d62",
+        "title": "Hallazgo de una muralla milenaria en Marruecos",
+        "summary": "El descubrimiento de una estructura defensiva de hace 4.000 años en Marruecos está obligando a los expertos a reconsiderar la historia de las civilizaciones del norte de África.",
+        "paragraphs": [
+          "Unas fortificaciones de gran envergadura halladas en territorio marroquí sugieren que las sociedades prehistóricas de la zona poseían un nivel de sofisticación mayor al que se creía hasta ahora.",
+          "Este hallazgo apunta a que la región pudo desempeñar un papel mucho más relevante en la historia del Mediterráneo de lo que se había documentado previamente."
+        ],
+        "bullets": [
+          "Estructura defensiva con cuatro milenios de antigüedad.",
+          "Evidencia de sociedades prehistóricas avanzadas.",
+          "Reevaluación del impacto histórico del norte de África en el Mediterráneo."
+        ],
+        "eventKey": "arqueólogos-descubren-muralla-marruecos",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "tecnologia": [
+      {
+        "id": "n-7d6c66bdb76199f1fa902cb7",
+        "url": "https://www.xataka.com/robotica-e-ia/ahora-apps-siempre-solo-podian-hacer-que-sus-creadores-querian-ia-esta-dinamitando-eso",
+        "source": "Xataka",
+        "section": "tecnologia",
+        "lang": "es",
+        "publishedAt": "2026-11-01T13:01:28+00:00",
+        "sourceTitle": "Hasta ahora, las apps de siempre solo podían hacer lo que sus creadores querían. La IA está dinamitando eso",
+        "fingerprint": "0ff14943dc807c2a3919de9a",
+        "title": "La inteligencia artificial transforma el desarrollo de aplicaciones hacia la personalización",
+        "summary": "La irrupción de la IA permite a los usuarios crear software a medida sin conocimientos de programación, desplazando el control que tradicionalmente ejercían los desarrolladores. Este cambio de paradigma, denominado vibecoding, traslada la dependencia de las aplicaciones hacia los modelos de lenguaje que las generan.",
+        "paragraphs": [
+          "Tradicionalmente, las aplicaciones se diseñaban con funciones cerradas y predefinidas por sus creadores, lo que obligaba a los usuarios a aceptar herramientas sobrecargadas de opciones innecesarias. La IA está rompiendo este modelo al permitir que cualquier persona desarrolle soluciones específicas mediante interfaces de chat.",
+          "Aunque esta capacidad de personalización otorga mayor autonomía al usuario, el poder real se desplaza hacia las grandes compañías tecnológicas que controlan los modelos de IA. Además, esta nueva forma de crear software conlleva riesgos, como la falta de soporte técnico y la dependencia de suscripciones a servicios de inteligencia artificial."
+        ],
+        "bullets": [
+          "El vibecoding facilita la creación de aplicaciones personalizadas sin necesidad de saber programar.",
+          "La IA permite adaptar el software a necesidades concretas, evitando el exceso de funciones innecesarias.",
+          "El control sobre las herramientas digitales se traslada de los desarrolladores a los proveedores de modelos de IA.",
+          "La personalización mediante IA no elimina los costes, sino que los desplaza hacia las suscripciones de los modelos utilizados."
+        ],
+        "eventKey": "usuarios y modelos de IA transforman el desarrollo de software",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-09310e121b13f32204f06fdd",
+        "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+        "source": "Ars Technica",
+        "section": "tecnologia",
+        "lang": "en",
+        "publishedAt": "2026-10-31T11:15:26+00:00",
+        "sourceTitle": "Seabirds racing home over the ocean can get jet-lagged",
+        "fingerprint": "4148d97a5400a5a952afb9df",
+        "title": "Las aves marinas sufren desfase horario tras largos vuelos",
+        "summary": "Un estudio sugiere que los viajes prolongados de las aves marinas desde sus zonas de alimentación alteran sus ritmos biológicos internos.",
+        "paragraphs": [
+          "Las aves marinas que realizan trayectos extensos para regresar a sus nidos experimentan un fenómeno similar al jet lag humano. Este desajuste se produce debido a la alteración de sus relojes internos tras pasar largos periodos volando sobre el océano.",
+          "La investigación apunta a que el esfuerzo y la duración de estos desplazamientos desde las áreas de alimentación afectan directamente a la sincronización biológica de estas especies."
+        ],
+        "bullets": [
+          "Los vuelos prolongados interfieren con los ritmos circadianos de las aves.",
+          "El fenómeno se asemeja al desfase horario que experimentan las personas."
+        ],
+        "eventKey": "aves marinas sufren desfase horario",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-fc87e12aea801dc699686e0f",
+        "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+        "source": "Ars Technica",
+        "section": "tecnologia",
+        "lang": "en",
+        "publishedAt": "2026-10-31T11:02:34+00:00",
+        "sourceTitle": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+        "fingerprint": "92cc1beebf57190330fb6197",
+        "title": "La FDA se enfrenta a dificultades para retirar la aprobación del fármaco Tavneos",
+        "summary": "La agencia reguladora estadounidense pretende revocar la autorización de Tavneos tras detectar irregularidades en los datos de los estudios clínicos. El caso plantea un dilema sobre si los pacientes deben mantener el acceso al medicamento mientras se resuelve el proceso.",
+        "paragraphs": [
+          "La FDA ha manifestado su intención de retirar la aprobación del fármaco Tavneos, argumentando que los datos presentados en los estudios fueron manipulados. Esta medida pone en duda la continuidad del tratamiento para los pacientes que actualmente lo utilizan.",
+          "El proceso de revocación no resulta sencillo para el organismo regulador, que ahora debe gestionar las implicaciones legales y sanitarias de esta decisión."
+        ],
+        "bullets": [
+          "La FDA alega manipulación en los datos de los estudios de Tavneos.",
+          "Existe incertidumbre sobre el acceso futuro de los pacientes al fármaco.",
+          "El proceso de retirada de la aprobación presenta complicaciones técnicas y legales."
+        ],
+        "eventKey": "FDA-retirada-aprobación-Tavneos",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-7a72007caabfa82fb5b45d73",
+        "url": "https://www.xataka.com/magnet/antes-se-marcaba-estatus-tonos-pastel-sobriedad-ahora-hemos-entrado-era-purpurina-brilli-brilli",
+        "source": "Xataka",
+        "section": "tecnologia",
+        "lang": "es",
+        "publishedAt": "2026-11-01T12:15:27+00:00",
+        "sourceTitle": "Antes se marcaba estatus con tonos pastel y sobriedad: ahora hemos entrado en la era de la purpurina y el brilli brilli",
+        "fingerprint": "91ede4f3ecc5117ff64d9034",
+        "title": "La era del 'bedazzling': el auge de la decoración con pedrería",
+        "summary": "La tendencia actual, denominada 'bedazzling' y enmarcada en el 'whimsymaxxing', propone decorar objetos cotidianos con gemas y brillantes como forma de evasión. Esta estética busca maximizar el placer personal frente a la cultura de la productividad extrema.",
+        "paragraphs": [
+          "El 'bedazzling' se ha convertido en una tendencia viral que consiste en cubrir prácticamente cualquier superficie, desde accesorios hasta objetos domésticos, con piedras de colores y purpurina. Este fenómeno, que huye de la sobriedad, se integra en el 'whimsymaxxing', una corriente que prioriza la extravagancia y la fantasía sobre la utilidad.",
+          "Más allá de la estética, esta moda se interpreta como una respuesta cultural ante la incertidumbre económica y la presión por la eficiencia constante. Al personalizar objetos con brillantes, los usuarios reivindican el placer y la creatividad como una forma de escapismo frente a las exigencias de la vida moderna."
+        ],
+        "bullets": [
+          "El 'bedazzling' consiste en plagar objetos de pedrería y gemas.",
+          "El 'whimsymaxxing' busca maximizar el placer de lo cotidiano mediante la personalización extravagante.",
+          "La tendencia se aleja de los cánones de sobriedad y productividad imperantes.",
+          "Se considera una forma de romanticismo y disfrute frente a la incertidumbre económica."
+        ],
+        "eventKey": "usuarios y marcas adoptan la tendencia de decoración con pedrería",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "economia": [
+      {
+        "id": "n-88f0fd8afdfdaa4d7e9d7aad",
+        "url": "https://elpais.com/economia/negocios/2026-11-01/la-era-de-los-desequilibrios.html",
+        "source": "El País",
+        "section": "economia",
+        "lang": "es",
+        "publishedAt": "2026-11-01T12:40:57+00:00",
+        "sourceTitle": "La era de los desequilibrios",
+        "fingerprint": "f9448b40a6b461e0b6ddbd1b",
+        "title": "La era de los desequilibrios",
+        "summary": "Un análisis económico advierte sobre la ineficacia y los efectos adversos de las medidas proteccionistas en el contexto actual.",
+        "paragraphs": [
+          "El artículo sostiene que las políticas de corte proteccionista no logran los objetivos previstos, resultando frecuentemente en consecuencias negativas para la economía."
+        ],
+        "bullets": [
+          "Cuestionamiento de la eficacia del proteccionismo.",
+          "Advertencia sobre los efectos contraproducentes de estas políticas."
+        ],
+        "eventKey": "economía-análisis-proteccionismo",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-f490d456fda9934ca9605dec",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "section": "economia",
+        "lang": "en",
+        "publishedAt": "2026-11-01T07:15:06+00:00",
+        "sourceTitle": "Energy bills help 'doesn't go far enough'",
+        "fingerprint": "9b83b211d7832ed086fed2d6",
+        "title": "Preocupación en West Midlands por el coste de la energía",
+        "summary": "Las familias de la región de West Midlands expresan su inquietud ante la insuficiencia de las ayudas actuales para afrontar las facturas energéticas durante el invierno.",
+        "paragraphs": [
+          "Los hogares de West Midlands han manifestado su temor ante la imposibilidad de cubrir los gastos de calefacción y electricidad durante los próximos meses fríos.",
+          "Según los afectados, las medidas de apoyo implementadas hasta la fecha resultan insuficientes para mitigar el impacto económico en sus economías domésticas."
+        ],
+        "bullets": [
+          "Inquietud ciudadana por el pago de facturas invernales.",
+          "Críticas a la insuficiencia de las ayudas energéticas actuales."
+        ],
+        "eventKey": "familias West Midlands preocupación facturas energía",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-02cfe10008fd3ee94a4e1718",
+        "url": "https://www.bbc.co.uk/news/articles/cm20wyg8j121o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "section": "economia",
+        "lang": "en",
+        "publishedAt": "2026-11-01T07:11:33+00:00",
+        "sourceTitle": "Diwali hampers to bring hope to families in need",
+        "fingerprint": "77b1949b7548be7e82fff52f",
+        "title": "Cestas de Diwali para familias necesitadas",
+        "summary": "Voluntarios de la iniciativa Diwali Basket Brigade buscan aliviar la situación de hogares vulnerables ante el encarecimiento de los alimentos.",
+        "paragraphs": [
+          "La organización Diwali Basket Brigade ha puesto en marcha una campaña de ayuda destinada a familias con dificultades económicas. El objetivo es proporcionar cestas con productos básicos para mitigar el impacto de la inflación en la cesta de la compra.",
+          "Esta iniciativa solidaria pretende ofrecer un apoyo directo a los hogares más afectados durante la festividad de Diwali."
+        ],
+        "bullets": [
+          "Apoyo a familias vulnerables ante la subida de precios.",
+          "Distribución de cestas de alimentos por parte de voluntarios."
+        ],
+        "eventKey": "Diwali Basket Brigade ayuda familias necesitadas",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "cultura": [
+      {
+        "id": "n-5d5c2b9b965cd235a4bdf50e",
+        "url": "https://www.theguardian.com/stage/2026/nov/01/the-best-theatre-to-stream-this-month-the-pelicot-trial-ita-music-damien-jalet-arcadia-salt",
+        "source": "The Guardian",
+        "section": "cultura",
+        "lang": "en",
+        "publishedAt": "2026-11-01T05:00:02+00:00",
+        "sourceTitle": "The best theatre to stream this month: the Gisèle Pelicot trial becomes an all-star play that ‘just floors you’",
+        "fingerprint": "57241e0a59ba8139d97f8e32",
+        "title": "El juicio a Gisèle Pelicot llega al teatro en Londres",
+        "summary": "La obra documental dirigida por Milo Rau sobre el caso de Gisèle Pelicot se representará en el County Hall de Londres y contará con retransmisión en directo.",
+        "paragraphs": [
+          "El director suizo Milo Rau ha adaptado el proceso judicial contra los hombres que drogaron y violaron a Gisèle Pelicot en una pieza documental de cuatro horas. La obra, creada junto a Servane Dècle, ha sido descrita por la dirección del Young Vic como una experiencia centrada en los hechos reales más que en la puesta en escena tradicional.",
+          "Tras agotar las entradas para su representación presencial el 30 de noviembre, la producción, que cuenta con un reparto encabezado por Adjoa Andoh, Rosie Jones y Olivia Williams, estará disponible mediante retransmisión en línea."
+        ],
+        "bullets": [
+          "La obra se basa en los hechos reales del juicio a Gisèle Pelicot.",
+          "El montaje se representará en el County Hall de Londres el 30 de noviembre.",
+          "La función contará con un reparto destacado y será emitida por streaming."
+        ],
+        "eventKey": "Milo Rau adapta juicio Gisèle Pelicot teatro Londres",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-6fad12afa59498936124a4d4",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/30/sctv-greatest-show-you-never-heard-of-netflix-comedy-sketch-show-documentary",
+        "source": "The Guardian",
+        "section": "cultura",
+        "lang": "en",
+        "publishedAt": "2026-10-30T15:33:19+00:00",
+        "sourceTitle": "‘It really was the idiots in charge’: inside the TV sketch show that launched a generation of stars",
+        "fingerprint": "e0f579b749eac8729bee0628",
+        "title": "El legado de SCTV, el programa de sketches que marcó a una generación",
+        "summary": "Un nuevo documental reivindica la influencia de la serie canadiense SCTV, un espacio de humor oscuro y vanguardista que impulsó las carreras de figuras como Eugene Levy o John Candy.",
+        "paragraphs": [
+          "El programa, emitido entre las décadas de los 70 y 80, se consolidó como una alternativa de culto frente a otras producciones estadounidenses de la época. Sus creadores apostaron por un estilo complejo y adelantado a su tiempo que cautivó a figuras como Conan O'Brien.",
+          "La producción no solo sirvió de plataforma para actores de renombre, sino que también dejó una huella notable en la evolución de la comedia televisiva, influyendo directamente en espacios como Los Simpson."
+        ],
+        "bullets": [
+          "SCTV destacó por su enfoque oscuro y multicapa.",
+          "Lanzó las carreras de Eugene Levy, Catherine O’Hara y John Candy.",
+          "El equipo de guionistas escribía bajo premisas de alta exigencia cultural.",
+          "El programa es considerado una de las producciones cómicas más influyentes."
+        ],
+        "eventKey": "SCTV-reivindicacion-legado-comedia",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ]
+  }
+}

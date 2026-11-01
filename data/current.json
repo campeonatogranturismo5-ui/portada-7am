@@ -1,723 +1,715 @@
 {
-  "date": "2026-10-30",
-  "updatedAt": "2026-10-30T13:36:55.878781+01:00",
+  "date": "2026-11-01",
+  "updatedAt": "2026-11-01T14:03:54.515328+01:00",
   "timezone": "Europe/Madrid",
   "sections": {
     "euskadi": [
       {
-        "id": "n-180a54e8a46d14914193e085",
-        "url": "https://www.durangon.com/la-quincena-musical-de-durango-reunira-cinco-conciertos-con-opera-clown-y-musica-de-camara/",
-        "source": "Durangon",
-        "section": "euskadi",
-        "lang": "es",
-        "publishedAt": "2026-10-30T10:40:38+00:00",
-        "sourceTitle": "La Quincena Musical de Durango ofrecerá cinco conciertos con ópera, clown y música de cámara",
-        "fingerprint": "23118f7e16469baa32508ed7",
-        "title": "La Quincena Musical de Durango programa cinco actuaciones",
-        "summary": "El ciclo musical se desarrollará en el espacio San Agustin entre noviembre y diciembre, combinando géneros como la ópera, el clown y la música de cámara.",
-        "paragraphs": [
-          "La localidad vizcaína acogerá una nueva edición de su Quincena Musical, que se extenderá desde el 8 de noviembre hasta el 13 de diciembre. La programación incluye un total de cinco recitales en el teatro San Agustin.",
-          "Entre los artistas confirmados destacan el saxofonista local Antón Gómez y el dúo formado por Judith Jáuregui y Ana María Valderrama, quienes ofrecerán su primer concierto conjunto en el marco de este evento."
-        ],
-        "bullets": [
-          "Fechas: del 8 de noviembre al 13 de diciembre.",
-          "Lugar: teatro San Agustin.",
-          "Géneros: ópera, clown y música de cámara.",
-          "Artistas destacados: Antón Gómez, Judith Jáuregui y Ana María Valderrama."
-        ],
-        "eventKey": "Quincena Musical de Durango celebra conciertos",
-        "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
-        "model": "gemini-3.1-flash-lite"
-      },
-      {
-        "id": "n-3b969b0bdf7c1232f327593a",
-        "url": "https://www.europapress.es/euskadi/noticia-diputacion-bizkaia-contara-2027-presupuesto-18067-millones-departamentos-515-mas-20261030132137.html",
+        "id": "n-a81374aff6a426a6ceb5e8d6",
+        "url": "https://www.europapress.es/euskadi/noticia-obispo-bilbao-lamenta-vez-mas-haya-fenomeno-violento-euskadi-apela-dialogo-20261101124749.html",
         "source": "Europa Press Euskadi",
         "section": "euskadi",
         "lang": "es",
-        "publishedAt": "2026-10-30T12:21:37+00:00",
-        "sourceTitle": "Diputación de Bizkaia contará en 2027 con un presupuesto de 1.806,7 millones para sus departamentos, un 5,15% más",
-        "fingerprint": "0447e92f43bcf1f2e8f33b7b",
-        "title": "La Diputación de Bizkaia incrementa su presupuesto para 2027",
-        "summary": "El proyecto presupuestario de la Diputación Foral de Bizkaia para el próximo año contempla un aumento global del 6,98% y un incremento específico del 5,15% en la partida destinada a los departamentos.",
+        "publishedAt": "2026-11-01T11:47:49+00:00",
+        "sourceTitle": "El Obispo de Bilbao lamenta que, \"una vez más, haya un fenómeno violento\" en Euskadi y apela al diálogo",
+        "fingerprint": "5d772b2f7c0d9c8c0e550816",
+        "title": "El obispo de Bilbao condena la violencia en Euskadi y pide diálogo",
+        "summary": "El prelado ha expresado su pesar ante la reaparición de actos violentos en la región, instando a buscar soluciones mediante el entendimiento.",
         "paragraphs": [
-          "La institución foral ha dado luz verde a un proyecto de presupuestos que asciende a 12.110,1 millones de euros. De esta cifra total, 1.806,7 millones se reservarán para el gasto departamental.",
-          "Este movimiento supone un crecimiento en la capacidad de inversión y gestión de los distintos departamentos respecto a las cuentas del presente ejercicio."
+          "El obispo de Bilbao ha manifestado su preocupación por la reciente irrupción de episodios violentos en el País Vasco. Ante esta situación, ha hecho un llamamiento a la convivencia y al diálogo como vías necesarias para resolver los conflictos.",
+          "El representante eclesiástico ha subrayado la importancia de atender las inquietudes ciudadanas para lograr una sociedad integradora donde tengan cabida todas las personas."
         ],
         "bullets": [
-          "Presupuesto total de 12.110,1 millones de euros.",
-          "Aumento del 6,98% en el presupuesto global.",
-          "Partida departamental de 1.806,7 millones de euros.",
-          "Incremento del 5,15% en el disponible departamental."
+          "Condena de los nuevos episodios violentos en Euskadi.",
+          "Apelación al diálogo como herramienta de resolución.",
+          "Defensa de una sociedad inclusiva para todos."
         ],
-        "eventKey": "Diputación de Bizkaia aprueba proyecto de presupuestos 2027",
+        "eventKey": "Obispo de Bilbao condena violencia en Euskadi",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-a88f822cf1e8b79839265bef",
-        "url": "https://www.durangon.com/durangoko-udalak-hezkuntza-kontseilu-berria-aurkeztu-dio-hezkuntza-komunitateari/",
+        "id": "n-caca13545d78082f017f365f",
+        "url": "https://www.durangon.com/iurreta-suspende-el-control-por-camaras-de-bidebarrieta-hasta-revisar-las-propuestas-vecinales/",
         "source": "Durangon",
         "section": "euskadi",
         "lang": "es",
-        "publishedAt": "2026-10-30T03:45:35+00:00",
-        "sourceTitle": "Durangoko Udalak Hezkuntza Kontseilu berria aurkeztu dio hezkuntza-komunitateari",
-        "fingerprint": "b53f1685b8309b412b1cd6b6",
-        "title": "El Ayuntamiento de Durango presenta su nuevo Consejo de Educación",
-        "summary": "El consistorio ha dado a conocer el funcionamiento y los próximos pasos de este nuevo órgano a los agentes educativos locales.",
+        "publishedAt": "2026-11-01T03:22:53+00:00",
+        "sourceTitle": "Iurreta suspende el control por cámaras de Bidebarrieta hasta revisar las propuestas vecinales",
+        "fingerprint": "a0fa7cf0c35d3bd5273d6fa2",
+        "title": "Iurreta paraliza el control de cámaras en Bidebarrieta",
+        "summary": "El Ayuntamiento de Iurreta ha decidido suspender temporalmente el sistema de vigilancia en Bidebarrieta para analizar las sugerencias de los residentes. La medida se mantendrá vigente hasta la aprobación de una nueva normativa municipal.",
         "paragraphs": [
-          "El Ayuntamiento de Durango ha convocado a los representantes de la comunidad educativa para exponer la estructura del recién creado Consejo de Educación. Durante el encuentro, se ha detallado cómo se han integrado las aportaciones recibidas en el proceso de creación.",
-          "El objetivo de la sesión ha sido establecer las bases para la puesta en marcha del organismo y definir la hoja de ruta a seguir en las próximas etapas."
+          "El Consistorio ha optado por desactivar el control mediante cámaras en la zona de Bidebarrieta. Esta decisión se produce apenas tres días después de que se hubiera anunciado el inicio de su funcionamiento.",
+          "La inactividad del sistema se prolongará hasta que se publique la ordenanza correspondiente, permitiendo así que se evalúen las propuestas presentadas por el vecindario."
         ],
         "bullets": [
-          "Presentación del funcionamiento del nuevo órgano educativo.",
-          "Integración de las propuestas de los agentes participantes.",
-          "Planificación de los pasos futuros para su activación."
+          "Suspensión temporal del control por cámaras en Bidebarrieta.",
+          "El sistema permanecerá inactivo hasta la publicación de la nueva ordenanza.",
+          "El Ayuntamiento revisará las propuestas vecinales antes de retomar la medida."
         ],
-        "eventKey": "Ayuntamiento de Durango presenta Consejo de Educación",
+        "eventKey": "Ayuntamiento de Iurreta suspende control cámaras Bidebarrieta",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-ba5c3719d59fd1e61b094663",
-        "url": "https://www.europapress.es/euskadi/noticia-danjou-insta-partidos-olvidar-contexto-preelectoral-negociar-cuentas-vascas-ideas-prejuzgadas-20261030114021.html",
+        "id": "n-1feb44140ce7cacb702244fa",
+        "url": "https://www.europapress.es/euskadi/noticia-tunel-artxanda-cerrara-trafico-lunes-cinco-meses-obras-rehabilitacion-20261101092955.html",
         "source": "Europa Press Euskadi",
         "section": "euskadi",
         "lang": "es",
-        "publishedAt": "2026-10-30T10:40:21+00:00",
-        "sourceTitle": "D'Anjou insta a los partidos a \"olvidar el contexto preelectoral\" y negociar las cuentas vascas sin \"ideas prejuzgadas\"",
-        "fingerprint": "2fb04d2693bbea4bbe66816f",
-        "title": "D'Anjou pide negociar los presupuestos vascos al margen de la precampaña",
-        "summary": "El consejero vasco ha reclamado a las formaciones políticas que aparquen el clima preelectoral para pactar las cuentas públicas. Asimismo, ha garantizado el compromiso del Ejecutivo con la viabilidad de empresas como Tubos Reunidos y Vicinay.",
+        "publishedAt": "2026-11-01T08:29:55+00:00",
+        "sourceTitle": "El túnel de Artxanda se cerrará al tráfico este lunes, durante cinco meses, por obras de rehabilitación",
+        "fingerprint": "c052d23a86c8b207124265af",
+        "title": "Cierre del túnel de Artxanda por obras de rehabilitación",
+        "summary": "El túnel que une La Salve y el Txorierri permanecerá cerrado al tráfico durante cinco meses a partir de este lunes para realizar trabajos de mejora integral.",
         "paragraphs": [
-          "El consejero D'Anjou ha instado a los partidos políticos a dejar a un lado las estrategias electorales y las ideas preconcebidas para facilitar la negociación de los presupuestos de Euskadi.",
-          "En el ámbito industrial, el Gobierno Vasco ha manifestado su intención de respaldar aquellos proyectos que demuestren ser sostenibles y viables, citando específicamente los casos de Tubos Reunidos y Vicinay."
+          "La Diputación Foral de Bizkaia ha programado el cierre del túnel de Artxanda para llevar a cabo una rehabilitación completa de la infraestructura. La restricción al tráfico comenzará este lunes, 2 de noviembre, a partir de las 20.00 horas.",
+          "Se prevé que los trabajos de adecuación se prolonguen durante un periodo de cinco meses."
         ],
         "bullets": [
-          "Llamamiento a la negociación presupuestaria sin sesgos electorales.",
-          "Apoyo gubernamental a proyectos industriales sostenibles.",
-          "Atención específica a la situación de Tubos Reunidos y Vicinay."
+          "Inicio del cierre: lunes 2 de noviembre a las 20.00 horas.",
+          "Duración estimada de las obras: cinco meses.",
+          "Motivo: rehabilitación integral de la infraestructura.",
+          "Promotor: Diputación Foral de Bizkaia."
         ],
-        "eventKey": "D'Anjou-negociar-presupuestos-Euskadi",
+        "eventKey": "Diputación Foral de Bizkaia cierra túnel de Artxanda",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-b39b09c021321b0ecd01b550",
-        "url": "https://www.durangon.com/durango-impartira-formaciones-gratuitas-de-inteligencia-artificial-para-comercios-y-lengua-de-signos/",
+        "id": "n-d651d1461d27dddc35cb3d03",
+        "url": "https://www.durangon.com/el-ezkurdi-jai-alai-homenajeara-a-helena-barrenetxea-tras-su-exito-en-el-mundial-de-pelota-vasca/",
         "source": "Durangon",
         "section": "euskadi",
         "lang": "es",
-        "publishedAt": "2026-10-29T12:32:55+00:00",
-        "sourceTitle": "Durango impartirá formaciones gratuitas de Inteligencia Artificial para comercios y lengua de signos",
-        "fingerprint": "7c483937796f224bb70f3d16",
-        "title": "Durango ofrecerá cursos gratuitos de IA y lengua de signos",
-        "summary": "El Ayuntamiento de Durango ha anunciado la puesta en marcha de talleres formativos sin coste dirigidos a mejorar la atención y gestión en los comercios locales.",
+        "publishedAt": "2026-10-31T15:12:29+00:00",
+        "sourceTitle": "El Ezkurdi Jai Alai homenajeará a Helena Barrenetxea tras su éxito en el Mundial de Pelota Vasca",
+        "fingerprint": "3f7d600bd8ea46167837bea5",
+        "title": "Homenaje a Helena Barrenetxea en el Ezkurdi Jai Alai",
+        "summary": "El club Durango Uria Jai Alai celebrará un acto de reconocimiento a la pelotari Helena Barrenetxea tras su reciente desempeño en el Mundial de Pelota Vasca.",
         "paragraphs": [
-          "La administración local ha programado sesiones de aprendizaje centradas en la inteligencia artificial y la lengua de signos. El objetivo es integrar estas competencias en la operativa diaria de los negocios del municipio.",
-          "Esta iniciativa pretende facilitar el acceso a nuevas herramientas tecnológicas y mejorar la accesibilidad comunicativa en el sector comercial."
+          "La deportista, que forma parte de la entidad organizadora, recibirá este tributo en el frontón Ezkurdi Jai Alai como consecuencia de sus resultados en la competición internacional."
         ],
         "bullets": [
-          "Formación gratuita en inteligencia artificial.",
-          "Talleres de lengua de signos para comerciantes.",
-          "Enfoque en la aplicación práctica en establecimientos."
+          "Reconocimiento a la trayectoria reciente de la pelotari.",
+          "Organización a cargo del club Durango Uria Jai Alai."
         ],
-        "eventKey": "Ayuntamiento de Durango imparte formación en Durango",
+        "eventKey": "Helena Barrenetxea homenajeada en Durango",
         "partial": true,
-        "summarizedAt": "2026-10-29T12:44:58.091938+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-bfaa11e79c3fea962080a26e",
+        "url": "https://www.europapress.es/euskadi/noticia-cientos-personas-marchan-bilbao-exigir-libertad-aratz-malen-acusados-terrorismo-20261031185554.html",
+        "source": "Europa Press Euskadi",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-10-31T17:55:54+00:00",
+        "sourceTitle": "Cientos de personas marchan en Bilbao para exigir la libertad de Aratz y Malen, acusados de terrorismo",
+        "fingerprint": "c79211a66a182170cbb6f2e0",
+        "title": "Manifestación en Bilbao por la libertad de dos detenidos por terrorismo",
+        "summary": "Cientos de personas se han concentrado en Bilbao para reclamar la liberación de Aratz y Malen, quienes permanecen en prisión provisional tras ser arrestados en Irun.",
+        "paragraphs": [
+          "La movilización, organizada por la plataforma Aske y vinculada a la coordinadora Jardun, ha tenido lugar este sábado en la capital vizcaína. Los asistentes han protestado contra la situación de los dos detenidos, acusados de un supuesto delito de terrorismo.",
+          "Aratz y Malen fueron arrestados el pasado 17 de octubre en Irun. Actualmente, ambos se encuentran en prisión provisional por decisión de un magistrado de la Audiencia Nacional."
+        ],
+        "bullets": [
+          "Convocatoria organizada por la organización Aske.",
+          "Los detenidos están acusados de un supuesto delito de terrorismo.",
+          "El ingreso en prisión fue ordenado por la Audiencia Nacional."
+        ],
+        "eventKey": "Aratz y Malen manifestación libertad Bilbao",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ],
     "espana": [
       {
-        "id": "n-e152c53d465e29c95f03f708",
-        "url": "https://www.europapress.es/nacional/noticia-guardia-civil-detiene-picanya-valencia-fundador-blocus-espana-detras-actos-pillaje-20261030132356.html",
+        "id": "n-89630635e707acd71c7e97a9",
+        "url": "https://www.europapress.es/nacional/noticia-pp-personara-causa-accidente-urda-exige-gobierno-asuma-responsabilidades-20261101131641.html",
         "source": "Europa Press",
         "section": "espana",
         "lang": "es",
-        "publishedAt": "2026-10-30T12:23:56+00:00",
-        "sourceTitle": "La Guardia Civil detiene en Picanya (Valencia) al fundador de Blocus España detrás de los actos de pillaje",
-        "fingerprint": "a59d37055a08c9fc56363968",
-        "title": "Detenido en Valencia el fundador de Blocus España por incitar al pillaje",
-        "summary": "La Guardia Civil ha arrestado en Picanya al supuesto cabecilla del movimiento Blocus, al que se atribuye la organización de saqueos y actos violentos bajo el pretexto de protestas estudiantiles.",
+        "publishedAt": "2026-11-01T12:16:41+00:00",
+        "sourceTitle": "El PP se personará en la causa por el accidente de Urda y exige al Gobierno que asuma responsabilidades",
+        "fingerprint": "52ba9e65d472b02a638750df",
+        "title": "El PP se personará en la investigación del accidente ferroviario de Urda",
+        "summary": "El Partido Popular ha anunciado su intención de participar en el proceso judicial abierto tras el siniestro ferroviario ocurrido en la localidad toledana de Urda. La formación reclama al Ejecutivo que asuma las responsabilidades políticas derivadas de los hechos.",
         "paragraphs": [
-          "El operativo policial ha culminado con la detención del principal impulsor de esta organización en territorio nacional. Las autoridades señalan que el sospechoso utilizaba las redes sociales para convocar acciones que derivaban en pillaje y violencia en establecimientos comerciales.",
-          "La investigación vincula directamente al arrestado con la difusión de mensajes que, camuflados como reivindicaciones estudiantiles, tenían como objetivo final la comisión de delitos contra la propiedad."
+          "La vicesecretaria de Regeneración Institucional del PP, Alma Ezcurra, ha confirmado que el partido se personará en la causa judicial. El objetivo es garantizar que se investigue el suceso hasta sus últimas consecuencias y se determinen las responsabilidades pertinentes.",
+          "La formación ha instado al Gobierno a responder por lo ocurrido en el accidente, manteniendo la presión sobre la gestión del Ejecutivo en relación con este siniestro."
         ],
         "bullets": [
-          "Detención efectuada en la localidad valenciana de Picanya.",
-          "El detenido es señalado como el fundador y principal impulsor de Blocus España.",
-          "Se le acusa de promover saqueos y violencia mediante convocatorias en redes sociales."
+          "El PP se personará en la causa judicial por el accidente de Urda.",
+          "Exigen al Gobierno que asuma responsabilidades por el suceso.",
+          "La formación busca que se investiguen los hechos hasta el final."
         ],
-        "eventKey": "Fundador de Blocus España detenido en Valencia",
+        "eventKey": "PP-personación-accidente-Urda",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-9a88124f755358725734f548",
-        "url": "https://www.eldiario.es/politica/puente-descarta-dimitir-facil-salir-no-caracter-pedido-presidente_1_13627087.html",
+        "id": "n-7d243363ae83b20c9673c47b",
+        "url": "https://www.eldiario.es/politica/gobierno-aprobara-martes-ayudas-economicas-victimas-accidente-urda_1_13630405.html",
         "source": "elDiario.es",
         "section": "espana",
         "lang": "es",
-        "publishedAt": "2026-10-30T12:06:14+00:00",
-        "sourceTitle": "Puente descarta dimitir: \"Lo fácil para mí es salir, pero no va con mi carácter ni es lo que me ha pedido el presidente\"",
-        "fingerprint": "25a1627db6fa765dfa09aebe",
-        "title": "Óscar Puente descarta dimitir tras los accidentes ferroviarios",
-        "summary": "El ministro de Transportes ha anunciado que continuará en su cargo pese a las críticas y la crisis en la alta velocidad, contando con el respaldo de Pedro Sánchez.",
+        "publishedAt": "2026-11-01T11:16:13+00:00",
+        "sourceTitle": "El Gobierno aprobará el martes las ayudas económicas para las víctimas del accidente de Urda",
+        "fingerprint": "ffb570523a22125823c38476",
+        "title": "El Gobierno aprobará ayudas para los afectados por el accidente ferroviario de Urda",
+        "summary": "El Ejecutivo tiene previsto aprobar este martes un real decreto con medidas económicas para las víctimas del siniestro en Toledo, mientras el ministro Óscar Puente presentará un informe sobre lo ocurrido.",
         "paragraphs": [
-          "Óscar Puente ha rechazado presentar su dimisión tras los recientes accidentes ferroviarios que han causado decenas de fallecidos. El ministro sostiene que su responsabilidad es dar explicaciones y resolver la situación, descartando abandonar su puesto a pesar de prever un periodo de fuertes críticas y descalificaciones durante la campaña electoral.",
-          "Por su parte, el presidente del Gobierno ha reconocido que la confianza en el sistema de alta velocidad está quebrada tras los siniestros de Adamuz y Urda. Sánchez califica los hechos como inasumibles y subraya la necesidad de garantizar la seguridad futura, mientras mantiene su apoyo a Puente para liderar la recuperación de la fiabilidad del servicio."
+          "El Consejo de Ministros abordará el próximo martes la aprobación de ayudas directas para los damnificados por el accidente ferroviario ocurrido en Urda. El ministro de Transportes, Óscar Puente, será el encargado de presentar un informe detallado sobre el suceso y comparecerá posteriormente ante la prensa y la Diputación Permanente del Congreso.",
+          "El presidente Pedro Sánchez mantiene su respaldo a Puente para gestionar la crisis, a pesar de reconocer que la confianza ciudadana en el sistema ferroviario se encuentra dañada tras este incidente y el previo en Adamuz. El ministro trabaja actualmente en medidas técnicas para evitar futuros fallos y restaurar la seguridad en la red."
         ],
         "bullets": [
-          "Puente afirma que su continuidad responde a su carácter y a la petición expresa del presidente.",
-          "El ministro se compromete a trabajar para recuperar la confianza de la ciudadanía en el tren.",
-          "Sánchez admite que los accidentes han generado una crisis de confianza en la alta velocidad española."
+          "El real decreto busca ofrecer apoyo económico urgente a los afectados, siguiendo el precedente establecido tras el accidente de Adamuz.",
+          "Óscar Puente descarta su dimisión y se centra en la gestión de la crisis y la mejora de la confianza en el sistema ferroviario.",
+          "El ministro comparecerá en Moncloa y en el Congreso para explicar los detalles técnicos del siniestro."
         ],
-        "eventKey": "Óscar Puente-mantiene cargo-Ministerio de Transportes",
+        "eventKey": "Gobierno-aprueba-ayudas-accidente-Urda",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-8c54debbe2c6f8ff0f0813d3",
-        "url": "https://www.europapress.es/catalunya/noticia-colau-pide-dimision-oscar-puente-deberia-producir-antes-posible-20261030131913.html",
+        "id": "n-bb7c5a6b1494bd9ebee98a24",
+        "url": "https://www.europapress.es/nacional/noticia-senadora-mayor-patrimonio-inmobiliario-no-ira-listas-pp-29n-20261101121947.html",
         "source": "Europa Press",
         "section": "espana",
         "lang": "es",
-        "publishedAt": "2026-10-30T12:19:13+00:00",
-        "sourceTitle": "Colau pide la dimisión de Óscar Puente: \"Se debería producir lo antes posible\"",
-        "fingerprint": "e2f54903169caa2c25df7e1f",
-        "title": "Ada Colau exige la dimisión inmediata del ministro Óscar Puente",
-        "summary": "La candidata de Frente Amplio ha reclamado la salida del titular de Transportes, instando a que se materialice con la mayor brevedad posible.",
+        "publishedAt": "2026-11-01T11:19:47+00:00",
+        "sourceTitle": "La senadora con mayor patrimonio inmobiliario no irá en las listas del PP para el 29N",
+        "fingerprint": "fd848f708a644119c8370ab9",
+        "title": "María Salom Coll queda fuera de las listas del PP para el 29N",
+        "summary": "La senadora, conocida por poseer el mayor patrimonio inmobiliario de la pasada legislatura, no formará parte de la candidatura popular en las próximas elecciones generales.",
         "paragraphs": [
-          "Ada Colau, aspirante a las elecciones generales del 29N, ha solicitado formalmente la dimisión de Óscar Puente al frente del Ministerio de Transportes y Movilidad Sostenible.",
-          "Aunque la candidata ha evitado fijar un plazo concreto para el cese, ha subrayado la urgencia de que este se produzca cuanto antes."
+          "María Salom Coll, dirigente del Partido Popular, no concurrirá a los comicios generales convocados para el 29 de noviembre. La senadora destacó anteriormente por declarar un amplio conjunto de propiedades inmobiliarias.",
+          "Su ausencia en las listas marca un cambio en la composición de la formación para esta cita electoral."
         ],
         "bullets": [
-          "Colau demanda la salida de Puente del Gobierno.",
-          "La petición se enmarca en la campaña electoral del 29N.",
-          "La formación espera que el relevo se ejecute con celeridad."
+          "María Salom Coll no repetirá en las listas del PP.",
+          "La senadora poseía diez inmuebles, ocho locales y veinte plazas de garaje.",
+          "La exclusión se produce de cara a las elecciones del 29 de noviembre."
         ],
-        "eventKey": "Ada Colau solicita dimisión Óscar Puente",
+        "eventKey": "María Salom Coll exclusión listas PP",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-b0ff9c567bc70fb09159af6d",
-        "url": "https://www.europapress.es/nacional/noticia-feijoo-acusa-sanchez-abandonar-cultura-seguridad-avisa-responsabilidad-dirimira-29n-20261030131342.html",
+        "id": "n-40a3776bef554647a0c63b2f",
+        "url": "https://www.eldiario.es/politica/alvise-acude-primeras-generales-rodeado-ejecutiva-abandonado-candidatos-europeas_1_13622159.html",
+        "source": "elDiario.es",
+        "section": "espana",
+        "lang": "es",
+        "publishedAt": "2026-10-31T21:12:18+00:00",
+        "sourceTitle": "Alvise acude a sus primeras generales rodeado de su ejecutiva y abandonado por sus candidatos de las europeas",
+        "fingerprint": "60b6ec0c881ad91b0fc0d960",
+        "title": "Alvise Pérez afronta sus primeras generales con una lista renovada y sin sus antiguos eurodiputados",
+        "summary": "El líder de Se Acabó La Fiesta concurre a las elecciones generales del 29 de noviembre rodeado de su ejecutiva y sin el apoyo de los candidatos que le acompañaron en las europeas. El proyecto, que enfrenta diversas causas judiciales, busca representación en el Congreso tras la ruptura con sus antiguos parlamentarios.",
+        "paragraphs": [
+          "Luis 'Alvise' Pérez encabeza la candidatura por Madrid para las próximas elecciones generales, apoyado principalmente por miembros de su ejecutiva y antiguos cabezas de lista de los comicios autonómicos en Aragón y Andalucía. La formación, que se constituyó como partido tras su paso por Bruselas, presenta listas en la mayoría de las circunscripciones, aunque con una notable ausencia de los candidatos que formaron parte de su lista europea en 2024.",
+          "El contexto electoral de la formación está marcado por la ruptura con sus dos eurodiputados, Diego Solier y Nora Junco, quienes abandonaron el grupo tras denunciar acoso. Paralelamente, Alvise Pérez se encuentra imputado en el Tribunal Supremo por presunta financiación ilegal y por el uso de datos personales contra sus antiguos compañeros."
+        ],
+        "bullets": [
+          "Alvise Pérez es la única cara visible de un proyecto que, según el CIS, no tiene garantizada representación en el Congreso.",
+          "La lista incluye a cargos rebotados de otras formaciones como Vox o Ciudadanos.",
+          "El líder de SALF afronta investigaciones judiciales por presunta financiación irregular con criptomonedas.",
+          "Solo dos personas de la lista original de las europeas repiten en esta convocatoria electoral."
+        ],
+        "eventKey": "Alvise Pérez presenta candidaturas a las elecciones generales",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-ccdc407ab11e36b3e46fd006",
+        "url": "https://www.europapress.es/nacional/noticia-frente-amplio-podemos-pugnan-jec-herencia-sumar-reparto-tiempos-rtve-20261101105956.html",
         "source": "Europa Press",
         "section": "espana",
         "lang": "es",
-        "publishedAt": "2026-10-30T12:13:42+00:00",
-        "sourceTitle": "Feijóo acusa a Sánchez de abandonar la \"cultura de seguridad\" y avisa: Su responsabilidad se dirimirá el 29N",
-        "fingerprint": "ea641e58656f4f3186e859f0",
-        "title": "Feijóo vincula los accidentes ferroviarios a la gestión de Sánchez y señala al 29N",
-        "summary": "El líder del Partido Popular ha responsabilizado al Ejecutivo de Pedro Sánchez de descuidar la seguridad ferroviaria tras registrarse dos graves siniestros en un periodo inferior a un año. Feijóo ha advertido que el electorado juzgará esta gestión en la cita con las urnas del próximo 29 de noviembre.",
+        "publishedAt": "2026-11-01T09:59:56+00:00",
+        "sourceTitle": "Frente Amplio y Podemos pugnan en la JEC por la herencia de Sumar en el reparto de tiempos en RTVE",
+        "fingerprint": "45def6dda9478abf9f3a7562",
+        "title": "Disputa en la JEC por el reparto de tiempos electorales de Sumar",
+        "summary": "Frente Amplio y Podemos han iniciado una pugna ante la Junta Electoral Central para reclamar los derechos de la coalición Sumar de cara a las elecciones del 29 de noviembre.",
         "paragraphs": [
-          "Alberto Núñez Feijóo ha arremetido contra el Gobierno central, al que acusa de haber dejado de lado la cultura de seguridad. Según el dirigente popular, los recientes accidentes en la red ferroviaria son una prueba directa de esta supuesta dejadez en la administración pública.",
-          "Ante este escenario, el candidato a la Presidencia ha subrayado que la responsabilidad política de Sánchez deberá ser evaluada por los ciudadanos. El líder del PP ha fijado el 29 de noviembre como la fecha clave en la que se dirimirá este asunto en las urnas."
+          "Ambas formaciones, que concurrieron juntas en las elecciones generales de 2023, se disputan ahora la herencia de dicha coalición. El conflicto se centra en cómo debe realizarse el reparto de tiempos en los informativos y los espacios de propaganda electoral en RTVE.",
+          "La resolución de la JEC será determinante para establecer la presencia mediática de cada partido durante la campaña electoral que culminará en los comicios de finales de noviembre."
         ],
         "bullets": [
-          "Feijóo denuncia el abandono de la cultura de seguridad por parte del Gobierno.",
-          "Los dos accidentes ferroviarios recientes se presentan como evidencia de la gestión criticada.",
-          "El PP sitúa el 29 de noviembre como el momento para exigir responsabilidades políticas."
+          "Conflicto por la herencia de la coalición Sumar.",
+          "Impacto directo en el reparto de tiempos en RTVE.",
+          "Afecta a la campaña de las elecciones del 29 de noviembre."
         ],
-        "eventKey": "Feijóo acusa a Sánchez por accidentes ferroviarios",
+        "eventKey": "Frente Amplio y Podemos disputan tiempos electorales ante la JEC",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ],
     "internacional": [
       {
-        "id": "n-d739e6ac886f7d18169f653e",
-        "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+        "id": "n-f845da07825410f4870fccb8",
+        "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "section": "internacional",
         "lang": "en",
-        "publishedAt": "2026-10-30T12:25:53+00:00",
-        "sourceTitle": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-        "fingerprint": "f0b54103b3a4df1d5e9214d5",
-        "title": "Evacuación en la localidad ocupada de Oleshky",
-        "summary": "Se ha habilitado un corredor para la salida de residentes en la ciudad de Oleshky, bajo ocupación rusa, ante la grave situación humanitaria.",
+        "publishedAt": "2026-11-01T11:57:48+00:00",
+        "sourceTitle": "Shops looted as German cost of living protests turn violent",
+        "fingerprint": "939e93f75455c2ee6475e2fb",
+        "title": "Saqueos en Alemania durante las protestas por el coste de la vida",
+        "summary": "Varias ciudades alemanas han registrado episodios de violencia y saqueos en el marco de las movilizaciones contra el encarecimiento del nivel de vida. Estas protestas han coincidido con manifestaciones masivas en Francia.",
         "paragraphs": [
-          "La apertura de un corredor de evacuación permite a los habitantes abandonar Oleshky, una localidad situada en el frente de batalla. La zona sufre una carencia crítica de suministros básicos como electricidad, gas y agua corriente.",
-          "A pesar de las condiciones extremas, se estima que varios cientos de personas han optado por permanecer en la ciudad."
+          "Las protestas, que han afectado a núcleos urbanos como Berlín, Hamburgo y Frankfurt, han derivado en disturbios y saqueos en establecimientos comerciales.",
+          "La jornada de movilizaciones en Alemania se ha producido de forma simultánea a las protestas multitudinarias que han tenido lugar en Francia."
         ],
         "bullets": [
-          "Habilitación de un corredor de evacuación en Oleshky.",
-          "Ausencia de servicios básicos de luz, gas y agua.",
-          "Persistencia de cientos de residentes en la zona de frente."
+          "Saqueos en comercios alemanes.",
+          "Protestas por el coste de la vida en Alemania.",
+          "Movilizaciones simultáneas en Francia."
         ],
-        "eventKey": "residentes-evacuan-oleshky",
+        "eventKey": "manifestantes alemanes saquean comercios en Alemania",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-6cbb410fe6c2ffc8264488fe",
-        "url": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
+        "id": "n-2fb0efb57addc66b0adb83fd",
+        "url": "https://www.theguardian.com/society/2026/nov/01/high-street-slot-farms-budget-tax-rise-business-rates-bingo-licence-loophole",
         "source": "The Guardian",
         "section": "internacional",
         "lang": "en",
-        "publishedAt": "2026-10-30T12:20:17+00:00",
-        "sourceTitle": "Pedro Sánchez says people of 27 nationalities may be among those killed or injured in Spanish train crash – Europe live",
-        "fingerprint": "58c14c84d604bc33d0183806",
-        "title": "Investigación abierta tras el accidente ferroviario en Toledo",
-        "summary": "Las autoridades españolas investigan un grave siniestro ferroviario que ha dejado al menos 69 fallecidos y decenas de desaparecidos. El ministro de Transportes apunta a un posible fallo en el centro de control de Adif, aunque la investigación sigue en curso.",
+        "publishedAt": "2026-11-01T12:04:59+00:00",
+        "sourceTitle": "High street ‘slot farms’ could avoid budget tax rise through bingo hall loophole",
+        "fingerprint": "edfecc5676bd2c0cf248522f",
+        "title": "Los centros de juego en Inglaterra podrían eludir la subida fiscal mediante un vacío legal",
+        "summary": "Cientos de centros de juego para adultos en Inglaterra mantienen licencias de bingo que les permiten acceder a descuentos en sus tasas comerciales. El Gobierno se enfrenta a la presión de cerrar este vacío legal tras aumentar los impuestos sobre las máquinas tragaperras.",
         "paragraphs": [
-          "El balance de víctimas del accidente de tren en Toledo podría aumentar, dado que todavía hay al menos 70 personas cuyo paradero se desconoce. Entre los afectados se encuentran ciudadanos de hasta 27 nacionalidades distintas.",
-          "El ministro Óscar Puente ha señalado que los indicios actuales apuntan a un error en el centro de mando y control de Adif. No obstante, ha subrayado que las pesquisas continúan para determinar las causas exactas del suceso, manteniendo por el momento su confianza en el sistema ferroviario."
+          "Numerosos establecimientos conocidos como 'slot farms' podrían evitar el incremento de la carga impositiva previsto en el presupuesto. Aunque el Ejecutivo ha elevado la tasa sobre los beneficios de las máquinas tragaperras del 20% al 25%, estos locales conservan la posibilidad de tributar como salas de bingo.",
+          "El ministro John Healey ha señalado a estos centros de juego para adultos, argumentando que el aumento de impuestos busca fomentar el crecimiento en las calles comerciales. Sin embargo, la persistencia de esta clasificación administrativa permite que sigan beneficiándose de reducciones fiscales."
         ],
         "bullets": [
-          "69 víctimas mortales confirmadas.",
-          "Al menos 70 personas permanecen desaparecidas.",
-          "Posible fallo en el centro de control de Adif bajo investigación.",
-          "Afectados de 27 nacionalidades diferentes."
+          "Los centros de juego para adultos utilizan licencias de bingo para obtener descuentos en tasas.",
+          "El Gobierno ha incrementado el impuesto sobre las máquinas tragaperras del 20% al 25%.",
+          "Existe una demanda para cerrar el vacío legal que permite esta exención fiscal."
         ],
-        "eventKey": "Pedro Sánchez y Óscar Puente investigan accidente ferroviario en Toledo",
+        "eventKey": "centros de juego en Inglaterra eluden impuestos",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-a208a1e534514af1a1562244",
-        "url": "https://www.theguardian.com/world/2026/oct/30/beijing-queer-film-festival-cancelled-after-police-harassment",
-        "source": "The Guardian",
-        "section": "internacional",
-        "lang": "en",
-        "publishedAt": "2026-10-30T11:04:12+00:00",
-        "sourceTitle": "Beijing Queer film festival cancelled after harassment from authorities",
-        "fingerprint": "189327ceec311f95fcce4469",
-        "title": "Cancelado el festival de cine queer de Pekín tras sufrir presiones policiales",
-        "summary": "El certamen cinematográfico independiente, uno de los más veteranos de China, ha sido suspendido ante el acoso constante de las autoridades locales.",
-        "paragraphs": [
-          "La edición anual del festival de cine queer de Pekín, cuya inauguración estaba prevista para este viernes, ha sido cancelada. La decisión se produce en un contexto de creciente intolerancia estatal hacia los espacios de debate sobre feminismo y derechos LGTBIQ+.",
-          "Expertos señalan que esta medida forma parte de una campaña de hostigamiento sostenido por parte de las autoridades chinas contra este tipo de eventos culturales independientes."
-        ],
-        "bullets": [
-          "El festival es uno de los eventos independientes con mayor trayectoria en la capital china.",
-          "La cancelación responde a una supuesta campaña de acoso institucional.",
-          "El clima político en China muestra una mayor hostilidad hacia las perspectivas feministas y LGTBIQ+."
-        ],
-        "eventKey": "Festival de cine queer de Pekín cancelado por autoridades",
-        "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
-        "model": "gemini-3.1-flash-lite"
-      },
-      {
-        "id": "n-43d3c4ff1e9f08c7ee05c636",
-        "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+        "id": "n-9fdd859de5445198a141ff8f",
+        "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "section": "internacional",
         "lang": "en",
-        "publishedAt": "2026-10-30T10:07:58+00:00",
-        "sourceTitle": "Helicopter carrying six people crashes in northern Indian state",
-        "fingerprint": "cfda2951b5a22aea9ba1cd97",
-        "title": "Accidente de helicóptero en el norte de la India",
-        "summary": "Un helicóptero con seis personas a bordo ha sufrido un accidente en el estado indio de Uttarakhand tras perderse el contacto con la aeronave.",
+        "publishedAt": "2026-11-01T07:00:55+00:00",
+        "sourceTitle": "India's opposition holds mega rally seeking election chief's resignation",
+        "fingerprint": "d008644976cc89cb51e97a39",
+        "title": "La oposición india exige la dimisión del jefe electoral",
+        "summary": "Miles de manifestantes se han congregado en el centro de Delhi para reclamar la salida del comisionado jefe de la Comisión Electoral.",
         "paragraphs": [
-          "El aparato despegó durante la tarde del viernes desde el centro de peregrinación hindú de Badrinath. Poco después de iniciar el vuelo, se perdió la comunicación con el helicóptero, lo que ha desencadenado las labores de búsqueda.",
-          "Las autoridades locales trabajan para localizar el lugar del siniestro y determinar el estado de los ocupantes."
+          "Una multitud se ha reunido en la capital india en una protesta masiva contra el máximo responsable del organismo electoral del país.",
+          "Los convocantes han solicitado formalmente que el comisionado jefe abandone su cargo, en una movilización que ha ocupado el corazón de la ciudad."
         ],
         "bullets": [
-          "Seis personas viajaban en la aeronave siniestrada.",
-          "El despegue se produjo desde el enclave religioso de Badrinath.",
-          "Se perdió el contacto con el helicóptero poco después de partir."
+          "Protesta multitudinaria en Delhi.",
+          "Exigencia de dimisión del comisionado jefe electoral."
         ],
-        "eventKey": "seis personas accidente helicóptero India",
+        "eventKey": "oposición india-protesta-Delhi",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-f09ddeb5f7437c80029d369d",
-        "url": "https://www.theguardian.com/world/2026/oct/30/student-list-focus-on-cleaning-up-serbia-corruption",
+        "id": "n-f063ceae6ff751ba9d7c0016",
+        "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
         "source": "The Guardian",
         "section": "internacional",
         "lang": "en",
-        "publishedAt": "2026-10-30T10:54:17+00:00",
-        "sourceTitle": "‘Swift justice’: Student List supporters focus on cleaning up Serbia’s rotten institutions",
-        "fingerprint": "0f3143b117e4ddbe48f3fb65",
-        "title": "El movimiento Student List prioriza la purga de instituciones en Serbia",
-        "summary": "Tras su inesperada victoria electoral, el movimiento Student List ha anunciado que su objetivo principal será destituir a altos cargos vinculados a la corrupción. La formación busca reformar las instituciones tras catorce años de gobierno del partido de Aleksandar Vučić.",
+        "publishedAt": "2026-11-01T12:00:12+00:00",
+        "sourceTitle": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+        "fingerprint": "2df4baa5fa949ea810573f1e",
+        "title": "La aparente tregua comercial entre Estados Unidos y China es engañosa",
+        "summary": "Aunque el conflicto comercial entre las dos mayores potencias mundiales ha perdido protagonismo mediático, los expertos advierten de que la calma es ficticia. Existe el riesgo de que las tensiones latentes escalen hacia una confrontación económica de gran magnitud.",
         "paragraphs": [
-          "El movimiento de democracia directa Student List ha comenzado a definir su hoja de ruta tras lograr un triunfo electoral sorprendente. Sus integrantes han señalado que la prioridad absoluta de su mandato será la limpieza de las instituciones serbias, a las que califican de corruptas tras más de una década de gestión del SNS.",
-          "Entre las medidas inmediatas que proponen se encuentra el cese de diversos responsables de las fuerzas de seguridad. La formación pretende así desmantelar las estructuras de poder establecidas durante el largo periodo de gobierno del líder populista Aleksandar Vučić."
+          "La guerra comercial entre Estados Unidos y China parece haber quedado en un segundo plano frente a otras preocupaciones globales. Sin embargo, esta percepción de estabilidad es engañosa, ya que no se han tomado medidas reales para evitar futuras hostilidades.",
+          "Bajo la superficie, el escenario internacional se encamina hacia una posible guerra económica de proporciones épicas. Según el análisis, este tipo de tensiones históricamente han corrido el riesgo de derivar en conflictos de mayor gravedad."
         ],
         "bullets": [
-          "Prioridad en la destitución de funcionarios corruptos.",
-          "Exigencia de cese para jefes de la policía criminal y unidades especiales.",
-          "Reforma institucional tras 14 años de gobierno del SNS."
+          "Las amenazas arancelarias de Donald Trump siguen surgiendo de forma intermitente.",
+          "La atención pública se ha desviado hacia otros temores como la inteligencia artificial o la estabilidad democrática.",
+          "La falta de acciones concretas mantiene latente el riesgo de una escalada económica."
         ],
-        "eventKey": "Student List reforma instituciones Serbia",
+        "eventKey": "EEUU y China mantienen tensiones comerciales latentes",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ],
     "ciencia": [
       {
-        "id": "n-d31d9b89f00e2b760633a514",
-        "url": "https://www.sciencedaily.com/releases/2026/10/261028234703.htm",
+        "id": "n-dd303facb7c61db2d289e92e",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
         "source": "ScienceDaily",
         "section": "ciencia",
         "lang": "en",
-        "publishedAt": "2026-10-30T11:42:36+00:00",
-        "sourceTitle": "Physicists created a tiny universe and watched time emerge without a clock",
-        "fingerprint": "623c97d48491f6c121e2d3f3",
-        "title": "Físicos simulan un universo en miniatura para estudiar el origen del tiempo",
-        "summary": "Investigadores de la Universidad de Birmingham han logrado recrear un sistema cuántico que emula la expansión y contracción cósmica. El experimento sugiere que el tiempo podría originarse a partir de las transformaciones internas del propio sistema, prescindiendo de relojes externos.",
+        "publishedAt": "2026-11-01T04:33:36+00:00",
+        "sourceTitle": "Scientists say a forgotten particle may explain why the universe exists",
+        "fingerprint": "ff0db79f279100c81d354dea",
+        "title": "Una partícula olvidada podría explicar la existencia del universo",
+        "summary": "Investigadores sugieren que un tipo de neutrino ignorado durante años habría sido determinante para la supervivencia de la materia tras el Big Bang.",
         "paragraphs": [
-          "Un equipo científico ha desarrollado un universo a pequeña escala utilizando 24.000 átomos ultrafríos. Este sistema aislado permite observar dinámicas similares al Big Bang y a un hipotético Big Crunch en condiciones de laboratorio.",
-          "El hallazgo principal apunta a que el tiempo surge de los cambios internos del sistema, lo que podría ofrecer respuestas sobre la naturaleza fundamental de esta dimensión física."
+          "Un estudio reciente apunta a que una partícula, pasada por alto durante décadas, podría ser la clave para entender por qué existe la materia que compone estrellas y planetas. Según los científicos, este neutrino habría transformado el universo primitivo.",
+          "El equipo investigador señala que esta partícula podría haber generado señales de ondas gravitacionales detectables, lo que permitiría profundizar en los enigmas fundamentales del cosmos."
         ],
         "bullets": [
-          "Uso de 24.000 átomos ultrafríos para crear un sistema cuántico aislado.",
-          "Simulación de ciclos de expansión y contracción cósmica.",
-          "Observación de la emergencia del tiempo sin necesidad de un reloj externo."
+          "La partícula podría explicar la supervivencia de la materia tras el Big Bang.",
+          "El neutrino habría moldeado el universo en sus etapas iniciales.",
+          "Se espera que el hallazgo ayude a resolver misterios cósmicos mediante ondas gravitacionales."
         ],
-        "eventKey": "investigadores-crean-universo-miniatura-birmingham",
+        "eventKey": "científicos-investigan-partícula-universo",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-cf83ba876333ba2e913de39f",
-        "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+        "id": "n-0ca18ebd381f9f00feefaed2",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
         "source": "NASA",
         "section": "ciencia",
         "lang": "en",
-        "publishedAt": "2026-10-30T10:00:00+00:00",
-        "sourceTitle": "November’s Night Sky Notes: Light-Day Away",
-        "fingerprint": "b773b5f13eb30f13023fb3bb",
-        "title": "El legado de las sondas Voyager",
-        "summary": "La NASA conmemora el lanzamiento de las misiones Voyager, que aprovecharon una alineación planetaria excepcional para explorar los gigantes gaseosos y helados del sistema solar.",
+        "publishedAt": "2026-11-01T04:05:00+00:00",
+        "sourceTitle": "APOD: 2026 November 1 – Colors of the Moon",
+        "fingerprint": "f4a89e85aebe9f54f2b5c792",
+        "title": "La NASA publica una imagen sobre los colores de la Luna",
+        "summary": "La sección Astronomy Picture of the Day de la NASA ha compartido una nueva fotografía centrada en la coloración del satélite terrestre.",
         "paragraphs": [
-          "En 1977, la agencia espacial estadounidense inició la misión de las sondas gemelas Voyager 1 y 2. El proyecto se benefició de una alineación de Júpiter, Saturno, Urano y Neptuno que solo ocurre cada 175 años.",
-          "Gracias a seis asistencias gravitatorias, las naves lograron obtener imágenes detalladas de estos planetas y de varios de sus satélites naturales durante su recorrido."
+          "La agencia espacial estadounidense ha actualizado su portal divulgativo con una imagen que explora las tonalidades lunares, acompañada por una explicación técnica redactada por un astrónomo profesional.",
+          "Esta iniciativa forma parte de la serie diaria de la NASA que busca acercar el conocimiento del cosmos al público general mediante material visual y divulgación científica."
         ],
         "bullets": [
-          "Lanzamiento de las sondas gemelas en 1977.",
-          "Aprovechamiento de una alineación planetaria poco frecuente.",
-          "Exploración cercana de gigantes gaseosos y helados."
+          "Publicación diaria de la Astronomy Picture of the Day.",
+          "Enfoque en la diversidad cromática de la Luna.",
+          "Explicación técnica a cargo de expertos en astronomía."
         ],
-        "eventKey": "NASA-lanzamiento-sondas-Voyager",
+        "eventKey": "NASA-publica-imagen-Luna",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-8cbc5e7f2766ed418664ef3f",
-        "url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
+        "id": "n-bd167004b89c953e7a8ad125",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm",
         "source": "ScienceDaily",
         "section": "ciencia",
         "lang": "en",
-        "publishedAt": "2026-10-30T11:34:16+00:00",
-        "sourceTitle": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
-        "fingerprint": "17796e490d6e5ac10afb4b3c",
-        "title": "El misterio de la supervivencia de los cocodrilos tras el impacto del asteroide",
-        "summary": "Una investigación científica sugiere que los cocodrilos lograron sobrevivir a la extinción masiva de los dinosaurios gracias a su preferencia por climas cálidos. Esta adaptación les permitió refugiarse en zonas tropicales que mantuvieron condiciones habitables tras el cataclismo.",
+        "publishedAt": "2026-11-01T02:44:28+00:00",
+        "sourceTitle": "Scientists discover the hidden “muscles” trees use to straighten themselves",
+        "fingerprint": "8691a5216c997de55d50468d",
+        "title": "Descubierto el mecanismo que permite a los árboles enderezar sus troncos",
+        "summary": "Un equipo científico ha identificado que los árboles poseen una madera especializada que funciona como músculos opuestos para corregir su postura. Este hallazgo podría tener aplicaciones en la mejora de cultivos y la gestión forestal.",
         "paragraphs": [
-          "Un estudio basado en el análisis de fósiles y datos climáticos antiguos propone una explicación para la supervivencia de los cocodrilos hace 66 millones de años. Según los expertos, su dependencia de entornos templados fue clave para evitar la desaparición total.",
-          "Al habitar refugios tropicales, estos reptiles pudieron sortear los efectos más devastadores del impacto del asteroide que acabó con los dinosaurios, permaneciendo en áreas que conservaron su habitabilidad."
+          "Investigadores han revelado que los árboles cuentan con una capacidad intrínseca para detectar su propia forma y rectificar la inclinación de sus troncos. Este proceso se lleva a cabo mediante un tipo de madera específica que actúa de manera similar a la musculatura animal.",
+          "El descubrimiento abre nuevas vías para fortalecer la resistencia de los bosques y optimizar la calidad de la madera, además de ofrecer posibles beneficios para el desarrollo de cultivos más resilientes."
         ],
         "bullets": [
-          "Análisis de fósiles y climas antiguos como base del estudio.",
-          "La preferencia por climas cálidos como factor determinante.",
-          "Ubicación en refugios tropicales tras el impacto catastrófico."
+          "Los árboles detectan su forma y corrigen su postura.",
+          "Utilizan madera especializada como músculos opuestos.",
+          "El hallazgo podría mejorar la producción de madera.",
+          "Se prevé una mayor resiliencia en futuros cultivos."
         ],
-        "eventKey": "cocodrilos-supervivencia-extincion-masiva",
+        "eventKey": "científicos-descubren-mecanismo-enderezamiento-árboles",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-e51da67c2ef8263b3c33ce35",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
+        "id": "n-ebf9e7f0e97f4b65a13c3566",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
         "source": "NASA",
         "section": "ciencia",
         "lang": "en",
-        "publishedAt": "2026-10-30T04:05:00+00:00",
-        "sourceTitle": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
-        "fingerprint": "775ffc9e6c72b62991ebd79b",
-        "title": "La NASA destaca la región Cepheus Flare",
-        "summary": "La sección de astronomía de la NASA ha publicado una nueva imagen destacada centrada en la zona conocida como Cepheus Flare.",
+        "publishedAt": "2026-10-31T04:05:00+00:00",
+        "sourceTitle": "APOD: 2026 October 31 – Night on a Spooky Planet",
+        "fingerprint": "ba416f43040a3b25f357d0fb",
+        "title": "La NASA publica una imagen astronómica con temática de Halloween",
+        "summary": "La sección 'Astronomy Picture of the Day' de la NASA ha compartido una fotografía especial con motivo de la festividad de Halloween.",
         "paragraphs": [
-          "La iniciativa Astronomy Picture of the Day ha compartido una fotografía astronómica acompañada de una explicación técnica elaborada por un profesional del sector.",
-          "La publicación se centra en los fenómenos observados en la región denominada Cepheus Flare."
+          "La agencia espacial estadounidense ha difundido una nueva imagen dentro de su serie diaria, que en esta ocasión se centra en una temática inquietante bajo el título 'Noche en un planeta espeluznante'."
         ],
         "bullets": [
-          "Publicación diaria de imágenes del cosmos.",
-          "Explicación técnica realizada por astrónomos.",
-          "Enfoque en la región Cepheus Flare."
+          "La iniciativa forma parte del archivo diario de la NASA sobre el cosmos.",
+          "Cada publicación incluye una explicación redactada por un astrónomo profesional."
         ],
-        "eventKey": "NASA-publica-imagen-Cepheus-Flare",
+        "eventKey": "NASA-publica-imagen-astronomica",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-808bb410a17849e34140fd59",
-        "url": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
+        "id": "n-0912aa804a0ffbc930fbd600",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
         "source": "ScienceDaily",
         "section": "ciencia",
         "lang": "en",
-        "publishedAt": "2026-10-30T10:50:22+00:00",
-        "sourceTitle": "Hubble reveals a stunning twist in how the universe emerged from darkness",
-        "fingerprint": "6c55fce110f4c2ade1f722ac",
-        "title": "El telescopio Hubble cuestiona el origen de la luz en el universo temprano",
-        "summary": "Nuevas observaciones del Hubble contradicen la teoría sobre cómo se disipó la niebla de hidrógeno hace 13.000 millones de años. Los datos sugieren que los vientos estelares, lejos de ayudar, bloquean la radiación necesaria para aclarar el cosmos.",
+        "publishedAt": "2026-10-31T13:09:49+00:00",
+        "sourceTitle": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
+        "fingerprint": "4b56107b522c1bf9e5814d62",
+        "title": "Hallazgo de una muralla milenaria en Marruecos",
+        "summary": "El descubrimiento de una estructura defensiva de hace 4.000 años en Marruecos está obligando a los expertos a reconsiderar la historia de las civilizaciones del norte de África.",
         "paragraphs": [
-          "Un hallazgo astronómico reciente pone en duda la explicación predominante sobre la transición del universo primitivo desde un estado de oscuridad. Hasta ahora, se pensaba que las explosiones estelares generaban vientos que facilitaban la salida de radiación de las galaxias.",
-          "Sin embargo, el análisis actual indica que estos fenómenos actúan como una barrera, impidiendo que la radiación atraviese la densa niebla de hidrógeno que caracterizaba el cosmos hace 13.000 millones de años."
+          "Unas fortificaciones de gran envergadura halladas en territorio marroquí sugieren que las sociedades prehistóricas de la zona poseían un nivel de sofisticación mayor al que se creía hasta ahora.",
+          "Este hallazgo apunta a que la región pudo desempeñar un papel mucho más relevante en la historia del Mediterráneo de lo que se había documentado previamente."
         ],
         "bullets": [
-          "El telescopio Hubble ha revelado datos inesperados sobre la era de reionización.",
-          "La teoría anterior sostenía que los vientos de estrellas en explosión despejaban la niebla cósmica.",
-          "Las nuevas evidencias señalan que dichos vientos bloquean la radiación en lugar de liberarla."
+          "Estructura defensiva con cuatro milenios de antigüedad.",
+          "Evidencia de sociedades prehistóricas avanzadas.",
+          "Reevaluación del impacto histórico del norte de África en el Mediterráneo."
         ],
-        "eventKey": "Hubble-cuestiona-origen-luz-universo",
+        "eventKey": "arqueólogos-descubren-muralla-marruecos",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ],
     "tecnologia": [
       {
-        "id": "n-ed94231a9b877510275a4d9b",
-        "url": "https://www.xataka.com/robotica-e-ia/operacion-espionaje-china-tiene-como-objetivos-a-jensen-huang-nvidia-the-new-york-times",
+        "id": "n-7d6c66bdb76199f1fa902cb7",
+        "url": "https://www.xataka.com/robotica-e-ia/ahora-apps-siempre-solo-podian-hacer-que-sus-creadores-querian-ia-esta-dinamitando-eso",
         "source": "Xataka",
         "section": "tecnologia",
         "lang": "es",
-        "publishedAt": "2026-10-30T12:15:27+00:00",
-        "sourceTitle": "Una operación de espionaje de China tiene como objetivos a Jensen Huang y Nvidia, según The New York Times",
-        "fingerprint": "1e0084dbf6cb71281b2c971d",
-        "title": "China habría puesto en el punto de mira a Jensen Huang y Nvidia en una operación de espionaje",
-        "summary": "El diario The New York Times ha revelado una supuesta trama de espionaje china que involucra al CEO de Nvidia, Jensen Huang, y a una ejecutiva vinculada a la inteligencia del país asiático. Las autoridades estadounidenses investigan si esta red ha facilitado el acceso a chips avanzados a pesar de las restricciones comerciales.",
+        "publishedAt": "2026-11-01T13:01:28+00:00",
+        "sourceTitle": "Hasta ahora, las apps de siempre solo podían hacer lo que sus creadores querían. La IA está dinamitando eso",
+        "fingerprint": "0ff14943dc807c2a3919de9a",
+        "title": "La inteligencia artificial transforma el desarrollo de aplicaciones hacia la personalización",
+        "summary": "La irrupción de la IA permite a los usuarios crear software a medida sin conocimientos de programación, desplazando el control que tradicionalmente ejercían los desarrolladores. Este cambio de paradigma, denominado vibecoding, traslada la dependencia de las aplicaciones hacia los modelos de lenguaje que las generan.",
         "paragraphs": [
-          "La inteligencia de Estados Unidos lleva dos años vigilando a Alice Huang, ejecutiva de la firma singapurense Megaspeed, por sus presuntos vínculos con los servicios secretos chinos. La investigación sugiere que esta red habría intentado obtener chips de Nvidia, fundamentales para el desarrollo de inteligencia artificial, eludiendo las sanciones impuestas por Washington.",
-          "Nvidia ha negado cualquier implicación en la trama, mientras que su director general, Jensen Huang, se encuentra bajo escrutinio. La postura crítica de Huang frente a las restricciones a la exportación ha generado sospechas adicionales en el Departamento de Comercio estadounidense, que vigila el cumplimiento de las medidas para evitar que tecnología sensible llegue a organizaciones vinculadas al ejército chino."
+          "Tradicionalmente, las aplicaciones se diseñaban con funciones cerradas y predefinidas por sus creadores, lo que obligaba a los usuarios a aceptar herramientas sobrecargadas de opciones innecesarias. La IA está rompiendo este modelo al permitir que cualquier persona desarrolle soluciones específicas mediante interfaces de chat.",
+          "Aunque esta capacidad de personalización otorga mayor autonomía al usuario, el poder real se desplaza hacia las grandes compañías tecnológicas que controlan los modelos de IA. Además, esta nueva forma de crear software conlleva riesgos, como la falta de soporte técnico y la dependencia de suscripciones a servicios de inteligencia artificial."
         ],
         "bullets": [
-          "EE. UU. investiga una presunta operación de espionaje china centrada en Nvidia.",
-          "Alice Huang, ejecutiva de Megaspeed, es señalada como posible agente de inteligencia.",
-          "La trama buscaría sortear las licencias especiales requeridas para exportar chips avanzados.",
-          "Nvidia rechaza las acusaciones y mantiene su postura contra las restricciones comerciales."
+          "El vibecoding facilita la creación de aplicaciones personalizadas sin necesidad de saber programar.",
+          "La IA permite adaptar el software a necesidades concretas, evitando el exceso de funciones innecesarias.",
+          "El control sobre las herramientas digitales se traslada de los desarrolladores a los proveedores de modelos de IA.",
+          "La personalización mediante IA no elimina los costes, sino que los desplaza hacia las suscripciones de los modelos utilizados."
         ],
-        "eventKey": "China-espionaje-Jensen-Huang-Nvidia",
+        "eventKey": "usuarios y modelos de IA transforman el desarrollo de software",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-6e108b3d65de6b7a70832016",
-        "url": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
+        "id": "n-09310e121b13f32204f06fdd",
+        "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
         "source": "Ars Technica",
         "section": "tecnologia",
         "lang": "en",
-        "publishedAt": "2026-10-30T11:30:01+00:00",
-        "sourceTitle": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
-        "fingerprint": "09ddcce99090601341906afc",
-        "title": "Crítica de 'You Can See Everything' sobre Elizabeth Holmes",
-        "summary": "Una nueva obra audiovisual sobre Elizabeth Holmes parece estar logrando que parte del público vuelva a creer en su relato.",
+        "publishedAt": "2026-10-31T11:15:26+00:00",
+        "sourceTitle": "Seabirds racing home over the ocean can get jet-lagged",
+        "fingerprint": "4148d97a5400a5a952afb9df",
+        "title": "Las aves marinas sufren desfase horario tras largos vuelos",
+        "summary": "Un estudio sugiere que los viajes prolongados de las aves marinas desde sus zonas de alimentación alteran sus ritmos biológicos internos.",
         "paragraphs": [
-          "La reciente producción 'You Can See Everything' ha sido objeto de análisis por su enfoque sobre la figura de Elizabeth Holmes. Según la crítica, el tratamiento del material tiende a difuminar la percepción real sobre los engaños cometidos por la protagonista.",
-          "El resultado es que algunos espectadores están volviendo a caer en la narrativa que ella propone, cuestionando la claridad con la que se aborda su historial de fraude."
+          "Las aves marinas que realizan trayectos extensos para regresar a sus nidos experimentan un fenómeno similar al jet lag humano. Este desajuste se produce debido a la alteración de sus relojes internos tras pasar largos periodos volando sobre el océano.",
+          "La investigación apunta a que el esfuerzo y la duración de estos desplazamientos desde las áreas de alimentación afectan directamente a la sincronización biológica de estas especies."
         ],
         "bullets": [
-          "La obra suaviza la visión sobre los engaños de Holmes.",
-          "Se observa una tendencia en la audiencia a dejarse convencer nuevamente por su discurso."
+          "Los vuelos prolongados interfieren con los ritmos circadianos de las aves.",
+          "El fenómeno se asemeja al desfase horario que experimentan las personas."
         ],
-        "eventKey": "Elizabeth Holmes-revisión mediática-Estados Unidos",
+        "eventKey": "aves marinas sufren desfase horario",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-f26e1a7eb9c10a799b7b23d1",
-        "url": "https://www.xataka.com/robotica-e-ia/estara-al-fondo-jardin-compraron-casa-a-afueras-paris-ahora-paris-le-quiere-construir-centro-datos-que-devora-cuatro-veces-energia-disneyland",
+        "id": "n-fc87e12aea801dc699686e0f",
+        "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+        "source": "Ars Technica",
+        "section": "tecnologia",
+        "lang": "en",
+        "publishedAt": "2026-10-31T11:02:34+00:00",
+        "sourceTitle": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+        "fingerprint": "92cc1beebf57190330fb6197",
+        "title": "La FDA se enfrenta a dificultades para retirar la aprobación del fármaco Tavneos",
+        "summary": "La agencia reguladora estadounidense pretende revocar la autorización de Tavneos tras detectar irregularidades en los datos de los estudios clínicos. El caso plantea un dilema sobre si los pacientes deben mantener el acceso al medicamento mientras se resuelve el proceso.",
+        "paragraphs": [
+          "La FDA ha manifestado su intención de retirar la aprobación del fármaco Tavneos, argumentando que los datos presentados en los estudios fueron manipulados. Esta medida pone en duda la continuidad del tratamiento para los pacientes que actualmente lo utilizan.",
+          "El proceso de revocación no resulta sencillo para el organismo regulador, que ahora debe gestionar las implicaciones legales y sanitarias de esta decisión."
+        ],
+        "bullets": [
+          "La FDA alega manipulación en los datos de los estudios de Tavneos.",
+          "Existe incertidumbre sobre el acceso futuro de los pacientes al fármaco.",
+          "El proceso de retirada de la aprobación presenta complicaciones técnicas y legales."
+        ],
+        "eventKey": "FDA-retirada-aprobación-Tavneos",
+        "partial": true,
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-7a72007caabfa82fb5b45d73",
+        "url": "https://www.xataka.com/magnet/antes-se-marcaba-estatus-tonos-pastel-sobriedad-ahora-hemos-entrado-era-purpurina-brilli-brilli",
         "source": "Xataka",
         "section": "tecnologia",
         "lang": "es",
-        "publishedAt": "2026-10-30T12:00:00+00:00",
-        "sourceTitle": "\"Estará al fondo del jardín\": compraron una casa a las afueras de París y ahora tendrán un centro de datos que consume cuatro veces lo que Disneyland",
-        "fingerprint": "3886c14af17b75da28daa0e8",
-        "title": "Vecinos de Ballainvilliers se oponen a la construcción de un macrocentro de datos junto a sus viviendas",
-        "summary": "Una familia y otros residentes de una localidad cercana a París han mostrado su rechazo ante el proyecto de un centro de datos que se ubicaría junto a sus casas. La instalación, impulsada por la promotora Goodman, genera inquietud por su elevado consumo energético y el posible impacto ambiental y acústico.",
+        "publishedAt": "2026-11-01T12:15:27+00:00",
+        "sourceTitle": "Antes se marcaba estatus con tonos pastel y sobriedad: ahora hemos entrado en la era de la purpurina y el brilli brilli",
+        "fingerprint": "91ede4f3ecc5117ff64d9034",
+        "title": "La era del 'bedazzling': el auge de la decoración con pedrería",
+        "summary": "La tendencia actual, denominada 'bedazzling' y enmarcada en el 'whimsymaxxing', propone decorar objetos cotidianos con gemas y brillantes como forma de evasión. Esta estética busca maximizar el placer personal frente a la cultura de la productividad extrema.",
         "paragraphs": [
-          "La promotora australiana Goodman planea transformar una antigua plataforma logística en Ballainvilliers en un centro de datos de gran envergadura. El proyecto, que podría comenzar sus obras en 2028, contempla una estructura de hasta 27 metros de altura equipada con numerosos sistemas de refrigeración y generadores eléctricos.",
-          "Los vecinos, organizados a través de la asociación ASPE, han iniciado una recogida de firmas ante el temor a sufrir ruidos constantes y emisiones contaminantes. Por su parte, la autoridad ambiental regional ha señalado que el estudio sobre los efectos en la salud resulta insuficiente, mientras que la empresa asegura que cumplirá con la normativa vigente."
+          "El 'bedazzling' se ha convertido en una tendencia viral que consiste en cubrir prácticamente cualquier superficie, desde accesorios hasta objetos domésticos, con piedras de colores y purpurina. Este fenómeno, que huye de la sobriedad, se integra en el 'whimsymaxxing', una corriente que prioriza la extravagancia y la fantasía sobre la utilidad.",
+          "Más allá de la estética, esta moda se interpreta como una respuesta cultural ante la incertidumbre económica y la presión por la eficiencia constante. Al personalizar objetos con brillantes, los usuarios reivindican el placer y la creatividad como una forma de escapismo frente a las exigencias de la vida moderna."
         ],
         "bullets": [
-          "El centro de datos tendría una capacidad de consumo eléctrico anual equivalente a cuatro veces la de Disneyland París.",
-          "La instalación incluiría 84 equipos de refrigeración y 44 grupos electrógenos de emergencia.",
-          "La autoridad ambiental francesa ha cuestionado la falta de análisis sobre el impacto acústico y las emisiones.",
-          "Los residentes preparan alegaciones para la investigación pública que se llevará a cabo a mediados de noviembre."
+          "El 'bedazzling' consiste en plagar objetos de pedrería y gemas.",
+          "El 'whimsymaxxing' busca maximizar el placer de lo cotidiano mediante la personalización extravagante.",
+          "La tendencia se aleja de los cánones de sobriedad y productividad imperantes.",
+          "Se considera una forma de romanticismo y disfrute frente a la incertidumbre económica."
         ],
-        "eventKey": "vecinos de Ballainvilliers rechazan construcción de centro de datos",
+        "eventKey": "usuarios y marcas adoptan la tendencia de decoración con pedrería",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
-        "model": "gemini-3.1-flash-lite"
-      },
-      {
-        "id": "n-5ba2be4ee7a1688b0156bff2",
-        "url": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
-        "source": "Ars Technica",
-        "section": "tecnologia",
-        "lang": "en",
-        "publishedAt": "2026-10-30T11:00:35+00:00",
-        "sourceTitle": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
-        "fingerprint": "dbac4f6e1a1ff0d5165cdbdb",
-        "title": "Actualidad en el sector aeroespacial: ULA y el cohete Vulcan",
-        "summary": "United Launch Alliance atraviesa una semana positiva marcada por la obtención de un contrato con la NASA y los preparativos para el regreso al vuelo del cohete Vulcan.",
-        "paragraphs": [
-          "La compañía United Launch Alliance (ULA) ha experimentado avances significativos recientemente. La empresa ha asegurado un importante acuerdo con la NASA y se encuentra en las fases finales para retomar las operaciones de vuelo de su cohete Vulcan."
-        ],
-        "bullets": [
-          "ULA logra un contrato relevante con la NASA.",
-          "El cohete Vulcan se aproxima a su regreso a la actividad operativa."
-        ],
-        "eventKey": "ULA-contrato-NASA-Vulcan-vuelo",
-        "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ],
     "economia": [
       {
-        "id": "n-2fa2c9ea33362800af6fc2dd",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
+        "id": "n-88f0fd8afdfdaa4d7e9d7aad",
+        "url": "https://elpais.com/economia/negocios/2026-11-01/la-era-de-los-desequilibrios.html",
+        "source": "El País",
         "section": "economia",
-        "lang": "en",
-        "publishedAt": "2026-10-30T12:04:02+00:00",
-        "sourceTitle": "Google value plunges by $500bn as its own AI search hits ad sales",
-        "fingerprint": "40cd0e726c782064250dacea",
-        "title": "Google pierde 500.000 millones de dólares en valor bursátil",
-        "summary": "Las acciones de Google han caído a mínimos de seis meses tras admitir que sus resúmenes generados por inteligencia artificial están perjudicando sus ingresos publicitarios.",
+        "lang": "es",
+        "publishedAt": "2026-11-01T12:40:57+00:00",
+        "sourceTitle": "La era de los desequilibrios",
+        "fingerprint": "f9448b40a6b461e0b6ddbd1b",
+        "title": "La era de los desequilibrios",
+        "summary": "Un análisis económico advierte sobre la ineficacia y los efectos adversos de las medidas proteccionistas en el contexto actual.",
         "paragraphs": [
-          "La compañía ha provocado una fuerte inquietud entre los inversores al reconocer que su nueva herramienta de búsqueda basada en IA está impactando negativamente en la facturación por anuncios.",
-          "Este desplome en el valor de mercado refleja la incertidumbre del mercado ante el modelo de negocio de la tecnológica en la era de la inteligencia artificial."
+          "El artículo sostiene que las políticas de corte proteccionista no logran los objetivos previstos, resultando frecuentemente en consecuencias negativas para la economía."
         ],
         "bullets": [
-          "El valor de la empresa se ha reducido en 500.000 millones de dólares.",
-          "La cotización ha alcanzado su nivel más bajo en el último semestre.",
-          "La integración de resúmenes de IA en las búsquedas afecta a los ingresos por publicidad."
+          "Cuestionamiento de la eficacia del proteccionismo.",
+          "Advertencia sobre los efectos contraproducentes de estas políticas."
         ],
-        "eventKey": "Google-caída-valor-bursátil",
+        "eventKey": "economía-análisis-proteccionismo",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-cd76452c505433457e2ca374",
-        "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
+        "id": "n-f490d456fda9934ca9605dec",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "section": "economia",
         "lang": "en",
-        "publishedAt": "2026-10-30T11:23:38+00:00",
-        "sourceTitle": "Streeting denies 'kicking can down the road' in defence spending row",
-        "fingerprint": "a58875d064faf7d152cac710",
-        "title": "Wes Streeting rechaza las críticas sobre el gasto en defensa",
-        "summary": "El ministro británico ha negado que el Gobierno esté retrasando la toma de decisiones sobre el aumento del presupuesto militar ante las presiones recibidas.",
+        "publishedAt": "2026-11-01T07:15:06+00:00",
+        "sourceTitle": "Energy bills help 'doesn't go far enough'",
+        "fingerprint": "9b83b211d7832ed086fed2d6",
+        "title": "Preocupación en West Midlands por el coste de la energía",
+        "summary": "Las familias de la región de West Midlands expresan su inquietud ante la insuficiencia de las ayudas actuales para afrontar las facturas energéticas durante el invierno.",
         "paragraphs": [
-          "El Ejecutivo británico se enfrenta a una creciente demanda para definir una hoja de ruta clara respecto al incremento del gasto en defensa. Mientras tanto, los ministros han presentado nuevas iniciativas destinadas a fortalecer a las empresas nacionales del sector.",
-          "Wes Streeting ha desestimado las acusaciones de inacción, defendiendo la postura gubernamental frente a las críticas que señalan una falta de compromiso presupuestario a largo plazo."
+          "Los hogares de West Midlands han manifestado su temor ante la imposibilidad de cubrir los gastos de calefacción y electricidad durante los próximos meses fríos.",
+          "Según los afectados, las medidas de apoyo implementadas hasta la fecha resultan insuficientes para mitigar el impacto económico en sus economías domésticas."
         ],
         "bullets": [
-          "Presión gubernamental para definir el gasto militar.",
-          "Presentación de planes para impulsar empresas británicas.",
-          "Negativa oficial a las acusaciones de retrasar decisiones."
+          "Inquietud ciudadana por el pago de facturas invernales.",
+          "Críticas a la insuficiencia de las ayudas energéticas actuales."
         ],
-        "eventKey": "Wes Streeting defiende política de defensa en Reino Unido",
+        "eventKey": "familias West Midlands preocupación facturas energía",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-8e8e4f8e579727c907e622d8",
-        "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+        "id": "n-02cfe10008fd3ee94a4e1718",
+        "url": "https://www.bbc.co.uk/news/articles/cm20wyg8j121o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "section": "economia",
         "lang": "en",
-        "publishedAt": "2026-10-30T09:33:51+00:00",
-        "sourceTitle": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-        "fingerprint": "e37eedfde7f23e2fc7327926",
-        "title": "Binance sufre un ciberataque de 6.300 millones de dólares",
-        "summary": "La plataforma de criptomonedas Binance ha sido objeto de un hackeo masivo que podría convertirse en el mayor de la historia. Dos empresas de análisis señalan a un grupo norcoreano como presunto responsable.",
+        "publishedAt": "2026-11-01T07:11:33+00:00",
+        "sourceTitle": "Diwali hampers to bring hope to families in need",
+        "fingerprint": "77b1949b7548be7e82fff52f",
+        "title": "Cestas de Diwali para familias necesitadas",
+        "summary": "Voluntarios de la iniciativa Diwali Basket Brigade buscan aliviar la situación de hogares vulnerables ante el encarecimiento de los alimentos.",
         "paragraphs": [
-          "La plataforma Binance se enfrenta a un incidente de seguridad de gran magnitud tras el robo de 6.300 millones de dólares. El suceso está siendo investigado por firmas especializadas para determinar el alcance total del impacto.",
-          "Según las primeras atribuciones, el ataque habría sido ejecutado por el grupo de piratería informática TraderTraitor, vinculado a Corea del Norte."
+          "La organización Diwali Basket Brigade ha puesto en marcha una campaña de ayuda destinada a familias con dificultades económicas. El objetivo es proporcionar cestas con productos básicos para mitigar el impacto de la inflación en la cesta de la compra.",
+          "Esta iniciativa solidaria pretende ofrecer un apoyo directo a los hogares más afectados durante la festividad de Diwali."
         ],
         "bullets": [
-          "El hackeo asciende a 6.300 millones de dólares.",
-          "Se sospecha que es el mayor ataque de este tipo registrado hasta la fecha.",
-          "Expertos en análisis vinculan el incidente con el grupo norcoreano TraderTraitor."
+          "Apoyo a familias vulnerables ante la subida de precios.",
+          "Distribución de cestas de alimentos por parte de voluntarios."
         ],
-        "eventKey": "Binance-hackeo-ciberataque",
+        "eventKey": "Diwali Basket Brigade ayuda familias necesitadas",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ],
     "cultura": [
       {
-        "id": "n-7b6b9e40fd473cd9fbf9431d",
-        "url": "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead",
+        "id": "n-5d5c2b9b965cd235a4bdf50e",
+        "url": "https://www.theguardian.com/stage/2026/nov/01/the-best-theatre-to-stream-this-month-the-pelicot-trial-ita-music-damien-jalet-arcadia-salt",
         "source": "The Guardian",
         "section": "cultura",
         "lang": "en",
-        "publishedAt": "2026-10-29T21:02:36+00:00",
-        "sourceTitle": "Patrick Stewart, Star Trek and X-Men actor and acclaimed thespian, dies aged 86",
-        "fingerprint": "11fc808e37eb3f2498ccd710",
-        "title": "Fallece el actor Patrick Stewart a los 86 años",
-        "summary": "El reconocido intérprete británico, célebre por sus papeles en Star Trek y X-Men, ha muerto en su domicilio de Los Ángeles. Su representante ha confirmado que el deceso se produjo tras padecer alzhéimer y demencia con cuerpos de Lewy.",
+        "publishedAt": "2026-11-01T05:00:02+00:00",
+        "sourceTitle": "The best theatre to stream this month: the Gisèle Pelicot trial becomes an all-star play that ‘just floors you’",
+        "fingerprint": "57241e0a59ba8139d97f8e32",
+        "title": "El juicio a Gisèle Pelicot llega al teatro en Londres",
+        "summary": "La obra documental dirigida por Milo Rau sobre el caso de Gisèle Pelicot se representará en el County Hall de Londres y contará con retransmisión en directo.",
         "paragraphs": [
-          "Patrick Stewart, figura destacada tanto en el teatro clásico como en el cine de ciencia ficción, ha fallecido a los 86 años. La noticia fue comunicada por su portavoz, Kelly Bush Novak, quien señaló que el actor atravesaba un proceso breve relacionado con enfermedades neurodegenerativas.",
-          "El intérprete, recordado mundialmente por dar vida al capitán Jean-Luc Picard y al profesor Charles Xavier, ha recibido homenajes de compañeros de profesión como William Shatner tras conocerse su muerte."
+          "El director suizo Milo Rau ha adaptado el proceso judicial contra los hombres que drogaron y violaron a Gisèle Pelicot en una pieza documental de cuatro horas. La obra, creada junto a Servane Dècle, ha sido descrita por la dirección del Young Vic como una experiencia centrada en los hechos reales más que en la puesta en escena tradicional.",
+          "Tras agotar las entradas para su representación presencial el 30 de noviembre, la producción, que cuenta con un reparto encabezado por Adjoa Andoh, Rosie Jones y Olivia Williams, estará disponible mediante retransmisión en línea."
         ],
         "bullets": [
-          "Fallecimiento a los 86 años en su residencia de Los Ángeles.",
-          "Causa de la muerte vinculada al alzhéimer y la demencia con cuerpos de Lewy.",
-          "Trayectoria marcada por su versatilidad en Shakespeare, Star Trek y X-Men.",
-          "Reconocimiento público por parte de figuras del sector como William Shatner."
+          "La obra se basa en los hechos reales del juicio a Gisèle Pelicot.",
+          "El montaje se representará en el County Hall de Londres el 30 de noviembre.",
+          "La función contará con un reparto destacado y será emitida por streaming."
         ],
-        "eventKey": "Patrick Stewart fallecimiento Los Ángeles",
+        "eventKey": "Milo Rau adapta juicio Gisèle Pelicot teatro Londres",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       },
       {
-        "id": "n-17d374d530773f33c6747332",
-        "url": "https://www.theguardian.com/film/2026/oct/29/the-mosquito-bowl-netflix-movie-review",
+        "id": "n-6fad12afa59498936124a4d4",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/30/sctv-greatest-show-you-never-heard-of-netflix-comedy-sketch-show-documentary",
         "source": "The Guardian",
         "section": "cultura",
         "lang": "en",
-        "publishedAt": "2026-10-29T17:37:35+00:00",
-        "sourceTitle": "The Mosquito Bowl review – Netflix mixes football, war and cliches in slick by-the-numbers saga",
-        "fingerprint": "4a18ac3e6781233f930fa0f4",
-        "title": "Crítica de The Mosquito Bowl: una mezcla de fútbol y guerra en Netflix",
-        "summary": "La nueva película de Peter Berg sobre un partido de fútbol previo a la batalla de Okinawa combina secuencias de acción logradas con un guion cargado de clichés patrióticos.",
+        "publishedAt": "2026-10-30T15:33:19+00:00",
+        "sourceTitle": "‘It really was the idiots in charge’: inside the TV sketch show that launched a generation of stars",
+        "fingerprint": "e0f579b749eac8729bee0628",
+        "title": "El legado de SCTV, el programa de sketches que marcó a una generación",
+        "summary": "Un nuevo documental reivindica la influencia de la serie canadiense SCTV, un espacio de humor oscuro y vanguardista que impulsó las carreras de figuras como Eugene Levy o John Candy.",
         "paragraphs": [
-          "El filme, dirigido por Peter Berg y basado en el libro de Buzz Bissinger, explora la intersección entre el deporte y el conflicto bélico durante la Segunda Guerra Mundial. Aunque destaca por su factura técnica y la puesta en escena de las secuencias de acción, la obra es criticada por su tono nostálgico y diálogos excesivamente solemnes sobre el honor y el deber.",
-          "A pesar de sus carencias narrativas, la cinta logra transmitir la brutalidad del combate y la camaradería deportiva, apoyándose en una banda sonora que evoca trabajos anteriores del director."
+          "El programa, emitido entre las décadas de los 70 y 80, se consolidó como una alternativa de culto frente a otras producciones estadounidenses de la época. Sus creadores apostaron por un estilo complejo y adelantado a su tiempo que cautivó a figuras como Conan O'Brien.",
+          "La producción no solo sirvió de plataforma para actores de renombre, sino que también dejó una huella notable en la evolución de la comedia televisiva, influyendo directamente en espacios como Los Simpson."
         ],
         "bullets": [
-          "Dirección competente en escenas de acción y secuencias deportivas.",
-          "Crítica hacia el uso de una masculinidad nostálgica y diálogos predecibles.",
-          "Adaptación del libro de no ficción escrito por Buzz Bissinger.",
-          "Inclusión de música de Explosions in the Sky."
+          "SCTV destacó por su enfoque oscuro y multicapa.",
+          "Lanzó las carreras de Eugene Levy, Catherine O’Hara y John Candy.",
+          "El equipo de guionistas escribía bajo premisas de alta exigencia cultural.",
+          "El programa es considerado una de las producciones cómicas más influyentes."
         ],
-        "eventKey": "Peter Berg estrena The Mosquito Bowl en Netflix",
+        "eventKey": "SCTV-reivindicacion-legado-comedia",
         "partial": true,
-        "summarizedAt": "2026-10-30T12:36:55.878781+00:00",
+        "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
         "model": "gemini-3.1-flash-lite"
       }
     ]
