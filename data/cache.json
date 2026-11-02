@@ -13826,5 +13826,33 @@
       "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-c77174eb7a033d15a3516cbb": {
+    "fingerprint": "f28d7bd3512d011c58222c0c",
+    "item": {
+      "id": "n-c77174eb7a033d15a3516cbb",
+      "url": "https://www.europapress.es/euskadi/noticia-estudiantes-vascos-realizan-practica-criminalistas-resolver-robo-dentro-proyecto-forensic-science-20261102161300.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-11-02T15:13:00+00:00",
+      "sourceTitle": "Estudiantes vascos realizan una práctica como criminalistas para resolver un robo dentro del proyecto \"Forensic Science\"",
+      "fingerprint": "f28d7bd3512d011c58222c0c",
+      "title": "Alumnos vascos simulan una investigación criminal en Bilbao",
+      "summary": "Estudiantes del País Vasco han participado en un ejercicio práctico de criminalística para esclarecer el robo ficticio de un documento histórico en el Itsasmuseum.",
+      "paragraphs": [
+        "Dentro del marco del proyecto educativo Forensic Science, un grupo de estudiantes ha llevado a cabo una simulación de investigación forense. El ejercicio se ha centrado en resolver la sustracción de un libro de Ordenanzas de Regulación de Comercio que se encontraba expuesto en el museo bilbaíno.",
+        "Esta actividad busca acercar las técnicas de investigación criminal a los alumnos mediante un caso práctico desarrollado en un entorno real."
+      ],
+      "bullets": [
+        "El proyecto se denomina Forensic Science.",
+        "El escenario del robo simulado es el Itsasmuseum de Bilbao.",
+        "El objeto sustraído es un libro histórico de Ordenanzas de Regulación de Comercio."
+      ],
+      "eventKey": "estudiantes vascos investigan robo simulado en Bilbao",
+      "partial": true,
+      "summarizedAt": "2026-11-02T17:24:55.009294+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
