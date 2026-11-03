@@ -14155,5 +14155,33 @@
       "summarizedAt": "2026-11-03T13:58:21.687218+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-36f58dca689d43d0b8183587": {
+    "fingerprint": "585e50693f9fb52cbb8d1dbf",
+    "item": {
+      "id": "n-36f58dca689d43d0b8183587",
+      "url": "https://www.europapress.es/nacional/noticia-ts-confirma-38508-euros-honorarios-tiene-pagar-garcia-ortiz-gonzalez-amador-no-ve-excesivos-20261103155304.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-11-03T14:53:04+00:00",
+      "sourceTitle": "El TS confirma los 38.508 euros de honorarios que tiene que pagar García Ortiz a González Amador y no los ve \"excesivos\"",
+      "fingerprint": "585e50693f9fb52cbb8d1dbf",
+      "title": "El Tribunal Supremo ratifica los honorarios de la defensa de González Amador",
+      "summary": "El alto tribunal ha desestimado el recurso presentado por la Fiscalía y la Abogacía del Estado contra la cuantía de las costas impuestas al ex fiscal general del Estado.",
+      "paragraphs": [
+        "El Tribunal Supremo ha validado el pago de 38.508 euros en concepto de honorarios que Álvaro García Ortiz debe abonar al abogado de Alberto González Amador. La resolución desestima la impugnación planteada por la Fiscalía y la Abogacía del Estado, que calificaban dicha cifra como excesiva.",
+        "Esta decisión se enmarca en el procedimiento judicial en el que García Ortiz resultó condenado por un delito de revelación de datos reservados."
+      ],
+      "bullets": [
+        "El Supremo rechaza la impugnación de la Fiscalía y la Abogacía del Estado.",
+        "Se confirma el pago de 38.508 euros por honorarios legales.",
+        "La condena previa contra García Ortiz fue por revelación de datos reservados."
+      ],
+      "eventKey": "Álvaro García Ortiz-pago costas judiciales-Tribunal Supremo",
+      "partial": true,
+      "summarizedAt": "2026-11-03T15:28:10.461384+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
