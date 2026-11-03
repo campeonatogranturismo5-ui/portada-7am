@@ -5576,30 +5576,29 @@
     }
   },
   "n-36cd3c034800949469389dad": {
-    "fingerprint": "8c0040f5338c72644044263f",
+    "fingerprint": "36832ef2a0887daca7620de5",
     "item": {
       "id": "n-36cd3c034800949469389dad",
       "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "section": "economia",
       "lang": "en",
-      "publishedAt": "2026-10-13T12:27:36+00:00",
-      "sourceTitle": "Car finance compensation payments delayed until next year",
-      "fingerprint": "8c0040f5338c72644044263f",
-      "title": "Aplazados hasta el próximo año los pagos de compensación por financiación de vehículos",
-      "summary": "El proceso de indemnización para millones de afectados por los acuerdos de comisiones entre prestamistas y concesionarios se retrasa hasta 2026.",
+      "publishedAt": "2026-11-03T12:30:04+00:00",
+      "sourceTitle": "Car finance compensation payments explained",
+      "fingerprint": "36832ef2a0887daca7620de5",
+      "title": "Posibles indemnizaciones por la financiación de vehículos",
+      "summary": "Millones de personas podrían recibir compensaciones económicas debido a los acuerdos de comisiones establecidos entre los concesionarios y las entidades prestamistas.",
       "paragraphs": [
-        "Los pagos previstos para compensar a los clientes por las irregularidades en los acuerdos de financiación automovilística no se efectuarán este año. La resolución de estas reclamaciones, que afectan a millones de personas, se pospone hasta el próximo ejercicio.",
-        "La medida responde a las dudas sobre la gestión de las comisiones pactadas entre las entidades financieras y los vendedores de vehículos, un asunto que sigue generando incertidumbre sobre el alcance final de las compensaciones."
+        "Se ha abierto la posibilidad de que un gran número de usuarios obtenga una compensación financiera. El origen de esta situación reside en la estructura de los acuerdos de comisiones pactados entre quienes venden los vehículos y las entidades que facilitan la financiación."
       ],
       "bullets": [
-        "Millones de usuarios podrían tener derecho a recibir una indemnización.",
-        "El retraso afecta a los acuerdos de comisiones entre prestamistas y concesionarios.",
-        "Los pagos se han pospuesto hasta el año que viene."
+        "Millones de afectados potenciales.",
+        "Indemnizaciones vinculadas a acuerdos de comisiones.",
+        "Implicación directa de prestamistas y concesionarios."
       ],
-      "eventKey": "clientes-reclamacion-financiacion-vehiculos",
+      "eventKey": "usuarios-reclaman-indemnizaciones-financiacion-vehiculos",
       "partial": true,
-      "summarizedAt": "2026-10-13T12:34:06.352060+00:00",
+      "summarizedAt": "2026-11-03T13:58:21.687218+00:00",
       "model": "gemini-3.1-flash-lite"
     }
   },
@@ -13852,6 +13851,308 @@
       "eventKey": "estudiantes vascos investigan robo simulado en Bilbao",
       "partial": true,
       "summarizedAt": "2026-11-02T17:24:55.009294+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-607838334b1104976cf9961d": {
+    "fingerprint": "d27f04ee5cc1eac0e1f916ba",
+    "item": {
+      "id": "n-607838334b1104976cf9961d",
+      "url": "https://www.durangon.com/dos-nuevas-fechas-para-renovar-el-dni-y-el-pasaporte-en-durango/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-11-03T12:52:57+00:00",
+      "sourceTitle": "Dos nuevas fechas para renovar el DNI y el pasaporte en Durango",
+      "fingerprint": "d27f04ee5cc1eac0e1f916ba",
+      "title": "Nuevas jornadas para la expedición del DNI y pasaporte en Durango",
+      "summary": "El municipio de Durango ha habilitado dos fechas adicionales para realizar trámites de renovación de documentos de identidad durante el mes de diciembre.",
+      "paragraphs": [
+        "Los ciudadanos interesados en renovar su DNI o pasaporte dispondrán de dos nuevas oportunidades en Durango. La gestión de las citas previas para estas jornadas se abrirá este próximo viernes."
+      ],
+      "bullets": [
+        "Dos nuevas fechas disponibles en diciembre.",
+        "Inicio de la gestión de citas este viernes."
+      ],
+      "eventKey": "ciudadanos-renovar-documentacion-durango",
+      "partial": true,
+      "summarizedAt": "2026-11-03T13:58:21.687218+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-c5713532d0c0b478542253f1": {
+    "fingerprint": "0867d8c8d9ec2638cf5abe15",
+    "item": {
+      "id": "n-c5713532d0c0b478542253f1",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-11-03T13:55:47+00:00",
+      "sourceTitle": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+      "fingerprint": "0867d8c8d9ec2638cf5abe15",
+      "title": "Alerta en Europa por ciberataques a congeladores de supermercados",
+      "summary": "Diversos supermercados en diez países europeos han sufrido fallos en sus sistemas de refrigeración debido a ataques informáticos, lo que ha obligado a desechar grandes cantidades de alimentos.",
+      "paragraphs": [
+        "Una oleada de ciberataques ha afectado a los sistemas de congelación de cadenas de supermercados en una decena de países europeos, desde Estonia y Suecia hasta Portugal e Italia.",
+        "Como consecuencia directa de estas intrusiones, los establecimientos se han visto forzados a retirar y tirar productos perecederos que han perdido la cadena de frío."
+      ],
+      "bullets": [
+        "Afectación en diez países europeos.",
+        "Problemas técnicos en sistemas de refrigeración.",
+        "Pérdida de inventario alimentario."
+      ],
+      "eventKey": "supermercados europeos sufren ciberataques",
+      "partial": true,
+      "summarizedAt": "2026-11-03T13:58:21.687218+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-9865ba2a6ee710cb79297157": {
+    "fingerprint": "f37a0c7ebbb550b91ef7d0be",
+    "item": {
+      "id": "n-9865ba2a6ee710cb79297157",
+      "url": "https://www.xataka.com/magnet/delantero-tenerife-ha-muerto-rodillazo-pregunta-ahora-jesus-owono-afronta-responsabilidades-penales",
+      "source": "Xataka",
+      "section": "tecnologia",
+      "lang": "es",
+      "publishedAt": "2026-11-03T13:45:27+00:00",
+      "sourceTitle": "Un delantero del Tenerife ha muerto tras un rodillazo. La pregunta ahora es si Jesús Owono afronta responsabilidades penales",
+      "fingerprint": "f37a0c7ebbb550b91ef7d0be",
+      "title": "Fallece el delantero del CD Tenerife Jesús de Miguel tras un choque en un partido",
+      "summary": "El futbolista Jesús de Miguel ha muerto tras recibir un fuerte impacto del portero del Andorra, Jesús Owono, durante un encuentro deportivo. El suceso ha abierto un debate sobre la posible responsabilidad penal del guardameta tras el fatal desenlace.",
+      "paragraphs": [
+        "El delantero del CD Tenerife, Jesús de Miguel, ha fallecido tras sufrir un violento choque con el portero del Andorra, Jesús Owono, durante un partido disputado en el Estadio Heliodoro Rodríguez López. El impacto, producido por una rodilla del guardameta, dejó al jugador inerte sobre el césped tras sufrir una parada cardiorrespiratoria.",
+        "Tras ser trasladado a la UCI del Hospital Universitario Nuestra Señora de Candelaria, el estado neurológico del futbolista empeoró hasta confirmarse su muerte. El incidente ha generado una gran conmoción en el fútbol español y ha planteado interrogantes sobre las posibles consecuencias legales para Owono por la acción durante el juego."
+      ],
+      "bullets": [
+        "El partido fue suspendido tras el choque al ser necesaria la reanimación del jugador.",
+        "El CD Tenerife confirmó el fallecimiento del delantero a las 8:00 horas del 3 de noviembre.",
+        "Se analiza la posible responsabilidad penal del portero del Andorra por la violencia del impacto."
+      ],
+      "eventKey": "Jesús de Miguel fallecimiento tras choque con Jesús Owono en Tenerife",
+      "partial": true,
+      "summarizedAt": "2026-11-03T13:58:21.687218+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-2badff0b426a8b490a3b056d": {
+    "fingerprint": "5191677af0ac01daff6b66d3",
+    "item": {
+      "id": "n-2badff0b426a8b490a3b056d",
+      "url": "https://elpais.com/cultura/2026-11-03/el-escritor-philippe-jaenada-se-alza-con-el-premio-goncourt-2026.html",
+      "source": "El País",
+      "section": "cultura",
+      "lang": "es",
+      "publishedAt": "2026-11-03T12:29:48+00:00",
+      "sourceTitle": "El escritor Philippe Jaenada se alza con el premio Goncourt 2026",
+      "fingerprint": "5191677af0ac01daff6b66d3",
+      "title": "Philippe Jaenada gana el Premio Goncourt 2026",
+      "summary": "El autor francés ha sido galardonado con el prestigioso premio literario por una obra centrada en un caso criminal histórico.",
+      "paragraphs": [
+        "El escritor Philippe Jaenada ha obtenido el Premio Goncourt 2026. La obra premiada explora los detalles de un asesinato ocurrido en 1949."
+      ],
+      "bullets": [
+        "El galardón reconoce la labor literaria de Jaenada.",
+        "La trama del libro se basa en una investigación sobre un crimen cometido a mediados del siglo XX."
+      ],
+      "eventKey": "Philippe Jaenada gana Premio Goncourt",
+      "partial": true,
+      "summarizedAt": "2026-11-03T13:58:21.687218+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-de77327dc8fc06399d61235a": {
+    "fingerprint": "eaefa1cc8c8a66610af480c6",
+    "item": {
+      "id": "n-de77327dc8fc06399d61235a",
+      "url": "https://www.europapress.es/euskadi/noticia-pradales-apela-coger-velocidad-descarbonizacion-defiende-euskadi-haciendo-mucho-bien-20261103143200.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-11-03T13:32:00+00:00",
+      "sourceTitle": "Pradales apela a \"coger velocidad\" para la descarbonizacion pero defiende que Euskadi está haciendo \"mucho y bien\"",
+      "fingerprint": "eaefa1cc8c8a66610af480c6",
+      "title": "Pradales defiende la gestión vasca en descarbonización y pide acelerar el proceso",
+      "summary": "El lehendakari aboga por incrementar el ritmo de la transición energética en Euskadi, subrayando que es posible compatibilizar la sostenibilidad con la competitividad industrial.",
+      "paragraphs": [
+        "Imanol Pradales ha instado a acelerar la descarbonización en el País Vasco, defendiendo al mismo tiempo que la región ya está ejecutando una labor positiva en este ámbito.",
+        "El mandatario ha rechazado la idea de tener que elegir entre la sostenibilidad y la competitividad económica, apostando por un modelo de transición que sea justo y aproveche las oportunidades existentes."
+      ],
+      "bullets": [
+        "Llamamiento a aumentar la velocidad en los procesos de descarbonización.",
+        "Defensa de la gestión actual realizada en Euskadi.",
+        "Rechazo a la dicotomía entre competitividad y sostenibilidad.",
+        "Enfoque en las oportunidades de una transición justa."
+      ],
+      "eventKey": "Imanol Pradales defiende descarbonización en Euskadi",
+      "partial": true,
+      "summarizedAt": "2026-11-03T13:58:21.687218+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-5f52799363c9ba5e03706a0a": {
+    "fingerprint": "10214aa04b5f7fd4442b11fc",
+    "item": {
+      "id": "n-5f52799363c9ba5e03706a0a",
+      "url": "https://www.europapress.es/nacional/noticia-gobierno-pide-frenar-escalada-violencia-bofetada-concejal-pp-delegado-cantabria-20261103134100.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-11-03T12:41:00+00:00",
+      "sourceTitle": "El Gobierno pide frenar la \"escalada\" de violencia tras la bofetada de un concejal del PP al delegado en Cantabria",
+      "fingerprint": "10214aa04b5f7fd4442b11fc",
+      "title": "El Gobierno insta a detener la violencia tras la agresión a un delegado en Cantabria",
+      "summary": "El Ejecutivo ha solicitado poner fin a la creciente tensión y agresiones físicas después de que el delegado del Gobierno en Cantabria denunciara haber sido abofeteado por un edil del PP.",
+      "paragraphs": [
+        "La ministra portavoz, Elma Saiz, ha condenado los hechos y ha pedido un cese inmediato de la escalada de violencia e insultos en el ámbito político. La petición se produce tras la denuncia presentada por Pedro Casares, delegado del Gobierno en la región, quien asegura haber recibido una bofetada por parte de un concejal del Partido Popular del municipio de Ruesga."
+      ],
+      "bullets": [
+        "El Gobierno reclama frenar la escalada de violencia física y verbal.",
+        "El delegado del Gobierno en Cantabria, Pedro Casares, ha denunciado la agresión.",
+        "El presunto autor es un concejal del PP en la localidad de Ruesga."
+      ],
+      "eventKey": "Gobierno-condena-agresion-delegado-Cantabria",
+      "partial": true,
+      "summarizedAt": "2026-11-03T13:58:21.687218+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-771e2a9f6f2017867e54485c": {
+    "fingerprint": "0107373dd9833ab4734ea311",
+    "item": {
+      "id": "n-771e2a9f6f2017867e54485c",
+      "url": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-11-03T13:36:42+00:00",
+      "sourceTitle": "Four separate flights from London, Copenhagen, Manchester and Israel affected by bomb threats – Europe live",
+      "fingerprint": "0107373dd9833ab4734ea311",
+      "title": "Amenazas de bomba en vuelos europeos y agenda diplomática de Zelenski",
+      "summary": "Varios aeropuertos han registrado amenazas de bomba en vuelos internacionales, mientras el presidente ucraniano se reúne en Alemania para tratar la cooperación en defensa.",
+      "paragraphs": [
+        "El aeropuerto de Varsovia-Modlin ha reanudado sus operaciones tras una amenaza de bomba en un vuelo procedente de Londres, aunque las fuerzas de seguridad mantienen acordonada la zona donde se encontraba la aeronave.",
+        "Paralelamente, Volodímir Zelenski ha iniciado una ronda de contactos en Berlín con Friedrich Merz y el presidente Steinmeier para coordinar estrategias sobre defensa aérea y el sector energético."
+      ],
+      "bullets": [
+        "Vuelos procedentes de Londres, Copenhague, Manchester e Israel han sido objeto de alertas de seguridad.",
+        "Zelenski busca transformar los principios de seguridad y estabilidad en decisiones concretas durante sus reuniones en Alemania."
+      ],
+      "eventKey": "Zelenski se reúne en Berlín y aeropuertos europeos sufren amenazas de bomba",
+      "partial": true,
+      "summarizedAt": "2026-11-03T13:58:21.687218+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-d9052b60a1a3ea73ff595704": {
+    "fingerprint": "16f53e059acc4ced36f1f530",
+    "item": {
+      "id": "n-d9052b60a1a3ea73ff595704",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102202838.htm",
+      "source": "ScienceDaily",
+      "section": "ciencia",
+      "lang": "en",
+      "publishedAt": "2026-11-03T12:51:53+00:00",
+      "sourceTitle": "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
+      "fingerprint": "16f53e059acc4ced36f1f530",
+      "title": "Identificado el patógeno responsable de la desaparición de ranas en Brasil",
+      "summary": "Científicos han hallado pruebas de que un hongo letal causó el declive de poblaciones de ranas en Brasil hace cinco décadas. El estudio apunta a que las especies supervivientes han logrado desarrollar una mayor tolerancia a la enfermedad.",
+      "paragraphs": [
+        "Una investigación científica ha arrojado luz sobre un enigma de hace medio siglo relacionado con la desaparición de anfibios en territorio brasileño. Los expertos señalan a un hongo como el agente causante de la devastación de diversas especies vulnerables en la región.",
+        "El análisis revela que, a pesar del impacto inicial, muchas de estas poblaciones han conseguido recuperarse con el paso del tiempo. Se baraja la posibilidad de que los ejemplares actuales hayan evolucionado para resistir mejor el patógeno que amenazó su existencia."
+      ],
+      "bullets": [
+        "Un hongo letal es identificado como el causante del declive de ranas en Brasil.",
+        "El suceso se remonta a un misterio de hace casi 50 años.",
+        "Las poblaciones actuales muestran signos de recuperación y mayor tolerancia."
+      ],
+      "eventKey": "científicos-identifican-hongo-ranas-brasil",
+      "partial": true,
+      "summarizedAt": "2026-11-03T13:58:21.687218+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-d602924f3d5976b2104ad7f0": {
+    "fingerprint": "91c6c273c5cd89221428a44f",
+    "item": {
+      "id": "n-d602924f3d5976b2104ad7f0",
+      "url": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+      "source": "Ars Technica",
+      "section": "tecnologia",
+      "lang": "en",
+      "publishedAt": "2026-11-02T23:30:16+00:00",
+      "sourceTitle": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+      "fingerprint": "91c6c273c5cd89221428a44f",
+      "title": "El Museo Nacional del Aire y el Espacio completa su renovación",
+      "summary": "El Smithsonian ha reabierto la totalidad de sus galerías dedicadas al espacio tras finalizar un extenso proceso de remodelación en sus instalaciones.",
+      "paragraphs": [
+        "El Museo Nacional del Aire y el Espacio, gestionado por el Smithsonian, ha culminado las obras de mejora en sus espacios expositivos. Con la inauguración de la muestra \"At Home in Space\", el centro recupera el acceso completo a todas sus áreas temáticas sobre exploración espacial."
+      ],
+      "bullets": [
+        "Finalización de la reforma integral del museo.",
+        "Apertura de la nueva exposición \"At Home in Space\"."
+      ],
+      "eventKey": "Smithsonian-reapertura-museo-Washington",
+      "partial": true,
+      "summarizedAt": "2026-11-03T13:58:21.687218+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-f1b76784ddc820a779090655": {
+    "fingerprint": "093af0a576b6f579e52c9b9c",
+    "item": {
+      "id": "n-f1b76784ddc820a779090655",
+      "url": "https://www.theguardian.com/culture/2026/nov/03/spain-poet-lorca-gay-icon-la-bola-negra",
+      "source": "The Guardian",
+      "section": "cultura",
+      "lang": "en",
+      "publishedAt": "2026-11-03T12:15:48+00:00",
+      "sourceTitle": "‘His voice was too queer – so they silenced him’: how Spain’s national poet Lorca finally became a gay icon",
+      "fingerprint": "093af0a576b6f579e52c9b9c",
+      "title": "La figura de Lorca como icono LGTBIQ+",
+      "summary": "La identidad sexual de Federico García Lorca, silenciada durante décadas en España, está siendo reivindicada por nuevas producciones culturales. Entre ellas destaca la película 'La Bola Negra', que busca recuperar su legado desde una perspectiva contemporánea.",
+      "paragraphs": [
+        "La relevancia de la homosexualidad del poeta y dramaturgo granadino fue ocultada sistemáticamente en España durante mucho tiempo. Sin embargo, una serie de obras recientes están cambiando esta narrativa para las nuevas generaciones.",
+        "Un ejemplo de este fenómeno es la representación de Patricia Langa en el Instituto Cervantes de Londres, donde se explora la figura de Lorca y el silencio impuesto sobre su voz y su vida."
+      ],
+      "bullets": [
+        "La homosexualidad de Lorca fue reprimida durante décadas en España.",
+        "Nuevas obras, como el filme 'La Bola Negra', abordan esta faceta del autor.",
+        "La interpretación de Patricia Langa en Londres subraya cómo el odio y los celos silenciaron al poeta."
+      ],
+      "eventKey": "Federico García Lorca reivindicación identidad sexual",
+      "partial": true,
+      "summarizedAt": "2026-11-03T13:58:21.687218+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-e68d7c5bac584f3387f80d79": {
+    "fingerprint": "a56d1bba4d73014e86408b6a",
+    "item": {
+      "id": "n-e68d7c5bac584f3387f80d79",
+      "url": "https://www.europapress.es/euskadi/noticia-pnv-despliega-cartel-electoral-lema-defendemos-euskadi-fachada-sabin-etxea-bilbao-20261103131711.html",
+      "source": "Europa Press Euskadi",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-11-03T12:17:11+00:00",
+      "sourceTitle": "PNV despliega su cartel electoral con el lema 'Defendemos Euskadi' en la fachada de Sabin Etxea",
+      "fingerprint": "a56d1bba4d73014e86408b6a",
+      "title": "El PNV presenta su cartel electoral en Sabin Etxea",
+      "summary": "El Partido Nacionalista Vasco ha iniciado su campaña para las elecciones generales del 29 de noviembre con la colocación de una lona de gran formato en su sede central de Bilbao. En el acto han participado los principales dirigentes y candidatos de la formación.",
+      "paragraphs": [
+        "La fachada de Sabin Etxea luce ya el lema 'Defendemos Euskadi-Euskadi zaindu', con el que la formación jeltzale concurrirá a los comicios generales de finales de noviembre.",
+        "En la presentación han estado presentes el presidente del EBB, Aitor Esteban, y el Lehendakari, Imanol Pradales, junto a los cabezas de lista por los tres territorios históricos."
+      ],
+      "bullets": [
+        "Lema de campaña: 'Defendemos Euskadi-Euskadi zaindu'.",
+        "Cita electoral: 29 de noviembre.",
+        "Presencia de Aitor Esteban e Imanol Pradales.",
+        "Candidatos presentados: Maribel Vaquero, Idoia Sagastizabal y Gorka Urtaran."
+      ],
+      "eventKey": "PNV despliega cartel electoral en Bilbao",
+      "partial": true,
+      "summarizedAt": "2026-11-03T13:58:21.687218+00:00",
       "model": "gemini-3.1-flash-lite"
     }
   }
