@@ -8965,5 +8965,650 @@
     "partial": true,
     "summarizedAt": "2026-11-01T13:03:54.515328+00:00",
     "model": "gemini-3.1-flash-lite"
+  },
+  "n-680a5e5683056e509007847a": {
+    "id": "n-680a5e5683056e509007847a",
+    "url": "https://www.durangon.com/los-bailables-para-personas-mayores-de-durango-se-retoman-el-domingo/",
+    "source": "Durangon",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-11-05T11:33:56+00:00",
+    "sourceTitle": "Los bailables para personas mayores de Durango se retoman el domingo",
+    "fingerprint": "b013f1a2fd6ef73dd7fc3e0d",
+    "title": "Regresan los bailes para mayores en Durango",
+    "summary": "El municipio de Durango reactiva este domingo su programa de bailables destinados a las personas mayores. La actividad se desarrollará en el espacio del Mercado.",
+    "paragraphs": [
+      "La iniciativa de ocio para el colectivo de mayores de Durango vuelve a ponerse en marcha este fin de semana. Los encuentros tendrán lugar en la zona de abastos del Mercado local.",
+      "El horario establecido para estas sesiones de baile será de 18:30 a 20:30 horas."
+    ],
+    "bullets": [
+      "Reinicio de los bailables para mayores.",
+      "Ubicación en la zona de abastos del Mercado.",
+      "Horario fijado de 18:30 a 20:30 horas."
+    ],
+    "eventKey": "personas mayores de Durango retoman bailables",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-85ac1e330c2f1f916db3ba8a": {
+    "id": "n-85ac1e330c2f1f916db3ba8a",
+    "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+    "source": "The Guardian",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-11-05T14:04:31+00:00",
+    "sourceTitle": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+    "fingerprint": "97c020d0e2142a755190652f",
+    "title": "Oleada de amenazas de bomba en vuelos comerciales por Europa",
+    "summary": "Diversos aviones han sido desviados tras recibirse amenazas de bomba en al menos quince vuelos, una situación que las autoridades europeas aún investigan.",
+    "paragraphs": [
+      "La Comisión Europea ha señalado que es prematuro determinar si existe una conexión entre los incidentes reportados en distintos vuelos comerciales a lo largo del continente. La incertidumbre persiste mientras se gestionan las desviaciones de las aeronaves afectadas.",
+      "Diversas agencias y medios han confirmado nuevos avisos que han obligado a aterrizar de emergencia a aviones de compañías como WizzAir, Finnair y LOT Polish Airlines en aeropuertos como Viena o Bruselas."
+    ],
+    "bullets": [
+      "Al menos 15 vuelos han sido objeto de amenazas de bomba.",
+      "Aviones de WizzAir, Finnair y LOT Polish Airlines han tenido que ser desviados.",
+      "Las autoridades europeas investigan si los incidentes están coordinados."
+    ],
+    "eventKey": "vuelos comerciales europeos reciben amenazas de bomba",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-83f399e24ed771351b1118e4": {
+    "id": "n-83f399e24ed771351b1118e4",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
+    "source": "ScienceDaily",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-11-05T14:04:07+00:00",
+    "sourceTitle": "Scientists discover that a clogged filter could revolutionize oil refining",
+    "fingerprint": "6815f205880f63a9d6a647d7",
+    "title": "Una nueva membrana de filtración podría transformar el refinado de petróleo",
+    "summary": "Investigadores han diseñado una tecnología de filtrado a temperatura ambiente que utiliza el propio crudo para generar canales microscópicos. Este avance promete reducir significativamente el consumo energético y las emisiones contaminantes del sector.",
+    "paragraphs": [
+      "Un equipo científico ha desarrollado una membrana innovadora capaz de separar el petróleo crudo sin necesidad de aplicar calor. El proceso aprovecha las propiedades del propio hidrocarburo para establecer canales de filtración a escala microscópica.",
+      "La implementación de este sistema podría alterar profundamente la industria del refinado, uno de los sectores con mayor demanda energética a nivel global, al optimizar sus procesos operativos y ambientales."
+    ],
+    "bullets": [
+      "Reducción del consumo energético en el refinado cercana al 32%.",
+      "Disminución de las emisiones de carbono en casi un 38%.",
+      "Recorte de los costes operativos estimado en un 36%."
+    ],
+    "eventKey": "científicos-desarrollan-membrana-filtrado-petróleo",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-dd2e4f9b584e7c54edca6e13": {
+    "id": "n-dd2e4f9b584e7c54edca6e13",
+    "url": "https://www.xataka.com/seleccion/llega-a-action-19-99-euros-esta-solucion-8-1-para-cargar-telefonos-portatiles-dispositivos-a-vez",
+    "source": "Xataka",
+    "section": "tecnologia",
+    "lang": "es",
+    "publishedAt": "2026-11-05T14:15:06+00:00",
+    "sourceTitle": "Llega a Action (por 19,99 euros) esta solución 8 en 1 para cargar teléfonos, portátiles y más dispositivos a la vez",
+    "fingerprint": "fea741513e13ebdd1c765e1e",
+    "title": "Action lanza una estación de carga 8 en 1 por 19,99 euros",
+    "summary": "La cadena de tiendas Action ha incorporado a su catálogo una estación de carga vertical con ocho puertos, diseñada para centralizar la alimentación de múltiples dispositivos electrónicos.",
+    "paragraphs": [
+      "El nuevo accesorio permite conectar simultáneamente hasta ocho dispositivos, incluyendo teléfonos, tabletas y ordenadores portátiles compatibles con Power Delivery, gracias a sus seis puertos USB-C y dos USB-A.",
+      "Con una potencia total de 200W, el dispositivo distribuye la energía entre los puertos en uso, lo que condiciona la velocidad de carga según la cantidad de equipos conectados simultáneamente."
+    ],
+    "bullets": [
+      "Precio de venta de 19,99 euros en establecimientos físicos.",
+      "Diseño vertical para optimizar el espacio en ubicaciones fijas.",
+      "Potencia total de 200W repartida entre los ocho puertos disponibles."
+    ],
+    "eventKey": "Action comercializa estación de carga en tiendas físicas",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-445d3edbb78bdeba9b7892b9": {
+    "id": "n-445d3edbb78bdeba9b7892b9",
+    "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "economia",
+    "lang": "en",
+    "publishedAt": "2026-11-05T13:17:10+00:00",
+    "sourceTitle": "Faisal Islam: How high will interest rates go?",
+    "fingerprint": "220a37947b4d8e1f252489ce",
+    "title": "Perspectivas sobre el techo de los tipos de interés",
+    "summary": "El editor de economía de la BBC analiza la trayectoria de los tipos de interés, sugiriendo que podría producirse un último incremento antes de estabilizarse.",
+    "paragraphs": [
+      "El análisis económico apunta a la posibilidad de una subida adicional en los tipos de interés. Según la valoración del editor, este movimiento sería probablemente el último en el ciclo actual de ajustes monetarios."
+    ],
+    "bullets": [
+      "Previsión de un incremento adicional en los tipos.",
+      "Expectativa de que el ciclo de subidas finalice tras este ajuste."
+    ],
+    "eventKey": "Faisal Islam analiza tipos de interés",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-eb66effeea440b6edfcb9a11": {
+    "id": "n-eb66effeea440b6edfcb9a11",
+    "url": "https://www.theguardian.com/artanddesign/2026/nov/05/emma-richardson-paintings-pixies-hotwire-my-heart-wolf-collective",
+    "source": "The Guardian",
+    "section": "cultura",
+    "lang": "en",
+    "publishedAt": "2026-11-05T14:12:43+00:00",
+    "sourceTitle": "Is that an explosion, an implosion or an orgasm? Pixies bass-player Emma Richardson’s realm-leaping life in painting",
+    "fingerprint": "18de6324af88be91a9eaa1ff",
+    "title": "La faceta artística de Emma Richardson, bajista de Pixies",
+    "summary": "La música y pintora Emma Richardson inaugura su exposición 'Hotwire My Heart', donde explora la experiencia humana a través de lienzos de gran formato. Su obra, marcada por la intensidad y la ambigüedad, refleja su trayectoria tanto en el ámbito musical como en el pictórico.",
+    "paragraphs": [
+      "Emma Richardson, actual bajista de la banda Pixies, compagina su carrera musical con una prolífica producción artística. La artista describe sus cuadros como pruebas de Rorschach, donde el espectador proyecta sus propias interpretaciones ante imágenes que evocan desde fenómenos cósmicos hasta la sensualidad barroca.",
+      "La muestra 'Hotwire My Heart' recoge esta búsqueda de lo trascendente, influenciada por su bagaje previo en Band of Skulls y su actual etapa en el grupo de rock. Richardson utiliza óleos vibrantes para capturar el deseo y el hedonismo, buscando generar asombro en quienes observan sus creaciones."
+    ],
+    "bullets": [
+      "Inauguración de la exposición individual 'Hotwire My Heart'.",
+      "Exploración de temas como el deseo, el asombro y la experiencia humana.",
+      "Influencia de su carrera musical en su lenguaje visual pictórico."
+    ],
+    "eventKey": "Emma Richardson expone su obra pictórica",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-3db9c78b889477ab8864ed22": {
+    "id": "n-3db9c78b889477ab8864ed22",
+    "url": "https://www.europapress.es/euskadi/noticia-diputacion-bizkaia-destinara-millones-playas-invertira-millon-gaztelugatxe-13-orkonera-2027-20261105141807.html",
+    "source": "Europa Press Euskadi",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-11-05T13:18:07+00:00",
+    "sourceTitle": "Diputación de Bizkaia destinará 8 millones a las playas e invertirá 1 millón en Gaztelugatxe y 1,3 en Orkonera en 2027",
+    "fingerprint": "1092bb4e21d4cd4e8a9f01e0",
+    "title": "La Diputación de Bizkaia proyecta inversiones en playas y espacios naturales para 2027",
+    "summary": "El proyecto de presupuestos forales para 2027 incluye partidas destinadas a la gestión de playas, infraestructuras hídricas y la mejora de enclaves como Gaztelugatxe y Orkonera. Asimismo, se mantendrán las líneas de apoyo al sector primario y forestal.",
+    "paragraphs": [
+      "La Diputación Foral de Bizkaia ha presentado su propuesta presupuestaria para el próximo ejercicio, destacando una inversión de 8 millones de euros para la gestión de las playas. El plan también contempla 4 millones para el Consorcio de Aguas y fondos específicos para abastecimiento en Karrantza.",
+      "En cuanto a la conservación del patrimonio natural, se prevé destinar más de un millón de euros a San Juan de Gaztelugatxe y 1,3 millones a la zona de Orkonera. Por otro lado, el sector primario y forestal contará con ayudas que suman casi 16 millones de euros."
+    ],
+    "bullets": [
+      "8 millones de euros para la gestión de playas.",
+      "Inversiones de 1 millón en Gaztelugatxe y 1,3 millones en Orkonera.",
+      "Cerca de 10 millones para ayudas al sector primario y 5,9 millones para el plan forestal."
+    ],
+    "eventKey": "Diputación de Bizkaia presenta presupuestos de inversión",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-b1a7a3701a98056437744a2b": {
+    "id": "n-b1a7a3701a98056437744a2b",
+    "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-11-05T13:51:03+00:00",
+    "sourceTitle": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+    "fingerprint": "0ef2492ef204c498c641d2d4",
+    "title": "Joshua Wong, condenado a diez años de cárcel en Hong Kong",
+    "summary": "El activista prodemocracia Joshua Wong ha sido sentenciado a una década de prisión bajo la ley de seguridad nacional de Hong Kong.",
+    "paragraphs": [
+      "Joshua Wong, figura destacada de las protestas a favor de la democracia en Hong Kong, ha recibido una condena de diez años de cárcel. El activista, de 30 años, se encuentra entre el elevado número de ciudadanos detenidos al amparo de la controvertida legislación de seguridad nacional impuesta en el territorio."
+    ],
+    "bullets": [
+      "Joshua Wong sentenciado a 10 años de prisión.",
+      "El activista es una de las caras visibles de las protestas prodemocracia.",
+      "La detención se enmarca en la ley de seguridad nacional de Hong Kong."
+    ],
+    "eventKey": "Joshua Wong condenado a prisión en Hong Kong",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-6b2496f9d25e39f25e7505f5": {
+    "id": "n-6b2496f9d25e39f25e7505f5",
+    "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+    "source": "NASA",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-11-05T12:56:21+00:00",
+    "sourceTitle": "Hubble Learns Galactic History From Stars",
+    "fingerprint": "50a7a70bf2359ea4ce9654e9",
+    "title": "El telescopio Hubble analiza la historia galáctica a través de Messier 30",
+    "summary": "La NASA ha compartido una nueva imagen captada por el telescopio Hubble que muestra el cúmulo estelar Messier 30. Este registro permite profundizar en el estudio de la evolución de las galaxias mediante la observación de sus estrellas.",
+    "paragraphs": [
+      "El telescopio espacial Hubble ha centrado su atención en el cúmulo globular conocido como Messier 30, también catalogado como NGC 7099. Esta observación forma parte de los esfuerzos continuos por descifrar la historia galáctica a través del análisis de sus estrellas.",
+      "La imagen difundida por la agencia espacial destaca la densa y brillante agrupación de astros que compone este objeto celeste, proporcionando datos relevantes para la investigación astronómica."
+    ],
+    "bullets": [
+      "El Hubble captura una imagen detallada del cúmulo Messier 30.",
+      "El estudio de estas estrellas ayuda a comprender la historia de las galaxias.",
+      "Messier 30 es identificado también bajo la denominación NGC 7099."
+    ],
+    "eventKey": "Hubble-observa-Messier30",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-9db55803402ec47c3ec5f83c": {
+    "id": "n-9db55803402ec47c3ec5f83c",
+    "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+    "source": "Ars Technica",
+    "section": "tecnologia",
+    "lang": "en",
+    "publishedAt": "2026-11-05T12:00:41+00:00",
+    "sourceTitle": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+    "fingerprint": "3d9ee4ce9d2c063070742740",
+    "title": "Agility Robotics debuta en el Nasdaq",
+    "summary": "La compañía estadounidense especializada en robots humanoides ha comenzado a cotizar en el mercado bursátil Nasdaq. Este movimiento ha generado un mayor interés por analizar la situación actual del sector de la robótica humanoide.",
+    "paragraphs": [
+      "Agility Robotics, considerada una de las empresas líderes en el despliegue de robots con forma humana en Estados Unidos, ha formalizado su salida a bolsa.",
+      "La operación ha puesto el foco sobre la viabilidad y las perspectivas de futuro de este mercado tecnológico emergente."
+    ],
+    "bullets": [
+      "La empresa ha iniciado su cotización en el Nasdaq.",
+      "El sector de la robótica humanoide se enfrenta a un mayor escrutinio tras este estreno bursátil."
+    ],
+    "eventKey": "Agility Robotics salida a bolsa Nasdaq",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-63718b66802e47170a7173ed": {
+    "id": "n-63718b66802e47170a7173ed",
+    "url": "https://elpais.com/cultura/musica/2026-11-05/u2-volvera-a-espana-en-2027-con-tres-conciertos-en-barcelona-y-sevilla.html",
+    "source": "El País",
+    "section": "cultura",
+    "lang": "es",
+    "publishedAt": "2026-11-05T13:58:02+00:00",
+    "sourceTitle": "U2 volverá a España en 2027 con tres conciertos en Barcelona y Sevilla",
+    "fingerprint": "e1efa7faea53b5b07fed9303",
+    "title": "U2 anuncia tres conciertos en España para 2027",
+    "summary": "La banda irlandesa regresará a nuestro país el próximo año para presentar su nuevo sencillo en Barcelona y Sevilla.",
+    "paragraphs": [
+      "U2 ha confirmado su vuelta a los escenarios españoles en 2027. La gira internacional, centrada en su reciente tema 'Carnaval de luz', incluirá paradas en dos ciudades clave.",
+      "Las actuaciones tendrán lugar en Barcelona, con dos fechas programadas, y en Sevilla, donde el grupo actuará en el estadio de La Cartuja."
+    ],
+    "bullets": [
+      "Barcelona acogerá dos conciertos los días 13 y 15 de mayo.",
+      "Sevilla recibirá a la banda el 22 de mayo en La Cartuja.",
+      "La gira promociona el nuevo sencillo titulado 'Carnaval de luz'."
+    ],
+    "eventKey": "U2 conciertos España 2027",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-59b8b8c2d2ca25406a439a74": {
+    "id": "n-59b8b8c2d2ca25406a439a74",
+    "url": "https://www.durangon.com/una-cata-de-vino-y-chocolate-reanuda-la-actividad-del-mercado-de-durango/",
+    "source": "Durangon",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-11-05T06:55:30+00:00",
+    "sourceTitle": "Una cata de vino y chocolate reanuda la actividad del Mercado de Durango",
+    "fingerprint": "8d3a4e1136049fd4d100ebdf",
+    "title": "El Mercado de Durango retoma su actividad con una cata de vino y chocolate",
+    "summary": "El Mercado de Durango reinicia su programación con un evento gastronómico que combina vino y chocolate, al que seguirá la presentación de un proyecto local de elaboración de miso.",
+    "paragraphs": [
+      "La actividad regresa al Mercado de Durango mediante una cata especializada en vino y chocolate. Esta iniciativa marca la reanudación de la agenda del espacio.",
+      "Asimismo, el próximo sábado se presentará una propuesta centrada en la producción de miso, utilizando como materia prima alubias y maíz cultivados en Lezama."
+    ],
+    "bullets": [
+      "Reinicio de la actividad en el Mercado de Durango.",
+      "Celebración de una cata de vino y chocolate.",
+      "Presentación de un proyecto de elaboración de miso con productos de Lezama."
+    ],
+    "eventKey": "Mercado de Durango-reanuda actividad-Durango",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-04fc3e337aec4b4cefab426e": {
+    "id": "n-04fc3e337aec4b4cefab426e",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261102202836.htm",
+    "source": "ScienceDaily",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-11-05T13:05:12+00:00",
+    "sourceTitle": "400,000-year-old teeth reveal a stunning twist in human evolution",
+    "fingerprint": "f7c5305a37ea9fd5cfc08007",
+    "title": "Dientes de hace 400.000 años sugieren un nuevo giro en la evolución humana",
+    "summary": "El análisis de restos dentales de Homo erectus hallados en China indica que esta especie pudo cruzarse con los denisovanos, dejando un legado genético en poblaciones actuales del sudeste asiático.",
+    "paragraphs": [
+      "Un reciente estudio científico ha cuestionado la idea de que el Homo erectus fuera una rama evolutiva sin descendencia. La extracción de proteínas de piezas dentales de 400.000 años de antigüedad apunta a una posible hibridación con los denisovanos.",
+      "Este hallazgo sugiere que el material genético de estos antiguos homínidos podría haber llegado hasta las poblaciones modernas de regiones como Filipinas o Papúa Nueva Guinea."
+    ],
+    "bullets": [
+      "Análisis de proteínas en dientes de Homo erectus de 400.000 años.",
+      "Evidencias de cruce genético entre Homo erectus y denisovanos.",
+      "Posible impacto en la genética de poblaciones actuales del sudeste asiático."
+    ],
+    "eventKey": "Homo erectus y denisovanos cruce genético China",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-406de234344351ae79cc64e6": {
+    "id": "n-406de234344351ae79cc64e6",
+    "url": "https://www.xataka.com/empresas-y-economia/qualcomm-busca-fuera-movil-que-le-quita-crisis-memoria-coches-ia-antenas-para-spacex",
+    "source": "Xataka",
+    "section": "tecnologia",
+    "lang": "es",
+    "publishedAt": "2026-11-05T14:00:27+00:00",
+    "sourceTitle": "Qualcomm busca fuera del móvil lo que le quita la crisis de la memoria: coches, IA y antenas para SpaceX",
+    "fingerprint": "a97c568a7ae601dab8f0a296",
+    "title": "Qualcomm diversifica su negocio ante la crisis del mercado móvil",
+    "summary": "Ante la caída en los envíos de teléfonos y la crisis de memoria, Qualcomm busca compensar sus resultados financieros apostando por sectores como la automoción, la inteligencia artificial y las antenas para SpaceX.",
+    "paragraphs": [
+      "La compañía ha reportado una disminución del 7% en sus ingresos trimestrales, alcanzando los 10.442 millones de dólares, mientras que sus beneficios operativos han sufrido una caída del 27%. Este descenso se atribuye principalmente a la contracción del mercado de móviles, donde la división de chips ha facturado un 26% menos que en el ejercicio anterior.",
+      "Para mitigar esta situación, Qualcomm está reorientando su estrategia hacia áreas con mayor potencial de crecimiento. Destaca especialmente el sector de la automoción, que ha experimentado un incremento del 89% en su facturación, consolidándose como una pieza clave para el futuro de la empresa."
+    ],
+    "bullets": [
+      "La división de automoción alcanzó los 1.990 millones de dólares.",
+      "El aumento en los precios de la memoria RAM y almacenamiento ha encarecido los dispositivos y reducido los márgenes de beneficio.",
+      "La empresa prevé que sus márgenes operativos en la división de chips sigan ajustándose en el próximo trimestre."
+    ],
+    "eventKey": "Qualcomm diversifica negocio automoción IA SpaceX",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-67f1c5458144ead359f7b075": {
+    "id": "n-67f1c5458144ead359f7b075",
+    "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "economia",
+    "lang": "en",
+    "publishedAt": "2026-11-05T13:08:30+00:00",
+    "sourceTitle": "Three ways the interest rate rise could affect you",
+    "fingerprint": "dded297a6681c2b141fbb3e5",
+    "title": "Impacto de la subida de tipos del Banco de Inglaterra",
+    "summary": "El Banco de Inglaterra ha anunciado un incremento en los tipos de interés que repercutirá directamente en la situación laboral, los préstamos y el ahorro de los ciudadanos.",
+    "paragraphs": [
+      "La reciente decisión de la entidad bancaria central británica plantea cambios significativos para la economía doméstica. Los efectos de esta medida se dejarán sentir en diversos ámbitos financieros personales.",
+      "Se prevé que la subida afecte tanto a las condiciones de endeudamiento como a la rentabilidad de los depósitos bancarios."
+    ],
+    "bullets": [
+      "Modificaciones en las condiciones de los préstamos.",
+      "Variaciones en el rendimiento de los ahorros.",
+      "Posibles consecuencias en el mercado laboral."
+    ],
+    "eventKey": "Banco de Inglaterra sube tipos de interés Reino Unido",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-f7cf2f0b2e5288b176577415": {
+    "id": "n-f7cf2f0b2e5288b176577415",
+    "url": "https://www.theguardian.com/film/2026/nov/05/celia-imrie-interview-traitors-star-wars-george-lucas",
+    "source": "The Guardian",
+    "section": "cultura",
+    "lang": "en",
+    "publishedAt": "2026-11-05T13:00:25+00:00",
+    "sourceTitle": "‘George Lucas told me off for wearing lipstick’: Celia Imrie on Traitors, Star Wars and treating the lens like a lover",
+    "fingerprint": "ba48f20cf68e4421c657d474",
+    "title": "Celia Imrie reflexiona sobre su paso por Celebrity Traitors",
+    "summary": "La actriz Celia Imrie repasa su experiencia en el programa Celebrity Traitors, donde admite que no mantiene contacto con sus antiguos compañeros de concurso.",
+    "paragraphs": [
+      "Celia Imrie ha compartido sus impresiones sobre su participación en el formato televisivo Celebrity Traitors. La intérprete reconoce que, aunque disfrutó de la experiencia, su percepción sobre la dinámica de grupo y la mentalidad de rebaño en la mesa redonda fue distinta a la de otros participantes.",
+      "Tras su eliminación al señalar a Alan Carr, Imrie ha aclarado que no ha vuelto a coincidir con el resto del elenco. A pesar de haber calificado al grupo como una compañía maravillosa, ha manifestado que no tiene intención de retomar el contacto con ellos."
+    ],
+    "bullets": [
+      "Imrie señala la existencia de una mentalidad de rebaño durante el programa.",
+      "La actriz fue eliminada tras acusar a Alan Carr de ser un traidor.",
+      "Niega haber mantenido relación con sus compañeros tras finalizar el rodaje."
+    ],
+    "eventKey": "Celia Imrie comenta su participación en Celebrity Traitors",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-4331698cf46dc0a663bb3a49": {
+    "id": "n-4331698cf46dc0a663bb3a49",
+    "url": "https://www.europapress.es/euskadi/noticia-capcapital-oferente-tubos-reunidos-plantea-reducir-plantillas-20-congelacion-salarial-cinco-anos-20261105133513.html",
+    "source": "Europa Press Euskadi",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-11-05T12:35:13+00:00",
+    "sourceTitle": "CapCapital, oferente de Tubos Reunidos, plantea reducir plantillas un 20% y congelación salarial 5 años",
+    "fingerprint": "a98055e70848156e20e9c27e",
+    "title": "CapCapital propone recortes de empleo y salarios en Tubos Reunidos",
+    "summary": "La firma Green Industry Machines & Materials ha planteado un plan de ajuste que incluye despidos masivos y la congelación de sueldos en las plantas de la compañía.",
+    "paragraphs": [
+      "El grupo CapCapital, a través de su filial Green Industry Machines & Materials, ha trasladado a los comités de empresa de Tubos Reunidos una propuesta de reestructuración. El plan contempla una reducción del 20% de la plantilla en los centros de trabajo de Trapagarán, Amurrio y Nanclares.",
+      "Además del ajuste de personal, la oferta incluye una congelación salarial para los trabajadores que se extendería durante un periodo de cinco años."
+    ],
+    "bullets": [
+      "Reducción del 20% de la plantilla total.",
+      "Congelación de salarios durante un lustro.",
+      "Afectación a las plantas de Trapagarán, Amurrio y Nanclares."
+    ],
+    "eventKey": "CapCapital-propone-recortes-Tubos-Reunidos",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-d812a61e13931cac28bd774b": {
+    "id": "n-d812a61e13931cac28bd774b",
+    "url": "https://www.eldiario.es/politica/fiscalia-carga-descaro-ignacio-gonzalez-enriquecer-familiares-costa-fondos-publicos_1_13639830.html",
+    "source": "elDiario.es",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-11-05T10:58:44+00:00",
+    "sourceTitle": "La Fiscalía carga contra el “descaro” de Ignacio González al “enriquecer” a sus familiares “a costa de fondos públicos”",
+    "fingerprint": "83e74b3eb56e8debcbb318ee",
+    "title": "La Fiscalía acusa a Ignacio González de enriquecer a su familia con fondos públicos",
+    "summary": "La Fiscalía Anticorrupción ha solicitado una condena para el expresidente madrileño Ignacio González por el caso Lezo, señalando un plan deliberado para beneficiar a sus familiares mediante adjudicaciones irregulares del Canal de Isabel II. Asimismo, el Ministerio Público contempla querellarse contra su esposa por falso testimonio durante el proceso.",
+    "paragraphs": [
+      "Durante el juicio, la fiscal Ana Cuenca ha calificado de \"abrumadora\" la prueba contra González, acusándole de orquestar un sistema para desviar fondos públicos hacia su hermano y cuñado a través de contratos sin justificación técnica. La Fiscalía ha rebajado la petición de pena a cinco años de cárcel debido a la dilación del proceso judicial.",
+      "La acusación sostiene que el expresidente facilitó adjudicaciones directas a empresas vinculadas a su entorno familiar, las cuales carecían de solvencia y subcontrataban los trabajos aplicando comisiones. Además, se investiga la posible comisión de un delito de falso testimonio por parte de Lourdes Cavero, esposa de González, respecto a las obras realizadas en su domicilio particular."
+    ],
+    "bullets": [
+      "La Fiscalía solicita una sentencia ejemplar por delitos de cohecho cometidos entre 2004 y 2006.",
+      "Se denuncia la falta de licitación en la construcción de un campo de golf gestionado por el Canal de Isabel II.",
+      "La fiscalía apunta a un plan preordenado para beneficiar a familiares del entonces vicepresidente autonómico.",
+      "La mujer de González podría enfrentarse a una querella por mentir sobre la vinculación de Dragados con reformas en su vivienda."
+    ],
+    "eventKey": "Ignacio González juzgado por corrupción en Madrid",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-54ee0b3551a524aa1c524552": {
+    "id": "n-54ee0b3551a524aa1c524552",
+    "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-11-05T13:04:04+00:00",
+    "sourceTitle": "France holds new strikes and protests as unions demand immediate answers",
+    "fingerprint": "9e11e2c79bba68879b7be1b9",
+    "title": "Jornada de huelgas y protestas en Francia",
+    "summary": "Cinco sindicatos franceses han convocado una jornada nacional de movilizaciones para exigir respuestas inmediatas a sus demandas.",
+    "paragraphs": [
+      "Francia afronta una nueva oleada de paros y manifestaciones organizadas por cinco organizaciones sindicales. El sector laboral busca presionar al Gobierno mediante esta jornada de acción nacional.",
+      "Los convocantes mantienen la incertidumbre sobre el impacto de las protestas mientras reclaman soluciones urgentes a sus reivindicaciones."
+    ],
+    "bullets": [
+      "Participación de cinco sindicatos franceses.",
+      "Jornada nacional de huelgas y protestas.",
+      "Exigencia de respuestas inmediatas."
+    ],
+    "eventKey": "sindicatos franceses convocan huelgas en Francia",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-4c0fb07e869c322922722b53": {
+    "id": "n-4c0fb07e869c322922722b53",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+    "source": "NASA",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-11-05T05:05:00+00:00",
+    "sourceTitle": "APOD: 2026 November 5 – Enceladus in Silhouette",
+    "fingerprint": "8b08d2e4bb292d7cf89fd5ea",
+    "title": "La NASA destaca una imagen de Encélado en silueta",
+    "summary": "La sección Astronomy Picture of the Day de la NASA ha publicado una nueva fotografía que muestra a la luna de Saturno, Encélado, recortada contra el espacio.",
+    "paragraphs": [
+      "La agencia espacial estadounidense ha compartido una imagen astronómica que presenta a Encélado en silueta. Esta publicación forma parte de su iniciativa diaria para divulgar fotografías del cosmos acompañadas de explicaciones profesionales."
+    ],
+    "bullets": [
+      "La imagen muestra a Encélado, una de las lunas de Saturno.",
+      "La publicación se enmarca en el proyecto Astronomy Picture of the Day."
+    ],
+    "eventKey": "NASA-publica-imagen-Encélado",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-71935939aaf2bd4f1dfb8926": {
+    "id": "n-71935939aaf2bd4f1dfb8926",
+    "url": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/",
+    "source": "Ars Technica",
+    "section": "tecnologia",
+    "lang": "en",
+    "publishedAt": "2026-11-05T09:00:13+00:00",
+    "sourceTitle": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+    "fingerprint": "6e861d29dd70e6e60378f77e",
+    "title": "Primeras impresiones del Mercedes-AMG GT 4-Door Coupe",
+    "summary": "El nuevo modelo de Mercedes-AMG integra tecnología eléctrica avanzada para mantener la esencia deportiva de la marca.",
+    "paragraphs": [
+      "El Mercedes-AMG GT 4-Door Coupe ha sido probado recientemente, destacando por la incorporación de tres motores eléctricos de flujo axial.",
+      "Esta configuración técnica busca equilibrar la innovación tecnológica con la experiencia de conducción dinámica característica de la firma."
+    ],
+    "bullets": [
+      "Uso de tres motores eléctricos de flujo axial.",
+      "Enfoque en la combinación de tecnología y diversión al volante."
+    ],
+    "eventKey": "Mercedes-AMG-prueba-nuevo-modelo",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-df08504d719afcc56d0b4282": {
+    "id": "n-df08504d719afcc56d0b4282",
+    "url": "https://www.durangon.com/los-trabajos-de-mejora-de-la-red-electrica-de-durango-continuaran-en-andra-mari-y-zeharkalea/",
+    "source": "Durangon",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-11-04T10:29:39+00:00",
+    "sourceTitle": "Los trabajos de mejora de la red eléctrica de Durango continuarán en Andra Mari y Zeharkalea",
+    "fingerprint": "7774fde6d7634eb4f91a874d",
+    "title": "Las obras de mejora eléctrica en Durango se trasladan a Andra Mari y Zeharkalea",
+    "summary": "El plan de renovación de la red eléctrica en Durango prosigue su curso con nuevas intervenciones en las calles Andra Mari y Zeharkalea. Estos trabajos dan continuidad a las labores iniciadas el pasado mes de octubre en otros puntos del municipio.",
+    "paragraphs": [
+      "El Ayuntamiento de Durango ha confirmado la continuación de las obras de mejora en su infraestructura eléctrica. Tras haber operado previamente en las zonas de Tabirabide y Kurutziaga, los operarios se desplazan ahora a las calles Andra Mari y Zeharkalea para proseguir con las tareas de actualización.",
+      "Estas actuaciones forman parte de un plan de mantenimiento y modernización de la red que comenzó a mediados de octubre. Se espera que los trabajos sigan desarrollándose según la planificación establecida para optimizar el suministro en las áreas afectadas."
+    ],
+    "bullets": [
+      "Continuación de las mejoras eléctricas en Durango.",
+      "Nuevas intervenciones en Andra Mari y Zeharkalea.",
+      "Precedentes de actuación en Tabirabide y Kurutziaga."
+    ],
+    "eventKey": "Ayuntamiento de Durango-mejora red eléctrica-Durango",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-63207f6ab4ba85339ce9a5af": {
+    "id": "n-63207f6ab4ba85339ce9a5af",
+    "url": "https://www.europapress.es/comunitat-valenciana/noticia-ester-munoz-pp-apunta-pedro-sanchez-detenciones-caso-koldo-solo-queda-numero-20261105132745.html",
+    "source": "Europa Press",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-11-05T12:27:45+00:00",
+    "sourceTitle": "Ester Muñoz (PP) apunta a Pedro Sánchez tras las detenciones por el caso Koldo: \"Solo queda el número uno\"",
+    "fingerprint": "dbbd7e11a4ff06e08f169c60",
+    "title": "El PP señala a Pedro Sánchez tras las nuevas detenciones en el caso Koldo",
+    "summary": "La portavoz popular en el Congreso ha vinculado al presidente del Gobierno con la investigación judicial tras las recientes órdenes de detención dictadas por la Audiencia Nacional.",
+    "paragraphs": [
+      "Ester Muñoz, portavoz del Partido Popular en el Congreso, ha señalado directamente a Pedro Sánchez después de que la Audiencia Nacional ordenara seis detenciones en el marco de una pieza secreta del caso Koldo.",
+      "La dirigente popular ha sugerido que el presidente del Gobierno es el último responsable pendiente en la investigación, refiriéndose a él como el número uno."
+    ],
+    "bullets": [
+      "La Audiencia Nacional ha ordenado seis detenciones para tomar declaración.",
+      "La investigación se desarrolla en una nueva pieza separada y secreta del caso Koldo.",
+      "Ester Muñoz ha vinculado al secretario general del PSOE con el caso."
+    ],
+    "eventKey": "Ester Muñoz señala a Pedro Sánchez por el caso Koldo",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-bba5979fd1886fa15f044b81": {
+    "id": "n-bba5979fd1886fa15f044b81",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261101010556.htm",
+    "source": "ScienceDaily",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-11-05T12:50:34+00:00",
+    "sourceTitle": "Scientists discover mysterious “lonely” brain waves linked to memory loss",
+    "fingerprint": "69d32b013c92380047c611a6",
+    "title": "Identifican ondas cerebrales anómalas vinculadas a la pérdida de memoria",
+    "summary": "Un equipo científico ha detectado una conexión entre la acumulación de proteínas asociadas al alzhéimer y la alteración de las ondas cerebrales durante el sueño profundo. Este fenómeno podría explicar el deterioro cognitivo previo a la aparición de síntomas clínicos.",
+    "paragraphs": [
+      "Investigadores han observado que la forma en que el cerebro procesa los recuerdos durante la noche sufre cambios ocultos que podrían ser determinantes en la pérdida de memoria relacionada con la edad.",
+      "El estudio sugiere que estas alteraciones en la actividad cerebral ocurren mucho antes de que se manifiesten los signos evidentes de la enfermedad de Alzheimer."
+    ],
+    "bullets": [
+      "Relación entre proteínas del alzhéimer y ondas cerebrales.",
+      "Interrupción del procesamiento de recuerdos en el sueño profundo.",
+      "Posible indicador temprano de deterioro cognitivo."
+    ],
+    "eventKey": "científicos-vinculan-ondas-cerebrales-pérdida-memoria",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-08144b537c479f5b74d1ef96": {
+    "id": "n-08144b537c479f5b74d1ef96",
+    "url": "https://www.xataka.com/robotica-e-ia/apple-quiere-que-siri-ia-este-todas-partes-al-tiempo-limita-a-200-dolares-gasto-tokens-para-sus-empleados",
+    "source": "Xataka",
+    "section": "tecnologia",
+    "lang": "es",
+    "publishedAt": "2026-11-05T13:46:34+00:00",
+    "sourceTitle": "Apple quiere que Siri IA esté en todas partes. Al mismo tiempo, limita a 200 dólares el gasto de tokens para sus empleados",
+    "fingerprint": "0be15d664a2b98f2dad4ccb3",
+    "title": "Apple recorta el presupuesto de tokens de IA para sus empleados",
+    "summary": "Apple ha comenzado a limitar el gasto diario en tokens de inteligencia artificial para su plantilla, una medida que busca controlar los costes operativos tras el auge inicial de estas herramientas. La compañía, que promociona su nueva Siri IA, estudia reducir aún más estas asignaciones mientras sus empleados temen que sea el preludio de ajustes mayores.",
+    "paragraphs": [
+      "La tecnológica ha reducido discretamente el límite diario de gasto en tokens para sus ingenieros de 300 a 200 dólares, con planes de rebajarlo hasta los 100 dólares en ciertos equipos. Otros departamentos verán su presupuesto recortado de 100 a 25 dólares diarios, obligando a los trabajadores a optar por modelos más económicos o locales.",
+      "Aunque Apple ha incrementado su inversión en I+D, este recorte refleja una tendencia generalizada en el sector tecnológico ante el elevado coste de la factura de la IA. Mientras algunos empleados consideran que el ahorro real será escaso, otros ven en esta decisión una señal de inestabilidad laboral similar a la vivida en otras grandes empresas del sector."
+    ],
+    "bullets": [
+      "Apple limita el uso de herramientas como Claude, ChatGPT y Gemini para sus trabajadores.",
+      "La empresa sugiere el uso de modelos locales o más baratos para optimizar el gasto.",
+      "El recorte presupuestario genera incertidumbre entre la plantilla sobre posibles despidos.",
+      "Otras tecnológicas como Meta, Amazon y Microsoft también han comenzado a frenar el consumo masivo de tokens."
+    ],
+    "eventKey": "Apple limita gasto tokens IA empleados",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-c2fd79ac5791e4e909e30f62": {
+    "id": "n-c2fd79ac5791e4e909e30f62",
+    "url": "https://www.theguardian.com/music/2026/nov/05/full-of-life-and-catching-feelings-christine-and-the-queens-greatest-songs-ranked",
+    "source": "The Guardian",
+    "section": "cultura",
+    "lang": "en",
+    "publishedAt": "2026-11-05T12:15:23+00:00",
+    "sourceTitle": "Full of life and catching feelings: Christine and the Queens’ greatest songs – ranked!",
+    "fingerprint": "fe8c7bf286ed6560fb842174",
+    "title": "Christine and the Queens: un repaso a sus mejores temas",
+    "summary": "Con motivo del lanzamiento de su nuevo sencillo, se analiza la trayectoria musical del artista francés, quien ha vuelto a utilizar su nombre artístico original tras una etapa experimental.",
+    "paragraphs": [
+      "El artista francés, que vuelve a publicar bajo el nombre de Christine and the Queens, ha estrenado el sencillo 'Rendez-vous avec toi'. Este lanzamiento coincide con una revisión de sus composiciones más destacadas, caracterizadas por su capacidad para explorar emociones complejas a través de un pop sofisticado.",
+      "Tras un periodo en el que operó bajo el nombre de Rahim Redcar y publicó el álbum 'Hopecore' con un estilo lo-fi más crudo, el músico ha retomado su identidad previa. El análisis repasa esta evolución sonora, desde sus inicios hasta sus trabajos más recientes."
+    ],
+    "bullets": [
+      "Lanzamiento del nuevo sencillo 'Rendez-vous avec toi'.",
+      "Retorno al nombre artístico Christine and the Queens.",
+      "Transición desde el estilo lo-fi de 'Hopecore' hacia su pop característico."
+    ],
+    "eventKey": "Christine and the Queens lanza nuevo sencillo y retoma su nombre artístico",
+    "partial": true,
+    "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+    "model": "gemini-3.1-flash-lite"
   }
 }
