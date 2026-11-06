@@ -1,0 +1,801 @@
+{
+  "date": "2026-11-06",
+  "updatedAt": "2026-11-06T15:04:23.069210+01:00",
+  "timezone": "Europe/Madrid",
+  "sections": {
+    "euskadi": [
+      {
+        "id": "n-09e39741226447e54d282a39",
+        "url": "https://www.durangon.com/durango-homenajea-a-vicente-zavala-en-el-50-aniversario-de-la-bendicion-de-la-iglesia-de-san-fausto/",
+        "source": "Durangon",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-11-06T12:24:41+00:00",
+        "sourceTitle": "Durango homenajea a Vicente Zavala en el 50 aniversario de la bendición de la iglesia de San Fausto",
+        "fingerprint": "24b7c7d3226078f0cf1a1f93",
+        "title": "Durango rinde tributo a Vicente Zavala por el medio siglo de la iglesia de San Fausto",
+        "summary": "La localidad vizcaína conmemorará el 50 aniversario de la bendición del templo con una eucaristía y un acto de reconocimiento al jesuita.",
+        "paragraphs": [
+          "El municipio de Durango celebrará este domingo el 50 aniversario de la bendición de la iglesia de San Fausto. El acto central contará con la presencia del obispo de Bilbao, Joseba Segura, quien oficiará la misa conmemorativa.",
+          "Tras la ceremonia religiosa, se llevará a cabo un homenaje a la figura del jesuita Vicente Zavala. El tributo consistirá en la instalación de una placa y un cartel en su honor en el parque contiguo al templo."
+        ],
+        "bullets": [
+          "Eucaristía presidida por el obispo Joseba Segura.",
+          "Instalación de una placa y cartel en el parque anexo.",
+          "Conmemoración del 50 aniversario del templo."
+        ],
+        "eventKey": "Vicente Zavala homenajeado en Durango",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-fc461bed10c96e811be9b26b",
+        "url": "https://www.europapress.es/euskadi/noticia-ertzaintza-detenido-735-personas-euskadi-mas-ocasion-mismo-motivo-enero-agosto-20261106123017.html",
+        "source": "Europa Press Euskadi",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-11-06T11:30:17+00:00",
+        "sourceTitle": "La Ertzaintza ha detenido a 735 personas en Euskadi en más de una ocasión por el mismo motivo entre enero y agosto",
+        "fingerprint": "8a19792050b1fe002908b8d4",
+        "title": "La Ertzaintza registra 735 reincidencias delictivas en ocho meses",
+        "summary": "El Departamento de Seguridad del País Vasco ha informado de que 735 individuos fueron arrestados en múltiples ocasiones por el mismo motivo entre enero y agosto de 2026.",
+        "paragraphs": [
+          "La policía autonómica vasca ha contabilizado un total de 735 detenciones de personas que han reincidido en el mismo delito durante los primeros ocho meses del año en curso.",
+          "De este grupo, 327 de los arrestos se han producido específicamente debido a la existencia de requisitorias judiciales pendientes."
+        ],
+        "bullets": [
+          "735 personas detenidas más de una vez por el mismo delito.",
+          "327 casos vinculados a requisitorias judiciales.",
+          "Datos recopilados entre enero y agosto de 2026."
+        ],
+        "eventKey": "Ertzaintza-detenciones-reincidentes-Euskadi",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-680a5e5683056e509007847a",
+        "url": "https://www.durangon.com/los-bailables-para-personas-mayores-de-durango-se-retoman-el-domingo/",
+        "source": "Durangon",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-11-05T11:33:56+00:00",
+        "sourceTitle": "Los bailables para personas mayores de Durango se retoman el domingo",
+        "fingerprint": "b013f1a2fd6ef73dd7fc3e0d",
+        "title": "Regresan los bailes para mayores en Durango",
+        "summary": "El municipio de Durango reactiva este domingo su programa de bailables destinados a las personas mayores. La actividad se desarrollará en el espacio del Mercado.",
+        "paragraphs": [
+          "La iniciativa de ocio para el colectivo de mayores de Durango vuelve a ponerse en marcha este fin de semana. Los encuentros tendrán lugar en la zona de abastos del Mercado local.",
+          "El horario establecido para estas sesiones de baile será de 18:30 a 20:30 horas."
+        ],
+        "bullets": [
+          "Reinicio de los bailables para mayores.",
+          "Ubicación en la zona de abastos del Mercado.",
+          "Horario fijado de 18:30 a 20:30 horas."
+        ],
+        "eventKey": "personas mayores de Durango retoman bailables",
+        "partial": true,
+        "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-69396982b0ea3bd93ce3d98b",
+        "url": "https://www.europapress.es/euskadi/noticia-empresas-gipuzkoa-afrontan-2027-mejores-expectativas-hace-seis-meses-prudencia-inversiones-20261106122316.html",
+        "source": "Europa Press Euskadi",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-11-06T11:23:16+00:00",
+        "sourceTitle": "Las empresas de Gipuzkoa afrontan 2027 con mejores expectativas que hace seis meses y con \"prudencia\" en inversiones",
+        "fingerprint": "2938e393f15675da4c984242",
+        "title": "Mejora el optimismo empresarial en Gipuzkoa ante el año 2027",
+        "summary": "Las compañías guipuzcoanas encaran el próximo ejercicio con una perspectiva más positiva que hace medio año, aunque mantienen cautela respecto a sus planes de inversión.",
+        "paragraphs": [
+          "El tejido empresarial de Gipuzkoa muestra una tendencia al alza en sus previsiones de negocio para el año 2027. La mayoría de las firmas consultadas confía en sostener o elevar su facturación en el corto plazo, apoyadas por una mejora en las expectativas de exportación.",
+          "Pese a la estabilidad en el empleo y el optimismo general, las empresas han manifestado una mayor cautela a la hora de ejecutar nuevas inversiones, optando por la prudencia en sus decisiones financieras."
+        ],
+        "bullets": [
+          "El 85% de las empresas espera mantener o incrementar su cifra de negocio.",
+          "Las previsiones de exportación muestran una evolución favorable.",
+          "El nivel de empleo se mantiene estable en el territorio.",
+          "Se observa una mayor contención en las decisiones de inversión."
+        ],
+        "eventKey": "empresas-gipuzkoa-previsiones-economicas",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-59b8b8c2d2ca25406a439a74",
+        "url": "https://www.durangon.com/una-cata-de-vino-y-chocolate-reanuda-la-actividad-del-mercado-de-durango/",
+        "source": "Durangon",
+        "section": "euskadi",
+        "lang": "es",
+        "publishedAt": "2026-11-05T06:55:30+00:00",
+        "sourceTitle": "Una cata de vino y chocolate reanuda la actividad del Mercado de Durango",
+        "fingerprint": "8d3a4e1136049fd4d100ebdf",
+        "title": "El Mercado de Durango retoma su actividad con una cata de vino y chocolate",
+        "summary": "El Mercado de Durango reinicia su programación con un evento gastronómico que combina vino y chocolate, al que seguirá la presentación de un proyecto local de elaboración de miso.",
+        "paragraphs": [
+          "La actividad regresa al Mercado de Durango mediante una cata especializada en vino y chocolate. Esta iniciativa marca la reanudación de la agenda del espacio.",
+          "Asimismo, el próximo sábado se presentará una propuesta centrada en la producción de miso, utilizando como materia prima alubias y maíz cultivados en Lezama."
+        ],
+        "bullets": [
+          "Reinicio de la actividad en el Mercado de Durango.",
+          "Celebración de una cata de vino y chocolate.",
+          "Presentación de un proyecto de elaboración de miso con productos de Lezama."
+        ],
+        "eventKey": "Mercado de Durango-reanuda actividad-Durango",
+        "partial": true,
+        "summarizedAt": "2026-11-05T14:27:19.759432+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "espana": [
+      {
+        "id": "n-9dc5ebee68a8994579cdbd79",
+        "url": "https://www.europapress.es/nacional/noticia-gobierno-ve-presunta-oferta-millon-pp-koldo-garcia-mayor-ataque-reciente-democracia-20261106143229.html",
+        "source": "Europa Press",
+        "section": "espana",
+        "lang": "es",
+        "publishedAt": "2026-11-06T13:32:29+00:00",
+        "sourceTitle": "El Gobierno ve en la presunta oferta de un millón del PP a Koldo García el \"mayor ataque\" reciente a la democracia",
+        "fingerprint": "2e300c72b31572743dbdfac6",
+        "title": "El Gobierno califica de ataque a la democracia la supuesta oferta del PP a Koldo García",
+        "summary": "La portavoz del Ejecutivo, Elma Saiz, ha señalado que la presunta propuesta económica del Partido Popular al exasesor Koldo García supondría una agresión democrática sin precedentes si se confirma.",
+        "paragraphs": [
+          "El Gobierno ha reaccionado ante las informaciones que apuntan a una supuesta oferta de un millón de euros por parte del PP a Koldo García. Según el Ejecutivo, el objetivo de este pago sería obtener información comprometedora contra el Gobierno.",
+          "Elma Saiz ha calificado este posible movimiento como el ataque más grave a la democracia en los últimos tiempos, supeditando esta valoración a que se demuestre la veracidad de los hechos."
+        ],
+        "bullets": [
+          "El Ejecutivo investiga la supuesta oferta de un millón de euros.",
+          "El PP habría buscado información contra el Gobierno a través de Koldo García.",
+          "Elma Saiz califica el suceso como un ataque a la democracia si se confirma."
+        ],
+        "eventKey": "Gobierno-denuncia-PP-Koldo-Garcia",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-09b81af9b2f46410bd9e23d3",
+        "url": "https://www.eldiario.es/politica/juez-pedraz-llama-declarar-testigo-supuesto-plan-atentar-biedma-cita-cinco-dias-elecciones_1_13644224.html",
+        "source": "elDiario.es",
+        "section": "espana",
+        "lang": "es",
+        "publishedAt": "2026-11-06T13:25:50+00:00",
+        "sourceTitle": "El juez Pedraz llama a declarar a la testigo del supuesto plan para atentar contra Biedma y la cita a cinco días de las elecciones",
+        "fingerprint": "64559df494bb8d58806b6180",
+        "title": "El juez Pedraz cita a declarar a una testigo sobre un supuesto plan contra la jueza Biedma",
+        "summary": "El magistrado de la Audiencia Nacional ha convocado a Cintia Rocho a cinco días de las elecciones para testificar sobre una presunta amenaza contra la jueza que instruyó el caso del hermano de Pedro Sánchez.",
+        "paragraphs": [
+          "El juez Santiago Pedraz ha citado a Cintia Rocho, presunta jefa de un clan de narcotraficantes, en el marco de la investigación del caso Leire Díez. La diligencia se produce en plena campaña electoral, a escasos días de los comicios del 29 de noviembre.",
+          "La testigo declaró ante la Guardia Civil que el exjuez Luis Sáenz de Tejada le sugirió la necesidad de eliminar a la jueza Beatriz Biedma, quien instruía la causa contra el hermano del presidente del Gobierno. Por su parte, el exjuez ha negado haber contactado con ella para tales fines."
+        ],
+        "bullets": [
+          "La citación se enmarca en la investigación sobre una supuesta trama para entorpecer causas judiciales que afectaban al PSOE.",
+          "Cintia Rocho afirmó que el exjuez Sáenz de Tejada se refirió a la magistrada Biedma como un obstáculo que debía ser eliminado.",
+          "Fuentes jurídicas restan relevancia a la declaración, al considerar que no aportará elementos novedosos respecto a lo ya manifestado ante la UCO.",
+          "El exjuez Sáenz de Tejada ha desmentido las acusaciones de haber planeado un atentado contra la magistrada."
+        ],
+        "eventKey": "Santiago Pedraz-cita a testigo-Audiencia Nacional",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-39a1c90bb10eb06aa4077c04",
+        "url": "https://www.eldiario.es/politica/frente-amplio-plantea-ley-expropiar-viviendas-fondos-buitre_1_13643839.html",
+        "source": "elDiario.es",
+        "section": "espana",
+        "lang": "es",
+        "publishedAt": "2026-11-06T12:35:52+00:00",
+        "sourceTitle": "El Frente Amplio plantea una ley para expropiar viviendas a los fondos buitre",
+        "fingerprint": "9a91b660a9461fd8c62c635b",
+        "title": "El Frente Amplio propone expropiar viviendas a grandes fondos de inversión",
+        "summary": "Ada Colau ha anunciado que el Frente Amplio incluirá en su programa electoral una ley para expropiar inmuebles a empresas con grandes carteras de vivienda. La medida, que se aplicaría de forma gradual, busca combatir la especulación inmobiliaria y ampliar el parque público de vivienda.",
+        "paragraphs": [
+          "La candidata del Frente Amplio, Ada Colau, ha planteado una normativa para expropiar viviendas a sociedades mercantiles que operen como grandes tenedores. Según ha detallado, la ley se ejecutaría en tres fases, comenzando por empresas con más de 1.000 pisos hasta alcanzar a aquellas con más de 50 inmuebles en propiedad.",
+          "Colau ha defendido la viabilidad de esta propuesta, condicionando su aplicación a que la alianza obtenga representación suficiente en el Congreso tras las elecciones del 29 de noviembre. La medida se dirige exclusivamente a personas jurídicas, excluyendo a los pequeños propietarios particulares.",
+          "Además de las expropiaciones, la formación exige la integración de todos los activos residenciales de la Sareb en el parque público, argumentando que deben revertir a la ciudadanía al haber sido rescatados con fondos públicos."
+        ],
+        "bullets": [
+          "Aplicación gradual: de empresas con más de 1.000 pisos a las que posean más de 50.",
+          "Exclusión de personas físicas: la ley afectaría únicamente a empresas y fondos de inversión.",
+          "Reivindicación sobre la Sareb: exigencia de adscribir sus fincas y suelos al parque público.",
+          "Objetivo político: frenar la especulación y los precios abusivos en el mercado del alquiler."
+        ],
+        "eventKey": "Ada Colau-propone expropiar viviendas a fondos-España",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-819c44e7fb9ec1a83ffc1208",
+        "url": "https://www.europapress.es/nacional/noticia-feijoo-elige-cambio-necesario-lema-campana-generales-arrancara-jueves-12-badalona-20261106130929.html",
+        "source": "Europa Press",
+        "section": "espana",
+        "lang": "es",
+        "publishedAt": "2026-11-06T12:09:29+00:00",
+        "sourceTitle": "Feijóo elige 'El cambio necesario' como lema para su campaña de generales, que arrancará el jueves 12 en Badalona",
+        "fingerprint": "3ea95a48ed2ad16de677f667",
+        "title": "Feijóo presenta 'El cambio necesario' como lema para las elecciones generales",
+        "summary": "El líder del Partido Popular, Alberto Núñez Feijóo, ha oficializado el eslogan de su campaña electoral para los comicios del 29 de noviembre. El inicio de la actividad política tendrá lugar en Badalona el próximo jueves 12 de noviembre.",
+        "paragraphs": [
+          "Alberto Núñez Feijóo ha seleccionado 'El cambio necesario' como el mensaje central de su estrategia para las próximas elecciones generales. La formación ha confirmado que la campaña comenzará oficialmente con un acto público en la localidad barcelonesa de Badalona.",
+          "El candidato popular busca marcar el inicio de la carrera electoral con este evento, fijado para el jueves 12 de noviembre, de cara a la cita con las urnas prevista para el día 29 del mismo mes."
+        ],
+        "bullets": [
+          "Lema de campaña: 'El cambio necesario'.",
+          "Fecha de inicio: jueves 12 de noviembre.",
+          "Lugar de arranque: Badalona, Barcelona.",
+          "Fecha de las elecciones generales: 29 de noviembre."
+        ],
+        "eventKey": "Alberto Núñez Feijóo presenta campaña electoral en Badalona",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "internacional": [
+      {
+        "id": "n-d114c54c9d0131ef5e5cc9ba",
+        "url": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
+        "source": "The Guardian",
+        "section": "internacional",
+        "lang": "en",
+        "publishedAt": "2026-11-06T13:49:39+00:00",
+        "sourceTitle": "EU charges TikTok with failing to protect users’ mental health",
+        "fingerprint": "cca9dc0dc7cc877ef9311cb9",
+        "title": "La Comisión Europea acusa a TikTok de no proteger la salud mental de sus usuarios",
+        "summary": "El regulador europeo ha emitido una resolución preliminar que cuestiona el funcionamiento del algoritmo de la plataforma por sus posibles efectos negativos en los jóvenes.",
+        "paragraphs": [
+          "La Comisión Europea ha formalizado cargos contra TikTok al considerar que la red social no garantiza la protección de la salud mental de sus usuarios. Según el organismo, el flujo constante de contenidos podría estar agravando problemas de ansiedad y trastornos alimentarios.",
+          "El dictamen inicial señala que el algoritmo de la plataforma resulta perjudicial al atrapar a los usuarios más vulnerables en bucles de contenido de los que es difícil salir, lo que pone en entredicho el modelo de negocio de la compañía."
+        ],
+        "bullets": [
+          "La Comisión Europea ha presentado cargos formales contra TikTok.",
+          "El regulador advierte sobre el riesgo de fomentar trastornos alimentarios y ansiedad.",
+          "El algoritmo es señalado por dirigir a los jóvenes hacia contenidos nocivos.",
+          "La resolución preliminar cuestiona la sostenibilidad del modelo de negocio actual."
+        ],
+        "eventKey": "Comisión Europea acusa a TikTok por salud mental",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-efbeca1e8e750597e96fa3bf",
+        "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "section": "internacional",
+        "lang": "en",
+        "publishedAt": "2026-11-06T12:54:04+00:00",
+        "sourceTitle": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+        "fingerprint": "80956cc8f5b6acc0307a43f2",
+        "title": "Cadena perpetua para el líder de una secta en Kenia por el asesinato de 191 personas",
+        "summary": "Paul Mackenzie ha sido condenado a cadena perpetua tras ordenar a sus seguidores que dejaran morir de hambre a sus hijos en un bosque.",
+        "paragraphs": [
+          "El líder de la secta, Paul Mackenzie, ha recibido una sentencia de cadena perpetua por su responsabilidad en la muerte de 191 personas. El tribunal ha determinado que el condenado instigó a sus seguidores a privar de alimento a los menores bajo su tutela.",
+          "Los hechos ocurrieron en un entorno forestal, donde Mackenzie convenció a los miembros de su grupo de que el ayuno extremo era necesario para encontrarse con Jesús."
+        ],
+        "bullets": [
+          "Condena a cadena perpetua para Paul Mackenzie.",
+          "Responsable de la muerte de 191 personas.",
+          "Los seguidores fueron instigados a matar a sus hijos por inanición."
+        ],
+        "eventKey": "Paul Mackenzie condena cadena perpetua Kenia",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-f3811a8d5b13944b9e7f375f",
+        "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+        "source": "The Guardian",
+        "section": "internacional",
+        "lang": "en",
+        "publishedAt": "2026-11-06T13:34:59+00:00",
+        "sourceTitle": "Further bomb threats disrupt at least another 18 flights across Europe",
+        "fingerprint": "458283c01a07628e2d483100",
+        "title": "Nuevas amenazas de bomba perturban el tráfico aéreo en Europa",
+        "summary": "Una oleada de avisos de bomba ha afectado a al menos 18 vuelos en diversos países europeos, aunque todas las aeronaves han aterrizado sin incidentes. Las autoridades investigan estos hechos, que también han alcanzado a medios de comunicación en Irlanda y el Reino Unido.",
+        "paragraphs": [
+          "Una serie de amenazas coordinadas ha provocado alteraciones en el tráfico aéreo a través de múltiples naciones europeas. A pesar de la alarma, los aviones afectados lograron aterrizar de forma segura y las inspecciones posteriores no hallaron artefactos explosivos.",
+          "Además de las incidencias en el sector aéreo, se han registrado amenazas dirigidas contra organizaciones mediáticas en Irlanda y el Reino Unido. La policía danesa también ha examinado una alerta específica en el aeropuerto de Copenhague, que mantiene su operatividad habitual."
+        ],
+        "bullets": [
+          "Al menos 18 vuelos con origen o destino en países como Francia, Italia, Reino Unido o Portugal han sufrido interrupciones.",
+          "Las autoridades no han encontrado dispositivos explosivos tras las inspecciones realizadas.",
+          "Se sospecha de un esfuerzo coordinado para generar caos en el continente."
+        ],
+        "eventKey": "vuelos europeos-amenazas de bomba-Europa",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-1cc47884efbd15f4c6049462",
+        "url": "https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us",
+        "source": "The Guardian",
+        "section": "internacional",
+        "lang": "en",
+        "publishedAt": "2026-11-06T13:03:38+00:00",
+        "sourceTitle": "Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago",
+        "fingerprint": "061d08530f8c56f165200c86",
+        "title": "Flávio Bolsonaro busca mantener su relevancia política desde Estados Unidos",
+        "summary": "Tras su derrota electoral frente a Lula da Silva, el político brasileño ha reaparecido en una conferencia conservadora en Florida donde ha cuestionado la legitimidad de los comicios.",
+        "paragraphs": [
+          "Flávio Bolsonaro ha intervenido en la Conferencia de Acción Política Conservadora celebrada en Mar-a-Lago. El político, que abandonó Brasil tras perder las elecciones presidenciales el pasado 25 de octubre, ha asegurado que su derrota no supone el fin de su proyecto político.",
+          "Durante su intervención, Bolsonaro ha vertido acusaciones sin pruebas sobre un supuesto fraude electoral. Su presencia en Estados Unidos se produce en un contexto de incertidumbre sobre su futuro político tras caer derrotado ante el actual presidente, Luiz Inácio Lula da Silva."
+        ],
+        "bullets": [
+          "Participación en la conferencia conservadora CPAC en Mar-a-Lago.",
+          "Negación de la derrota electoral y denuncias de fraude sin evidencias.",
+          "Traslado a Estados Unidos tras perder los comicios frente a Lula da Silva."
+        ],
+        "eventKey": "Flávio Bolsonaro participa en conferencia en Mar-a-Lago",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "ciencia": [
+      {
+        "id": "n-9ad9c4695d7d3f88496385e8",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
+        "source": "ScienceDaily",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-11-06T11:28:01+00:00",
+        "sourceTitle": "Scientists just found dinosaur blood that survived 115 million years",
+        "fingerprint": "d3230c0161f751a1ae290602",
+        "title": "Hallan restos de sangre de dinosaurio de 115 millones de años",
+        "summary": "Un equipo científico ha identificado trazas químicas de sangre antigua en fósiles de dinosaurio, un hallazgo que cuestiona la durabilidad conocida de las moléculas biológicas.",
+        "paragraphs": [
+          "El descubrimiento de restos hemáticos en huesos de hace 115 millones de años abre nuevas vías para investigar la fisiología de estas especies extintas.",
+          "Los investigadores sugieren que este nivel de conservación podría facilitar la búsqueda de vida antigua en otros lugares del universo."
+        ],
+        "bullets": [
+          "Confirmación química de sangre en fósiles antiguos.",
+          "Desafío a las teorías sobre la supervivencia de moléculas biológicas.",
+          "Potencial para futuros estudios sobre fisiología dinosauriana."
+        ],
+        "eventKey": "científicos-hallan-sangre-dinosaurio",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-ef462061cde94afcd33801b2",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+        "source": "NASA",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-11-06T05:05:00+00:00",
+        "sourceTitle": "APOD: 2026 November 6 – A Farewell to Swift",
+        "fingerprint": "3cda84c822e0302a92fa0c17",
+        "title": "Despedida al observatorio Swift",
+        "summary": "La NASA dedica su imagen astronómica del día a conmemorar la trayectoria del observatorio espacial Swift.",
+        "paragraphs": [
+          "La sección Astronomy Picture of the Day de la NASA ha publicado una edición especial centrada en el observatorio Swift, marcando un momento de despedida para esta misión científica."
+        ],
+        "bullets": [
+          "Homenaje a la misión Swift",
+          "Publicación en el portal APOD de la NASA"
+        ],
+        "eventKey": "NASA-despedida-observatorio-Swift",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-90ca66ea239e0aad7cb975ea",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261103003200.htm",
+        "source": "ScienceDaily",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-11-06T09:33:36+00:00",
+        "sourceTitle": "Five-inch-long beetle larvae are quietly destroying blueberry roots",
+        "fingerprint": "443582fd61617bd21d362732",
+        "title": "Identificada la plaga de escarabajos que daña los arándanos en Carolina del Norte",
+        "summary": "Investigadores han logrado identificar una especie de escarabajo cuyas larvas gigantes devoran las raíces de los cultivos de arándanos. El hallazgo pone fin a una década de incertidumbre sobre el origen de los daños reportados por los agricultores.",
+        "paragraphs": [
+          "Un equipo científico ha resuelto el misterio que rodeaba a los daños sufridos por los arbustos de arándanos en Carolina del Norte. Tras años de reportes agrícolas, el análisis de ADN ha permitido confirmar que el responsable es una especie de escarabajo cuyas larvas pueden alcanzar hasta cinco pulgadas de longitud.",
+          "Estas larvas, de gran tamaño, se alimentan de las raíces de las plantas, causando una destrucción que ha afectado a los productores durante más de una década sin que se conociera la identidad del insecto causante."
+        ],
+        "bullets": [
+          "Las larvas identificadas pueden crecer hasta cinco pulgadas.",
+          "El análisis de ADN fue clave para identificar al insecto.",
+          "Los agricultores llevan más de diez años reportando daños en sus cultivos."
+        ],
+        "eventKey": "científicos-identifican-escarabajo-destructor-arándanos-Carolina-Norte",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-ba58adb142417f99981a3202",
+        "url": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
+        "source": "NASA",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-11-06T05:01:00+00:00",
+        "sourceTitle": "Taking a Gander at Utah’s Goosenecks",
+        "fingerprint": "e88005f990c41a64e80a0620",
+        "title": "Observación de los meandros de Goosenecks en Utah",
+        "summary": "La NASA ha destacado la peculiar formación geológica del río San Juan, que ha esculpido curvas pronunciadas en el terreno desértico de Utah.",
+        "paragraphs": [
+          "El río San Juan ha generado unos meandros inusualmente sinuosos a su paso por el paisaje árido de Utah, un fenómeno geológico que ha sido objeto de observación reciente.",
+          "Estas formaciones, conocidas como Goosenecks, muestran la capacidad erosiva del curso fluvial sobre el terreno desértico a lo largo del tiempo."
+        ],
+        "bullets": [
+          "El río San Juan es el responsable de la erosión en el paisaje.",
+          "Las formaciones presentan curvas profundas y muy pronunciadas."
+        ],
+        "eventKey": "río San Juan erosiona paisaje en Utah",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-07c3fdd0ba0829e3bb6e7543",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
+        "source": "ScienceDaily",
+        "section": "ciencia",
+        "lang": "en",
+        "publishedAt": "2026-11-06T08:21:08+00:00",
+        "sourceTitle": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
+        "fingerprint": "b9f6df950b8b7c69459507a3",
+        "title": "Eventos astronómicos destacados en noviembre",
+        "summary": "El cielo nocturno de noviembre presenta diversos fenómenos celestes, mientras la sonda Voyager 1 alcanza un hito histórico de distancia respecto a la Tierra.",
+        "paragraphs": [
+          "Durante este mes, los observadores podrán presenciar lluvias de meteoros, bolas de fuego y una superluna. Además, se producirá una conjunción cercana entre Marte y Júpiter.",
+          "En el ámbito de la exploración espacial, la nave Voyager 1 de la NASA ha logrado convertirse en la primera en situarse a una distancia de un día luz de nuestro planeta."
+        ],
+        "bullets": [
+          "Avistamiento de meteoros y bolas de fuego.",
+          "Superluna y alineación de Marte y Júpiter.",
+          "La Voyager 1 alcanza la distancia de un día luz."
+        ],
+        "eventKey": "fenómenos astronómicos y Voyager 1 en el espacio",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "tecnologia": [
+      {
+        "id": "n-59120e04a0d5c4f8f0e3600c",
+        "url": "https://www.xataka.com/movilidad/madrid-enfrenta-mayor-reto-a-5-cerrando-conexion-m-30-durante-43-dias-a-partir-10-noviembre",
+        "source": "Xataka",
+        "section": "tecnologia",
+        "lang": "es",
+        "publishedAt": "2026-11-06T13:31:09+00:00",
+        "sourceTitle": "Madrid enfrenta el mayor reto de la A-5 cerrando la conexión con la M-30 durante 43 días a partir del 10 de noviembre",
+        "fingerprint": "f7f84dfedf590aa168bb4859",
+        "title": "Madrid cortará la conexión entre la A-5 y la M-30 durante 43 días",
+        "summary": "El Ayuntamiento de Madrid ha anunciado el cierre de la conexión entre la A-5 y la M-30 desde el 10 de noviembre hasta el 23 de diciembre para avanzar en las obras de soterramiento. Esta intervención, calificada como un punto de no retorno, permitirá que el tráfico comience a circular bajo tierra tras finalizar la primera fase del proyecto.",
+        "paragraphs": [
+          "La interrupción del tráfico afectará a la entrada y salida de la M-30 hacia la A-5 durante 43 días. El objetivo es realizar trabajos técnicos complejos, como la demolición de la rampa de salida y el acondicionamiento integral del nuevo túnel, que no pueden ejecutarse con vehículos circulando.",
+          "Una vez concluidas estas tareas, se procederá a la segunda fase del proyecto, que consiste en la excavación del túnel en sentido entrada. El Ayuntamiento ha señalado que esta fase es crucial para la reconfiguración definitiva de la movilidad en el suroeste de la capital."
+        ],
+        "bullets": [
+          "Cierre total de la conexión entre la A-5 y la M-30 del 10 de noviembre al 23 de diciembre.",
+          "Los trabajos incluyen el gunitado de paredes, drenaje, instalación de sistemas de emergencia y cámaras.",
+          "La intervención marca el punto de no retorno para el soterramiento del tráfico en la zona.",
+          "Tras esta fase, se iniciará la construcción del segundo túnel en sentido entrada."
+        ],
+        "eventKey": "Ayuntamiento de Madrid-cierra conexión A-5 y M-30-Madrid",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-b6cc61adf7e9fb2bd3e3104f",
+        "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+        "source": "Ars Technica",
+        "section": "tecnologia",
+        "lang": "en",
+        "publishedAt": "2026-11-05T23:09:36+00:00",
+        "sourceTitle": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+        "fingerprint": "7ba88e58ee7f86fafd25765a",
+        "title": "Descubierta una vulnerabilidad que permite acceder a dispositivos Linux sin contraseña",
+        "summary": "Una nueva brecha de seguridad, denominada *sshole, facilita el acceso no autorizado a equipos Linux mediante SSH. Aunque se ha confirmado su impacto en configuraciones específicas de Alpine, existe la posibilidad de que otras distribuciones también se encuentren expuestas.",
+        "paragraphs": [
+          "Se ha identificado un fallo de seguridad que permite a atacantes iniciar sesión en dispositivos Linux sin necesidad de proporcionar una contraseña. La vulnerabilidad, bautizada como *sshole, compromete el protocolo SSH bajo ciertas condiciones.",
+          "Los investigadores han señalado que, si bien Alpine es la distribución afectada por configuraciones concretas, no se descarta que el problema pueda extenderse a otros sistemas operativos basados en Linux."
+        ],
+        "bullets": [
+          "El fallo permite el acceso remoto sin autenticación mediante contraseña.",
+          "Afecta a configuraciones específicas de la distribución Alpine.",
+          "Existe incertidumbre sobre el alcance real en otras distribuciones Linux."
+        ],
+        "eventKey": "vulnerabilidad *sshole afecta dispositivos Linux",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-49e18a3199d4adc43afcb26c",
+        "url": "https://www.xataka.com/empresas-y-economia/batacazo-bolsa-pilla-a-anthropic-a-punto-fijar-su-precio-nasdaq-no-compra-promesas-ia",
+        "source": "Xataka",
+        "section": "tecnologia",
+        "lang": "es",
+        "publishedAt": "2026-11-06T13:15:00+00:00",
+        "sourceTitle": "El sueño de los 2 billones de dólares se evapora: Anthropic afronta con inquietud una salida a bolsa menos potente de lo esperado",
+        "fingerprint": "fce81864257fd87284b4f806",
+        "title": "Anthropic se enfrenta a una salida a bolsa incierta tras el desplome de Wall Street",
+        "summary": "La inestabilidad en los mercados tecnológicos y la caída del Nasdaq han obligado a Anthropic a replantearse su valoración bursátil antes de su debut. La empresa se enfrenta ahora a la posibilidad de reducir sus expectativas de capital o posponer su salida a bolsa.",
+        "paragraphs": [
+          "Anthropic tenía previsto debutar en el Nasdaq antes de Acción de Gracias, pero la reciente volatilidad en Wall Street ha complicado sus planes. El sector tecnológico ha sufrido pérdidas significativas, lo que ha generado dudas entre los inversores sobre la rentabilidad de las inversiones en inteligencia artificial.",
+          "Ante este escenario, los inversores sugieren que la valoración de la compañía podría situarse más cerca del billón de dólares que de los 1,5 billones previstos inicialmente. Esta rebaja obligaría a la empresa a ceder una mayor participación accionarial para obtener el capital deseado o, alternativamente, a retrasar su estreno en el mercado."
+        ],
+        "bullets": [
+          "El Nasdaq registró su peor sesión desde abril de 2025, con una caída del 5,5%.",
+          "La incertidumbre sobre la rentabilidad de la IA afecta a las expectativas de valoración de Anthropic.",
+          "La empresa contempla recaudar menos capital o posponer su salida a bolsa para lograr mejores condiciones.",
+          "OpenAI también ha experimentado dificultades similares al recaudar menos fondos de los previstos."
+        ],
+        "eventKey": "Anthropic+salida a bolsa+Nasdaq",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-60e0cdcb036cddfd33ec2961",
+        "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
+        "source": "Ars Technica",
+        "section": "tecnologia",
+        "lang": "en",
+        "publishedAt": "2026-11-05T22:49:03+00:00",
+        "sourceTitle": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+        "fingerprint": "1fdab2a48c7197c7a673d59d",
+        "title": "La NASA presenta el enigmático avión experimental X-70",
+        "summary": "La agencia espacial estadounidense ha anunciado el desarrollo del X-70 Fractal, una aeronave que se integrará en su flota de aviones experimentales.",
+        "paragraphs": [
+          "La NASA ha dado a conocer el proyecto X-70 Fractal, una nueva aeronave experimental que se suma a los planes de la agencia para ampliar su flota de aviones X.",
+          "El anuncio ha generado incertidumbre debido a la naturaleza misteriosa del proyecto y al uso de una imagen generada por inteligencia artificial para su presentación."
+        ],
+        "bullets": [
+          "Ampliación de la flota de aviones experimentales de la NASA.",
+          "Presentación del modelo X-70 Fractal.",
+          "Uso de imágenes generadas por IA en el anuncio oficial."
+        ],
+        "eventKey": "NASA-presenta-avion-X-70",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-b486d7a35084ca1121546c37",
+        "url": "https://www.xataka.com/magnet/buscamos-a-mister-calvo-2026-gastrobar-pueblo-castellon-ha-decidido-organizar-fiesta-calvos-despoblacion",
+        "source": "Xataka",
+        "section": "tecnologia",
+        "lang": "es",
+        "publishedAt": "2026-11-06T13:01:09+00:00",
+        "sourceTitle": "\"Buscamos a Mister Calvo 2026\": el gastrobar de un pueblo de Castellón ha decidido organizar una fiesta de calvos contra la despoblación",
+        "fingerprint": "ffa67f06eb50f6d63f8768ea",
+        "title": "Un gastrobar de Castellón organiza el certamen Mister Calvo 2026",
+        "summary": "El establecimiento El Forn Gastro, ubicado en Vilafranca del Cid, celebrará el próximo 21 de noviembre un concurso para elegir al mejor calvo del año como iniciativa lúdica y de dinamización local.",
+        "paragraphs": [
+          "El evento, surgido de una propuesta de los clientes habituales, busca fomentar la participación en un municipio afectado por el cierre de su principal industria. La organización ha confirmado que la fiesta está abierta a todo el público, independientemente de su estado capilar.",
+          "La cena, que tiene un coste de 32 euros, incluirá diversos premios y actividades. Los propietarios planean convertir esta cita en una tradición anual si la acogida es positiva, sumándose así a otras celebraciones similares que ya existen en localidades como Allo o Sant Boi de Llobregat."
+        ],
+        "bullets": [
+          "El certamen tendrá lugar el 21 de noviembre en el bar El Forn Gastro.",
+          "La iniciativa pretende dinamizar la vida social de Vilafranca del Cid.",
+          "El concurso contará con regalos y pruebas de pelucas y gorras para los asistentes.",
+          "Existen precedentes de celebraciones similares en otros puntos de España y el extranjero."
+        ],
+        "eventKey": "El Forn Gastro organiza concurso Mister Calvo en Vilafranca del Cid",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "economia": [
+      {
+        "id": "n-7f806f4d6ebc196f3a39fdee",
+        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "section": "economia",
+        "lang": "en",
+        "publishedAt": "2026-11-06T13:25:50+00:00",
+        "sourceTitle": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+        "fingerprint": "9f928ac8ccb787b2e122ef08",
+        "title": "Caída generalizada de las bolsas ante la incertidumbre en el sector de la IA",
+        "summary": "Los mercados bursátiles internacionales han experimentado un descenso significativo debido a la preocupación por una mayor vigilancia regulatoria sobre la inteligencia artificial y sus infraestructuras.",
+        "paragraphs": [
+          "Las bolsas de Asia y Europa han registrado caídas ante el temor de que se endurezca el control sobre la construcción de centros de datos y el desarrollo de la industria de la inteligencia artificial.",
+          "Los inversores han reaccionado con cautela ante la posibilidad de que las autoridades estadounidenses impongan una supervisión más estricta en este sector tecnológico."
+        ],
+        "bullets": [
+          "Desplome bursátil en mercados globales.",
+          "Inquietud por la regulación de centros de datos.",
+          "Impacto negativo en el sector de la IA."
+        ],
+        "eventKey": "inversores-reaccionan-caida-bolsas-globales",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-84134a6353456975d6c7b8cc",
+        "url": "https://elpais.com/economia/2026-11-06/hacienda-actualizara-la-deduccion-del-salario-minimo-hasta-los-1030-euros-para-que-sus-perceptores-no-paguen-irpf.html",
+        "source": "El País",
+        "section": "economia",
+        "lang": "es",
+        "publishedAt": "2026-11-06T04:45:01+00:00",
+        "sourceTitle": "Hacienda actualizará la deducción del salario mínimo hasta los 1.030 euros para que sus perceptores no paguen IRPF",
+        "fingerprint": "c1849d981b6fe6063e4a598e",
+        "title": "Hacienda ajustará el IRPF para evitar que el nuevo SMI tribute",
+        "summary": "El Gobierno ha anunciado una subida del Salario Mínimo Interprofesional para 2027 y la correspondiente actualización fiscal para eximir a sus perceptores del pago del impuesto sobre la renta.",
+        "paragraphs": [
+          "El Ejecutivo elevará el SMI hasta los 18.004 euros anuales a partir del próximo año. Para evitar que este incremento suponga una mayor carga impositiva, Hacienda elevará la deducción hasta los 1.030 euros.",
+          "Esta medida busca garantizar que los trabajadores que perciban el salario mínimo queden exentos de tributar en el IRPF tras la subida salarial prevista."
+        ],
+        "bullets": [
+          "El SMI alcanzará los 18.004 euros anuales en 2027.",
+          "La deducción fiscal se fijará en 1.030 euros.",
+          "El objetivo es asegurar que los perceptores del SMI no paguen IRPF."
+        ],
+        "eventKey": "Gobierno-actualiza-SMI-e-IRPF",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-5d7427350e81f87516f4543f",
+        "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "section": "economia",
+        "lang": "en",
+        "publishedAt": "2026-11-06T13:19:07+00:00",
+        "sourceTitle": "PM tells firms to publish salaries in job adverts ahead of new law",
+        "fingerprint": "a0a933772ebb099f7b0120a4",
+        "title": "El Gobierno británico insta a las empresas a publicar salarios en sus ofertas de empleo",
+        "summary": "El Ejecutivo ha solicitado a las compañías que incluyan la remuneración en sus anuncios de trabajo antes de que entre en vigor una nueva normativa. El objetivo es favorecer a los candidatos y reducir la discriminación salarial.",
+        "paragraphs": [
+          "El Gobierno ha pedido a las empresas que comiencen a detallar los sueldos en sus ofertas laborales de forma voluntaria antes de que la ley sea obligatoria. Esta medida busca mejorar la transparencia para quienes buscan empleo.",
+          "Las autoridades sostienen que esta práctica podría ser una herramienta eficaz para evitar situaciones de discriminación retributiva en el mercado laboral."
+        ],
+        "bullets": [
+          "Petición gubernamental para incluir salarios en anuncios de empleo.",
+          "Medida preventiva frente a la futura legislación.",
+          "Propósito de ayudar a los candidatos y evitar discriminación."
+        ],
+        "eventKey": "Gobierno británico solicita transparencia salarial",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-f4b3f4d3a91cf65200111dff",
+        "url": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "section": "economia",
+        "lang": "en",
+        "publishedAt": "2026-11-06T11:40:35+00:00",
+        "sourceTitle": "'I've taken an extra job to pay for heating oil'",
+        "fingerprint": "81ecfc98a78dbeececbc8674",
+        "title": "Residentes en Sussex buscan empleos adicionales ante el coste del gasóleo",
+        "summary": "Habitantes de Sussex aseguran que se ven obligados a buscar trabajos extra y a limitar el uso de la calefacción debido al precio del combustible.",
+        "paragraphs": [
+          "El incremento en el coste del gasóleo para calefacción está afectando a los hogares en Sussex. Ante esta situación, algunos ciudadanos han optado por buscar fuentes de ingresos adicionales para poder sufragar los gastos energéticos.",
+          "Asimismo, se reporta que parte de la población ha decidido prescindir de la calefacción en sus viviendas como medida de ahorro ante la escalada de precios."
+        ],
+        "bullets": [
+          "Búsqueda de empleos extra para pagar el gasóleo.",
+          "Reducción del uso de calefacción en los hogares."
+        ],
+        "eventKey": "habitantes de Sussex buscan empleo por precios de calefacción",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ],
+    "cultura": [
+      {
+        "id": "n-2011f8abcde613b4dd5e69fc",
+        "url": "https://elpais.com/cultura/2026-11-06/rodrigo-sorogoyen-carlos-bardem-alana-s-portero-y-sara-barquinero-entre-las-mas-de-800-personalidades-de-la-cultura-que-respaldan-en-un-manifiesto-la-huelga-general.html",
+        "source": "El País",
+        "section": "cultura",
+        "lang": "es",
+        "publishedAt": "2026-11-06T13:31:06+00:00",
+        "sourceTitle": "Rodrigo Sorogoyen, Carlos Bardem, Alana S. Portero y Sara Barquinero, entre las más de 800 personalidades de la cultura que respaldan en un manifiesto la huelga general",
+        "fingerprint": "b81aee6a3511d48a16d8ca55",
+        "title": "Más de 800 figuras de la cultura apoyan la huelga general",
+        "summary": "Un grupo numeroso de profesionales del sector cultural ha suscrito un manifiesto en respaldo a la convocatoria de huelga general prevista para el próximo 11 de noviembre.",
+        "paragraphs": [
+          "Personalidades destacadas del ámbito artístico, entre las que figuran Rodrigo Sorogoyen, Carlos Bardem, Alana S. Portero y Sara Barquinero, se han sumado a una declaración pública de apoyo al paro sectorial.",
+          "Bajo el lema 'El 11N, la cultura también para', los firmantes han formalizado su adhesión a la protesta convocada para la próxima semana."
+        ],
+        "bullets": [
+          "Más de 800 profesionales del sector cultural respaldan el paro.",
+          "El manifiesto se titula 'El 11N, la cultura también para'."
+        ],
+        "eventKey": "personalidades cultura respaldan huelga general",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-bec2e1d6fcd9236269778eb0",
+        "url": "https://www.theguardian.com/games/2026/nov/06/the-legend-of-zelda-ocarina-of-time-midnight-game-launch",
+        "source": "The Guardian",
+        "section": "cultura",
+        "lang": "en",
+        "publishedAt": "2026-11-06T13:00:43+00:00",
+        "sourceTitle": "The Legend of Zelda: Ocarina of Time has revived the midnight game launch – but was it worth the wait?",
+        "fingerprint": "a43e54907f540b00fa165e80",
+        "title": "El regreso de los lanzamientos de videojuegos a medianoche",
+        "summary": "El estreno del remake de The Legend of Zelda: Ocarina of Time para Switch 2 ha recuperado la tradición de las colas físicas en tiendas, congregando a cientos de seguidores en diversos puntos del planeta.",
+        "paragraphs": [
+          "Cientos de aficionados se han reunido en establecimientos como el Argos de Oxford Street para adquirir copias físicas y artículos de colección del esperado título de Nintendo. Este fenómeno, que recuerda a las antiguas costumbres de la industria, se ha replicado en ciudades de todo el mundo.",
+          "A pesar de la predominancia actual de las descargas digitales, el lanzamiento ha logrado movilizar a la comunidad de jugadores, contando incluso con la presencia de directivos de la compañía en puntos de venta clave."
+        ],
+        "bullets": [
+          "Lanzamiento del remake en 4K de The Legend of Zelda: Ocarina of Time para Switch 2.",
+          "Concentraciones masivas de fans en ciudades como Londres, Melbourne y Ciudad de México.",
+          "Contraste con la tendencia actual de compra digital desde el hogar.",
+          "Participación de ejecutivos de Nintendo en la atención al público durante el evento."
+        ],
+        "eventKey": "Nintendo-lanzamiento-videojuego-global",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-19a363583c3f1f758265eb68",
+        "url": "https://www.theguardian.com/music/2026/nov/06/wynonna-judd-country-music-interview-naomi-hard-truth-new-album",
+        "source": "The Guardian",
+        "section": "cultura",
+        "lang": "en",
+        "publishedAt": "2026-11-06T13:00:43+00:00",
+        "sourceTitle": "‘I went into a deep, deep hole’: Wynonna Judd on overcoming family tragedy and putting a lifetime of love and pain into her new album",
+        "fingerprint": "831eaaea5bc61df29ab799ab",
+        "title": "Wynonna Judd regresa a la música tras una etapa marcada por la tragedia familiar",
+        "summary": "La cantante de country ha vuelto a la escena pública con un nuevo álbum introspectivo tras una década alejada de los focos. El trabajo busca procesar el fallecimiento de su madre y sus propias dificultades personales.",
+        "paragraphs": [
+          "Wynonna Judd ha dejado atrás el sonido comercial de Nashville para centrarse en composiciones más crudas y personales. La artista afirma encontrarse en un momento vital positivo tras años de inestabilidad.",
+          "La intérprete, reconocida por su trayectoria en el género country, asegura que la música ha sido el motor constante frente a los éxitos y fracasos que han definido su vida reciente."
+        ],
+        "bullets": [
+          "Lanzamiento de un nuevo álbum con un enfoque más íntimo y despojado.",
+          "Superación de una etapa marcada por la pérdida familiar y crisis personales.",
+          "Regreso a la actividad musical tras diez años de ausencia mediática."
+        ],
+        "eventKey": "Wynonna Judd publica nuevo álbum tras crisis personal",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      },
+      {
+        "id": "n-42874e4a5ea75e305fb89238",
+        "url": "https://www.theguardian.com/music/2026/nov/06/the-weeks-best-new-tracks-and-the-act-you-need-to-know-crowd-pleasing-anticapitalist-rockers-sans-froid",
+        "source": "The Guardian",
+        "section": "cultura",
+        "lang": "en",
+        "publishedAt": "2026-11-06T12:20:41+00:00",
+        "sourceTitle": "The week’s best new tracks and the act you need to know: crowd-pleasing anticapitalist rockers Sans Froid",
+        "fingerprint": "399e00cd54e5781a7aa28393",
+        "title": "Sans Froid: el grupo de rock anticapitalista que destaca esta semana",
+        "summary": "La banda británica Sans Froid ha captado la atención por su capacidad para fusionar estilos musicales diversos en himnos sólidos. El grupo, originario de Bristol, combina influencias eclécticas que van desde Radiohead hasta Deerhoof.",
+        "paragraphs": [
+          "El cuarteto de Bristol ha logrado integrar una amplia variedad de referencias musicales, incluyendo el rock experimental y el folk, para crear un sonido propio. A pesar de la disparidad de sus influencias, la banda consigue mantener una coherencia en sus composiciones.",
+          "De cara al futuro, Sans Froid tiene programadas varias actuaciones en directo. Entre sus próximos compromisos se encuentra un concierto como teloneros de Every Hell en diciembre y su participación en diversos festivales británicos durante 2027."
+        ],
+        "bullets": [
+          "Influencias musicales que abarcan desde Radiohead hasta Linda Perhacs.",
+          "Concierto de apoyo a Every Hell en el Exchange de Bristol el 4 de diciembre.",
+          "Presencia confirmada en los festivales Strangeforms, Noizzefest y Arctangent para 2027."
+        ],
+        "eventKey": "Sans Froid-presentación musical-Reino Unido",
+        "partial": true,
+        "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
+        "model": "gemini-3.1-flash-lite"
+      }
+    ]
+  }
+}
