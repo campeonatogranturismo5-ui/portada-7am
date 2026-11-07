@@ -10340,5 +10340,754 @@
     "partial": true,
     "summarizedAt": "2026-11-06T14:04:23.069210+00:00",
     "model": "gemini-3.1-flash-lite"
+  },
+  "n-e82af0bace85e301ec8358c8": {
+    "id": "n-e82af0bace85e301ec8358c8",
+    "url": "https://www.eldiario.es/politica/rufian-montero-llaman-secundar-huelga-paralizar-pais-defienden-izquierda-no-sometida-psoe_1_13646217.html",
+    "source": "elDiario.es",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-11-07T12:41:24+00:00",
+    "sourceTitle": "Rufián y Montero llaman a secundar la huelga \"para paralizar el país\" y defienden una izquierda no sometida al PSOE",
+    "fingerprint": "9f3cecd34481db09b1079386",
+    "title": "Rufián y Montero piden paralizar el país con una huelga y marcan distancias con el PSOE",
+    "summary": "Gabriel Rufián e Irene Montero han reclamado una izquierda independiente del PSOE durante un acto conjunto en Madrid, donde han instado a secundar una huelga para paralizar el país. Ambos candidatos han reivindicado sus formaciones como la alternativa progresista frente a los intereses de la derecha y la gestión socialista.",
+    "paragraphs": [
+      "En un mitin celebrado en Madrid, los cabezas de lista de ERC y Podemos han defendido la necesidad de una izquierda que no esté sometida al PSOE. Rufián ha abogado por una mayor presión fiscal a los grandes empresarios y ha criticado la gestión de las infraestructuras ferroviarias tras el accidente de Urda.",
+      "Por su parte, Irene Montero ha centrado parte de su intervención en cargar contra la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, a quien ha calificado de \"mafia\" en respuesta a las declaraciones de la dirigente popular sobre las huelgas en el sector educativo."
+    ],
+    "bullets": [
+      "Rufián y Montero llaman a la movilización para paralizar el país.",
+      "Reivindican una izquierda soberana frente al PSOE.",
+      "Montero califica de mafia a Isabel Díaz Ayuso.",
+      "Exigen medidas como la intervención del mercado y mayores impuestos a grandes empresas."
+    ],
+    "eventKey": "Rufián y Montero llaman a la huelga en Madrid",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-0bd9f34f26827a02db74b700": {
+    "id": "n-0bd9f34f26827a02db74b700",
+    "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
+    "source": "The Guardian",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-11-07T12:27:30+00:00",
+    "sourceTitle": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
+    "fingerprint": "31413a52c22287ceceaa5eb4",
+    "title": "Empate técnico en las elecciones generales de Nueva Zelanda",
+    "summary": "El escrutinio inicial muestra una contienda muy ajustada entre el Partido Nacional y el Partido Laborista, dejando el futuro gobierno en manos de las formaciones minoritarias.",
+    "paragraphs": [
+      "El recuento de votos en Nueva Zelanda apunta a un escenario de incertidumbre donde ninguna coalición parece alcanzar la mayoría necesaria para gobernar. Con un 8% de los votos escrutados, el Partido Nacional lidera ligeramente sobre el Laborista.",
+      "La formación de un nuevo ejecutivo dependerá previsiblemente de los partidos minoritarios, que actúan como piezas clave para inclinar la balanza hacia uno de los bloques políticos."
+    ],
+    "bullets": [
+      "El Partido Nacional obtiene un 31,2% frente al 28,4% del Partido Laborista.",
+      "Los partidos minoritarios se posicionan como decisivos para formar gobierno.",
+      "El escrutinio se encuentra en una fase muy temprana, con solo el 8% de los votos contabilizados."
+    ],
+    "eventKey": "Partidos políticos neozelandeses disputan elecciones generales",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-e4aeb9775f76183dcf914924": {
+    "id": "n-e4aeb9775f76183dcf914924",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261104012305.htm",
+    "source": "ScienceDaily",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-11-07T10:00:03+00:00",
+    "sourceTitle": "Human bodies produce 2 billion metric tons of CO2 a year just by staying alive",
+    "fingerprint": "20273d2656d770e3b2ee1a48",
+    "title": "La respiración humana genera 2.000 millones de toneladas de CO2 anuales",
+    "summary": "La actividad metabólica humana es responsable de una emisión masiva de dióxido de carbono, una cifra que ha crecido significativamente en los últimos treinta años debido al aumento demográfico.",
+    "paragraphs": [
+      "El proceso biológico de transformar alimentos en energía produce anualmente más de 2.000 millones de toneladas de CO2. Este volumen supone un incremento del 74% en tres décadas, impulsado principalmente por el crecimiento de la población mundial.",
+      "Los expertos señalan que, a diferencia de las emisiones derivadas de combustibles fósiles, este CO2 forma parte del ciclo natural del carbono. Una medición más precisa de estas emisiones podría contribuir a perfeccionar los modelos climáticos actuales."
+    ],
+    "bullets": [
+      "Producción anual superior a 2.000 millones de toneladas de CO2.",
+      "Aumento del 74% en las emisiones metabólicas en treinta años.",
+      "El crecimiento poblacional es el factor principal del incremento.",
+      "El CO2 exhalado se integra en el ciclo natural del carbono."
+    ],
+    "eventKey": "humanidad-emision-co2-global",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-4a4dd38ff06282ca240847bd": {
+    "id": "n-4a4dd38ff06282ca240847bd",
+    "url": "https://www.xataka.com/movilidad/byd-ha-lanzado-su-superdeportivo-extremo-a-503-km-h-para-conseguir-nuevo-record-velocidad",
+    "source": "Xataka",
+    "section": "tecnologia",
+    "lang": "es",
+    "publishedAt": "2026-11-07T12:31:06+00:00",
+    "sourceTitle": "BYD ha lanzado su superdeportivo más extremo a 503 km/h para conseguir un nuevo récord de velocidad",
+    "fingerprint": "271c01e23e4f5e3ce3c02bd6",
+    "title": "BYD establece un nuevo récord de velocidad con el YangWang U9 Xtreme",
+    "summary": "El superdeportivo eléctrico YangWang U9 Xtreme de BYD ha alcanzado los 503,17 km/h en una autopista de Abu Dabi, superando su marca anterior. Aunque el registro ha sido certificado por la FIA, el fabricante aún no ostenta el título oficial de coche más rápido del mundo al no haber completado la doble pasada reglamentaria.",
+    "paragraphs": [
+      "El piloto Marc Basseng ha logrado superar la barrera de los 500 km/h a bordo del YangWang U9 Xtreme en la autopista Sheikh Khalifa Bin Zayed. Este hito mejora el registro previo de 496,22 km/h obtenido por la misma firma en septiembre de 2025.",
+      "A pesar de la certificación de la FIA sobre la velocidad punta alcanzada en una sola dirección, el récord no invalida la marca del SSC Tuatara. Para ser considerado el coche más rápido del mundo, la normativa exige realizar pasadas en ambos sentidos para compensar factores externos como el viento."
+    ],
+    "bullets": [
+      "El vehículo alcanzó una velocidad máxima de 503,17 km/h.",
+      "La prueba se realizó en la autopista E11 de Abu Dabi el pasado 1 de noviembre.",
+      "El equipo técnico optimizó parámetros como la suspensión, la presión de neumáticos y la temperatura de la batería para el reto.",
+      "El SSC Tuatara mantiene el récord oficial de velocidad media con 455,3 km/h."
+    ],
+    "eventKey": "BYD-YangWang U9 Xtreme-récord velocidad-Abu Dabi",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-da4846333189ee02f583637b": {
+    "id": "n-da4846333189ee02f583637b",
+    "url": "https://elpais.com/economia/2026-11-07/el-gobierno-agota-la-legislatura-sin-anticipar-la-jubilacion-en-los-sectores-con-mas-muertes-y-bajas.html",
+    "source": "El País",
+    "section": "economia",
+    "lang": "es",
+    "publishedAt": "2026-11-07T04:45:01+00:00",
+    "sourceTitle": "El Gobierno agota la legislatura sin anticipar la jubilación en los sectores con más muertes y bajas",
+    "fingerprint": "3f1563bd0767f713bf320ad8",
+    "title": "El Gobierno finaliza la legislatura sin aplicar la jubilación anticipada en sectores de riesgo",
+    "summary": "El Ejecutivo concluye su mandato sin haber implementado las medidas para adelantar el retiro en profesiones con alta siniestralidad, incumpliendo los plazos establecidos por la Seguridad Social.",
+    "paragraphs": [
+      "A pesar de las demandas que involucran a cerca de dos millones de trabajadores, la Seguridad Social no ha resuelto las solicitudes de jubilación anticipada, incluso en aquellos casos donde existía un acuerdo previo entre los agentes sociales.",
+      "Esta falta de acción deja sin efecto las expectativas de los sectores con mayores índices de mortalidad y bajas laborales al cierre de la legislatura."
+    ],
+    "bullets": [
+      "Afectación a aproximadamente dos millones de empleados.",
+      "Incumplimiento de los plazos internos de la Seguridad Social.",
+      "Ausencia de resolución en expedientes ya pactados por sindicatos y patronal."
+    ],
+    "eventKey": "Gobierno-incumplimiento-jubilacion-anticipada-España",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-cb52ab76bce99e3aed17d739": {
+    "id": "n-cb52ab76bce99e3aed17d739",
+    "url": "https://elpais.com/cultura/2026-11-07/un-dandi-con-el-partido-del-pueblo.html",
+    "source": "El País",
+    "section": "cultura",
+    "lang": "es",
+    "publishedAt": "2026-11-07T12:16:47+00:00",
+    "sourceTitle": "Un dandi con el partido del pueblo",
+    "fingerprint": "1fe0fca3005aeb1346f03170",
+    "title": "La trayectoria vital y política de Juan Gil-Albert",
+    "summary": "El poeta de la Generación del 27, Juan Gil-Albert, destacó por su compromiso con la causa republicana pese a su procedencia burguesa. Su biografía estuvo marcada por el exilio y un posterior retorno a España donde mantuvo su estilo personal.",
+    "paragraphs": [
+      "La figura de Juan Gil-Albert se analiza a través de su vinculación con el partido del pueblo, una etapa que contrastó con su origen acomodado. El autor vivió las consecuencias del exilio tras su posicionamiento político.",
+      "Tras su vuelta a territorio español, el escritor conservó su característica elegancia, consolidándose como una personalidad singular dentro de su generación literaria."
+    ],
+    "bullets": [
+      "Pertenencia a la Generación del 27.",
+      "Adhesión a la causa republicana desde un entorno burgués.",
+      "Experiencia del exilio y regreso a España."
+    ],
+    "eventKey": "Juan Gil-Albert trayectoria política y vital",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-c1d83755970caca628e16b1e": {
+    "id": "n-c1d83755970caca628e16b1e",
+    "url": "https://www.europapress.es/euskadi/noticia-29n-pnv-pide-no-confundirse-mensajes-polarizacion-porque-voto-util-envenenado-papeleta-perdida-20261107134428.html",
+    "source": "Europa Press Euskadi",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-11-07T12:44:28+00:00",
+    "sourceTitle": "PNV pide no confundirse con los mensajes de polarización porque ese \"voto útil envenenado\" es una papeleta perdida",
+    "fingerprint": "22acde666f285b86bd07d8c3",
+    "title": "El PNV advierte contra el voto útil en la polarización política",
+    "summary": "La candidata del PNV por Gipuzkoa, Maribel Vaquero, ha instado a los electores a evitar los mensajes de confrontación entre bloques. Según la formación, el concepto de voto útil en este contexto es engañoso y supone un desperdicio de la papeleta.",
+    "paragraphs": [
+      "Maribel Vaquero, representante del PNV al Congreso por Gipuzkoa, ha solicitado a los votantes indecisos que no se dejen influir por la polarización actual. La candidata sostiene que los mensajes que buscan dividir el electorado en dos bloques no representan los intereses de su formación.",
+      "Desde el PNV califican el discurso del voto útil como una estrategia envenenada. La formación defiende que seguir esta lógica electoral equivale a emitir una papeleta perdida que no beneficia al elector."
+    ],
+    "bullets": [
+      "Rechazo a la polarización entre bloques políticos.",
+      "Crítica al concepto de voto útil como herramienta engañosa.",
+      "Llamamiento a los votantes indecisos para evitar confusiones."
+    ],
+    "eventKey": "Maribel Vaquero-advierte sobre voto útil-Gipuzkoa",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-26b5ba430be1006a04e41d1b": {
+    "id": "n-26b5ba430be1006a04e41d1b",
+    "url": "https://www.europapress.es/nacional/noticia-jovenes-vivienda-empleo-redes-sociales-votos-futuro-preocupaciones-personales-20261107125950.html",
+    "source": "Europa Press",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-11-07T11:59:50+00:00",
+    "sourceTitle": "Los jóvenes ante la vivienda, el empleo o las redes sociales: votos por el futuro y preocupaciones personales",
+    "fingerprint": "b6d273bfdf33e3b9410e9dbb",
+    "title": "Las preocupaciones de los jóvenes ante el futuro",
+    "summary": "El Consejo de la Juventud de España identifica una coincidencia en las inquietudes de este colectivo, mientras que un estudio de Sigma Dos señala que los factores personales ganan relevancia en su comportamiento electoral.",
+    "paragraphs": [
+      "El CJE ha detectado un consenso generalizado sobre los problemas que más afectan a los jóvenes en la actualidad. Entre las cuestiones destacadas se encuentran el acceso a la vivienda, la situación laboral y el impacto de las redes sociales.",
+      "Por su parte, el análisis de Sigma Dos sugiere que la situación individual de cada joven está adquiriendo un peso mayor a la hora de decidir su voto, vinculando sus preocupaciones personales con sus expectativas de futuro."
+    ],
+    "bullets": [
+      "Consenso sobre los principales problemas juveniles.",
+      "Vivienda, empleo y redes sociales como ejes de preocupación.",
+      "Influencia de la situación personal en la decisión electoral."
+    ],
+    "eventKey": "Jóvenes analizan preocupaciones y voto en España",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-9345adcc936c06fed1bd8450": {
+    "id": "n-9345adcc936c06fed1bd8450",
+    "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-11-07T12:23:28+00:00",
+    "sourceTitle": "Four things we learned this week about 2028 White House race",
+    "fingerprint": "aee73aaca93e5b6dce71f443",
+    "title": "Claves de la carrera presidencial hacia 2028",
+    "summary": "Los recientes resultados electorales en el Congreso estadounidense podrían influir en la próxima contienda por la Casa Blanca. Se analiza el impacto de estos cambios y los movimientos políticos emergentes.",
+    "paragraphs": [
+      "Los avances logrados por el Partido Demócrata en el Congreso se perfilan como un factor determinante para las futuras elecciones presidenciales. Este escenario plantea interrogantes sobre qué figuras políticas han salido reforzadas y quiénes están posicionándose para la carrera hacia 2028."
+    ],
+    "bullets": [
+      "Impacto de los resultados legislativos en la estrategia presidencial.",
+      "Evaluación de los actores políticos con mayor proyección actual."
+    ],
+    "eventKey": "Demócratas-resultados-Congreso-EEUU",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-bda1706f378a372b8f1f891e": {
+    "id": "n-bda1706f378a372b8f1f891e",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+    "source": "NASA",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-11-07T05:05:00+00:00",
+    "sourceTitle": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+    "fingerprint": "c8718d5517e195e77c53aaeb",
+    "title": "La NASA destaca el macizo De Gerlache-Kocher",
+    "summary": "La imagen astronómica del día de la NASA se centra en el macizo De Gerlache-Kocher, una formación geológica espacial.",
+    "paragraphs": [
+      "La agencia espacial estadounidense ha seleccionado el macizo De Gerlache-Kocher como protagonista de su sección Astronomy Picture of the Day (APOD).",
+      "Esta publicación diaria incluye una explicación técnica elaborada por un astrónomo profesional sobre la formación astronómica presentada."
+    ],
+    "bullets": [
+      "Selección del macizo De Gerlache-Kocher como imagen del día.",
+      "Divulgación científica a través de la plataforma APOD de la NASA."
+    ],
+    "eventKey": "NASA-presenta-macizo-De-Gerlache-Kocher",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-b62c9c03eb5f12028fe23388": {
+    "id": "n-b62c9c03eb5f12028fe23388",
+    "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+    "source": "Ars Technica",
+    "section": "tecnologia",
+    "lang": "en",
+    "publishedAt": "2026-11-07T12:15:55+00:00",
+    "sourceTitle": "The migration that transformed Africa's languages, genes, and cultures",
+    "fingerprint": "0829ced8ab7616b8cae83d7b",
+    "title": "El impacto de la expansión bantú en África",
+    "summary": "Nuevos hallazgos genéticos y arqueológicos arrojan luz sobre el proceso de expansión de los hablantes de lenguas bantúes por el continente africano. Este movimiento poblacional resultó determinante para la configuración actual de la diversidad cultural, lingüística y genética de la región.",
+    "paragraphs": [
+      "Investigaciones recientes están permitiendo reconstruir cómo los grupos de habla bantú se desplazaron y extendieron por gran parte del territorio africano.",
+      "El estudio combina evidencias arqueológicas con análisis genéticos para comprender mejor las transformaciones sociales y biológicas derivadas de esta migración histórica."
+    ],
+    "bullets": [
+      "La expansión bantú reconfiguró el mapa lingüístico y cultural de África.",
+      "El análisis genético es clave para entender este proceso migratorio.",
+      "La arqueología aporta datos fundamentales sobre el desplazamiento de estas poblaciones."
+    ],
+    "eventKey": "poblaciones bantúes expandirse por África",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-1f192bdc02a0d824f981950a": {
+    "id": "n-1f192bdc02a0d824f981950a",
+    "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "economia",
+    "lang": "en",
+    "publishedAt": "2026-11-07T01:41:36+00:00",
+    "sourceTitle": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+    "fingerprint": "e2c31b8c328572036f2908fb",
+    "title": "El impacto del alza de tipos de interés en los hogares británicos",
+    "summary": "El inminente incremento de los tipos de interés en el Reino Unido amenaza con encarecer significativamente el coste de las hipotecas, préstamos y tarjetas de crédito para millones de ciudadanos.",
+    "paragraphs": [
+      "La subida prevista de los tipos de interés en el mercado británico se perfila como un factor determinante que afectará directamente a la economía doméstica de gran parte de la población.",
+      "Este ajuste financiero podría traducirse en un aumento notable de las cuotas mensuales, complicando la situación financiera de quienes dependen de productos de crédito."
+    ],
+    "bullets": [
+      "Previsión de encarecimiento en hipotecas y préstamos.",
+      "Afectación directa a millones de usuarios de tarjetas de crédito.",
+      "Impacto negativo en el bolsillo de los consumidores británicos."
+    ],
+    "eventKey": "hogares británicos-afrontan-subida tipos interés",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-728988fc29fadf139baed6f5": {
+    "id": "n-728988fc29fadf139baed6f5",
+    "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-film-maker",
+    "source": "The Guardian",
+    "section": "cultura",
+    "lang": "en",
+    "publishedAt": "2026-11-06T20:56:41+00:00",
+    "sourceTitle": "Sebastián Lelio was a fascinating film-maker of great passion and poetry",
+    "fingerprint": "34ec0aa94ef715d5023731dc",
+    "title": "Fallece a los 52 años el cineasta chileno Sebastián Lelio",
+    "summary": "El director de obras como 'Gloria' y 'Una mujer fantástica' ha muerto a los 52 años, dejando un legado marcado por la exploración de la identidad y la política en el Chile contemporáneo.",
+    "paragraphs": [
+      "El cineasta Sebastián Lelio, figura clave del denominado Novísimo Cine Chileno, ha fallecido a los 52 años. Su filmografía destacó por su capacidad para retratar tanto la esfera íntima como las tensiones políticas de su país.",
+      "Lelio fue reconocido por su estilo apasionado y sensual, logrando proyectar a nivel internacional las complejidades de la sociedad chilena tras la dictadura de Augusto Pinochet."
+    ],
+    "bullets": [
+      "Director de películas aclamadas como 'Gloria' y 'Una mujer fantástica'.",
+      "Referente del movimiento cinematográfico Novísimo Cine Chileno.",
+      "Reconocido por su habilidad para dramatizar el zeitgeist del Chile del siglo XXI."
+    ],
+    "eventKey": "Sebastián Lelio fallecimiento",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-213f537d42072c580d728673": {
+    "id": "n-213f537d42072c580d728673",
+    "url": "https://www.europapress.es/euskadi/noticia-pse-rechaza-falso-dilema-derecha-extrema-derecha-defiende-sostenibilidad-igualdad-son-compatibles-20261107123039.html",
+    "source": "Europa Press Euskadi",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-11-07T11:30:39+00:00",
+    "sourceTitle": "PSE rechaza \"el falso dilema\" de derecha y extrema derecha y defiende que \"sostenibilidad e igualdad son compatibles\"",
+    "fingerprint": "9c34daca650dfbf07cb445c7",
+    "title": "El PSE-EE cuestiona el discurso de la derecha y la extrema derecha",
+    "summary": "Eneko Andueza ha rechazado la dicotomía planteada por la oposición, defendiendo la compatibilidad entre la sostenibilidad y la igualdad social.",
+    "paragraphs": [
+      "El secretario general de los socialistas vascos, Eneko Andueza, ha calificado de \"falso dilema\" los argumentos esgrimidos por la derecha y la extrema derecha, a quienes ha tildado de \"profetas del apocalipsis\".",
+      "Andueza ha reivindicado el papel del autogobierno para promover una movilidad sostenible que, a su juicio, garantiza la justicia, la cohesión social y la igualdad."
+    ],
+    "bullets": [
+      "Rechazo a la narrativa de la derecha y extrema derecha.",
+      "Defensa de la compatibilidad entre sostenibilidad e igualdad.",
+      "Apuesta por el autogobierno para impulsar la movilidad sostenible."
+    ],
+    "eventKey": "Eneko Andueza rechaza discurso de la derecha en Euskadi",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-3664d8585fd4d9636af4f2a6": {
+    "id": "n-3664d8585fd4d9636af4f2a6",
+    "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
+    "source": "The Guardian",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-11-07T09:15:35+00:00",
+    "sourceTitle": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
+    "fingerprint": "d91541810fbf22e95c97f840",
+    "title": "El Ministerio del Interior británico, demandado por retirar derechos de residencia a ciudadanos de la UE",
+    "summary": "El grupo activista the3million ha iniciado acciones legales contra el Ministerio del Interior del Reino Unido tras la revocación del estatus de residencia de cerca de 1.500 ciudadanos europeos.",
+    "paragraphs": [
+      "La organización ha presentado una demanda ante el Tribunal Superior alegando un incumplimiento del acuerdo de retirada del Brexit. La medida afecta a personas que contaban con un estatus de residencia previo, el cual ha sido invalidado por las autoridades bajo el argumento de que su concesión fue un error administrativo.",
+      "El caso pone en duda la seguridad jurídica de los ciudadanos comunitarios que permanecen en el país tras la salida del Reino Unido de la Unión Europea."
+    ],
+    "bullets": [
+      "Cerca de 1.500 ciudadanos de la UE han perdido sus derechos de residencia.",
+      "El grupo the3million acusa al Ministerio del Interior de vulnerar el acuerdo de retirada del Brexit.",
+      "Las autoridades británicas califican ahora de error la concesión inicial del estatus de residencia."
+    ],
+    "eventKey": "the3million-demanda-Ministerio-Interior-Reino-Unido",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-74d6b6a43f32b8a09bda11de": {
+    "id": "n-74d6b6a43f32b8a09bda11de",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm",
+    "source": "ScienceDaily",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-11-07T09:44:48+00:00",
+    "sourceTitle": "Scientists discover Europe's ancient forests were nothing like we imagined",
+    "fingerprint": "c660a9f5071fc78aff18bc0e",
+    "title": "Un estudio cuestiona la imagen tradicional de los bosques europeos",
+    "summary": "Nuevas evidencias científicas sugieren que Europa estuvo dominada durante millones de años por espacios abiertos y praderas en lugar de por densas masas forestales. Este hallazgo pone en duda la eficacia de las estrategias actuales de reforestación para preservar la biodiversidad.",
+    "paragraphs": [
+      "Investigadores han hallado pruebas de que el paisaje europeo estuvo caracterizado durante más de 20 millones de años por bosques abiertos, prados coloridos y grandes animales pastores, contradiciendo la creencia de que su estado natural era el de un bosque cerrado.",
+      "Este descubrimiento plantea interrogantes sobre las políticas de reforestación actuales, ya que la plantación de bosques densos podría resultar contraproducente para la conservación de la biodiversidad que se pretende proteger."
+    ],
+    "bullets": [
+      "El paisaje europeo histórico era predominantemente abierto.",
+      "La presencia de grandes herbívoros fue clave en el ecosistema.",
+      "Las estrategias de reforestación actuales podrían ser perjudiciales."
+    ],
+    "eventKey": "científicos-cuestionan-estado-natural-bosques-europa",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-5950762c99a9491e87458d65": {
+    "id": "n-5950762c99a9491e87458d65",
+    "url": "https://www.xataka.com/movilidad/oficial-elon-musk-anuncia-principio-fin-cybertruck-su-nueva-gran-apuesta-para-2027",
+    "source": "Xataka",
+    "section": "tecnologia",
+    "lang": "es",
+    "publishedAt": "2026-11-07T12:01:06+00:00",
+    "sourceTitle": "Ya es oficial: Elon Musk anuncia el principio del fin del Cybertruck y su nueva gran apuesta para 2027",
+    "fingerprint": "58c59485bbd112ba8f17984e",
+    "title": "Elon Musk confirma el fin progresivo del Cybertruck en favor de los robotaxis",
+    "summary": "Tesla ha anunciado que reducirá gradualmente la producción del Cybertruck durante 2027 para priorizar la fabricación de su vehículo autónomo, el Cybercab. Este cambio de estrategia responde a las dificultades comerciales y técnicas que ha enfrentado la camioneta desde su lanzamiento.",
+    "paragraphs": [
+      "Elon Musk ha oficializado el cese progresivo de la producción del Cybertruck en la Gigafactoría de Texas a lo largo de 2027. El objetivo de esta medida es liberar capacidad industrial para centrarse en el desarrollo y fabricación a gran escala del Cybercab, el vehículo autónomo de la compañía.",
+      "La decisión llega tras un periodo marcado por ventas decepcionantes, problemas técnicos recurrentes y llamadas a revisión que han afectado a la imagen del modelo. Tesla busca ahora competir en el sector de los taxis autónomos con un vehículo sin volante ni pedales, cuyo coste operativo proyectado es significativamente bajo."
+    ],
+    "bullets": [
+      "La producción del Cybertruck se reducirá gradualmente durante 2027.",
+      "Tesla reorienta sus recursos hacia el Cybercab para competir en el mercado de flotas autónomas.",
+      "El Cybertruck ha sufrido problemas de fiabilidad, incluyendo fallos en el acelerador y piezas defectuosas.",
+      "El nuevo robotaxi de Tesla promete un precio inferior a los 30.000 dólares."
+    ],
+    "eventKey": "Elon Musk-anuncia fin producción Cybertruck-Texas",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-e6618bb153b76a1d50727e3b": {
+    "id": "n-e6618bb153b76a1d50727e3b",
+    "url": "https://elpais.com/economia/2026-11-07/las-comunidades-autonomas-proyectan-rebajas-fiscales-por-2300-millones-hasta-2031.html",
+    "source": "El País",
+    "section": "economia",
+    "lang": "es",
+    "publishedAt": "2026-11-07T04:45:01+00:00",
+    "sourceTitle": "Las comunidades autónomas proyectan rebajas fiscales por 2.300 millones hasta 2031",
+    "fingerprint": "e47188d5f1d02de3dd7c451b",
+    "title": "Las comunidades autónomas prevén recortes fiscales hasta 2031",
+    "summary": "Los gobiernos regionales han planificado una reducción de ingresos tributarios que alcanzará los 2.300 millones de euros en los próximos años. Estas medidas afectarán principalmente a la recaudación del IRPF, el sector inmobiliario y los impuestos sobre sucesiones y donaciones.",
+    "paragraphs": [
+      "Las administraciones autonómicas han proyectado un plan de rebajas fiscales que se extenderá hasta el año 2031. El impacto económico total de estas medidas se estima en 2.300 millones de euros.",
+      "La estrategia se centra en aliviar la carga impositiva en figuras clave como el IRPF, además de modificar la tributación vinculada a los bienes inmuebles y a las transmisiones patrimoniales por herencias o donaciones."
+    ],
+    "bullets": [
+      "Reducción fiscal proyectada de 2.300 millones de euros.",
+      "Plazo de aplicación hasta el año 2031.",
+      "Afectación directa al IRPF, tributación inmobiliaria y sucesiones."
+    ],
+    "eventKey": "comunidades autónomas proyectan rebajas fiscales",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-7bddd7bdaf29a0e66b87de6e": {
+    "id": "n-7bddd7bdaf29a0e66b87de6e",
+    "url": "https://elpais.com/cultura/2026-11-07/el-inaudito-caso-de-los-romeos-la-enrevesada-batalla-por-el-nombre-del-grupo-espanol.html",
+    "source": "El País",
+    "section": "cultura",
+    "lang": "es",
+    "publishedAt": "2026-11-07T04:30:01+00:00",
+    "sourceTitle": "El inaudito caso de Los Romeos: la enrevesada batalla por el nombre del grupo español",
+    "fingerprint": "bb0e67c99a9287876a703d0d",
+    "title": "Conflicto legal por la marca de Los Romeos",
+    "summary": "La banda castellonense Los Romeos se encuentra inmersa en una disputa judicial para recuperar el registro de su nombre, actualmente en manos de un tercero ajeno al grupo.",
+    "paragraphs": [
+      "Tras su regreso a los escenarios este año después de treinta años de ausencia, el grupo ha denunciado que su marca fue registrada por una persona externa. Los músicos sostienen que esta acción se realizó exclusivamente con fines lucrativos y sin ninguna conexión con la trayectoria de la formación original."
+    ],
+    "bullets": [
+      "La banda ha vuelto a la actividad tras tres décadas de parón.",
+      "El nombre del grupo está registrado por una persona sin vinculación con los músicos.",
+      "Los integrantes denuncian que el registro se hizo únicamente por dinero."
+    ],
+    "eventKey": "Los Romeos disputa legal marca Castellón",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-e76a38f39e98232b10ab2617": {
+    "id": "n-e76a38f39e98232b10ab2617",
+    "url": "https://www.durangon.com/iurreta-ofrece-ayudas-al-alquiler-para-jovenes-de-hasta-250-euros-al-mes/",
+    "source": "Durangon",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-11-07T07:01:54+00:00",
+    "sourceTitle": "Iurreta ofrece ayudas al alquiler para jóvenes de hasta 250 euros al mes",
+    "fingerprint": "9fcbcb164670db04f7c0cf9d",
+    "title": "Iurreta lanza ayudas al alquiler para jóvenes",
+    "summary": "El Ayuntamiento de Iurreta ha convocado subvenciones mensuales de hasta 250 euros destinadas a facilitar el acceso a la vivienda de los jóvenes.",
+    "paragraphs": [
+      "La administración local ha destinado una partida de 9.000 euros para esta línea de ayudas. Los interesados podrán presentar sus solicitudes entre el 16 de noviembre y el 15 de diciembre.",
+      "Para optar a esta prestación, el contrato de alquiler deberá contemplar una renta máxima de 750 euros mensuales."
+    ],
+    "bullets": [
+      "Cuantía máxima de 250 euros al mes.",
+      "Presupuesto total de 9.000 euros.",
+      "Plazo de solicitud: del 16 de noviembre al 15 de diciembre.",
+      "Requisito de renta máxima de vivienda: 750 euros."
+    ],
+    "eventKey": "Ayuntamiento de Iurreta convoca ayudas al alquiler para jóvenes",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-8bd014409233113582f88270": {
+    "id": "n-8bd014409233113582f88270",
+    "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-11-07T07:20:00+00:00",
+    "sourceTitle": "Paraguay's president impeached and under house arrest after bank collapse",
+    "fingerprint": "c869297505a9229cb9b016ce",
+    "title": "El presidente de Paraguay, Santiago Peña, destituido y bajo arresto domiciliario",
+    "summary": "El mandatario paraguayo ha sido apartado de su cargo tras una grave crisis bancaria que ha bloqueado el acceso de millones de ciudadanos a sus ahorros.",
+    "paragraphs": [
+      "El presidente de Paraguay, Santiago Peña, ha sido destituido de su cargo y se encuentra actualmente bajo arresto domiciliario. La medida se produce en un contexto de inestabilidad financiera provocado por el colapso de diversas entidades bancarias en el país.",
+      "La crisis ha generado una situación crítica para la población, dejando a millones de personas sin posibilidad de retirar o gestionar su dinero. Las autoridades mantienen la incertidumbre sobre la resolución de este bloqueo financiero."
+    ],
+    "bullets": [
+      "Destitución presidencial tras el colapso bancario.",
+      "Santiago Peña permanece bajo arresto domiciliario.",
+      "Millones de ciudadanos afectados por la falta de acceso a sus fondos."
+    ],
+    "eventKey": "Santiago Peña destitución Paraguay",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-83b8b7ae95d54e1d19c799f9": {
+    "id": "n-83b8b7ae95d54e1d19c799f9",
+    "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
+    "source": "NASA",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-11-06T16:23:41+00:00",
+    "sourceTitle": "M30’s Sparkling Stars",
+    "fingerprint": "a30c121a336ed71b5d303184",
+    "title": "La NASA revela una nueva imagen del cúmulo estelar Messier 30",
+    "summary": "El telescopio espacial Hubble ha capturado una instantánea del cúmulo Messier 30, un objeto astronómico que ofrece información sobre la historia galáctica.",
+    "paragraphs": [
+      "La NASA y la ESA han difundido una imagen del cúmulo estelar Messier 30, captada por el telescopio Hubble. Este conjunto de estrellas debe su nombre al astrónomo francés Charles Messier, quien lo incluyó en su catálogo al identificar objetos que podían confundirse con cometas."
+    ],
+    "bullets": [
+      "La imagen fue publicada el 5 de noviembre de 2026.",
+      "El cúmulo permite estudiar la historia de nuestra galaxia.",
+      "Charles Messier catalogó este objeto en el siglo XVIII."
+    ],
+    "eventKey": "NASA-Hubble-fotografía-Messier-30",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-ad36c2a7e444f2e2c06df3f8": {
+    "id": "n-ad36c2a7e444f2e2c06df3f8",
+    "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+    "source": "Ars Technica",
+    "section": "tecnologia",
+    "lang": "en",
+    "publishedAt": "2026-11-07T11:00:34+00:00",
+    "sourceTitle": "British soldier ignored order to pull his SIM card, then got blackmailed",
+    "fingerprint": "06a39d41ecc6149ae9974bc4",
+    "title": "Un soldado británico es juzgado tras ser víctima de extorsión sexual",
+    "summary": "Un militar del Reino Unido ha sido sometido a un consejo de guerra después de ignorar las órdenes de seguridad sobre sus dispositivos móviles, lo que derivó en un caso de sextorsión.",
+    "paragraphs": [
+      "El soldado desoyó las instrucciones reiteradas de retirar su tarjeta SIM y asegurar sus dispositivos antes de ser desplegado. Esta negligencia facilitó que fuera víctima de un chantaje sexual.",
+      "Como consecuencia de estos hechos, el militar ha tenido que enfrentarse a un consejo de guerra por el incumplimiento de los protocolos de seguridad establecidos."
+    ],
+    "bullets": [
+      "Incumplimiento de órdenes sobre seguridad de dispositivos.",
+      "El militar fue víctima de sextorsión tras el despliegue.",
+      "El caso ha derivado en un consejo de guerra."
+    ],
+    "eventKey": "soldado británico-juzgado-Reino Unido",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-b6628861d80cec7dca9fa82f": {
+    "id": "n-b6628861d80cec7dca9fa82f",
+    "url": "https://www.theguardian.com/music/2026/nov/06/macklemore-arenas-free-palestine-tour",
+    "source": "The Guardian",
+    "section": "cultura",
+    "lang": "en",
+    "publishedAt": "2026-11-06T19:46:56+00:00",
+    "sourceTitle": "Macklemore says that nine US arenas turned down his Free Palestine tour",
+    "fingerprint": "10527a7c1081cc3e0c697226",
+    "title": "Macklemore denuncia que nueve recintos estadounidenses han rechazado su gira benéfica",
+    "summary": "El rapero Macklemore ha señalado que varios estadios de Estados Unidos se han negado a acoger su gira 'Free Palestine', denunciando presiones y tácticas de supresión.",
+    "paragraphs": [
+      "El artista ha manifestado a través de sus redes sociales que nueve grandes recintos, entre ellos el Madison Square Garden y el Crypto.com Arena, han declinado albergar su iniciativa benéfica. Macklemore ha calificado esta situación como un acto de intimidación y manipulación.",
+      "Según el músico, estas negativas se producen en un contexto marcado por la controversia previa en torno a Ed Sheeran, sugiriendo que existen factores externos que condicionan la disponibilidad de estos espacios para su gira."
+    ],
+    "bullets": [
+      "Nueve estadios de EE. UU. han rechazado la gira 'Free Palestine'.",
+      "El rapero denuncia tácticas de intimidación y manipulación.",
+      "Entre los recintos afectados figuran el Madison Square Garden y el Barclays Center."
+    ],
+    "eventKey": "Macklemore-denuncia-rechazo-gira-EEUU",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-da53e9daea36aaabd283e68b": {
+    "id": "n-da53e9daea36aaabd283e68b",
+    "url": "https://www.europapress.es/euskadi/noticia-incendio-empresa-reciclaje-puerto-bilbao-deja-importantes-danos-materiales-20261107113424.html",
+    "source": "Europa Press Euskadi",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-11-07T10:34:24+00:00",
+    "sourceTitle": "El incendio de una empresa de reciclaje en el Puerto de Bilbao deja \"importantes daños materiales\"",
+    "fingerprint": "8f41c25f0d435687c21c8aaa",
+    "title": "Incendio en una planta de reciclaje del Puerto de Bilbao",
+    "summary": "Un fuego declarado durante la madrugada ha afectado a las instalaciones de la empresa PreZero en el Puerto de Bilbao, provocando daños materiales de consideración.",
+    "paragraphs": [
+      "La Autoridad Portuaria de Bilbao ha confirmado que el incendio, que se originó durante la madrugada de este sábado, ha causado importantes desperfectos en la planta de reciclaje de PreZero.",
+      "A pesar de la magnitud de los daños materiales, no se han registrado heridos. Los equipos de emergencia continuaban trabajando en las labores de extinción pasadas las once de la mañana."
+    ],
+    "bullets": [
+      "Incendio en la empresa PreZero del Puerto de Bilbao.",
+      "No se han producido daños personales.",
+      "Las labores de extinción se mantenían activas a media mañana."
+    ],
+    "eventKey": "PreZero-incendio-Puerto de Bilbao",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-0644cb4128fd45ffc7e8b1df": {
+    "id": "n-0644cb4128fd45ffc7e8b1df",
+    "url": "https://www.europapress.es/nacional/noticia-pnv-defiende-presupuestos-record-porque-pais-funciona-mientras-eh-bildu-cree-queda-corto-20261107101711.html",
+    "source": "Europa Press",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-11-07T09:17:11+00:00",
+    "sourceTitle": "PNV defiende unos Presupuestos \"récord, porque el país funciona\", mientras EH Bildu cree que \"se queda corto\"",
+    "fingerprint": "71206a6f0c2f8365f8e2616c",
+    "title": "Disparidad política ante los nuevos Presupuestos en el País Vasco",
+    "summary": "Los partidos vascos han mostrado posturas enfrentadas ante el proyecto presupuestario, oscilando entre la defensa de su gestión y las críticas por insuficiencia o ineficacia.",
+    "paragraphs": [
+      "El PNV ha calificado las cuentas como históricas, argumentando que reflejan el buen funcionamiento del país, mientras que EH Bildu ha cuestionado su alcance al considerarlas insuficientes.",
+      "Por su parte, el PSE-EE ha puesto en valor el enfoque social de los presupuestos. En la oposición, el PP ha criticado que el gasto sea mayor para mantener los mismos servicios, y Vox ha reclamado una gestión más eficiente."
+    ],
+    "bullets": [
+      "El PNV defiende las cuentas como un reflejo de la buena marcha económica.",
+      "EH Bildu sostiene que el proyecto no llega a cubrir las necesidades reales.",
+      "El PSE-EE subraya el carácter social de la propuesta presupuestaria.",
+      "PP y Vox cuestionan la eficacia y el coste de la gestión planteada."
+    ],
+    "eventKey": "partidos vascos debaten presupuestos",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-42531dc9299c2c06d47d845c": {
+    "id": "n-42531dc9299c2c06d47d845c",
+    "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-11-07T06:59:48+00:00",
+    "sourceTitle": "Pope in 'pretty good health' as he starts Latin America tour",
+    "fingerprint": "2c1d4340d2e602df6fd76cfa",
+    "title": "El Papa inicia su gira por Latinoamérica tras una reciente intervención quirúrgica",
+    "summary": "El Papa León ha comenzado un viaje oficial a Uruguay apenas tres semanas después de someterse a una operación por cáncer de pulmón.",
+    "paragraphs": [
+      "El pontífice ha emprendido su visita a Uruguay en un estado de salud que se describe como bastante bueno, a pesar de la reciente cirugía pulmonar a la que fue sometido hace menos de un mes."
+    ],
+    "bullets": [
+      "El Papa León se encuentra en Uruguay para iniciar su gira por Latinoamérica.",
+      "La visita se produce tras una reciente operación por cáncer de pulmón."
+    ],
+    "eventKey": "Papa León visita Uruguay",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-a5dbfa63e66807ab59fa549e": {
+    "id": "n-a5dbfa63e66807ab59fa549e",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm",
+    "source": "ScienceDaily",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-11-07T09:12:43+00:00",
+    "sourceTitle": "Rubin Observatory discovers two hidden companions of the Milky Way. Hundreds more may be waiting",
+    "fingerprint": "9827ae1507451876c16120ca",
+    "title": "El Observatorio Vera C. Rubin identifica dos nuevos satélites de la Vía Láctea",
+    "summary": "El telescopio ha detectado dos objetos celestes desconocidos analizando una pequeña fracción del firmamento, lo que sugiere la existencia de cientos de galaxias satélite aún por descubrir.",
+    "paragraphs": [
+      "El Observatorio Vera C. Rubin ha logrado localizar dos nuevos compañeros de nuestra galaxia tras examinar únicamente el 7% del cielo nocturno. Entre los hallazgos se encuentran una galaxia de baja luminosidad situada a 355.000 años luz y un cúmulo estelar oculto tras polvo cósmico.",
+      "Los investigadores estiman que podrían existir cientos de galaxias satélite adicionales pendientes de ser halladas. Se espera que la capacidad del telescopio permita identificar estas estructuras en el futuro próximo."
+    ],
+    "bullets": [
+      "Detección de una galaxia tenue y un cúmulo estelar.",
+      "Análisis preliminar basado en el 7% del cielo.",
+      "Posible existencia de cientos de galaxias satélite ocultas."
+    ],
+    "eventKey": "Observatorio Rubin descubre satélites Vía Láctea",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-3cad871f467e317dee527964": {
+    "id": "n-3cad871f467e317dee527964",
+    "url": "https://www.xataka.com/magnet/ayuntamiento-salamanca-anuncia-otra-tala-arboles-hay-quien-sospecha-que-para-mejorar-vistas-catedral",
+    "source": "Xataka",
+    "section": "tecnologia",
+    "lang": "es",
+    "publishedAt": "2026-11-07T11:31:06+00:00",
+    "sourceTitle": "El Ayuntamiento de Salamanca anuncia otra tala de árboles y hay quien sospecha que es \"para mejorar las vistas\" de la Catedral",
+    "fingerprint": "de9b65326700461769ff7723",
+    "title": "Polémica en Salamanca por la tala de árboles en la ribera del Tormes",
+    "summary": "El Ayuntamiento de Salamanca ha iniciado una tala de árboles en la ribera del río Tormes bajo el argumento de gestionar riesgos, aunque existen sospechas de que el objetivo real es mejorar la visibilidad turística de la Catedral.",
+    "paragraphs": [
+      "El consistorio salmantino justifica la eliminación de una veintena de chopos adultos alegando problemas de salud en los ejemplares y riesgos de caída. La intervención se enmarca en un proyecto de mejora recreativa y turística financiado con fondos europeos que incluye la construcción de un mirador y un graderío.",
+      "La oposición política y colectivos ecologistas cuestionan la necesidad de esta tala sistemática, señalando que podría contravenir las condiciones impuestas por la Confederación Hidrográfica del Duero. Se ha solicitado la publicación de los informes técnicos para verificar si la actuación responde estrictamente a criterios de seguridad o a intereses estéticos."
+    ],
+    "bullets": [
+      "El proyecto de saneamiento y adecuación de la ribera cuenta con un presupuesto de 820.000 euros.",
+      "El Ayuntamiento se ha comprometido a plantar el doble de los ejemplares retirados, aunque se critica la pérdida inmediata de sombra y el largo plazo necesario para que los nuevos árboles sean efectivos.",
+      "La Confederación Hidrográfica del Duero autorizó la intervención con restricciones específicas cerca de los puentes protegidos."
+    ],
+    "eventKey": "Ayuntamiento de Salamanca tala árboles en la ribera del Tormes",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-a3c8a1432d4691cdaf51086d": {
+    "id": "n-a3c8a1432d4691cdaf51086d",
+    "url": "https://elpais.com/economia/2026-11-07/la-poblacion-activa-en-espana-envejece-mas-rapido-que-la-media-europea.html",
+    "source": "El País",
+    "section": "economia",
+    "lang": "es",
+    "publishedAt": "2026-11-07T04:45:01+00:00",
+    "sourceTitle": "La población activa en España envejece más rápido que la media europea",
+    "fingerprint": "5db36089673b7cc173aa5489",
+    "title": "El envejecimiento de la población activa española supera la media europea",
+    "summary": "La fuerza laboral en España ha experimentado un incremento en su edad media durante los últimos siete años, situándose por encima del ritmo de envejecimiento observado en el resto de Europa.",
+    "paragraphs": [
+      "Entre 2019 y 2026, el mercado laboral español ha incorporado a más de dos millones de trabajadores. No obstante, este crecimiento ha ido acompañado de un aumento de casi un año en la edad media de los activos.",
+      "Este fenómeno refleja una tendencia de envejecimiento más acelerada en comparación con los niveles registrados en el conjunto de la Unión Europea."
+    ],
+    "bullets": [
+      "Más de dos millones de nuevas incorporaciones al mercado laboral desde 2019.",
+      "La edad media de la población activa ha subido cerca de un año en el periodo analizado.",
+      "España muestra un ritmo de envejecimiento laboral superior a la media europea."
+    ],
+    "eventKey": "población activa española envejece",
+    "partial": true,
+    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
   }
 }
