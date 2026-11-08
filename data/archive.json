@@ -10598,22 +10598,22 @@
     "section": "tecnologia",
     "lang": "en",
     "publishedAt": "2026-11-07T12:15:55+00:00",
-    "sourceTitle": "The migration that transformed Africa's languages, genes, and cultures",
-    "fingerprint": "0829ced8ab7616b8cae83d7b",
-    "title": "El impacto de la expansión bantú en África",
-    "summary": "Nuevos hallazgos genéticos y arqueológicos arrojan luz sobre el proceso de expansión de los hablantes de lenguas bantúes por el continente africano. Este movimiento poblacional resultó determinante para la configuración actual de la diversidad cultural, lingüística y genética de la región.",
+    "sourceTitle": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+    "fingerprint": "c9beb77c0b75aa56aa1fc0f0",
+    "title": "La expansión bantú y su impacto en el continente africano",
+    "summary": "Nuevos estudios genéticos y arqueológicos están permitiendo a los investigadores reconstruir cómo se produjo la expansión de los hablantes de lenguas bantúes por gran parte de África. Este proceso histórico fue determinante para la configuración cultural, lingüística y genética de la región.",
     "paragraphs": [
-      "Investigaciones recientes están permitiendo reconstruir cómo los grupos de habla bantú se desplazaron y extendieron por gran parte del territorio africano.",
-      "El estudio combina evidencias arqueológicas con análisis genéticos para comprender mejor las transformaciones sociales y biológicas derivadas de esta migración histórica."
+      "La comunidad científica continúa analizando las evidencias disponibles para comprender los detalles de este movimiento migratorio. El uso de datos genéticos y hallazgos arqueológicos resulta fundamental para trazar la ruta y el alcance de esta expansión histórica.",
+      "A pesar de los avances, los expertos siguen investigando los mecanismos exactos que permitieron que este grupo transformara el panorama demográfico y cultural del continente africano."
     ],
     "bullets": [
-      "La expansión bantú reconfiguró el mapa lingüístico y cultural de África.",
-      "El análisis genético es clave para entender este proceso migratorio.",
-      "La arqueología aporta datos fundamentales sobre el desplazamiento de estas poblaciones."
+      "Investigación basada en análisis genéticos y arqueológicos.",
+      "Estudio de la expansión de los hablantes de lenguas bantúes.",
+      "Transformación de la diversidad cultural y genética en África."
     ],
-    "eventKey": "poblaciones bantúes expandirse por África",
+    "eventKey": "científicos-investigan-expansión-bantú-áfrica",
     "partial": true,
-    "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
     "model": "gemini-3.1-flash-lite"
   },
   "n-1f192bdc02a0d824f981950a": {
@@ -11088,6 +11088,682 @@
     "eventKey": "población activa española envejece",
     "partial": true,
     "summarizedAt": "2026-11-07T12:47:48.301378+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-1fc6acd0a92c296c711bb91a": {
+    "id": "n-1fc6acd0a92c296c711bb91a",
+    "url": "https://www.europapress.es/euskadi/noticia-restablecido-servicio-metro-arrollamiento-portugalete-bizkaia-20261108092927.html",
+    "source": "Europa Press Euskadi",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-11-08T08:29:27+00:00",
+    "sourceTitle": "Restablecido el servicio de metro tras un arrollamiento en Portugalete (Bizkaia)",
+    "fingerprint": "1695658fa95d354207a2a7d7",
+    "title": "Normalizado el servicio de metro en Portugalete tras un arrollamiento",
+    "summary": "El tráfico ferroviario entre Sestao y Kabiezes ha recuperado la normalidad esta mañana tras una interrupción provocada por un atropello en la localidad vizcaína.",
+    "paragraphs": [
+      "El servicio de Metro Bilbao ha vuelto a operar con normalidad a las 8:45 horas de este domingo. La circulación había permanecido suspendida en el tramo comprendido entre Sestao y Kabiezes debido a un arrollamiento ocurrido en Portugalete."
+    ],
+    "bullets": [
+      "Restablecimiento del servicio a las 8:45 horas.",
+      "Afectación previa en el tramo Sestao-Kabiezes.",
+      "Incidente provocado por un arrollamiento en Portugalete."
+    ],
+    "eventKey": "Metro Bilbao-restablecimiento servicio-Portugalete",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-0eaa0f0ce6e3f1e2c3073b85": {
+    "id": "n-0eaa0f0ce6e3f1e2c3073b85",
+    "url": "https://www.eldiario.es/politica/feijoo-tacha-sanchez-personaje-carton-piedra-le-pide-mirar-trump-mirar-trenes_1_13647717.html",
+    "source": "elDiario.es",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-11-08T12:40:38+00:00",
+    "sourceTitle": "Feijóo tacha a Sánchez de \"personaje de cartón piedra\" y le pide \"menos mirar a Trump y más a los trenes\"",
+    "fingerprint": "db56a06271fdb1e2dae5a608",
+    "title": "Feijóo arremete contra Sánchez y promete una revisión integral del sistema ferroviario",
+    "summary": "Alberto Núñez Feijóo ha centrado sus actos de campaña en criticar la gestión del Gobierno, calificando a Pedro Sánchez de frívolo y exigiendo mayor atención a los problemas internos frente a la política internacional. El líder del PP ha prometido revisar las infraestructuras ferroviarias y endurecer las medidas contra la corrupción.",
+    "paragraphs": [
+      "Durante sus mítines en Valladolid y Málaga, el presidente del PP ha calificado al Ejecutivo de negligente tras el accidente de tren en Urda. Feijóo ha insistido en que, de llegar al Gobierno, auditará minuciosamente la red ferroviaria y exigirá la devolución de las gratificaciones percibidas por directivos de Adif.",
+      "El candidato popular ha reiterado compromisos electorales como la construcción de un millón de viviendas y la revalorización de las pensiones conforme al IPC. Asimismo, ha garantizado que su administración no concederá indultos a políticos condenados por corrupción."
+    ],
+    "bullets": [
+      "Críticas a Sánchez por priorizar la agenda internacional sobre los problemas cotidianos de los españoles.",
+      "Promesa de una revisión exhaustiva de cada tramo e infraestructura ferroviaria.",
+      "Exigencia de reintegro de las gratificaciones pagadas a directivos de Adif tras el accidente de Toledo.",
+      "Compromiso de no indultar a políticos implicados en casos de corrupción."
+    ],
+    "eventKey": "Alberto Núñez Feijóo critica a Pedro Sánchez y propone medidas electorales",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-d2755ebc4728e1eff9837033": {
+    "id": "n-d2755ebc4728e1eff9837033",
+    "url": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
+    "source": "The Guardian",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-11-08T12:00:39+00:00",
+    "sourceTitle": "How African philosophies inspired a new approach to staging film festivals in Manchester",
+    "fingerprint": "53df27c32bc85fd4cdcb403e",
+    "title": "Un festival en Manchester integra filosofías africanas en su programación",
+    "summary": "El evento See My World llegará a Manchester el próximo 21 de noviembre para visibilizar la cultura de la diáspora africana a través de diversas disciplinas artísticas.",
+    "paragraphs": [
+      "El festival, que tendrá lugar en el teatro Contact, busca explorar cómo las enseñanzas del pasado pueden influir en el presente y en el futuro próximo. La iniciativa se apoya en el impulso generado por activistas y creadores locales.",
+      "La programación incluirá cine, poesía y danza, centrando su enfoque en el pensamiento panafricano y en el trabajo de creadores independientes de la diáspora en el norte de Inglaterra."
+    ],
+    "bullets": [
+      "El evento se celebrará el 21 de noviembre.",
+      "Se utilizarán el cine, la poesía y la danza como vehículos de expresión.",
+      "La propuesta se inspira en filosofías africanas sobre la conexión entre pasado y futuro."
+    ],
+    "eventKey": "See My World festival Manchester",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-0e34e988e4e9a6f2ebc342e2": {
+    "id": "n-0e34e988e4e9a6f2ebc342e2",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
+    "source": "ScienceDaily",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-11-08T10:11:25+00:00",
+    "sourceTitle": "A nuclear blast could save Earth from an asteroid, but there's a catch",
+    "fingerprint": "8e4bcd94f907c771897e5472",
+    "title": "La eficacia de una explosión nuclear contra asteroides depende de su forma",
+    "summary": "Una investigación reciente advierte que el uso de armas nucleares para desviar asteroides peligrosos presenta riesgos significativos según el punto de impacto. La irregularidad del cuerpo celeste altera drásticamente la respuesta a la radiación X.",
+    "paragraphs": [
+      "Un estudio científico señala que, aunque una explosión nuclear podría proteger a la Tierra frente a un asteroide, el éxito de la misión no está garantizado. La forma irregular del objeto es un factor determinante que puede condicionar el resultado final.",
+      "Los investigadores han descubierto que la eficacia de la desviación puede variar hasta cinco veces dependiendo del ángulo en el que se aplique la ráfaga de rayos X. Un error en la zona de impacto podría transformar una maniobra de salvamento en un desastre."
+    ],
+    "bullets": [
+      "La forma del asteroide influye en su respuesta ante una explosión nuclear.",
+      "La efectividad de la desviación varía casi cinco veces según el ángulo.",
+      "Golpear el lado incorrecto podría resultar contraproducente."
+    ],
+    "eventKey": "científicos-analizan-desviación-asteroides-espacio",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-b35d23c3fe43d24301dcb70e": {
+    "id": "n-b35d23c3fe43d24301dcb70e",
+    "url": "https://www.xataka.com/robotica-e-ia/mando-mi-tele-tiene-botones-que-no-utilizo-le-he-pedido-a-ia-que-cambie-apps-que-uso",
+    "source": "Xataka",
+    "section": "tecnologia",
+    "lang": "es",
+    "publishedAt": "2026-11-08T13:01:14+00:00",
+    "sourceTitle": "El mando de mi tele tiene botones que no utilizo. Le he pedido a la IA que los cambie por las apps que sí uso",
+    "fingerprint": "5d6fd3027ac752efe9a73564",
+    "title": "Personalización de botones en mandos de Smart TV mediante IA",
+    "summary": "Un usuario ha utilizado la inteligencia artificial de Claude para reconfigurar los botones de acceso directo de su mando a distancia, logrando que ejecuten aplicaciones de su preferencia en lugar de las predeterminadas.",
+    "paragraphs": [
+      "Ante la frustración de contar con botones en el mando de su televisión que no utiliza, un usuario ha recurrido a la IA para modificar su comportamiento. El proceso, realizado sobre un dispositivo Google TV, permitió sustituir el acceso directo a YouTube por la aplicación de Movistar Plus.",
+      "La intervención requirió activar el modo desarrollador y el ADB inalámbrico, permitiendo que la IA localizara el dispositivo en la red local, desarrollara una aplicación a medida y la instalara automáticamente. El autor advierte que la viabilidad de este proceso depende del sistema operativo y que podría afectar a la garantía del equipo."
+    ],
+    "bullets": [
+      "La personalización de botones es sencilla en dispositivos Android TV, pero compleja o limitada en sistemas como webOS o Tizen.",
+      "El uso de herramientas como ADB permite a la IA ejecutar cambios técnicos sin necesidad de instalar aplicaciones pesadas de terceros.",
+      "El proceso completo de configuración y desarrollo de la app personalizada se completó en aproximadamente diez minutos.",
+      "Se advierte que modificar el software del dispositivo podría suponer un riesgo para la garantía del fabricante."
+    ],
+    "eventKey": "usuario-reconfigura-botones-mando-tv-ia",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-1fd2c4b355c27cd812da7476": {
+    "id": "n-1fd2c4b355c27cd812da7476",
+    "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "economia",
+    "lang": "en",
+    "publishedAt": "2026-11-08T11:25:32+00:00",
+    "sourceTitle": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+    "fingerprint": "5b6415f244011aaa0e982842",
+    "title": "El Gobierno británico estudia prohibir el acceso a Vinted y eBay a menores de 16 años",
+    "summary": "El Ejecutivo del Reino Unido valora restringir el uso de plataformas de compraventa a los menores de edad a partir del próximo mes de marzo.",
+    "paragraphs": [
+      "La ministra de Cultura ha confirmado que el Gobierno analiza seriamente la posibilidad de vetar el acceso de los menores de 16 años a aplicaciones como Vinted y eBay.",
+      "Esta medida, que podría entrar en vigor el próximo mes de marzo, se encuentra actualmente bajo evaluación oficial."
+    ],
+    "bullets": [
+      "La ministra de Cultura confirma que se estudia la prohibición.",
+      "La restricción afectaría a menores de 16 años.",
+      "La medida podría implementarse en marzo del próximo año."
+    ],
+    "eventKey": "Gobierno británico-estudia prohibir acceso menores-Reino Unido",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-945a391e43757b92a5052352": {
+    "id": "n-945a391e43757b92a5052352",
+    "url": "https://elpais.com/cultura/2026-11-08/muere-richard-lloyd-guitarrista-y-miembro-fundador-del-grupo-television-a-los-75-anos.html",
+    "source": "El País",
+    "section": "cultura",
+    "lang": "es",
+    "publishedAt": "2026-11-08T12:42:08+00:00",
+    "sourceTitle": "Muere Richard Lloyd, guitarrista y miembro fundador del grupo Television, a los 75 años",
+    "fingerprint": "6e6903bda637d2c85fa3704e",
+    "title": "Fallece Richard Lloyd, guitarrista y cofundador de Television",
+    "summary": "El músico estadounidense, figura esencial en la escena punk de Nueva York durante los años setenta, ha muerto a los 75 años.",
+    "paragraphs": [
+      "Richard Lloyd, reconocido por su labor como guitarrista y miembro fundador de la banda Television, ha fallecido a los 75 años. Su trayectoria fue fundamental para definir el sonido característico del grupo y el desarrollo del movimiento punk neoyorquino de la década de los setenta."
+    ],
+    "bullets": [
+      "Muerte del guitarrista a los 75 años.",
+      "Reconocido por su papel clave en la banda Television.",
+      "Figura relevante en la revolución punk de Nueva York."
+    ],
+    "eventKey": "Richard Lloyd fallecimiento Nueva York",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-e1228c91c3e5d48fac9d19f4": {
+    "id": "n-e1228c91c3e5d48fac9d19f4",
+    "url": "https://www.durangon.com/los-trabajos-de-preparacion-del-terreno-para-la-plantacion-de-arboles-arrancaran-el-lunes-en-otamotzena/",
+    "source": "Durangon",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-11-08T07:01:34+00:00",
+    "sourceTitle": "Los trabajos de preparación del terreno para la plantación de árboles arrancarán el lunes en Otamotzena",
+    "fingerprint": "c0bcec5030c295225cbbc488",
+    "title": "Inicio de los preparativos para la plantación de árboles en Otamotzena",
+    "summary": "El Ayuntamiento de Durango comenzará este lunes las labores de acondicionamiento del suelo en la zona de Otamotzena con el objetivo de plantar nuevos ejemplares arbóreos.",
+    "paragraphs": [
+      "Las actuaciones se centrarán inicialmente en Otamotzena, aunque el plan municipal contempla extender las intervenciones a otros puntos del municipio.",
+      "Además de esta zona, el proyecto incluye trabajos específicos en el Skate Park, Ezkurdi y Astxiki."
+    ],
+    "bullets": [
+      "Preparación del terreno en Otamotzena a partir del lunes.",
+      "Intervenciones previstas en Skate Park, Ezkurdi y Astxiki."
+    ],
+    "eventKey": "Ayuntamiento de Durango prepara plantación de árboles",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-f54f4dacdfa2e8176fb6ae31": {
+    "id": "n-f54f4dacdfa2e8176fb6ae31",
+    "url": "https://www.europapress.es/nacional/noticia-irene-montero-acusa-gobierno-aumento-premeditado-violencia-policial-contra-movilizaciones-20261108125106.html",
+    "source": "Europa Press",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-11-08T11:51:06+00:00",
+    "sourceTitle": "Irene Montero acusa al Gobierno de un aumento \"premeditado\" de la \"violencia policial\" contra las movilizaciones",
+    "fingerprint": "59adb5e3c2506223994dddfe",
+    "title": "Irene Montero denuncia un incremento deliberado de la violencia policial",
+    "summary": "La candidata de Podemos, Irene Montero, ha señalado al Ejecutivo por un supuesto aumento intencionado de la represión policial en las protestas.",
+    "paragraphs": [
+      "Irene Montero, eurodiputada y aspirante a las próximas elecciones generales, ha lanzado una acusación directa contra el Gobierno. Según la política, se estaría produciendo un incremento premeditado de la violencia ejercida por las fuerzas de seguridad durante las movilizaciones ciudadanas."
+    ],
+    "bullets": [
+      "Irene Montero vincula la actuación policial con una estrategia deliberada del Gobierno.",
+      "La denuncia se produce en el marco de la campaña electoral previa a los comicios del 29 de noviembre."
+    ],
+    "eventKey": "Irene Montero acusa al Gobierno de violencia policial",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-d04570c52c8f8b018285176a": {
+    "id": "n-d04570c52c8f8b018285176a",
+    "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-11-08T11:22:17+00:00",
+    "sourceTitle": "What we know so far after Krakow gun attack",
+    "fingerprint": "7627228f457bffe95475a462",
+    "title": "Tiroteo mortal en la plaza principal de Cracovia",
+    "summary": "Un ataque armado indiscriminado en el centro de Cracovia ha dejado seis víctimas mortales, mientras que las autoridades han localizado otros tres cadáveres en la residencia del presunto autor.",
+    "paragraphs": [
+      "La ciudad polaca de Cracovia se encuentra conmocionada tras un tiroteo aleatorio ocurrido en su plaza principal. El suceso ha provocado la muerte de seis personas en el lugar de los hechos.",
+      "Tras el incidente, la policía ha hallado tres cuerpos adicionales en el domicilio del atacante, lo que eleva la cifra total de fallecidos mientras se investigan las circunstancias de lo ocurrido."
+    ],
+    "bullets": [
+      "Seis personas fallecidas en la plaza principal de Cracovia.",
+      "Tres cuerpos adicionales localizados en la vivienda del atacante.",
+      "Las autoridades investigan el tiroteo aleatorio."
+    ],
+    "eventKey": "atacante-tiroteo-cracovia",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-4b964b146a7587e2200d5b03": {
+    "id": "n-4b964b146a7587e2200d5b03",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
+    "source": "NASA",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-11-08T05:05:00+00:00",
+    "sourceTitle": "APOD: 2026 November 8 – Major Fireball Meteor",
+    "fingerprint": "ec7f35a311b9989a5b284b4b",
+    "title": "La NASA destaca un meteorito de gran magnitud",
+    "summary": "La sección Astronomy Picture of the Day de la NASA ha publicado una imagen y explicación sobre un meteorito de tipo bola de fuego.",
+    "paragraphs": [
+      "La agencia espacial ha compartido una nueva entrada en su archivo diario, centrada en el avistamiento de un meteorito de gran intensidad.",
+      "Como es habitual en esta sección, la publicación incluye una fotografía astronómica acompañada por el análisis de un profesional del sector."
+    ],
+    "bullets": [
+      "Publicación de la imagen del día por la NASA.",
+      "Análisis técnico sobre un meteorito tipo bola de fuego."
+    ],
+    "eventKey": "NASA-publica-imagen-meteorito",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-9e3feb6bb8fadf243e727ba9": {
+    "id": "n-9e3feb6bb8fadf243e727ba9",
+    "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+    "source": "Ars Technica",
+    "section": "tecnologia",
+    "lang": "en",
+    "publishedAt": "2026-11-08T12:15:31+00:00",
+    "sourceTitle": "Physicists listened to electrical noise to crack a superconductor mystery",
+    "fingerprint": "34012a174adfb85ea22f1278",
+    "title": "Físicos analizan el ruido eléctrico para investigar superconductores",
+    "summary": "Un equipo de investigadores ha utilizado el ruido electrónico como método para determinar si los electrones se han emparejado, un paso clave para comprender los misterios de la superconductividad.",
+    "paragraphs": [
+      "Científicos han empleado la monitorización del ruido eléctrico para estudiar el comportamiento de los electrones en materiales superconductores. Esta técnica permite identificar si las partículas han formado pares, un fenómeno fundamental en este estado de la materia."
+    ],
+    "bullets": [
+      "Uso de ruido electrónico como herramienta de diagnóstico.",
+      "Investigación sobre el emparejamiento de electrones.",
+      "Avance en la comprensión de los superconductores."
+    ],
+    "eventKey": "físicos-analizan-ruido-eléctrico-superconductores",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-0171e86ca8a5f5e6e3bd378d": {
+    "id": "n-0171e86ca8a5f5e6e3bd378d",
+    "url": "https://www.durangon.com/abadino-reserva-150-000-euros-para-los-proyectos-de-la-ciudadania/",
+    "source": "Durangon",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-11-08T06:10:38+00:00",
+    "sourceTitle": "Abadiño reserva 150.000 euros para los proyectos de la ciudadanía",
+    "fingerprint": "50556dc86fb99a8eb7b805a8",
+    "title": "Abadiño destina 150.000 euros a presupuestos participativos",
+    "summary": "El Ayuntamiento de Abadiño ha reservado una partida de 150.000 euros para financiar iniciativas ciudadanas en los presupuestos de 2027.",
+    "paragraphs": [
+      "El consistorio ha abierto el plazo para que los vecinos presenten sus propuestas, el cual permanecerá activo hasta el próximo 22 de noviembre.",
+      "Posteriormente, el proceso continuará con una fase de votación que dará comienzo el 14 de diciembre."
+    ],
+    "bullets": [
+      "Presupuesto asignado: 150.000 euros.",
+      "Fecha límite de presentación: 22 de noviembre.",
+      "Inicio de las votaciones: 14 de diciembre."
+    ],
+    "eventKey": "Ayuntamiento de Abadiño convoca presupuestos participativos",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-6b265a518be485df3171f1ed": {
+    "id": "n-6b265a518be485df3171f1ed",
+    "url": "https://www.europapress.es/nacional/noticia-frente-amplio-quiere-subir-mas-smi-emilio-delgado-carga-contra-derecha-politicas-fomentan-delincuencia-20261108115958.html",
+    "source": "Europa Press",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-11-08T10:59:58+00:00",
+    "sourceTitle": "Frente Amplio quiere subir más el SMI y Emilio Delgado carga contra la derecha: Sus políticas \"fomentan la delincuencia\"",
+    "fingerprint": "2b9d31d6dbccc132bb39f744",
+    "title": "Frente Amplio aboga por elevar el SMI y vincula a la derecha con el aumento de la delincuencia",
+    "summary": "Emilio Delgado, candidato de Frente Amplio por Madrid, ha condicionado el incremento del Salario Mínimo Interprofesional a su éxito electoral, al tiempo que ha responsabilizado a la derecha de promover la inseguridad ciudadana mediante sus medidas fiscales.",
+    "paragraphs": [
+      "El cabeza de lista de Frente Amplio, Emilio Delgado, ha presentado su candidatura como el aval necesario para garantizar nuevas subidas del Salario Mínimo Interprofesional (SMI).",
+      "Durante su intervención, Delgado ha arremetido contra la gestión de la derecha, asegurando que sus políticas fiscales, al incrementar la desigualdad, actúan como un factor que fomenta la delincuencia."
+    ],
+    "bullets": [
+      "Promesa de elevar el SMI si Frente Amplio obtiene representación.",
+      "Crítica a la derecha por su impacto en la desigualdad social.",
+      "Acusación directa sobre la relación entre políticas fiscales y delincuencia."
+    ],
+    "eventKey": "Emilio Delgado propone subir SMI y critica a la derecha en Madrid",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-974e1d23bd2b13b2d8990aa9": {
+    "id": "n-974e1d23bd2b13b2d8990aa9",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm",
+    "source": "ScienceDaily",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-11-08T08:14:23+00:00",
+    "sourceTitle": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
+    "fingerprint": "e4cef61e3136ace9e65abd02",
+    "title": "Hallan pruebas de consumo de cannabis en una tumba siberiana de hace 2.800 años",
+    "summary": "Un equipo científico ha identificado restos de semillas y evidencias químicas en un enterramiento escita en Siberia que apuntan al uso psicoactivo de esta planta en la antigüedad.",
+    "paragraphs": [
+      "El hallazgo, localizado en un yacimiento siberiano, incluye cerca de un millar de semillas de cannabis junto a indicios químicos que sugieren su empleo por parte de los escitas. El descubrimiento se sitúa en un contexto funerario complejo que incluye sacrificios animales y rituales elaborados.",
+      "Los investigadores señalan que este hallazgo constituye la prueba arqueológica datada más antigua sobre el consumo de cannabis con fines embriagadores."
+    ],
+    "bullets": [
+      "Descubrimiento de aproximadamente 1.000 semillas de cannabis.",
+      "Evidencias químicas vinculadas a efectos psicoactivos.",
+      "Contexto de rituales funerarios y sacrificios animales.",
+      "Considerada la prueba datada más antigua de este uso."
+    ],
+    "eventKey": "científicos-hallan-cannabis-tumba-siberia",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-60a0fed3a02d46ef6d8379c3": {
+    "id": "n-60a0fed3a02d46ef6d8379c3",
+    "url": "https://www.xataka.com/investigacion/primera-pantalla-tactil-cosida-manga-funciona-50-lavados-pregunta-necesitamos-claro",
+    "source": "Xataka",
+    "section": "tecnologia",
+    "lang": "es",
+    "publishedAt": "2026-11-08T12:31:07+00:00",
+    "sourceTitle": "La primera pantalla táctil cosida en una manga funciona tras 50 lavados. La pregunta es si la necesitamos, claro",
+    "fingerprint": "976c8716fe1772f90059b544",
+    "title": "Investigadores de Singapur crean una pantalla táctil integrada en tejido textil",
+    "summary": "Un equipo de la Universidad de Singapur ha desarrollado una pantalla táctil funcional tejida directamente en una prenda, capaz de resistir lavados y mantener su flexibilidad. El invento permite interactuar con información digital sin necesidad de componentes rígidos.",
+    "paragraphs": [
+      "Científicos de la Universidad de Singapur han logrado integrar una pantalla táctil en la manga de un jersey utilizando fibras que actúan como píxeles y sensores. Este avance, publicado en la revista Nature, permite que la prenda sea lavable, transpirable y flexible.",
+      "El sistema utiliza 54 fibras con tecnología LED que permiten registrar múltiples toques y reproducir contenido visual. Además, el equipo ha explorado la incorporación de sensores adicionales como micrófonos o termómetros para ampliar las funcionalidades de la ropa inteligente."
+    ],
+    "bullets": [
+      "La pantalla mantiene su operatividad tras 50 lavados en lavadora convencional.",
+      "El diseño permite ejecutar funciones como calculadora, brújula o comandos de voz.",
+      "El proceso de fabricación requirió integrar más de 5.000 chips mediante técnicas de estiramiento térmico.",
+      "La tecnología es capaz de soportar 1.000 dobleces sin perder sus propiedades táctiles o lumínicas."
+    ],
+    "eventKey": "Investigadores NUS crean pantalla táctil textil",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-90ad238c8c5a0ae4837865df": {
+    "id": "n-90ad238c8c5a0ae4837865df",
+    "url": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "economia",
+    "lang": "en",
+    "publishedAt": "2026-11-08T07:11:02+00:00",
+    "sourceTitle": "Traders 'priced out' of £12,000 Christmas market pitches",
+    "fingerprint": "5c54d6e2bfb611735590128b",
+    "title": "Comerciantes denuncian precios abusivos en el mercado navideño",
+    "summary": "Vendedores locales han trasladado al ayuntamiento su preocupación por el incremento de las tarifas tras el cambio de gestión del mercado navideño.",
+    "paragraphs": [
+      "Varios comerciantes han manifestado su incapacidad para costear los puestos del mercado navideño, cuyo precio ha alcanzado las 12.000 libras. Los afectados señalan que esta situación se ha agravado desde que una nueva empresa asumió la operativa del evento.",
+      "Ante esta problemática, los vendedores han mantenido un encuentro con el líder del consejo municipal para exponer sus quejas sobre los elevados costes que amenazan su participación."
+    ],
+    "bullets": [
+      "El coste de los puestos asciende a 12.000 libras.",
+      "Los comerciantes han solicitado una reunión con el líder del consejo.",
+      "La gestión del mercado ha pasado a manos de un nuevo operador."
+    ],
+    "eventKey": "comerciantes-protestan-costes-mercado-navideño",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-a2a8d69c5bcd9f0b3dd271a8": {
+    "id": "n-a2a8d69c5bcd9f0b3dd271a8",
+    "url": "https://www.europapress.es/euskadi/noticia-nubosidad-viento-sur-temperaturas-alza-domingo-euskadi-20261107171447.html",
+    "source": "Europa Press Euskadi",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-11-07T16:14:47+00:00",
+    "sourceTitle": "Nubosidad, viento sur y temperaturas al alza este domingo en Euskadi",
+    "fingerprint": "a588636972d590c57373d7bd",
+    "title": "Previsión meteorológica en Euskadi para este domingo",
+    "summary": "Euskalmet anticipa una jornada dominical marcada por el aumento de la nubosidad y un ascenso en las temperaturas. Se espera que el viento del sur gane protagonismo sin que se prevean precipitaciones significativas.",
+    "paragraphs": [
+      "La Agencia Vasca de Meteorología prevé un inicio de jornada con nubes y claros que evolucionará hacia un cielo más cubierto durante la mañana. El predominio de nubes medias y altas no debería derivar en lluvias.",
+      "El escenario meteorológico estará condicionado por la presencia de viento del sur y una tendencia al alza en los termómetros en todo el territorio vasco."
+    ],
+    "bullets": [
+      "Aumento progresivo de la nubosidad durante la mañana.",
+      "Temperaturas en ascenso.",
+      "Presencia de viento del sur.",
+      "Baja probabilidad de precipitaciones."
+    ],
+    "eventKey": "Euskalmet prevé tiempo en Euskadi",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-e46f29d848e43f9569fd37b5": {
+    "id": "n-e46f29d848e43f9569fd37b5",
+    "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13647552.html",
+    "source": "elDiario.es",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-11-08T09:03:23+00:00",
+    "sourceTitle": "Última hora sobre la actualidad política, en directo",
+    "fingerprint": "3950ea3346bbc4dd22e54f94",
+    "title": "Los partidos intensifican su actividad ante el inicio de la campaña electoral",
+    "summary": "A tres semanas de la cita electoral del 29N, las principales formaciones políticas despliegan sus actos de precampaña por todo el territorio nacional.",
+    "paragraphs": [
+      "Los líderes políticos han intensificado su presencia en diversos puntos de España durante este último domingo previo al arranque oficial de la campaña. Pedro Sánchez, Alberto Núñez Feijóo, Gabriel Rufián y Oriol Junqueras protagonizan actos en Bilbao, Málaga y Barcelona, respectivamente.",
+      "Por su parte, el Frente Amplio ha distribuido a sus representantes entre Palma y Getafe, marcándose como objetivo superar el 10% de los votos para impulsar su estrategia electoral."
+    ],
+    "bullets": [
+      "Pedro Sánchez y Patxi López coinciden en un acto en Bilbao.",
+      "Alberto Núñez Feijóo se desplaza a Málaga junto a Juanma Moreno.",
+      "ERC celebra un mitin conjunto con Gabriel Rufián y Oriol Junqueras en Barcelona.",
+      "El Frente Amplio busca alcanzar el 10% de los votos."
+    ],
+    "eventKey": "partidos políticos despliegan actos precampaña España",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-7723ccbf8c3a4f1abae0737e": {
+    "id": "n-7723ccbf8c3a4f1abae0737e",
+    "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+    "source": "NASA",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-11-07T22:47:03+00:00",
+    "sourceTitle": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+    "fingerprint": "79e8900263f3069688edee18",
+    "title": "La NASA impulsa la infraestructura y tecnología para su base lunar",
+    "summary": "La agencia espacial estadounidense ha anunciado nuevas adjudicaciones y actualizaciones de misión destinadas a fortalecer la exploración y la capacidad operativa en la Luna. Estos proyectos buscan consolidar una presencia permanente mediante la colaboración con el sector privado.",
+    "paragraphs": [
+      "La NASA ha comunicado una serie de inversiones estratégicas orientadas a expandir las capacidades científicas y de infraestructura en la superficie lunar. El plan contempla el desarrollo de servicios de transporte, logística orbital y sistemas robóticos avanzados.",
+      "Entre las iniciativas destacadas se encuentra el rover de propulsión nuclear denominado PROMISE. La agencia trabaja junto a la industria estadounidense para asegurar el éxito de estas entregas comerciales y el establecimiento de una base sostenible."
+    ],
+    "bullets": [
+      "Adjudicación de contratos para entregas robóticas comerciales.",
+      "Desarrollo del rover de propulsión nuclear PROMISE.",
+      "Mejora de los servicios de lanzamiento y transferencia orbital.",
+      "Fomento de la infraestructura necesaria para una presencia lunar sostenida."
+    ],
+    "eventKey": "NASA-adjudica-proyectos-tecnologia-lunar",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-af272397b33945b4dae03352": {
+    "id": "n-af272397b33945b4dae03352",
+    "url": "https://elpais.com/economia/vivienda/2026-11-08/que-pasa-con-la-vivienda-11-graficos-para-entender-causas-y-consecuencias-del-problema.html",
+    "source": "El País",
+    "section": "economia",
+    "lang": "es",
+    "publishedAt": "2026-11-08T04:45:01+00:00",
+    "sourceTitle": "¿Qué pasa con la vivienda? 11 gráficos para entender causas y consecuencias del problema",
+    "fingerprint": "6eab450c5a92a886ba09497d",
+    "title": "Análisis de la crisis habitacional ante la próxima huelga",
+    "summary": "Un informe gráfico detalla los factores y efectos de la actual problemática de la vivienda en España, coincidiendo con la convocatoria de una huelga sectorial.",
+    "paragraphs": [
+      "Ante la huelga convocada para el próximo miércoles, se ha publicado un análisis que examina la situación del mercado inmobiliario. El documento utiliza once gráficos para desglosar las causas y consecuencias que definen la actual crisis de acceso a la vivienda.",
+      "El material busca ofrecer una visión clara de los datos fundamentales que explican el desajuste habitacional que motiva las movilizaciones previstas."
+    ],
+    "bullets": [
+      "Convocatoria de huelga para el próximo miércoles.",
+      "Examen de los datos clave sobre la crisis de vivienda.",
+      "Uso de gráficos para ilustrar causas y efectos."
+    ],
+    "eventKey": "convocatoria huelga vivienda España",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-18cae33779aae40cdf512829": {
+    "id": "n-18cae33779aae40cdf512829",
+    "url": "https://www.europapress.es/euskadi/noticia-gamarra-acusa-pnv-ser-complice-fiel-escudero-malas-politicas-izquierda-pedro-sanchez-20261107144526.html",
+    "source": "Europa Press Euskadi",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-11-07T13:45:26+00:00",
+    "sourceTitle": "Gamarra acusa al PNV de ser \"cómplice\" y \"fiel escudero de las malas políticas de izquierda de Pedro Sánchez\"",
+    "fingerprint": "85172093832b9f41dd92e32f",
+    "title": "Cuca Gamarra señala al PNV como colaborador necesario de Pedro Sánchez",
+    "summary": "La dirigente del Partido Popular ha arremetido contra la formación nacionalista, calificándola de apoyo fundamental para la gestión del Ejecutivo central.",
+    "paragraphs": [
+      "Cuca Gamarra ha responsabilizado al PNV de las políticas de izquierdas impulsadas por el Gobierno de Pedro Sánchez. Según la vicesecretaria popular, el partido vasco actúa como un sostén indispensable para el Ejecutivo, a pesar de intentar mantener un perfil bajo.",
+      "La portavoz del PP sostiene que la formación nacionalista comparte la responsabilidad de las decisiones gubernamentales al ejercer como su principal apoyo parlamentario."
+    ],
+    "bullets": [
+      "Gamarra tilda al PNV de cómplice y fiel escudero de Sánchez.",
+      "El PP acusa a los nacionalistas de intentar ocultar su papel como muleta del Gobierno.",
+      "La formación popular equipara la responsabilidad del PNV con la del propio presidente."
+    ],
+    "eventKey": "Cuca Gamarra critica al PNV por su apoyo a Pedro Sánchez",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-3f2814666cafa091a240f734": {
+    "id": "n-3f2814666cafa091a240f734",
+    "url": "https://www.europapress.es/nacional/noticia-democracia-21-propone-aplicar-ia-factor-productividad-tomar-medidas-destruccion-empleo-20261108111950.html",
+    "source": "Europa Press",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-11-08T10:19:50+00:00",
+    "sourceTitle": "Democracia 21 propone aplicar la IA como \"factor de productividad\" y tomar medidas ante la destrucción de empleo",
+    "fingerprint": "a4396e80f77608759c6b2f41",
+    "title": "Democracia 21 aboga por integrar la IA y evaluar su impacto laboral",
+    "summary": "La presidenta de Democracia 21, Miriam González, ha planteado el uso de la inteligencia artificial como motor de productividad en la economía española, solicitando a su vez un análisis sobre sus efectos en el empleo.",
+    "paragraphs": [
+      "Miriam González, al frente de la organización, ha defendido la implementación de la IA en los diversos sectores productivos del país. La propuesta busca aprovechar esta tecnología para mejorar la eficiencia económica.",
+      "Paralelamente, la formación ha instado a realizar un seguimiento del impacto que esta automatización pueda tener en el mercado de trabajo, con el fin de preparar estrategias que mitiguen una posible destrucción de puestos laborales."
+    ],
+    "bullets": [
+      "Impulso de la IA como factor de productividad sectorial.",
+      "Necesidad de medir el impacto en el mercado laboral.",
+      "Diseño de medidas preventivas ante la pérdida de empleo."
+    ],
+    "eventKey": "Miriam González propone integrar IA y evaluar impacto laboral en España",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-ed224a74ead9763ee09b15b3": {
+    "id": "n-ed224a74ead9763ee09b15b3",
+    "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
+    "source": "The Guardian",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-11-08T11:48:56+00:00",
+    "sourceTitle": "Who’s who at Cop31: key players at the climate talks",
+    "fingerprint": "afe8369d0c968111070c8d7d",
+    "title": "Los protagonistas y tensiones de la COP31",
+    "summary": "La cumbre climática arranca en Antalya tras una compleja disputa diplomática entre Australia y Turquía por la sede del evento. El compromiso final ha dejado un ambiente de descontento que marca el inicio de las negociaciones.",
+    "paragraphs": [
+      "La organización de la COP31 ha estado marcada por un enfrentamiento entre Australia y Turquía. Aunque el primer ministro australiano, Anthony Albanese, impulsó la candidatura desde 2021, las normas de rotación y el conflicto posterior con el gobierno turco obligaron a un acuerdo salomónico: Australia lidera las conversaciones, pero la sede física es la ciudad turca de Antalya.",
+      "La tensión persiste en el inicio de la cumbre, con críticas hacia la actitud de Australia como anfitrión, percibida por algunos sectores como poco entusiasta. Se espera que Albanese participe en la apertura, aunque su presencia prolongada en el evento es puesta en duda."
+    ],
+    "bullets": [
+      "Australia y Turquía protagonizaron una disputa por la organización de la cumbre.",
+      "La COP31 se celebra finalmente en la ciudad turca de Antalya bajo liderazgo australiano.",
+      "El primer ministro Anthony Albanese intervendrá en la apertura, pero se prevé una estancia breve."
+    ],
+    "eventKey": "Australia y Turquía organizan la COP31 en Antalya",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-474872858153eec400e70c56": {
+    "id": "n-474872858153eec400e70c56",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261104012303.htm",
+    "source": "ScienceDaily",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-11-08T04:47:52+00:00",
+    "sourceTitle": "Scientists discover hidden brain changes linked to common sleep disorders",
+    "fingerprint": "2ced3b98c9f2d0c78a8ab27b",
+    "title": "Identifican alteraciones cerebrales vinculadas a trastornos del sueño",
+    "summary": "Una investigación científica ha detectado cambios estructurales en áreas del cerebro relacionadas con la atención y la toma de decisiones en personas con problemas de sueño. Estos hallazgos podrían facilitar el desarrollo de terapias más precisas en el futuro.",
+    "paragraphs": [
+      "Un análisis basado en 57 estudios de neuroimagen ha revelado que los trastornos del sueño se asocian con modificaciones en regiones cerebrales que gestionan las emociones y el comportamiento. Estas alteraciones podrían explicar por qué la falta de descanso afecta a las capacidades cognitivas cotidianas.",
+      "El estudio identifica patrones comunes y específicos según el tipo de trastorno, lo que abre la puerta a tratamientos más personalizados para los pacientes."
+    ],
+    "bullets": [
+      "Cambios estructurales en zonas de control cognitivo y emocional.",
+      "Análisis derivado de 57 estudios de imagen cerebral.",
+      "Posibilidad de desarrollar tratamientos específicos según el trastorno."
+    ],
+    "eventKey": "científicos-descubren-cambios-cerebrales-trastornos-sueño",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-0bfc27d96f2ccb6cebd9376c": {
+    "id": "n-0bfc27d96f2ccb6cebd9376c",
+    "url": "https://www.xataka.com/magnet/anos-envejecimiento-china-se-enfrenta-a-nueva-realidad-sus-familias-mantienen-a-ancianos-que-ninos",
+    "source": "Xataka",
+    "section": "tecnologia",
+    "lang": "es",
+    "publishedAt": "2026-11-08T12:01:07+00:00",
+    "sourceTitle": "Tras años de envejecimiento, China se enfrenta a una nueva realidad: sus familias ya mantienen a más ancianos que niños",
+    "fingerprint": "9891e1fff98b8973cdd88978",
+    "title": "China registra un hito demográfico: los ancianos superan a los niños en dependencia",
+    "summary": "China atraviesa un cambio demográfico histórico al registrar una tasa de dependencia de la tercera edad superior a la infantil. Este fenómeno, impulsado por el desplome de la natalidad y el envejecimiento poblacional, plantea retos económicos significativos para el país.",
+    "paragraphs": [
+      "La Oficina Nacional de Estadísticas de China ha confirmado que la tasa de dependencia de los mayores alcanzó el 23,1% en 2025, superando por primera vez el 22% registrado en la población infantil. Esta tendencia refleja el impacto acumulado de décadas de políticas restrictivas y una crisis de natalidad que las autoridades no han logrado revertir.",
+      "El incremento sostenido de este indicador presiona la economía nacional, especialmente en los ámbitos de pensiones y gastos sanitarios. Con más de 223 millones de personas mayores de 65 años frente a 213 millones de menores de 14, el país se enfrenta a una realidad social y cultural profundamente transformada."
+    ],
+    "bullets": [
+      "La tasa de natalidad china ha caído a sus niveles más bajos desde 1949.",
+      "La tasa de dependencia de la tercera edad ha crecido de forma sostenida desde el 15% en 2016 hasta el 23,1% actual.",
+      "La población china acumula cuatro años consecutivos de descenso demográfico.",
+      "El aumento de la población dependiente amenaza con elevar la presión sobre el sistema de pensiones y la asistencia sanitaria."
+    ],
+    "eventKey": "China-envejecimiento-poblacional",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-b2b84270429ad9dd38c529ba": {
+    "id": "n-b2b84270429ad9dd38c529ba",
+    "url": "https://cincodias.elpais.com/opinion/2026-11-08/las-claves-el-mecanismo-de-retirada-del-aceite-debera-ser-evaluado-con-atencion.html",
+    "source": "El País",
+    "section": "economia",
+    "lang": "es",
+    "publishedAt": "2026-11-08T04:40:00+00:00",
+    "sourceTitle": "Las claves: el mecanismo de retirada del aceite deberá ser evaluado con atención",
+    "fingerprint": "ce48e2e497d44b644d914efb",
+    "title": "El mecanismo de retirada del aceite de oliva requiere una evaluación rigurosa",
+    "summary": "La propuesta para estabilizar los precios del aceite mediante la retirada de producto genera dudas sobre su eficacia real. Existe el riesgo de que esta intervención en el mercado alimentario derive en efectos negativos no deseados.",
+    "paragraphs": [
+      "La implementación de un sistema para retirar aceite del mercado con el fin de mitigar la volatilidad de los precios se presenta como una medida que debe ser analizada con cautela. Aunque el objetivo inicial parece positivo, la complejidad de este tipo de intervenciones sugiere que podrían producirse consecuencias contraproducentes.",
+      "La gestión de los precios en el sector alimentario mediante mecanismos de control es un asunto delicado que requiere una supervisión atenta para evitar distorsiones en el mercado."
+    ],
+    "bullets": [
+      "El mecanismo busca reducir la volatilidad de los precios del aceite.",
+      "Se advierte sobre el riesgo de que la intervención sea contraproducente.",
+      "La medida exige una evaluación detallada y cuidadosa."
+    ],
+    "eventKey": "sector-aceite-evaluacion-mecanismo-retirada",
+    "partial": true,
+    "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
     "model": "gemini-3.1-flash-lite"
   }
 }
