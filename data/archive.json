@@ -11765,5 +11765,632 @@
     "partial": true,
     "summarizedAt": "2026-11-08T13:08:10.122859+00:00",
     "model": "gemini-3.1-flash-lite"
+  },
+  "n-46b5861f2b78f0cff21e3759": {
+    "id": "n-46b5861f2b78f0cff21e3759",
+    "url": "https://www.durangon.com/renovada-la-aplicacion-de-la-ota-de-durango-que-permitira-aparcar-sin-recargar-saldo-previamente/",
+    "source": "Durangon",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-11-09T14:25:07+00:00",
+    "sourceTitle": "Renovada la aplicación de la OTA de Durango, que permitirá aparcar sin recargar saldo previamente",
+    "fingerprint": "ba259efca6322f40964123f0",
+    "title": "Durango actualiza su aplicación de OTA",
+    "summary": "El Ayuntamiento de Durango ha lanzado una nueva versión de su aplicación para el estacionamiento regulado, la cual introduce cambios en su diseño y operativa de pago.",
+    "paragraphs": [
+      "La herramienta digital presenta una interfaz renovada con un diseño más uniforme, buscando optimizar la navegación del usuario. Entre las novedades técnicas, destaca la posibilidad de estacionar sin necesidad de realizar recargas de saldo previas.",
+      "Esta actualización pretende agilizar la consulta de información y mejorar la precisión de los datos ofrecidos a los conductores en el municipio."
+    ],
+    "bullets": [
+      "Interfaz con diseño más homogéneo y navegación mejorada.",
+      "Eliminación de la obligatoriedad de recargar saldo antes de aparcar.",
+      "Acceso más rápido y preciso a la información del servicio."
+    ],
+    "eventKey": "Ayuntamiento de Durango actualiza aplicación OTA",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-2da5a0cf66f3f3d06519bfc6": {
+    "id": "n-2da5a0cf66f3f3d06519bfc6",
+    "url": "https://www.theguardian.com/world/2026/nov/09/french-police-officers-face-trial-over-beating-of-black-man-not-wearing-mask-during-covid",
+    "source": "The Guardian",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-11-09T15:40:20+00:00",
+    "sourceTitle": "French police officers on trial over beating of black man they accused of not wearing Covid mask",
+    "fingerprint": "64e41f7c46f8f3a7751e47da",
+    "title": "Tres policías franceses a juicio por la agresión a un productor musical",
+    "summary": "Tres agentes han comenzado a ser juzgados en Francia por golpear a Michel Zecler, a quien acusaron de no llevar mascarilla durante la pandemia. El caso, que generó una gran indignación social, es una de las pocas causas por brutalidad policial que llega a los tribunales.",
+    "paragraphs": [
+      "El proceso judicial examina la agresión sufrida por Michel Zecler en 2020. El incidente provocó un intenso debate en el país sobre la violencia policial, un fenómeno que los colectivos denuncian como sistémico frente a la postura de las autoridades, que lo consideran un hecho aislado.",
+      "La vista oral se desarrolla en un contexto de alta tensión social. Los acusados sostienen que la intervención se debió al incumplimiento de las medidas sanitarias vigentes en aquel momento."
+    ],
+    "bullets": [
+      "Juicio contra tres agentes por la paliza a Michel Zecler.",
+      "El caso reabre el debate sobre la violencia policial en Francia.",
+      "Las autoridades defienden que se trata de un suceso aislado."
+    ],
+    "eventKey": "policías franceses juzgados por agresión a Michel Zecler",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-4b75bf6703b71c1bad6309de": {
+    "id": "n-4b75bf6703b71c1bad6309de",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
+    "source": "ScienceDaily",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-11-09T11:19:39+00:00",
+    "sourceTitle": "A quantum breakthrough makes light behave like both a solid and a liquid",
+    "fingerprint": "51b17b35abc87675138089c2",
+    "title": "Un avance cuántico permite que la luz actúe como sólido y líquido",
+    "summary": "Investigadores han identificado un estado cuántico de la materia que fusiona la estructura cristalina con la fluidez sin fricción a temperatura ambiente. Este hallazgo podría facilitar el desarrollo de futuras tecnologías de computación y sensores basados en luz.",
+    "paragraphs": [
+      "Científicos han logrado observar un estado de la materia que presenta simultáneamente propiedades de sólido y líquido. Este fenómeno ocurre a temperatura ambiente, superando una barrera técnica que hasta ahora limitaba la experimentación cuántica.",
+      "El descubrimiento abre la puerta a aplicaciones prácticas en el ámbito de la computación y la detección, al permitir un control más eficiente de la luz."
+    ],
+    "bullets": [
+      "Comportamiento dual de la luz como sólido y líquido.",
+      "Funcionamiento estable a temperatura ambiente.",
+      "Potencial mejora en tecnologías de computación y sensores."
+    ],
+    "eventKey": "científicos-observan-estado-cuántico-materia",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-928b9d4ab6f41f04e3f4f64b": {
+    "id": "n-928b9d4ab6f41f04e3f4f64b",
+    "url": "https://www.xataka.com/seleccion/mediamarkt-esta-liquidando-su-outlet-todas-estas-tablets-portatiles-299-euros-hay-samsung-xiaomi",
+    "source": "Xataka",
+    "section": "tecnologia",
+    "lang": "es",
+    "publishedAt": "2026-11-09T15:45:07+00:00",
+    "sourceTitle": "MediaMarkt está liquidando en su outlet todas estas tablets y portátiles de 299 euros: hay Samsung, Xiaomi y más",
+    "fingerprint": "115cb2fd93756a2e24f2322b",
+    "title": "MediaMarkt liquida dispositivos de exposición en su outlet de eBay",
+    "summary": "MediaMarkt ofrece una selección de tablets y portátiles a precios reducidos a través de su canal de outlet en eBay. Se trata de artículos de exposición que cuentan con su correspondiente garantía legal.",
+    "paragraphs": [
+      "La cadena de electrónica ha puesto a la venta diversos dispositivos, incluyendo modelos de marcas como Samsung, Xiaomi, Lenovo, HP y Asus, con descuentos respecto a su precio habitual. Los productos seleccionados proceden de exposición en tienda.",
+      "Entre las opciones disponibles se encuentran equipos como la Lenovo Idea Tab Pro por 299 euros o la Galaxy Tab S10 FE+ por 529 euros, además de portátiles como el HP OmniBook 3."
+    ],
+    "bullets": [
+      "Dispositivos procedentes de exposición con garantía legal.",
+      "Venta gestionada a través de la plataforma eBay.",
+      "Selección que incluye tablets y portátiles de diversas marcas."
+    ],
+    "eventKey": "MediaMarkt+oferta+dispositivos+exposición+eBay",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-e869dd4c2eff543382104bf7": {
+    "id": "n-e869dd4c2eff543382104bf7",
+    "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "economia",
+    "lang": "en",
+    "publishedAt": "2026-11-09T15:46:20+00:00",
+    "sourceTitle": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+    "fingerprint": "cec4443716fdd7ebc1fef6b2",
+    "title": "Jensen Huang, envuelto en un escándalo de seguridad nacional",
+    "summary": "El ejecutivo tecnológico se enfrenta a una crisis personal tras ser vinculado sentimentalmente con una supuesta espía china.",
+    "paragraphs": [
+      "El multimillonario Jensen Huang se encuentra en el centro de una polémica que trasciende el ámbito privado para convertirse en un asunto de seguridad nacional.",
+      "Las informaciones apuntan a una supuesta relación con una persona sospechosa de realizar actividades de espionaje para China."
+    ],
+    "bullets": [
+      "El ejecutivo está inmerso en un escándalo personal.",
+      "La situación ha escalado a un problema de seguridad nacional."
+    ],
+    "eventKey": "Jensen Huang vinculado con supuesta espía china",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-a1bfb66f6335880fbb21970e": {
+    "id": "n-a1bfb66f6335880fbb21970e",
+    "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/10/faceless-workers-and-a-tsunami-of-post-it-notes-the-surreal-world-of-japans-salarymen-in-pictures",
+    "source": "The Guardian",
+    "section": "cultura",
+    "lang": "en",
+    "publishedAt": "2026-11-09T14:00:11+00:00",
+    "sourceTitle": "Faceless workers and a tsunami of Post-it notes: the surreal world of Japan’s salarymen – in pictures",
+    "fingerprint": "8625200e9936886c518e84e3",
+    "title": "La cultura laboral japonesa a través del objetivo de Jairo Alvarez",
+    "summary": "El artista visual Jairo Alvarez presenta una serie fotográfica que examina el contraste entre la exigente ética de trabajo en Japón y sus tradiciones ancestrales.",
+    "paragraphs": [
+      "La exposición, titulada Ganbatte, explora la convivencia entre la rigurosa disciplina laboral nipona y elementos como la fe, la naturaleza y la herencia cultural del país.",
+      "La muestra forma parte del festival fotográfico Head On 2026 y permanecerá abierta al público en el paseo de la playa de Bondi hasta finales de noviembre."
+    ],
+    "bullets": [
+      "El proyecto fotográfico analiza la dualidad de la vida de los trabajadores japoneses.",
+      "La exhibición se integra en el festival Head On 2026.",
+      "La muestra estará disponible en Bondi hasta el 29 de noviembre."
+    ],
+    "eventKey": "Jairo Alvarez expone fotografías sobre la cultura laboral japonesa en Bondi",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-d2578e902cddef74fc8b20f0": {
+    "id": "n-d2578e902cddef74fc8b20f0",
+    "url": "https://www.europapress.es/euskadi/noticia-pse-ve-posibilidades-seguir-negociado-acuerdo-eh-bildu-pese-extranas-propuestas-presupuestarias-20261109153803.html",
+    "source": "Europa Press Euskadi",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-11-09T14:38:03+00:00",
+    "sourceTitle": "PSE ve posibilidades de seguir negociado un acuerdo con EH Bildu pese a sus \"extrañas\" propuestas presupuestarias",
+    "fingerprint": "6249dd49dae1daef58c40a16",
+    "title": "El PSE mantiene abierta la negociación presupuestaria con EH Bildu",
+    "summary": "El PSE-EE considera viable alcanzar un pacto presupuestario con EH Bildu, a pesar de calificar algunas de sus propuestas como contradictorias con acuerdos previos.",
+    "paragraphs": [
+      "La parlamentaria socialista Susana Corcuera ha confirmado que su formación continúa abierta a negociar con EH Bildu. Aunque ha señalado que ciertas medidas planteadas por la coalición abertzale resultan extrañas al contravenir compromisos anteriores, el PSE-EE confía en lograr un entendimiento.",
+      "Por otro lado, Corcuera ha criticado la falta de propuestas concretas por parte del PP y Sumar, lo que dificulta cualquier posibilidad de acuerdo presupuestario con estos grupos."
+    ],
+    "bullets": [
+      "El PSE-EE mantiene la voluntad de negociar con EH Bildu.",
+      "Los socialistas tildan de extrañas algunas propuestas de la coalición.",
+      "El PP y Sumar no han presentado medidas concretas para los presupuestos."
+    ],
+    "eventKey": "PSE-EE negocia presupuestos con EH Bildu en Euskadi",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-e966ab64ca6899fca0097c6d": {
+    "id": "n-e966ab64ca6899fca0097c6d",
+    "url": "https://www.europapress.es/nacional/noticia-supremo-descarta-suspender-voto-hijos-nacionalizados-ley-nietos-20261109135924.html",
+    "source": "Europa Press",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-11-09T12:59:24+00:00",
+    "sourceTitle": "El Supremo descarta suspender el voto a los hijos de los nacionalizados por la 'ley de nietos'",
+    "fingerprint": "bc1478a3051de1004ff9ced6",
+    "title": "El Tribunal Supremo rechaza impedir el voto de los hijos de nacionalizados por la Ley de Nietos",
+    "summary": "El alto tribunal ha decidido no ampliar la suspensión del derecho al voto a los hijos de quienes obtuvieron la nacionalidad mediante la Ley de Nietos, manteniendo esta restricción únicamente para los nietos.",
+    "paragraphs": [
+      "El Tribunal Supremo ha desestimado la petición de extender la suspensión del derecho al sufragio a los hijos de los ciudadanos nacionalizados bajo la Ley de Nietos. La resolución judicial subraya la necesidad de preservar la seguridad jurídica y la estabilidad del proceso electoral.",
+      "Aunque se mantiene la medida cautelar que impide votar a los nietos, el tribunal considera que no existen motivos suficientes para aplicar la misma restricción a los hijos de los nuevos nacionalizados."
+    ],
+    "bullets": [
+      "El Supremo mantiene la suspensión del voto para los nietos.",
+      "Se rechaza extender la medida a los hijos de los nacionalizados.",
+      "La decisión se fundamenta en la seguridad jurídica y la estabilidad electoral."
+    ],
+    "eventKey": "Tribunal Supremo-rechaza suspender voto hijos nacionalizados-España",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-ffc125749edfcb4289e78d2d": {
+    "id": "n-ffc125749edfcb4289e78d2d",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
+    "source": "NASA",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-11-09T11:00:00+00:00",
+    "sourceTitle": "CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars",
+    "fingerprint": "7414690e1ecbe98b98461424",
+    "title": "Finalizada la segunda misión de simulación de Marte de la NASA",
+    "summary": "Cuatro voluntarios han concluido un aislamiento de 378 días en el hábitat Mars Dune Alpha, diseñado para recrear las condiciones de vida en el planeta rojo.",
+    "paragraphs": [
+      "El equipo, compuesto por Ross Elder, Ellen Ellis, James Spicer y Matthew Montgomery, ha completado un año de confinamiento en una estructura impresa en 3D. Durante este periodo, los participantes han vivido sin acceso a luz natural, sonidos exteriores ni comunicación directa con sus allegados.",
+      "Esta iniciativa forma parte de los estudios de la NASA para evaluar los efectos de misiones prolongadas en la superficie marciana."
+    ],
+    "bullets": [
+      "Duración total de 378 días de aislamiento.",
+      "El hábitat Mars Dune Alpha cuenta con 1.700 pies cuadrados.",
+      "Los voluntarios experimentaron la ausencia de contacto en tiempo real con el exterior."
+    ],
+    "eventKey": "voluntarios NASA finalizan simulacion Marte",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-baf5400148dd2082c008cd5a": {
+    "id": "n-baf5400148dd2082c008cd5a",
+    "url": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+    "source": "Ars Technica",
+    "section": "tecnologia",
+    "lang": "en",
+    "publishedAt": "2026-11-09T12:00:05+00:00",
+    "sourceTitle": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
+    "fingerprint": "7d8fc782bb566a7f22972e00",
+    "title": "El futuro del proyecto Golden Dome bajo el nuevo Congreso demócrata",
+    "summary": "La nueva mayoría demócrata en el Congreso estadounidense apunta a una reestructuración o cambio de nombre del programa conocido como Golden Dome.",
+    "paragraphs": [
+      "Tras los recientes cambios legislativos, se prevé que el Congreso modifique significativamente la iniciativa impulsada por la administración Trump. Las voces políticas sugieren que el proyecto perderá su denominación actual.",
+      "La incertidumbre rodea el alcance de estas medidas, aunque se da por hecho que la marca Golden Dome desaparecerá de la agenda oficial."
+    ],
+    "bullets": [
+      "El Congreso demócrata planea retirar el nombre Golden Dome.",
+      "El futuro del programa está sujeto a cambios legislativos inminentes."
+    ],
+    "eventKey": "Congreso demócrata modifica proyecto Golden Dome",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-1b80b8a07bf16b2cdace0856": {
+    "id": "n-1b80b8a07bf16b2cdace0856",
+    "url": "https://www.durangon.com/durango-dedicara-cuatro-nuevas-placas-a-vecinos-asesinados-por-eta-fuera-de-la-villa/",
+    "source": "Durangon",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-11-09T09:11:22+00:00",
+    "sourceTitle": "Durango dedicará cuatro nuevas placas a vecinos asesinados por ETA fuera de la villa",
+    "fingerprint": "965abe8603b413d5e5dd8055",
+    "title": "Durango homenajeará a cuatro vecinos asesinados por ETA fuera del municipio",
+    "summary": "El Ayuntamiento de Durango instalará placas conmemorativas en recuerdo de cuatro víctimas de ETA que residían en la localidad. Los actos se enmarcan en la celebración del Día de la Memoria.",
+    "paragraphs": [
+      "La localidad vizcaína rendirá tributo a cuatro vecinos que fueron asesinados por la banda terrorista fuera de la villa. Esta iniciativa busca reconocer la memoria de estas personas en el contexto de las conmemoraciones institucionales.",
+      "Además de la colocación de las placas, el programa del Día de la Memoria incluye un acto público en Ezkurdi y la proyección de un documental sobre Miguel Ángel Blanco en el cine Zugaza."
+    ],
+    "bullets": [
+      "Instalación de cuatro placas en memoria de víctimas locales.",
+      "Homenaje abierto a la ciudadanía en la plaza de Ezkurdi.",
+      "Proyección gratuita de un documental sobre Miguel Ángel Blanco."
+    ],
+    "eventKey": "Ayuntamiento de Durango homenajea a víctimas de ETA",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-8696cd9796f96c6fd32034a6": {
+    "id": "n-8696cd9796f96c6fd32034a6",
+    "url": "https://www.theguardian.com/world/2026/nov/09/german-police-attacked-crowd-storms-dortmund-kebab-shop-for-one-euro-doner",
+    "source": "The Guardian",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-11-09T15:23:17+00:00",
+    "sourceTitle": "Dortmund police attacked as crowd storms kebab shop for €1 doner",
+    "fingerprint": "f79a9375e40b75602c5c768a",
+    "title": "Disturbios en Dortmund por una oferta de kebabs a un euro",
+    "summary": "La policía alemana ha sido atacada durante la inauguración de un establecimiento de comida rápida tras una oferta promocional que desbordó las previsiones de afluencia.",
+    "paragraphs": [
+      "Cientos de personas se congregaron en un local de kebabs en Dortmund con el objetivo de adquirir una ración por un euro. La situación se volvió incontrolable para el propietario, quien solicitó la intervención de las autoridades ante la masiva llegada de clientes.",
+      "Durante el despliegue policial, los agentes fueron agredidos por parte de la multitud, que lanzó botellas, piedras y material pirotécnico contra los efectivos desplazados al lugar."
+    ],
+    "bullets": [
+      "La policía acudió al establecimiento tras ser alertada por el dueño ante la imposibilidad de gestionar la afluencia.",
+      "Los asistentes lanzaron objetos contundentes y fuegos artificiales contra los agentes.",
+      "El incidente se produjo durante la jornada de apertura del local."
+    ],
+    "eventKey": "multitud-ataca-policia-dortmund",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-50d63f30bfd22144dbf9abe0": {
+    "id": "n-50d63f30bfd22144dbf9abe0",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261106174518.htm",
+    "source": "ScienceDaily",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-11-09T10:59:35+00:00",
+    "sourceTitle": "Scientists discover a surprising link between acorns and lyme disease",
+    "fingerprint": "d6747aaed1d96a1f5d2891ae",
+    "title": "Un estudio vincula la producción de bellotas con el riesgo de enfermedad de Lyme",
+    "summary": "Una investigación de más de tres décadas cuestiona los factores tradicionales que influyen en la propagación de la enfermedad de Lyme, señalando a los ratones y a las bellotas como elementos clave.",
+    "paragraphs": [
+      "Tras 35 años de análisis, los expertos han determinado que la influencia de las poblaciones de ciervos en el riesgo de contraer esta enfermedad es menor de lo que se pensaba. En su lugar, los ratones emergen como un factor determinante, capaces de incrementar significativamente el número de garrapatas al año siguiente.",
+      "Asimismo, el estudio sugiere que la producción de bellotas permite anticipar picos en la población de garrapatas con dos años de antelación. Por otro lado, se ha observado que las temperaturas extremas podrían no ser tan letales para estos arácnidos como se creía anteriormente."
+    ],
+    "bullets": [
+      "Los ratones pueden provocar un aumento del 40% en la cantidad de garrapatas.",
+      "La producción de bellotas sirve como indicador predictivo de la población de garrapatas a dos años vista.",
+      "El impacto de las temperaturas extremas sobre la supervivencia de las garrapatas parece ser menor al estimado."
+    ],
+    "eventKey": "científicos-investigan-factores-enfermedad-Lyme",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-f6ed718338ef1f97de6f5086": {
+    "id": "n-f6ed718338ef1f97de6f5086",
+    "url": "https://www.xataka.com/magnet/lienzo-blanco-se-vende-isla-entera-galicia-portugal-medio-quejas-que-tildan-disparate-construir-ahi",
+    "source": "Xataka",
+    "section": "tecnologia",
+    "lang": "es",
+    "publishedAt": "2026-11-09T15:31:09+00:00",
+    "sourceTitle": "\"Un lienzo en blanco\": se vende una isla entera entre Galicia y Portugal en medio de quejas que tildan de disparate construir ahí",
+    "fingerprint": "a3f926256de857a3191f20fe",
+    "title": "Se vende la isla de Boega en el río Miño entre críticas por su posible explotación",
+    "summary": "La isla de Boega, situada en el río Miño entre Galicia y Portugal, ha salido a la venta por seis millones de euros. El anuncio de este terreno, calificado como un lienzo en blanco, ha generado rechazo institucional y social ante la incertidumbre sobre su futuro desarrollo urbanístico.",
+    "paragraphs": [
+      "La isla de Boega, propiedad de una sociedad vinculada al fondo BlueCrow, se ofrece actualmente en el mercado internacional. Con una extensión de 41 hectáreas, el islote carece de infraestructuras y se promociona como un espacio con gran flexibilidad para proyectos privados, desde residencias de lujo hasta santuarios naturales.",
+      "La posible construcción en la zona ha despertado críticas entre autoridades locales y colectivos de pescadores. Mientras los propietarios sugieren usos diversos, las normativas ambientales y urbanísticas vigentes limitan las actividades permitidas, centrando actualmente el interés en usos agrícolas tras la obtención de un informe previo favorable."
+    ],
+    "bullets": [
+      "La isla pertenece a la jurisdicción portuguesa de Vila Nova de Cerveira.",
+      "El precio de venta asciende a seis millones de euros por 41 hectáreas.",
+      "Alcaldes de la zona reclaman que el Estado adquiera el terreno para convertirlo en propiedad pública.",
+      "Proyectos previos, como un parque de atracciones, fueron descartados por su impacto ambiental."
+    ],
+    "eventKey": "BlueCrow vende isla Boega en el río Miño",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-31cf92d75ae2e5de941b4826": {
+    "id": "n-31cf92d75ae2e5de941b4826",
+    "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "economia",
+    "lang": "en",
+    "publishedAt": "2026-11-09T15:33:35+00:00",
+    "sourceTitle": "Civil servant who juggled five jobs found guilty of fraud",
+    "fingerprint": "fa846c43277e0f1f2f3cd3e4",
+    "title": "Un funcionario es declarado culpable de fraude por mantener cinco empleos simultáneos",
+    "summary": "Un trabajador público ha sido condenado tras descubrirse que ocupaba varios puestos a tiempo completo de forma secreta. El individuo percibía salarios íntegros por cada una de estas ocupaciones.",
+    "paragraphs": [
+      "Kashim Chowdhury ha sido hallado culpable de fraude tras ocultar que desempeñaba cinco empleos distintos en el sector público. El acusado cobraba sueldos completos por cada una de estas posiciones de manera simultánea.",
+      "La justicia ha determinado la responsabilidad penal del funcionario por esta práctica irregular, que le permitió acumular múltiples retribuciones a tiempo completo sin conocimiento de sus empleadores."
+    ],
+    "bullets": [
+      "El acusado mantenía cinco empleos públicos a la vez.",
+      "Percibía salarios completos por cada puesto.",
+      "La actividad se realizaba de forma secreta."
+    ],
+    "eventKey": "Kashim Chowdhury condenado por fraude laboral",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-4f22d15b200d0ef41a680f3f": {
+    "id": "n-4f22d15b200d0ef41a680f3f",
+    "url": "https://www.theguardian.com/tv-and-radio/2026/nov/09/kerr-smith-dawsons-creek-tv",
+    "source": "The Guardian",
+    "section": "cultura",
+    "lang": "en",
+    "publishedAt": "2026-11-09T11:00:08+00:00",
+    "sourceTitle": "‘We did 10 takes of it!’ Kerr Smith on Dawson’s Creek and filming US TV’s first gay kiss",
+    "fingerprint": "e3c8d867b5d4babd43da9cfc",
+    "title": "Kerr Smith reflexiona sobre su paso por Dawson Crece",
+    "summary": "El actor Kerr Smith ha compartido sus vivencias sobre el rodaje de la serie adolescente y el impacto de interpretar a un personaje homosexual en los años noventa.",
+    "paragraphs": [
+      "Con motivo de la publicación de sus memorias, Kerr Smith ha recordado su etapa en la ficción televisiva Dawson Crece, donde encarnó al personaje de Jack McPhee durante cinco temporadas.",
+      "El intérprete ha señalado la dificultad de replicar el éxito y la conexión personal que experimentó durante aquel rodaje, admitiendo que ha intentado igualar esa experiencia a lo largo de su trayectoria profesional."
+    ],
+    "bullets": [
+      "Publicación de las memorias del actor.",
+      "Recuerdos sobre el rodaje del primer beso gay en la televisión estadounidense.",
+      "Dificultad para superar el impacto profesional de la serie.",
+      "Experiencias personales frente a la homofobia en los años 90."
+    ],
+    "eventKey": "Kerr Smith reflexiona sobre Dawson Crece",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-e573ed3951e8163c36487c88": {
+    "id": "n-e573ed3951e8163c36487c88",
+    "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-11-09T14:44:47+00:00",
+    "sourceTitle": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+    "fingerprint": "f3158df8116057b4d747bfca",
+    "title": "Al menos 39 fallecidos tras el naufragio de una embarcación de migrantes frente a Senegal",
+    "summary": "Una embarcación que se dirigía hacia las Islas Canarias ha naufragado frente a la costa senegalesa, dejando un saldo provisional de 39 víctimas mortales.",
+    "paragraphs": [
+      "El suceso ha tenido lugar en una de las rutas migratorias más peligrosas hacia territorio español. Las autoridades han confirmado el fallecimiento de al menos 39 personas tras hundirse la embarcación en la que viajaban.",
+      "La travesía atlántica hacia el archipiélago canario continúa siendo un trayecto de alto riesgo para quienes buscan alcanzar Europa en busca de mejores condiciones de vida."
+    ],
+    "bullets": [
+      "Naufragio de una embarcación con destino a España.",
+      "Confirmación de al menos 39 víctimas mortales.",
+      "La ruta atlántica hacia Canarias mantiene su peligrosidad."
+    ],
+    "eventKey": "migrantes naufragio Senegal",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-fec79c17fae28b283191c72e": {
+    "id": "n-fec79c17fae28b283191c72e",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
+    "source": "NASA",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-11-09T05:05:00+00:00",
+    "sourceTitle": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
+    "fingerprint": "6ac087905ebe2ee07b2bf76c",
+    "title": "La NASA destaca la nebulosa Cabeza de Bruja y la estrella Rigel",
+    "summary": "La imagen astronómica del día de la NASA presenta una fotografía de la estrella Rigel junto a la nebulosa Cabeza de Bruja.",
+    "paragraphs": [
+      "La agencia espacial ha publicado una nueva instantánea dentro de su sección de astronomía, centrada en la relación visual entre la brillante estrella Rigel y la nebulosa conocida como Cabeza de Bruja.",
+      "Como es habitual en esta iniciativa, la publicación incluye una explicación técnica redactada por un astrónomo profesional para contextualizar la imagen del cosmos."
+    ],
+    "bullets": [
+      "La imagen forma parte de la serie Astronomy Picture of the Day.",
+      "La composición muestra la nebulosa Cabeza de Bruja y la estrella Rigel."
+    ],
+    "eventKey": "NASA-publica-imagen-astronomica",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-bd2196d4e88e1a2ad92d1bf7": {
+    "id": "n-bd2196d4e88e1a2ad92d1bf7",
+    "url": "https://www.europapress.es/euskadi/noticia-rotonda-asti-zarautz-cerrara-noche-miercoles-jueves-viernes-trabajos-asfaltado-20261109140655.html",
+    "source": "Europa Press Euskadi",
+    "section": "euskadi",
+    "lang": "es",
+    "publishedAt": "2026-11-09T13:06:55+00:00",
+    "sourceTitle": "La rotonda de Asti, en Zarautz, se cerrará la noche del miércoles, jueves y viernes por trabajos de asfaltado",
+    "fingerprint": "fb1d5da996a8d2ac0f7b858a",
+    "title": "Corte nocturno de la rotonda de Asti en Zarautz por asfaltado",
+    "summary": "La Diputación Foral de Gipuzkoa ha anunciado el cierre total de la glorieta de Asti durante tres noches consecutivas debido a las obras de conexión con el polígono Errotaberri.",
+    "paragraphs": [
+      "La glorieta de Asti, situada en la N-634-Z, permanecerá cerrada al tráfico durante las noches del miércoles, jueves y viernes. Esta medida se debe a la ejecución de trabajos de asfaltado vinculados a la variante de Zarautz.",
+      "El corte afectará tanto a la propia rotonda como a todos los ramales de acceso y salida conectados a la misma."
+    ],
+    "bullets": [
+      "Cierre total nocturno de la glorieta de Asti.",
+      "Afecta a las noches de miércoles, jueves y viernes.",
+      "Motivado por las obras de conexión de la N-634 con el polígono Errotaberri."
+    ],
+    "eventKey": "Diputación Foral de Gipuzkoa-cierre rotonda Asti-Zarautz",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-ee9d3de200c0106873d00ff6": {
+    "id": "n-ee9d3de200c0106873d00ff6",
+    "url": "https://www.eldiario.es/politica/psoe-propone-academia-television-organice-debates-electorales-si-pp-mantiene-veto-rtve_1_13649719.html",
+    "source": "elDiario.es",
+    "section": "espana",
+    "lang": "es",
+    "publishedAt": "2026-11-09T13:16:56+00:00",
+    "sourceTitle": "El PSOE propone que la Academia de la Televisión organice los debates electorales si el PP mantiene su veto a RTVE",
+    "fingerprint": "1ceb6c0501ea0d2086104632",
+    "title": "El PSOE sugiere a la Academia de Televisión como organizadora ante el veto del PP a RTVE",
+    "summary": "Ante la negativa del Partido Popular a debatir en la televisión pública, los socialistas proponen que la Academia de Televisión asuma la organización para asegurar la neutralidad de la señal.",
+    "paragraphs": [
+      "El PSOE ha planteado que la Academia de las Ciencias y las Artes de Televisión se encargue de los debates electorales de cara a los comicios del 29 de noviembre. Esta alternativa surge como respuesta al rechazo reiterado de Alberto Núñez Feijóo a participar en RTVE, donde el PP cuestiona la imparcialidad del ente público.",
+      "Los socialistas defienden que al menos uno de los encuentros se celebre en la televisión pública, contrastando esta postura con la asistencia habitual de otros líderes populares a cadenas autonómicas. Por su parte, el PP mantiene su preferencia por organizar los debates en televisiones privadas."
+    ],
+    "bullets": [
+      "El PSOE busca garantizar una señal neutral y abierta mediante la intervención de la Academia de Televisión.",
+      "El PP insiste en que solo las televisiones privadas pueden asegurar la neutralidad necesaria.",
+      "Los socialistas critican que Feijóo sea el único dirigente popular que evita los debates en medios públicos.",
+      "La propuesta busca desbloquear la organización de los cara a cara y debates a cuatro previstos para noviembre."
+    ],
+    "eventKey": "PSOE y PP debaten organización debates electorales",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-776d831ee02c6de0fea6f5d6": {
+    "id": "n-776d831ee02c6de0fea6f5d6",
+    "url": "https://www.theguardian.com/world/2026/nov/09/kfc-italian-ski-slopes-dolomites-fast-food",
+    "source": "The Guardian",
+    "section": "internacional",
+    "lang": "en",
+    "publishedAt": "2026-11-09T15:00:21+00:00",
+    "sourceTitle": "KFC’s arrival at Italian ski slopes angers food and mountain purists",
+    "fingerprint": "fac2e15b16f1c805e75d5e89",
+    "title": "La apertura de KFC en las pistas de esquí de los Dolomitas genera rechazo",
+    "summary": "La llegada de la cadena de comida rápida a dos estaciones de esquí italianas ha provocado la indignación de defensores de la gastronomía y el entorno alpino, quienes amenazan con emprender acciones legales.",
+    "paragraphs": [
+      "La cadena estadounidense KFC tiene previsto inaugurar sus primeros establecimientos de alta montaña en las estaciones de Cortina d'Ampezzo y Madonna di Campiglio el próximo 5 de diciembre. La empresa justifica esta expansión como una estrategia para sorprender a los usuarios y alcanzar ubicaciones inesperadas.",
+      "La noticia ha sido recibida con hostilidad por parte de puristas de la montaña y del sector culinario. Un destacado empresario ha advertido que recurrirá a la vía judicial para intentar frenar la presencia de estos locales en los Dolomitas."
+    ],
+    "bullets": [
+      "Apertura prevista para el 5 de diciembre en Cortina d'Ampezzo y Madonna di Campiglio.",
+      "La empresa busca sorprender a los clientes con su presencia en lugares inusuales.",
+      "Críticos y puristas consideran la iniciativa inapropiada para el entorno alpino.",
+      "Un empresario ha amenazado con emprender acciones legales contra la cadena."
+    ],
+    "eventKey": "KFC-apertura-Dolomitas",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-50a6e96a5c7784e2e5ce9199": {
+    "id": "n-50a6e96a5c7784e2e5ce9199",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261104084013.htm",
+    "source": "ScienceDaily",
+    "section": "ciencia",
+    "lang": "en",
+    "publishedAt": "2026-11-09T10:33:23+00:00",
+    "sourceTitle": "A simple supplement may help clear brain fog after cancer",
+    "fingerprint": "3547814f599b45e87b537c94",
+    "title": "Un suplemento natural podría reducir la niebla mental tras el cáncer",
+    "summary": "Un estudio de la UCLA apunta a que el oxaloacetato podría aliviar el agotamiento y la falta de claridad cognitiva en supervivientes de cáncer de mama.",
+    "paragraphs": [
+      "Investigadores de la UCLA han observado que la administración de un suplemento basado en una molécula natural durante ocho semanas mejora la función cognitiva en pacientes que han superado el cáncer de mama.",
+      "Los resultados sugieren que este compuesto podría ser una vía eficaz para combatir la fatiga persistente y los problemas de concentración que aparecen tras finalizar los tratamientos oncológicos."
+    ],
+    "bullets": [
+      "El estudio se centra en el uso de oxaloacetato.",
+      "Las participantes reportaron mejoras en la memoria y la claridad mental.",
+      "El tratamiento tuvo una duración de ocho semanas."
+    ],
+    "eventKey": "supervivientes cáncer mama UCLA estudio oxaloacetato",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-06000e3a3808667ff7b09b8c": {
+    "id": "n-06000e3a3808667ff7b09b8c",
+    "url": "https://www.xataka.com/seleccion/amazon-deja-a-precio-liquidacion-esta-smart-tv-mini-led-65-pulgadas-144-hz-dolby-vision-iq-ideal-para-cine-gaming",
+    "source": "Xataka",
+    "section": "tecnologia",
+    "lang": "es",
+    "publishedAt": "2026-11-09T15:15:07+00:00",
+    "sourceTitle": "Amazon deja a precio de liquidación esta smart TV Mini LED con 65 pulgadas, 144 Hz y Dolby Vision IQ. Ideal para cine y gaming",
+    "fingerprint": "06cbb4603d58edf396f7fa19",
+    "title": "Oferta en la smart TV TCL 65C8L ante la proximidad del Black Friday",
+    "summary": "Diversos comercios han iniciado promociones en televisores como antesala del Black Friday, destacando una rebaja en el modelo TCL 65C8L. Este dispositivo de 65 pulgadas se presenta como una opción versátil para el consumo de cine y videojuegos.",
+    "paragraphs": [
+      "Con la llegada del Black Friday, las tiendas han comenzado a aplicar descuentos en su catálogo de electrónica. Entre las ofertas actuales, el televisor TCL 65C8L ha reducido su precio de 1.499 a 1.099 euros en plataformas como Amazon y El Corte Inglés.",
+      "El modelo destaca por su panel Mini LED, compatibilidad con Dolby Vision IQ y una tasa de refresco de 144 Hz, características orientadas a mejorar la experiencia en contenidos audiovisuales y gaming. No obstante, se advierte de la ausencia de un tratamiento antirreflejos específico."
+    ],
+    "bullets": [
+      "Precio rebajado a 1.099 euros en establecimientos seleccionados.",
+      "Especificaciones técnicas: 65 pulgadas, 144 Hz y puertos HDMI 2.1.",
+      "Incluye sistema de sonido Bang & Olufsen y Google TV.",
+      "Recomendado para uso variado, aunque desaconsejado frente a fuentes de luz directa."
+    ],
+    "eventKey": "TCL-oferta-televisor-Black-Friday",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-dac979c190f39db9f3bc13ca": {
+    "id": "n-dac979c190f39db9f3bc13ca",
+    "url": "https://www.bbc.co.uk/news/videos/cm1dwd4e4ywvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC",
+    "section": "economia",
+    "lang": "en",
+    "publishedAt": "2026-11-09T13:42:03+00:00",
+    "sourceTitle": "Rising cost of living tests UK's net zero ambitions",
+    "fingerprint": "ae0aa5f363ae706018c52246",
+    "title": "El coste de la vida pone a prueba los objetivos climáticos del Reino Unido",
+    "summary": "El impacto visible del cambio climático en el clima británico durante 2026 plantea dudas sobre si la crisis económica alterará la agenda gubernamental de sostenibilidad.",
+    "paragraphs": [
+      "El año 2026 ha estado marcado por fenómenos meteorológicos extremos en el Reino Unido, como inundaciones, incendios y olas de calor, que han hecho evidente la crisis climática.",
+      "Ante este escenario, surge la incertidumbre sobre si el incremento en el coste de la vida condicionará los compromisos del Gobierno para combatir el cambio climático."
+    ],
+    "bullets": [
+      "Impacto creciente de fenómenos climáticos extremos en 2026.",
+      "Dudas sobre la viabilidad de los objetivos de cero emisiones netas.",
+      "Presión económica sobre las políticas medioambientales."
+    ],
+    "eventKey": "Gobierno británico-evaluar-objetivos climáticos",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "n-4d3075d51a28b9fa71c58a4e": {
+    "id": "n-4d3075d51a28b9fa71c58a4e",
+    "url": "https://www.theguardian.com/film/2026/nov/09/gone-girl-david-fincher-comfort-movie",
+    "source": "The Guardian",
+    "section": "cultura",
+    "lang": "en",
+    "publishedAt": "2026-11-09T10:00:07+00:00",
+    "sourceTitle": "‘Sadistic, forbidden pleasure’: why Gone Girl is my feelgood movie",
+    "fingerprint": "1a1ceabbd38210e8306968bb",
+    "title": "El thriller 'Perdida' como refugio cinematográfico",
+    "summary": "Un artículo analiza por qué la oscura película de David Fincher se ha convertido en una elección recurrente para quienes buscan consuelo en el cine. A pesar de su trama violenta, el autor encuentra una extraña catarsis en la historia de venganza de sus protagonistas.",
+    "paragraphs": [
+      "La cinta de 2014, basada en la novela homónima, narra el deterioro del matrimonio entre Nick y Amy Dunne. Tras la misteriosa desaparición de ella, la trama se sumerge en un relato de resentimiento e infidelidad que resulta inquietante para el espectador.",
+      "El autor del texto destaca cómo la planificación meticulosa de la venganza de la protagonista ofrece un alivio inesperado. Esta obra se ha consolidado como una opción habitual para revisitar durante los meses de otoño."
+    ],
+    "bullets": [
+      "La película es una adaptación de la novela de suspense superventas.",
+      "La trama explora las tensiones y secretos en una relación matrimonial.",
+      "El espectador halla satisfacción en la ejecución de la venganza de la protagonista."
+    ],
+    "eventKey": "David Fincher y protagonistas de Perdida analizados como cine de consuelo",
+    "partial": true,
+    "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
+    "model": "gemini-3.1-flash-lite"
   }
 }
