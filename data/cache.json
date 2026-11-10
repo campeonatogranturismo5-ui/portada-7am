@@ -18045,5 +18045,63 @@
       "summarizedAt": "2026-11-09T15:53:20.031839+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-b6dc72ab660c7a79a9720fc9": {
+    "fingerprint": "de98bcf1a46f13b7d86aa8cc",
+    "item": {
+      "id": "n-b6dc72ab660c7a79a9720fc9",
+      "url": "https://www.eldiario.es/politica/abogada-koldo-garcia-renuncia-defensa_1_13652818.html",
+      "source": "elDiario.es",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-11-10T14:33:54+00:00",
+      "sourceTitle": "La abogada de Koldo García renuncia a su defensa",
+      "fingerprint": "de98bcf1a46f13b7d86aa8cc",
+      "title": "La abogada de Koldo García renuncia a su defensa",
+      "summary": "Leticia de la Hoz ha abandonado la representación legal de Koldo García ante la Audiencia Nacional, invocando el secreto profesional para no explicar los motivos de su decisión.",
+      "paragraphs": [
+        "La letrada, que anteriormente defendió a García en el proceso del Tribunal Supremo que resultó en una condena de casi 20 años de prisión, ha formalizado su renuncia mediante un escrito. De la Hoz se encuentra actualmente imputada en el denominado 'caso Leire' por un presunto intento de soborno.",
+        "La abogada había revelado previamente que la empresa editora de Okdiario abonó 242.000 euros por sus servicios jurídicos a García. Estos pagos coincidieron con declaraciones del exasesor contra el Ejecutivo, mientras el PSOE valora emprender acciones legales tras las denuncias de García sobre supuestos ofrecimientos del PP para perjudicar al Gobierno."
+      ],
+      "bullets": [
+        "Renuncia formalizada ante la Audiencia Nacional por razones de secreto profesional.",
+        "La letrada está imputada en el 'caso Leire' por un supuesto soborno.",
+        "Documentación aportada confirma que Okdiario financió la defensa de Koldo García.",
+        "El PSOE estudia querellarse tras las acusaciones de García sobre presiones mediáticas y políticas."
+      ],
+      "eventKey": "Leticia de la Hoz renuncia a la defensa de Koldo García",
+      "partial": true,
+      "summarizedAt": "2026-11-10T14:41:35.794865+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-d3212160414aac1d2d3bc5a6": {
+    "fingerprint": "5b178adc5fce3d15e39edb3a",
+    "item": {
+      "id": "n-d3212160414aac1d2d3bc5a6",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-11-10T14:36:57+00:00",
+      "sourceTitle": "First day of Ukraine peace talks 'very productive', US says",
+      "fingerprint": "5b178adc5fce3d15e39edb3a",
+      "title": "EE. UU. califica de productiva la primera jornada de conversaciones sobre Ucrania",
+      "summary": "Representantes de Kiev, Washington y Moscú se han reunido en los Emiratos Árabes Unidos para retomar el diálogo trilateral por primera vez desde febrero.",
+      "paragraphs": [
+        "Las delegaciones de Ucrania, Estados Unidos y Rusia han iniciado un encuentro diplomático en los Emiratos Árabes Unidos. Según fuentes estadounidenses, la primera jornada de estas conversaciones ha resultado muy productiva.",
+        "Se trata de la primera vez que las tres partes se sientan a negociar de forma trilateral desde el pasado mes de febrero."
+      ],
+      "bullets": [
+        "Reunión trilateral en Emiratos Árabes Unidos.",
+        "Participación de delegaciones de Kiev, Washington y Moscú.",
+        "Primeras conversaciones de este tipo desde febrero.",
+        "Valoración positiva inicial por parte de Estados Unidos."
+      ],
+      "eventKey": "Kiev Washington Moscú negocian paz Emiratos Árabes Unidos",
+      "partial": true,
+      "summarizedAt": "2026-11-10T14:41:35.794865+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
