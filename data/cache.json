@@ -18103,5 +18103,89 @@
       "summarizedAt": "2026-11-10T14:41:35.794865+00:00",
       "model": "gemini-3.1-flash-lite"
     }
+  },
+  "n-9c7ffae9120d58cdb906bd5b": {
+    "fingerprint": "48ccb018a8b697ca1a5bba54",
+    "item": {
+      "id": "n-9c7ffae9120d58cdb906bd5b",
+      "url": "https://www.durangon.com/okupacion-simbolica-del-ayuntamiento-de-amorebieta-y-cierre-del-instituto-de-durango/",
+      "source": "Durangon",
+      "section": "euskadi",
+      "lang": "es",
+      "publishedAt": "2026-11-11T10:51:54+00:00",
+      "sourceTitle": "‘Okupación’ “simbólica” del Ayuntamiento de Amorebieta y ‘cierre’ del instituto de Durango",
+      "fingerprint": "48ccb018a8b697ca1a5bba54",
+      "title": "Protestas y cierres en Durangaldea durante la huelga general",
+      "summary": "La jornada de huelga general ha provocado diversas acciones de protesta en la comarca de Durangaldea, incluyendo el bloqueo de infraestructuras y la ocupación simbólica de edificios públicos.",
+      "paragraphs": [
+        "La huelga general está afectando a la normalidad en Durangaldea desde las primeras horas de la mañana. Se han registrado movilizaciones en carreteras comarcales y polígonos industriales de la zona.",
+        "Entre las acciones destacadas se encuentran una ocupación simbólica del Ayuntamiento de Amorebieta y el cierre del instituto de Durango como parte de las protestas convocadas."
+      ],
+      "bullets": [
+        "Ocupación simbólica del Ayuntamiento de Amorebieta.",
+        "Cierre del instituto de Durango.",
+        "Protestas en carreteras comarcales y polígonos industriales."
+      ],
+      "eventKey": "manifestantes-protestan-durangaldea",
+      "partial": true,
+      "summarizedAt": "2026-11-11T13:57:22.070620+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-3d90ab6e4244ef53e6fef681": {
+    "fingerprint": "5e8c43a19a1b1ad195de2a5d",
+    "item": {
+      "id": "n-3d90ab6e4244ef53e6fef681",
+      "url": "https://www.europapress.es/nacional/noticia-11n-psoe-critica-pp-burle-huelga-imagen-redes-sindicatos-comiendo-mariscada-20261111143934.html",
+      "source": "Europa Press",
+      "section": "espana",
+      "lang": "es",
+      "publishedAt": "2026-11-11T13:39:34+00:00",
+      "sourceTitle": "El PSOE critica que el PP se burle de la huelga con una imagen en redes de los sindicatos comiendo una mariscada",
+      "fingerprint": "5e8c43a19a1b1ad195de2a5d",
+      "title": "El PSOE censura al PP por mofarse de la huelga general con una imagen de sindicatos",
+      "summary": "El Partido Socialista ha reprochado a la formación de Alberto Núñez Feijóo el uso de una fotografía en redes sociales para cuestionar la huelga general convocada este miércoles.",
+      "paragraphs": [
+        "La dirección socialista ha cargado contra el Partido Popular tras la publicación de una imagen en sus perfiles oficiales donde se muestra a representantes sindicales consumiendo marisco. Esta acción ha sido interpretada por el PSOE como una burla directa hacia la jornada de huelga general que se desarrolla este 11 de noviembre."
+      ],
+      "bullets": [
+        "El PSOE recrimina al PP su actitud ante la huelga general.",
+        "La polémica surge por una imagen difundida en redes sociales.",
+        "La publicación muestra a sindicalistas comiendo mariscada."
+      ],
+      "eventKey": "PSOE critica al PP por mofarse de la huelga general",
+      "partial": true,
+      "summarizedAt": "2026-11-11T13:57:22.070620+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
+  },
+  "n-1181bc7f02829d3ef63b7325": {
+    "fingerprint": "5a4dca74b4b66cac09ae5c9b",
+    "item": {
+      "id": "n-1181bc7f02829d3ef63b7325",
+      "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
+      "source": "The Guardian",
+      "section": "internacional",
+      "lang": "en",
+      "publishedAt": "2026-11-11T13:29:00+00:00",
+      "sourceTitle": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - Europe Live",
+      "fingerprint": "5a4dca74b4b66cac09ae5c9b",
+      "title": "Negociaciones de paz en Ucrania y amenazas de bomba en Italia",
+      "summary": "Enviados estadounidenses mantendrán reuniones por separado con Putin y Zelenskyy para avanzar en las conversaciones de paz, mientras Italia registra evacuaciones escolares por amenazas de bomba.",
+      "paragraphs": [
+        "Representantes de Estados Unidos se desplazarán a Moscú y Dublín para entrevistarse con Vladímir Putin y Volodímir Zelenski, respectivamente, tras detectarse ciertos progresos en las negociaciones para alcanzar la paz.",
+        "Paralelamente, las autoridades italianas han procedido a evacuar diversos centros educativos tras recibir correos electrónicos con amenazas de bomba, un suceso que está siendo investigado por las fuerzas de seguridad."
+      ],
+      "bullets": [
+        "Enviados de EE. UU. se reunirán con Putin en Moscú y con Zelenskyy en Dublín.",
+        "Se reportan avances en las conversaciones de paz sobre el conflicto en Ucrania.",
+        "Evacuaciones escolares en Italia por amenazas recibidas vía email.",
+        "Las amenazas están firmadas bajo el nombre de Mikhail Andropov, vinculado a alertas falsas previas."
+      ],
+      "eventKey": "EEUU-negocia-paz-Ucrania-amenazas-bomba-Italia",
+      "partial": true,
+      "summarizedAt": "2026-11-11T13:57:22.070620+00:00",
+      "model": "gemini-3.1-flash-lite"
+    }
   }
 }
